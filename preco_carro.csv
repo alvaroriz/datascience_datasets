@@ -190,7 +190,7 @@ id	classificacao	nome	combustivel	aspirado_turbina	portas	carroceria	tracao	moto
 189	2	volkswagen dasher	gas	std	quatro	sedan	dianteira	dianteira	2.471	4.361	1.664	1.415	2300	ohc	quatro	109	mpfi	3.19	3.4	10	100	5500	6.869	32	8.454	49.975 
 190	3	vw passat	gas	std	duas	convertible	dianteira	dianteira	2.400	4.046	1.631	1.412	2254	ohc	quatro	109	mpfi	3.19	3.4	8.5	90	5500	6.341	29	7.662	57.975 
 191	3	vw gol	gas	std	duas	hatchback	dianteira	dianteira	2.400	4.209	1.626	1.306	2221	ohc	quatro	109	mpfi	3.19	3.4	8.5	90	5500	6.341	29	7.662	49.900 
-192	0	volkswagen rabbit	gas	std	quatro	sedan	dianteira	dianteira	2.550	4.577	1.699	1.400	2661	ohc	cinco	136	mpfi	3.19	3.4	8.5	110	5500	5.020	24	6.341	66.475 
+192	0	volkswagen rabbit	gas	std	quatro	sedan	dianteira	dianteira	2.550	4.577	1.699	1.400	2661	ohc	cinco	136	mpfi	3.19	3.4	8.5	110	5500	5.020	24	6.341	66.476 
 193	0	volkswagen rabbit custom	diesel	turbo	quatro	sedan	dianteira	dianteira	2.550	4.577	1.699	1.400	2579	ohc	quatro	97	idi	3.01	3.4	23	68	4500	8.719	38	10.040	69.225 
 194	0	volkswagen dasher	gas	std	quatro	wagon	dianteira	dianteira	2.550	4.651	1.699	1.400	2563	ohc	quatro	109	mpfi	3.19	3.4	9	88	5500	6.605	31	8.190	61.450 
 195	-2	volvo 145e (sw)	gas	std	quatro	sedan	traseira	dianteira	2.649	4.796	1.707	1.427	2912	ohc	quatro	141	mpfi	3.78	3.15	9.5	114	5400	6.077	28	7.398	64.700 
