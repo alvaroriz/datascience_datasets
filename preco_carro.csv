@@ -1,206 +1,1501 @@
-id	classificacao	nome	combustivel	aspirado_turbina	portas	carroceria	tracao	motor_posicao	entre_eixos	comprimento	largura	altura	peso	motor_tipo	cilindros	motor_tamanho	injecao_tipo	compressao	torque	compressao	hp	rpm_max	consumo_cidade_litros	consumo_estrada_litros	preco
-1	3	alfa-romero giulia	gas	std	duas	convertible	traseira	dianteira	2.250	4.288	1.628	1.240	2548	dohc	quatro	130	mpfi	3.47	2.68	9	111	5000	5.548	7.133	67475
-2	3	alfa-romero stelvio	gas	std	duas	convertible	traseira	dianteira	2.250	4.288	1.628	1.240	2548	dohc	quatro	130	mpfi	3.47	2.68	9	111	5000	5.548	7.133	82500
-3	1	alfa-romero Quadrifoglio	gas	std	duas	hatchback	traseira	dianteira	2.400	4.348	1.664	1.331	2823	ohcv	seis	152	mpfi	2.68	3.47	9	154	5000	5.020	6.869	82500
-4	2	audi 100 ls	gas	std	quatro	sedan	dianteira	dianteira	2.535	4.486	1.681	1.379	2337	ohc	quatro	109	mpfi	3.19	3.4	10	102	5500	6.341	7.926	69750
-5	2	audi 100ls	gas	std	quatro	sedan	4x4	dianteira	2.525	4.486	1.687	1.379	2824	ohc	cinco	136	mpfi	3.19	3.4	8	115	5500	4.756	5.812	87250
-6	2	audi fox	gas	std	duas	sedan	dianteira	dianteira	2.535	4.503	1.684	1.349	2507	ohc	cinco	136	mpfi	3.19	3.4	8.5	110	5500	5.020	6.605	76250
-7	1	audi 100ls	gas	std	quatro	sedan	dianteira	dianteira	2.687	4.895	1.814	1.415	2844	ohc	cinco	136	mpfi	3.19	3.4	8.5	110	5500	5.020	6.605	88550
-8	1	audi 5000	gas	std	quatro	wagon	dianteira	dianteira	2.687	4.895	1.814	1.415	2954	ohc	cinco	136	mpfi	3.19	3.4	8.5	110	5500	5.020	6.605	94600
-9	1	audi 4000	gas	turbo	quatro	sedan	dianteira	dianteira	2.687	4.895	1.814	1.420	3086	ohc	cinco	131	mpfi	3.13	3.4	8.3	140	5500	4.491	5.284	119375
-10	0	audi 5000s (diesel)	gas	turbo	duas	hatchback	4x4	dianteira	2.527	4.526	1.725	1.321	3053	ohc	cinco	131	mpfi	3.13	3.4	7	160	5500	4.227	5.812	89295
-11	2	bmw 320i	gas	std	duas	sedan	traseira	dianteira	2.570	4.491	1.646	1.379	2395	ohc	quatro	108	mpfi	3.5	2.8	8.8	101	5800	6.077	7.662	82150
-12	0	bmw 320i	gas	std	quatro	sedan	traseira	dianteira	2.570	4.491	1.646	1.379	2395	ohc	quatro	108	mpfi	3.5	2.8	8.8	101	5800	6.077	7.662	84625
-13	0	bmw x1	gas	std	duas	sedan	traseira	dianteira	2.570	4.491	1.646	1.379	2710	ohc	seis	164	mpfi	3.31	3.19	9	121	4250	5.548	7.398	104850
-14	0	bmw x3	gas	std	quatro	sedan	traseira	dianteira	2.570	4.491	1.646	1.379	2765	ohc	seis	164	mpfi	3.31	3.19	9	121	4250	5.548	7.398	105525
-15	1	bmw z4	gas	std	quatro	sedan	traseira	dianteira	2.629	4.801	1.699	1.415	3055	ohc	seis	164	mpfi	3.31	3.19	9	121	4250	5.284	6.605	122825
-16	0	bmw x4	gas	std	quatro	sedan	traseira	dianteira	2.629	4.801	1.699	1.415	3230	ohc	seis	209	mpfi	3.62	3.39	8	182	5400	4.227	5.812	153800
-17	0	bmw x5	gas	std	duas	sedan	traseira	dianteira	2.629	4.923	1.725	1.364	3380	ohc	seis	209	mpfi	3.62	3.39	8	182	5400	4.227	5.812	206575
-18	0	bmw x3	gas	std	quatro	sedan	traseira	dianteira	2.794	5.004	1.801	1.430	3505	ohc	seis	209	mpfi	3.62	3.39	8	182	5400	3.963	5.284	184400
-19	2	chevrolet impala	gas	std	duas	hatchback	dianteira	dianteira	2.245	3.584	1.532	1.351	1488	l	tres	61	2bbl	2.91	3.03	9.5	48	5100	12.417	14.003	25755
-20	1	chevrolet monte carlo	gas	std	duas	hatchback	dianteira	dianteira	2.400	3.960	1.615	1.321	1874	ohc	quatro	90	2bbl	3.03	3.11	9.6	70	5400	10.040	11.361	31475
-21	0	chevrolet vega 2300	gas	std	quatro	sedan	dianteira	dianteira	2.400	4.034	1.615	1.321	1909	ohc	quatro	90	2bbl	3.03	3.11	9.6	70	5400	10.040	11.361	32875
-22	1	dodge rampage	gas	std	duas	hatchback	dianteira	dianteira	2.380	3.995	1.621	1.290	1876	ohc	quatro	90	2bbl	2.97	3.23	9.41	68	5500	9.775	10.832	27860
-23	1	dodge challenger se	gas	std	duas	hatchback	dianteira	dianteira	2.380	3.995	1.621	1.290	1876	ohc	quatro	90	2bbl	2.97	3.23	9.4	68	5500	8.190	10.040	31885
-24	1	dodge d200	gas	turbo	duas	hatchback	dianteira	dianteira	2.380	3.995	1.621	1.290	2128	ohc	quatro	98	mpfi	3.03	3.39	7.6	102	5500	6.341	7.926	39785
-25	1	dodge monaco (sw)	gas	std	quatro	hatchback	dianteira	dianteira	2.380	3.995	1.621	1.285	1967	ohc	quatro	90	2bbl	2.97	3.23	9.4	68	5500	8.190	10.040	31145
-26	1	dodge colt hardtop	gas	std	quatro	sedan	dianteira	dianteira	2.380	3.995	1.621	1.285	1989	ohc	quatro	90	2bbl	2.97	3.23	9.4	68	5500	8.190	10.040	33460
-27	1	dodge colt (sw)	gas	std	quatro	sedan	dianteira	dianteira	2.380	3.995	1.621	1.285	1989	ohc	quatro	90	2bbl	2.97	3.23	9.4	68	5500	8.190	10.040	38045
-28	1	dodge coronet custom	gas	turbo	duas	sedan	dianteira	dianteira	2.380	3.995	1.621	1.285	2191	ohc	quatro	98	mpfi	3.03	3.39	7.6	102	5500	6.341	7.926	42790
-29	-1	dodge dart custom	gas	std	quatro	wagon	dianteira	dianteira	2.624	4.435	1.641	1.519	2535	ohc	quatro	122	2bbl	3.34	3.46	8.5	88	5000	6.341	7.926	44605
-30	3	dodge coronet custom (sw)	gas	turbo	duas	hatchback	dianteira	dianteira	2.436	4.399	1.684	1.275	2811	ohc	quatro	156	mfi	3.6	3.9	7	145	5000	5.020	6.341	64820
-31	2	honda civic	gas	std	duas	hatchback	dianteira	dianteira	2.200	3.673	1.623	1.290	1713	ohc	quatro	92	1bbl	2.91	3.41	9.6	58	4800	12.946	14.267	32395
-32	2	honda civic cvcc	gas	std	duas	hatchback	dianteira	dianteira	2.200	3.673	1.623	1.290	1819	ohc	quatro	92	1bbl	2.91	3.41	9.2	76	6000	8.190	10.040	34275
-33	1	honda civic	gas	std	duas	hatchback	dianteira	dianteira	2.380	3.810	1.626	1.336	1837	ohc	quatro	79	1bbl	2.91	3.07	10.1	60	5500	10.040	11.096	26995
-34	1	honda accord cvcc	gas	std	duas	hatchback	dianteira	dianteira	2.380	3.810	1.626	1.336	1940	ohc	quatro	92	1bbl	2.91	3.41	9.2	76	6000	7.926	8.983	32645
-35	1	honda civic cvcc	gas	std	duas	hatchback	dianteira	dianteira	2.380	3.810	1.626	1.336	1956	ohc	quatro	92	1bbl	2.91	3.41	9.2	76	6000	7.926	8.983	35645
-36	0	honda accord lx	gas	std	quatro	sedan	dianteira	dianteira	2.451	4.150	1.626	1.384	2010	ohc	quatro	92	1bbl	2.91	3.41	9.2	76	6000	7.926	8.983	36475
-37	0	honda civic 1500 gl	gas	std	quatro	wagon	dianteira	dianteira	2.451	3.990	1.623	1.481	2024	ohc	quatro	92	1bbl	2.92	3.41	9.2	76	6000	7.926	8.983	36475
-38	0	honda accord	gas	std	duas	hatchback	dianteira	dianteira	2.451	4.255	1.656	1.354	2236	ohc	quatro	110	1bbl	3.15	3.58	9	86	5800	7.133	8.719	39475
-39	0	honda civic 1300	gas	std	duas	hatchback	dianteira	dianteira	2.451	4.255	1.656	1.354	2289	ohc	quatro	110	1bbl	3.15	3.58	9	86	5800	7.133	8.719	45475
-40	0	honda prelude	gas	std	quatro	sedan	dianteira	dianteira	2.451	4.455	1.656	1.374	2304	ohc	quatro	110	1bbl	3.15	3.58	9	86	5800	7.133	8.719	44225
-41	0	honda accord	gas	std	quatro	sedan	dianteira	dianteira	2.451	4.455	1.588	1.374	2372	ohc	quatro	110	1bbl	3.15	3.58	9	86	5800	7.133	8.719	51475
-42	0	honda civic	gas	std	quatro	sedan	dianteira	dianteira	2.451	4.455	1.656	1.374	2465	ohc	quatro	110	mpfi	3.15	3.58	9	101	5800	6.341	7.398	64725
-43	1	honda civic (auto)	gas	std	duas	sedan	dianteira	dianteira	2.451	4.295	1.676	1.295	2293	ohc	quatro	110	2bbl	3.15	3.58	9.1	100	5500	6.605	8.190	51725
-44	0	isuzu MU-X	gas	std	quatro	sedan	traseira	dianteira	2.395	4.336	1.570	1.359	2337	ohc	quatro	111	2bbl	3.31	3.23	8.5	78	4800	6.341	7.662	33925
-45	1	isuzu D-Max 	gas	std	duas	sedan	dianteira	dianteira	2.400	3.960	1.615	1.321	1874	ohc	quatro	90	2bbl	3.03	3.11	9.6	70	5400	10.040	11.361	445825
-46	0	isuzu D-Max V-Cross	gas	std	quatro	sedan	dianteira	dianteira	2.400	3.960	1.615	1.321	1909	ohc	quatro	90	2bbl	3.03	3.11	9.6	70	5400	10.040	11.361	445825
-47	2	isuzu D-Max 	gas	std	duas	hatchback	traseira	dianteira	2.438	4.384	1.656	1.306	2734	ohc	quatro	119	spfi	3.43	3.23	9.2	90	5000	6.341	7.662	55240
-48	0	jaguar xj	gas	std	quatro	sedan	traseira	dianteira	2.870	5.070	1.768	1.341	4066	dohc	seis	258	mpfi	3.63	4.17	8.1	176	4750	3.963	5.020	161250
-49	0	jaguar xf	gas	std	quatro	sedan	traseira	dianteira	2.870	5.070	1.768	1.341	4066	dohc	seis	258	mpfi	3.63	4.17	8.1	176	4750	3.963	5.020	177750
-50	0	jaguar xk	gas	std	duas	sedan	traseira	dianteira	2.591	4.869	1.793	1.214	3950	ohcv	doze	326	mpfi	3.54	2.76	11.5	262	5000	3.435	4.491	180000
-51	1	maxda rx3	gas	std	duas	hatchback	dianteira	dianteira	2.365	4.041	1.631	1.374	1890	ohc	quatro	91	2bbl	3.03	3.15	9	68	5000	7.926	8.190	25975
-52	1	maxda glc deluxe	gas	std	duas	hatchback	dianteira	dianteira	2.365	4.041	1.631	1.374	1900	ohc	quatro	91	2bbl	3.03	3.15	9	68	5000	8.190	10.040	30475
-53	1	mazda rx2 coupe	gas	std	duas	hatchback	dianteira	dianteira	2.365	4.041	1.631	1.374	1905	ohc	quatro	91	2bbl	3.03	3.15	9	68	5000	8.190	10.040	33975
-54	1	mazda rx-4	gas	std	quatro	sedan	dianteira	dianteira	2.365	4.237	1.631	1.374	1945	ohc	quatro	91	2bbl	3.03	3.15	9	68	5000	8.190	10.040	33475
-55	1	mazda glc deluxe	gas	std	quatro	sedan	dianteira	dianteira	2.365	4.237	1.631	1.374	1950	ohc	quatro	91	2bbl	3.08	3.15	9	68	5000	8.190	10.040	36975
-56	3	mazda 626	gas	std	duas	hatchback	traseira	dianteira	2.421	4.293	1.669	1.260	2380	rotor	dois	70	4bbl	3.33	3.255	9.4	101	6000	4.491	6.077	54725
-57	3	mazda glc	gas	std	duas	hatchback	traseira	dianteira	2.421	4.293	1.669	1.260	2380	rotor	dois	70	4bbl	3.33	3.255	9.4	101	6000	4.491	6.077	59225
-58	3	mazda rx-7 gs	gas	std	duas	hatchback	traseira	dianteira	2.421	4.293	1.669	1.260	2385	rotor	dois	70	4bbl	3.33	3.255	9.4	101	6000	4.491	6.077	68225
-59	3	mazda glc 4	gas	std	duas	hatchback	traseira	dianteira	2.421	4.293	1.669	1.260	2500	rotor	dois	80	mpfi	3.33	3.255	9.4	135	6000	4.227	6.077	78225
-60	1	mazda 626	gas	std	duas	hatchback	dianteira	dianteira	2.510	4.516	1.689	1.364	2385	ohc	quatro	122	2bbl	3.39	3.39	8.6	84	4800	6.869	8.454	44225
-61	0	mazda glc custom l	gas	std	quatro	sedan	dianteira	dianteira	2.510	4.516	1.689	1.410	2410	ohc	quatro	122	2bbl	3.39	3.39	8.6	84	4800	6.869	8.454	42475
-62	1	mazda glc custom	gas	std	duas	hatchback	dianteira	dianteira	2.510	4.516	1.689	1.364	2385	ohc	quatro	122	2bbl	3.39	3.39	8.6	84	4800	6.869	8.454	52975
-63	0	mazda rx-4	gas	std	quatro	sedan	dianteira	dianteira	2.510	4.516	1.689	1.410	2410	ohc	quatro	122	2bbl	3.39	3.39	8.6	84	4800	6.869	8.454	51225
-64	0	mazda glc deluxe	diesel	std	quatro	sedan	dianteira	dianteira	2.510	4.516	1.689	1.410	2443	ohc	quatro	122	idi	3.39	3.39	22.7	64	4650	9.511	11.096	53975
-65	0	mazda 626	gas	std	quatro	hatchback	dianteira	dianteira	2.510	4.516	1.689	1.410	2425	ohc	quatro	122	2bbl	3.39	3.39	8.6	84	4800	6.869	8.454	56225
-66	0	mazda glc	gas	std	quatro	sedan	traseira	dianteira	2.664	4.445	1.679	1.382	2670	ohc	quatro	140	mpfi	3.76	3.16	8	120	5000	5.020	7.133	91400
-67	0	mazda rx-7 gs	diesel	std	quatro	sedan	traseira	dianteira	2.664	4.445	1.679	1.382	2700	ohc	quatro	134	idi	3.43	3.64	22	72	4200	8.190	10.304	91720
-68	-1	buick electra 225 custom	diesel	turbo	quatro	sedan	traseira	dianteira	2.794	4.849	1.786	1.435	3515	ohc	cinco	183	idi	3.58	3.64	21.5	123	4350	5.812	6.605	127760
-69	-1	buick century luxus (sw)	diesel	turbo	quatro	wagon	traseira	dianteira	2.794	4.849	1.786	1.491	3750	ohc	cinco	183	idi	3.58	3.64	21.5	123	4350	5.812	6.605	141240
-70	0	buick century	diesel	turbo	duas	hardtop	traseira	dianteira	2.710	4.763	1.786	1.394	3495	ohc	cinco	183	idi	3.58	3.64	21.5	123	4350	5.812	6.605	140880
-71	-1	buick skyhawk	diesel	turbo	quatro	sedan	traseira	dianteira	2.936	5.146	1.821	1.430	3770	ohc	cinco	183	idi	3.58	3.64	21.5	123	4350	5.812	6.605	158000
-72	-1	buick opel isuzu deluxe	gas	std	quatro	sedan	traseira	dianteira	2.936	5.146	1.821	1.435	3740	ohcv	oito	234	mpfi	3.46	3.1	8.3	155	4750	4.227	4.756	170920
-73	3	buick skylark	gas	std	duas	convertible	traseira	dianteira	2.454	4.580	1.791	1.290	3685	ohcv	oito	234	mpfi	3.46	3.1	8.3	155	4750	4.227	4.756	175280
-74	0	buick century special	gas	std	quatro	sedan	traseira	dianteira	3.071	5.286	1.821	1.440	3900	ohcv	oito	308	mpfi	3.8	3.35	8	184	4500	3.699	4.227	204800
-75	1	buick regal sport coupe (turbo)	gas	std	duas	hardtop	traseira	dianteira	2.845	5.060	1.829	1.407	3715	ohcv	oito	304	mpfi	3.8	3.35	8	184	4500	3.699	4.227	227000
-76	1	mercury cougar	gas	turbo	duas	hatchback	traseira	dianteira	2.609	4.531	1.727	1.392	2910	ohc	quatro	140	mpfi	3.78	3.12	8	175	5000	5.020	6.341	82515
-77	2	mitsubishi mirage	gas	std	duas	hatchback	dianteira	dianteira	2.380	3.995	1.636	1.290	1918	ohc	quatro	92	2bbl	2.97	3.23	9.4	68	5500	9.775	10.832	26945
-78	2	mitsubishi lancer	gas	std	duas	hatchback	dianteira	dianteira	2.380	3.995	1.636	1.290	1944	ohc	quatro	92	2bbl	2.97	3.23	9.4	68	5500	8.190	10.040	30945
-79	2	mitsubishi outlander	gas	std	duas	hatchback	dianteira	dianteira	2.380	3.995	1.636	1.290	2004	ohc	quatro	92	2bbl	2.97	3.23	9.4	68	5500	8.190	10.040	33345
-80	1	mitsubishi g4	gas	turbo	duas	hatchback	dianteira	dianteira	2.362	3.995	1.621	1.290	2145	ohc	quatro	98	spdi	3.03	3.39	7.6	102	5500	6.341	7.926	38445
-81	3	mitsubishi mirage g4	gas	turbo	duas	hatchback	dianteira	dianteira	2.446	4.394	1.661	1.255	2370	ohc	quatro	110	spdi	3.17	3.46	7.5	116	5500	6.077	7.926	49795
-82	3	mitsubishi g4	gas	std	duas	hatchback	dianteira	dianteira	2.446	4.394	1.661	1.255	2328	ohc	quatro	122	2bbl	3.35	3.46	8.5	88	5000	6.605	8.454	42495
-83	3	mitsubishi outlander	gas	turbo	duas	hatchback	dianteira	dianteira	2.436	4.399	1.684	1.275	2833	ohc	quatro	156	spdi	3.58	3.86	7	145	5000	5.020	6.341	63145
-84	3	mitsubishi g4	gas	turbo	duas	hatchback	dianteira	dianteira	2.436	4.399	1.684	1.275	2921	ohc	quatro	156	spdi	3.59	3.86	7	145	5000	5.020	6.341	74345
-85	3	mitsubishi mirage g4	gas	turbo	duas	hatchback	dianteira	dianteira	2.436	4.399	1.684	1.275	2926	ohc	quatro	156	spdi	3.59	3.86	7	145	5000	5.020	6.341	72445
-86	1	mitsubishi montero	gas	std	quatro	sedan	dianteira	dianteira	2.446	4.379	1.661	1.311	2365	ohc	quatro	122	2bbl	3.35	3.46	8.5	88	5000	6.605	8.454	34945
-87	1	mitsubishi pajero	gas	std	quatro	sedan	dianteira	dianteira	2.446	4.379	1.661	1.311	2405	ohc	quatro	122	2bbl	3.35	3.46	8.5	88	5000	6.605	8.454	40945
-88	1	mitsubishi outlander	gas	turbo	quatro	sedan	dianteira	dianteira	2.446	4.379	1.661	1.311	2403	ohc	quatro	110	spdi	3.17	3.46	7.5	116	5500	6.077	7.926	46395
-89	-1	mitsubishi mirage g4	gas	std	quatro	sedan	dianteira	dianteira	2.446	4.379	1.661	1.311	2403	ohc	quatro	110	spdi	3.17	3.46	7.5	116	5500	6.077	7.926	46395
-90	1	Nissan versa	gas	std	duas	sedan	dianteira	dianteira	2.400	4.199	1.621	1.384	1889	ohc	quatro	97	2bbl	3.15	3.29	9.4	69	5200	8.190	9.775	27495
-91	1	nissan gt-r	diesel	std	duas	sedan	dianteira	dianteira	2.400	4.199	1.621	1.384	2017	ohc	quatro	103	idi	2.99	3.47	21.9	55	4800	11.889	13.210	35495
-92	1	nissan rogue	gas	std	duas	sedan	dianteira	dianteira	2.400	4.199	1.621	1.384	1918	ohc	quatro	97	2bbl	3.15	3.29	9.4	69	5200	8.190	9.775	33245
-93	1	nissan latio	gas	std	quatro	sedan	dianteira	dianteira	2.400	4.199	1.621	1.384	1938	ohc	quatro	97	2bbl	3.15	3.29	9.4	69	5200	8.190	9.775	34245
-94	1	nissan titan	gas	std	quatro	wagon	dianteira	dianteira	2.400	4.323	1.621	1.359	2024	ohc	quatro	97	2bbl	3.15	3.29	9.4	69	5200	8.190	9.775	36745
-95	1	nissan leaf	gas	std	duas	sedan	dianteira	dianteira	2.400	4.199	1.621	1.384	1951	ohc	quatro	97	2bbl	3.15	3.29	9.4	69	5200	8.190	9.775	36495
-96	1	nissan juke	gas	std	duas	hatchback	dianteira	dianteira	2.400	4.206	1.621	1.354	2028	ohc	quatro	97	2bbl	3.15	3.29	9.4	69	5200	8.190	9.775	38995
-97	1	nissan latio	gas	std	quatro	sedan	dianteira	dianteira	2.400	4.199	1.621	1.384	1971	ohc	quatro	97	2bbl	3.15	3.29	9.4	69	5200	8.190	9.775	37495
-98	1	nissan note	gas	std	quatro	wagon	dianteira	dianteira	2.400	4.323	1.621	1.359	2037	ohc	quatro	97	2bbl	3.15	3.29	9.4	69	5200	8.190	9.775	39995
-99	2	nissan clipper	gas	std	duas	hardtop	dianteira	dianteira	2.416	4.125	1.621	1.354	2008	ohc	quatro	97	2bbl	3.15	3.29	9.4	69	5200	8.190	9.775	41245
-100	0	nissan rogue	gas	std	quatro	hatchback	dianteira	dianteira	2.469	4.404	1.656	1.389	2324	ohc	quatro	120	2bbl	3.33	3.47	8.5	97	5200	7.133	8.983	44745
-101	0	nissan nv200	gas	std	quatro	sedan	dianteira	dianteira	2.469	4.404	1.656	1.389	2302	ohc	quatro	120	2bbl	3.33	3.47	8.5	97	5200	7.133	8.983	47745
-102	0	nissan dayz	gas	std	quatro	sedan	dianteira	dianteira	2.550	4.615	1.689	1.400	3095	ohcv	seis	181	mpfi	3.43	3.27	9	152	5200	4.491	5.812	67495
-103	0	nissan fuga	gas	std	quatro	wagon	dianteira	dianteira	2.550	4.689	1.689	1.425	3296	ohcv	seis	181	mpfi	3.43	3.27	9	152	5200	4.491	5.812	71995
-104	0	nissan otti	gas	std	quatro	sedan	dianteira	dianteira	2.550	4.689	1.689	1.400	3060	ohcv	seis	181	mpfi	3.43	3.27	9	152	5200	5.020	6.605	67495
-105	3	nissan teana	gas	std	duas	hatchback	traseira	dianteira	2.319	4.336	1.725	1.262	3071	ohcv	seis	181	mpfi	3.43	3.27	9	160	5200	5.020	6.605	85995
-106	3	nissan kicks	gas	turbo	duas	hatchback	traseira	dianteira	2.319	4.336	1.725	1.262	3139	ohcv	seis	181	mpfi	3.43	3.27	7.8	200	5200	4.491	6.077	98495
-107	1	nissan clipper	gas	std	duas	hatchback	traseira	dianteira	2.520	4.534	1.725	1.262	3139	ohcv	seis	181	mpfi	3.43	3.27	9	160	5200	5.020	6.605	91995
-108	0	peugeot 504	gas	std	quatro	sedan	traseira	dianteira	2.741	4.742	1.737	1.440	3020	l	quatro	120	mpfi	3.46	3.19	8.4	97	5000	5.020	6.341	59500
-109	0	peugeot 304	diesel	turbo	quatro	sedan	traseira	dianteira	2.741	4.742	1.737	1.440	3197	l	quatro	152	idi	3.7	3.52	21	95	4150	7.398	8.719	66000
-110	0	peugeot 504 (sw)	gas	std	quatro	wagon	traseira	dianteira	2.901	5.052	1.737	1.491	3230	l	quatro	120	mpfi	3.46	3.19	8.4	97	5000	5.020	6.341	62200
-111	0	peugeot 504	diesel	turbo	quatro	wagon	traseira	dianteira	2.901	5.052	1.737	1.491	3430	l	quatro	152	idi	3.7	3.52	21	95	4150	6.605	6.605	69300
-112	0	peugeot 504	gas	std	quatro	sedan	traseira	dianteira	2.741	4.742	1.737	1.440	3075	l	quatro	120	mpfi	3.46	2.19	8.4	95	5000	5.020	6.341	77900
-113	0	peugeot 604sl	diesel	turbo	quatro	sedan	traseira	dianteira	2.741	4.742	1.737	1.440	3252	l	quatro	152	idi	3.7	3.52	21	95	4150	7.398	8.719	84500
-114	0	peugeot 504	gas	std	quatro	wagon	traseira	dianteira	2.901	5.052	1.737	1.440	3285	l	quatro	120	mpfi	3.46	2.19	8.4	95	5000	5.020	6.341	83475
-115	0	peugeot 505s turbo diesel	diesel	turbo	quatro	wagon	traseira	dianteira	2.901	5.052	1.737	1.491	3485	l	quatro	152	idi	3.7	3.52	21	95	4150	6.605	6.605	85375
-116	0	peugeot 504	gas	std	quatro	sedan	traseira	dianteira	2.741	4.742	1.737	1.440	3075	l	quatro	120	mpfi	3.46	3.19	8.4	97	5000	5.020	6.341	83150
-117	0	peugeot 504	diesel	turbo	quatro	sedan	traseira	dianteira	2.741	4.742	1.737	1.440	3252	l	quatro	152	idi	3.7	3.52	21	95	4150	7.398	8.719	89750
-118	0	peugeot 604sl	gas	turbo	quatro	sedan	traseira	dianteira	2.743	4.742	1.735	1.422	3130	l	quatro	134	mpfi	3.61	3.21	7	142	5600	4.756	6.341	90750
-119	1	plymouth fury iii	gas	std	duas	hatchback	dianteira	dianteira	2.380	3.995	1.621	1.290	1918	ohc	quatro	90	2bbl	2.97	3.23	9.4	68	5500	9.775	10.832	27860
-120	1	plymouth cricket	gas	turbo	duas	hatchback	dianteira	dianteira	2.380	3.995	1.621	1.290	2128	ohc	quatro	98	spdi	3.03	3.39	7.6	102	5500	6.341	7.926	39785
-121	1	plymouth fury iii	gas	std	quatro	hatchback	dianteira	dianteira	2.380	3.995	1.621	1.285	1967	ohc	quatro	90	2bbl	2.97	3.23	9.4	68	5500	8.190	10.040	31145
-122	1	plymouth satellite custom (sw)	gas	std	quatro	sedan	dianteira	dianteira	2.380	4.249	1.621	1.290	1989	ohc	quatro	90	2bbl	2.97	3.23	9.4	68	5500	8.190	10.040	33460
-123	1	plymouth fury gran sedan	gas	std	quatro	sedan	dianteira	dianteira	2.380	4.249	1.621	1.290	2191	ohc	quatro	98	2bbl	2.97	3.23	9.4	68	5500	8.190	10.040	38045
-124	-1	plymouth valiant	gas	std	quatro	wagon	dianteira	dianteira	2.624	4.435	1.641	1.519	2535	ohc	quatro	122	2bbl	3.35	3.46	8.5	88	5000	6.341	7.926	44605
-125	3	plymouth duster	gas	turbo	duas	hatchback	traseira	dianteira	2.436	4.399	1.684	1.275	2818	ohc	quatro	156	spdi	3.59	3.86	7	145	5000	5.020	6.341	63820
-126	3	porsche macan	gas	std	duas	hatchback	traseira	dianteira	2.400	4.290	1.735	1.275	2778	ohc	quatro	151	mpfi	3.94	3.11	9.5	143	5500	5.020	7.133	110090
-127	3	porcshce panamera	gas	std	duas	hardtop	traseira	traseira	2.273	4.290	1.651	1.311	2756	ohcf	seis	194	mpfi	3.74	2.9	9.5	207	5900	4.491	6.605	162640
-128	3	porsche cayenne	gas	std	duas	hardtop	traseira	traseira	2.273	4.290	1.651	1.311	2756	ohcf	seis	194	mpfi	3.74	2.9	9.5	207	5900	4.491	6.605	170140
-129	3	porsche boxter	gas	std	duas	convertible	traseira	traseira	2.273	4.290	1.651	1.311	2800	ohcf	seis	194	mpfi	3.74	2.9	9.5	207	5900	4.491	6.605	185140
-130	1	porsche cayenne	gas	std	duas	hatchback	traseira	dianteira	2.499	4.463	1.836	1.283	3366	dohcv	oito	203	mpfi	3.94	3.11	10	288	5750	4.491	7.398	1570025
-131	0	renault 12tl	gas	std	quatro	wagon	dianteira	dianteira	2.441	4.610	1.689	1.402	2579	ohc	quatro	132	mpfi	3.46	3.9	8.7	90	5100	6.077	8.190	46475
-132	2	renault 5 gtl	gas	std	duas	hatchback	dianteira	dianteira	2.441	4.491	1.692	1.283	2460	ohc	quatro	132	mpfi	3.46	3.9	8.7	90	5100	6.077	8.190	49475
-133	3	saab 99e	gas	std	duas	hatchback	dianteira	dianteira	2.517	4.740	1.689	1.425	2658	ohc	quatro	121	mpfi	3.54	3.07	9.31	110	5250	5.548	7.398	59250
-134	2	saab 99le	gas	std	quatro	sedan	dianteira	dianteira	2.517	4.740	1.689	1.425	2695	ohc	quatro	121	mpfi	3.54	3.07	9.3	110	5250	5.548	7.398	60850
-135	3	saab 99le	gas	std	duas	hatchback	dianteira	dianteira	2.517	4.740	1.689	1.425	2707	ohc	quatro	121	mpfi	2.54	2.07	9.3	110	5250	5.548	7.398	75200
-136	2	saab 99gle	gas	std	quatro	sedan	dianteira	dianteira	2.517	4.740	1.689	1.425	2758	ohc	quatro	121	mpfi	3.54	3.07	9.3	110	5250	5.548	7.398	77550
-137	3	saab 99gle	gas	turbo	duas	hatchback	dianteira	dianteira	2.517	4.740	1.689	1.425	2808	dohc	quatro	121	mpfi	3.54	3.07	9	160	5500	5.020	6.869	90750
-138	2	saab 99e	gas	turbo	quatro	sedan	dianteira	dianteira	2.517	4.740	1.689	1.425	2847	dohc	quatro	121	mpfi	3.54	3.07	9	160	5500	5.020	6.869	93100
-139	2	subaru	gas	std	duas	hatchback	dianteira	dianteira	2.380	3.985	1.610	1.364	2050	ohcf	quatro	97	2bbl	3.62	2.36	9	69	4900	8.190	9.511	25590
-140	2	subaru dl	gas	std	duas	hatchback	dianteira	dianteira	2.380	4.011	1.615	1.364	2120	ohcf	quatro	108	2bbl	3.62	2.64	8.7	73	4400	6.869	8.190	35265
-141	2	subaru dl	gas	std	duas	hatchback	4x4	dianteira	2.370	3.995	1.621	1.415	2240	ohcf	quatro	108	2bbl	3.62	2.64	8.7	73	4400	6.869	8.190	38015
-142	0	subaru	gas	std	quatro	sedan	dianteira	dianteira	2.469	4.369	1.661	1.334	2145	ohcf	quatro	108	2bbl	3.62	2.64	9.5	82	4800	8.454	9.775	35630
-143	0	subaru brz	gas	std	quatro	sedan	dianteira	dianteira	2.469	4.369	1.661	1.334	2190	ohcf	quatro	108	2bbl	3.62	2.64	9.5	82	4400	7.398	8.719	38875
-144	0	subaru baja	gas	std	quatro	sedan	dianteira	dianteira	2.469	4.369	1.661	1.334	2340	ohcf	quatro	108	mpfi	3.62	2.64	9	94	5200	6.869	8.454	49800
-145	0	subaru r1	gas	std	quatro	sedan	4x4	dianteira	2.464	4.369	1.661	1.379	2385	ohcf	quatro	108	2bbl	3.62	2.64	9	82	4800	6.341	6.605	46165
-146	0	subaru r2	gas	turbo	quatro	sedan	4x4	dianteira	2.464	4.369	1.661	1.379	2510	ohcf	quatro	108	mpfi	3.62	2.64	7.7	111	4800	6.341	7.662	56295
-147	0	subaru trezia	gas	std	quatro	wagon	dianteira	dianteira	2.464	4.407	1.661	1.346	2290	ohcf	quatro	108	2bbl	3.62	2.64	9	82	4800	7.398	8.454	37315
-148	0	subaru tribeca	gas	std	quatro	wagon	dianteira	dianteira	2.464	4.407	1.661	1.346	2455	ohcf	quatro	108	mpfi	3.62	2.64	9	94	5200	6.605	8.190	50990
-149	0	subaru dl	gas	std	quatro	wagon	4x4	dianteira	2.461	4.409	1.661	1.394	2420	ohcf	quatro	108	2bbl	3.62	2.64	9	82	4800	6.077	7.662	40065
-150	0	subaru dl	gas	turbo	quatro	wagon	4x4	dianteira	2.461	4.409	1.661	1.394	2650	ohcf	quatro	108	mpfi	3.62	2.64	7.7	111	4800	6.077	6.077	58470
-151	1	toyota corona mark ii	gas	std	duas	hatchback	dianteira	dianteira	2.431	4.031	1.615	1.384	1985	ohc	quatro	92	2bbl	3.05	3.03	9	62	4800	9.247	10.304	26740
-152	1	toyota corona	gas	std	duas	hatchback	dianteira	dianteira	2.431	4.031	1.615	1.384	2040	ohc	quatro	92	2bbl	3.05	3.03	9	62	4800	8.190	10.040	31690
-153	1	toyota corolla 1200	gas	std	quatro	hatchback	dianteira	dianteira	2.431	4.031	1.615	1.384	2015	ohc	quatro	92	2bbl	3.05	3.03	9	62	4800	8.190	10.040	32440
-154	0	toyota corona hardtop	gas	std	quatro	wagon	dianteira	dianteira	2.431	4.310	1.615	1.501	2280	ohc	quatro	92	2bbl	3.05	3.03	9	62	4800	8.190	9.775	34590
-155	0	toyota corolla 1600 (sw)	gas	std	quatro	wagon	4x4	dianteira	2.431	4.310	1.615	1.501	2290	ohc	quatro	92	2bbl	3.05	3.03	9	62	4800	7.133	8.454	39490
-156	0	toyota carina	gas	std	quatro	wagon	4x4	dianteira	2.431	4.310	1.615	1.501	3110	ohc	quatro	92	2bbl	3.05	3.03	9	62	4800	7.133	8.454	43890
-157	0	toyota mark ii	gas	std	quatro	sedan	dianteira	dianteira	2.431	4.224	1.636	1.346	2081	ohc	quatro	98	2bbl	3.19	3.03	9	70	4800	7.926	9.775	34690
-158	0	toyota corolla 1200	gas	std	quatro	hatchback	dianteira	dianteira	2.431	4.224	1.636	1.341	2109	ohc	quatro	98	2bbl	3.19	3.03	9	70	4800	7.926	9.775	35990
-159	0	toyota corona	diesel	std	quatro	sedan	dianteira	dianteira	2.431	4.224	1.636	1.346	2275	ohc	quatro	110	idi	3.27	3.35	22.5	56	4500	8.983	9.511	39490
-160	0	toyota corolla	diesel	std	quatro	hatchback	dianteira	dianteira	2.431	4.224	1.636	1.341	2275	ohc	quatro	110	idi	3.27	3.35	22.5	56	4500	10.040	12.417	38940
-161	0	toyota corona	gas	std	quatro	sedan	dianteira	dianteira	2.431	4.224	1.636	1.346	2094	ohc	quatro	98	2bbl	3.19	3.03	9	70	4800	10.040	12.417	38690
-162	0	toyota corolla	gas	std	quatro	hatchback	dianteira	dianteira	2.431	4.224	1.636	1.341	2122	ohc	quatro	98	2bbl	3.19	3.03	9	70	4800	7.398	8.983	41790
-163	0	toyota mark ii	gas	std	quatro	sedan	dianteira	dianteira	2.431	4.224	1.636	1.341	2140	ohc	quatro	98	2bbl	3.19	3.03	9	70	4800	7.398	8.983	46290
-164	1	toyota corolla liftback	gas	std	duas	sedan	traseira	dianteira	2.400	4.285	1.626	1.336	2169	ohc	quatro	98	2bbl	3.19	3.03	9	70	4800	7.662	8.983	40290
-165	1	toyota corona	gas	std	duas	hatchback	traseira	dianteira	2.400	4.285	1.626	1.336	2204	ohc	quatro	98	2bbl	3.19	3.03	9	70	4800	7.662	8.983	41190
-166	1	toyota celica gt liftback	gas	std	duas	sedan	traseira	dianteira	2.400	4.285	1.626	1.336	2265	dohc	quatro	98	mpfi	3.24	3.08	9.4	112	6600	6.869	7.662	46490
-167	1	toyota corolla tercel	gas	std	duas	hatchback	traseira	dianteira	2.400	4.285	1.626	1.336	2300	dohc	quatro	98	mpfi	3.24	3.08	9.4	112	6600	6.869	7.662	47690
-168	2	toyota corona liftback	gas	std	duas	hardtop	traseira	dianteira	2.499	4.475	1.666	1.321	2540	ohc	quatro	146	mpfi	3.62	3.5	9.3	116	4800	6.341	7.926	42245
-169	2	toyota corolla	gas	std	duas	hardtop	traseira	dianteira	2.499	4.475	1.666	1.321	2536	ohc	quatro	146	mpfi	3.62	3.5	9.3	116	4800	6.341	7.926	48195
-170	2	toyota starlet	gas	std	duas	hatchback	traseira	dianteira	2.499	4.475	1.666	1.321	2551	ohc	quatro	146	mpfi	3.62	3.5	9.3	116	4800	6.341	7.926	49945
-171	2	toyota tercel	gas	std	duas	hardtop	traseira	dianteira	2.499	4.475	1.666	1.321	2679	ohc	quatro	146	mpfi	3.62	3.5	9.3	116	4800	6.341	7.926	55995
-172	2	toyota corolla	gas	std	duas	hatchback	traseira	dianteira	2.499	4.475	1.666	1.321	2714	ohc	quatro	146	mpfi	3.62	3.5	9.3	116	4800	6.341	7.926	57745
-173	2	toyota cressida	gas	std	duas	convertible	traseira	dianteira	2.499	4.475	1.666	1.346	2975	ohc	quatro	146	mpfi	3.62	3.5	9.3	116	4800	6.341	7.926	88345
-174	-1	toyota corolla	gas	std	quatro	sedan	dianteira	dianteira	2.601	4.460	1.689	1.394	2326	ohc	quatro	122	mpfi	3.31	3.54	8.7	92	4200	7.662	8.983	44740
-175	-1	toyota celica gt	diesel	turbo	quatro	sedan	dianteira	dianteira	2.601	4.460	1.689	1.394	2480	ohc	quatro	110	idi	3.27	3.35	22.5	73	4500	7.926	8.719	53490
-176	-1	toyota corona	gas	std	quatro	hatchback	dianteira	dianteira	2.601	4.460	1.689	1.369	2414	ohc	quatro	122	mpfi	3.31	3.54	8.7	92	4200	7.133	8.454	49940
-177	-1	toyota corolla	gas	std	quatro	sedan	dianteira	dianteira	2.601	4.460	1.689	1.394	2414	ohc	quatro	122	mpfi	3.31	3.54	8.7	92	4200	7.133	8.454	54490
-178	-1	toyota mark ii	gas	std	quatro	hatchback	dianteira	dianteira	2.601	4.460	1.689	1.369	2458	ohc	quatro	122	mpfi	3.31	3.54	8.7	92	4200	7.133	8.454	56240
-179	3	toyota corolla liftback	gas	std	duas	hatchback	traseira	dianteira	2.614	4.661	1.720	1.321	2976	dohc	seis	171	mpfi	3.27	3.35	9.3	161	5200	5.284	6.341	82790
-180	3	toyota corona	gas	std	duas	hatchback	traseira	dianteira	2.614	4.661	1.720	1.321	3016	dohc	seis	171	mpfi	3.27	3.35	9.3	161	5200	5.020	6.341	79990
-181	-1	toyota starlet	gas	std	quatro	sedan	traseira	dianteira	2.654	4.770	1.689	1.374	3131	dohc	seis	171	mpfi	3.27	3.35	9.2	156	5200	5.284	6.341	78450
-182	-1	toyouta tercel	gas	std	quatro	wagon	traseira	dianteira	2.654	4.770	1.689	1.374	3151	dohc	seis	161	mpfi	3.27	3.35	9.2	156	5200	5.020	6.341	78750
-183	2	vokswagen rabbit	diesel	std	duas	sedan	dianteira	dianteira	2.471	4.361	1.664	1.415	2261	ohc	quatro	97	idi	3.01	3.4	23	52	4800	9.775	12.153	38875
-184	2	volkswagen 1131 deluxe sedan	gas	std	duas	sedan	dianteira	dianteira	2.471	4.361	1.664	1.415	2209	ohc	quatro	109	mpfi	3.19	3.4	9	85	5250	7.133	8.983	39875
-185	2	volkswagen model 111	diesel	std	quatro	sedan	dianteira	dianteira	2.471	4.361	1.664	1.415	2264	ohc	quatro	97	idi	3.01	3.4	23	52	4800	9.775	12.153	39975
-186	2	volkswagen type 3	gas	std	quatro	sedan	dianteira	dianteira	2.471	4.361	1.664	1.415	2212	ohc	quatro	109	mpfi	3.19	3.4	9	85	5250	7.133	8.983	40975
-187	2	volkswagen 411 (sw)	gas	std	quatro	sedan	dianteira	dianteira	2.471	4.361	1.664	1.415	2275	ohc	quatro	109	mpfi	3.19	3.4	9	85	5250	7.133	8.983	42475
-188	2	volkswagen super beetle	diesel	turbo	quatro	sedan	dianteira	dianteira	2.471	4.361	1.664	1.415	2319	ohc	quatro	97	idi	3.01	3.4	23	68	4500	9.775	11.096	47475
-189	2	volkswagen dasher	gas	std	quatro	sedan	dianteira	dianteira	2.471	4.361	1.664	1.415	2300	ohc	quatro	109	mpfi	3.19	3.4	10	100	5500	6.869	8.454	49975
-190	3	vw passat	gas	std	duas	convertible	dianteira	dianteira	2.400	4.046	1.631	1.412	2254	ohc	quatro	109	mpfi	3.19	3.4	8.5	90	5500	6.341	7.662	57975
-191	3	vw gol	gas	std	duas	hatchback	dianteira	dianteira	2.400	4.209	1.626	1.306	2221	ohc	quatro	109	mpfi	3.19	3.4	8.5	90	5500	6.341	7.662	49900
-192	0	volkswagen rabbit	gas	std	quatro	sedan	dianteira	dianteira	2.550	4.577	1.699	1.400	2661	ohc	cinco	136	mpfi	3.19	3.4	8.5	110	5500	5.020	6.341	66475
-193	0	volkswagen rabbit custom	diesel	turbo	quatro	sedan	dianteira	dianteira	2.550	4.577	1.699	1.400	2579	ohc	quatro	97	idi	3.01	3.4	23	68	4500	8.719	10.040	69225
-194	0	volkswagen dasher	gas	std	quatro	wagon	dianteira	dianteira	2.550	4.651	1.699	1.400	2563	ohc	quatro	109	mpfi	3.19	3.4	9	88	5500	6.605	8.190	61450
-195	-2	volvo 145e (sw)	gas	std	quatro	sedan	traseira	dianteira	2.649	4.796	1.707	1.427	2912	ohc	quatro	141	mpfi	3.78	3.15	9.5	114	5400	6.077	7.398	64700
-196	-1	volvo 144ea	gas	std	quatro	wagon	traseira	dianteira	2.649	4.796	1.707	1.461	3034	ohc	quatro	141	mpfi	3.78	3.15	9.5	114	5400	6.077	7.398	67075
-197	-2	volvo 244dl	gas	std	quatro	sedan	traseira	dianteira	2.649	4.796	1.707	1.427	2935	ohc	quatro	141	mpfi	3.78	3.15	9.5	114	5400	6.341	7.398	79925
-198	-1	volvo 245	gas	std	quatro	wagon	traseira	dianteira	2.649	4.796	1.707	1.461	3042	ohc	quatro	141	mpfi	3.78	3.15	9.5	114	5400	6.341	7.398	82575
-199	-2	volvo 264gl	gas	turbo	quatro	sedan	traseira	dianteira	2.649	4.796	1.707	1.427	3045	ohc	quatro	130	mpfi	3.62	3.15	7.5	162	5100	4.491	5.812	92100
-200	-1	volvo diesel	gas	turbo	quatro	wagon	traseira	dianteira	2.649	4.796	1.707	1.461	3157	ohc	quatro	130	mpfi	3.62	3.15	7.5	162	5100	4.491	5.812	94750
-201	-1	volvo 145e (sw)	gas	std	quatro	sedan	traseira	dianteira	2.771	4.796	1.750	1.410	2952	ohc	quatro	141	mpfi	3.78	3.15	9.5	114	5400	6.077	7.398	84225
-202	-1	volvo 144ea	gas	turbo	quatro	sedan	traseira	dianteira	2.771	4.796	1.748	1.410	3049	ohc	quatro	141	mpfi	3.78	3.15	8.7	160	5300	5.020	6.605	95225
-203	-1	volvo 244dl	gas	std	quatro	sedan	traseira	dianteira	2.771	4.796	1.750	1.410	3012	ohcv	seis	173	mpfi	3.58	2.87	8.8	134	5500	4.756	6.077	107425
-204	-1	volvo 246	diesel	turbo	quatro	sedan	traseira	dianteira	2.771	4.796	1.750	1.410	3217	ohc	seis	145	idi	3.01	3.4	23	106	4800	6.869	7.133	112350
-205	-1	volvo 264gl	gas	turbo	quatro	sedan	traseira	dianteira	2.771	4.796	1.750	1.410	3062	ohc	quatro	141	mpfi	3.78	3.15	9.5	114	5400	5.020	6.605	113125
+marca_nome	modelo	ano_fab	ano_mod	quilometragem	local	preco
+VOLKSWAGEN GOL	1.6 MSI TOTALFLEX 4P MANUAL	2019	2020	56600	Nova Iguaçu - RJ	56990
+RENAULT CAPTUR	2.0 16V HI-FLEX INTENSE AUTOMÁTICO	2019	2020	52414	Rio de Janeiro - RJ	84490
+FIAT CRONOS	1.8 E.TORQ FLEX PRECISION AT6	2019	2020	53925	Rio de Janeiro - RJ	80360
+CHEVROLET SPIN	1.8 PREMIER 8V FLEX 4P AUTOMÁTICO	2019	2020	53154	Rio de Janeiro - RJ	88890
+NISSAN KICKS	1.6 16V FLEXSTART SV 4P XTRONIC	2019	2020	53138	Rio de Janeiro - RJ	87590
+VOLKSWAGEN T-CROSS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2019	2020	59526	Nova Iguaçu - RJ	120900
+RENAULT DUSTER	1.6 16V SCE FLEX DYNAMIQUE X-TRONIC	2019	2020	54395	Rio de Janeiro - RJ	81790
+FIAT TORO	1.8 16V EVO FLEX FREEDOM AT6	2019	2020	46373	Rio de Janeiro - RJ	105610
+NISSAN KICKS	1.6 16V FLEXSTART SV 4P XTRONIC	2019	2020	38951	Rio de Janeiro - RJ	92900
+FIAT STRADA	1.4 MPI HARD WORKING CD 8V FLEX 3P MANUAL	2019	2020	74398	Nova Iguaçu - RJ	76540
+CHEVROLET S10	2.8 LS 4X4 CD 16V TURBO DIESEL 4P MANUAL	2019	2020	63903	Rio de Janeiro - RJ	153900
+NISSAN VERSA	1.6 16V FLEXSTART SV 4P XTRONIC	2020	2020	54614	Rio de Janeiro - RJ	73200
+TOYOTA ETIOS	1.5 X PLUS SEDAN 16V FLEX 4P AUTOMÁTICO	2019	2020	54985	Nova Iguaçu - RJ	72860
+MITSUBISHI ASX	2.0 MIVEC FLEX GLS CVT	2019	2020	49000	Rio de Janeiro - RJ	106990
+RENAULT DUSTER	1.6 16V SCE FLEX GOPRO X-TRONIC	2019	2020	50108	Rio de Janeiro - RJ	81990
+MINI COOPER	2.0 16V TWINPOWER GASOLINA S 4P STEPTRONIC	2019	2020	22000	Rio de Janeiro - RJ	194990
+JEEP COMPASS	2.0 16V FLEX SPORT AUTOMÁTICO	2019	2020	48000	Rio de Janeiro - RJ	107990
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2019	2020	52592	Duque de Caxias - RJ	92900
+HONDA HR-V	1.8 16V FLEX EXL 4P AUTOMÁTICO	2020	2020	50849	Rio de Janeiro - RJ	117900
+HONDA HR-V	1.8 16V FLEX EXL 4P AUTOMÁTICO	2020	2020	52340	Rio de Janeiro - RJ	117900
+LAND ROVER RANGE ROVER EVOQUE	2.0 P250 FLEX R-DYNAMIC SE AWD AUTOMÁTICO	2019	2020	32000	Rio de Janeiro - RJ	400000
+FIAT MOBI	1.0 EVO FLEX LIKE. MANUAL	2020	2020	79169	Rio de Janeiro - RJ	49990
+CHEVROLET JOY	1.0 SPE4 FLEX MANUAL	2019	2020	95272	Rio de Janeiro - RJ	51990
+TOYOTA COROLLA	2.0 VVT-IE FLEX ALTIS DIRECT SHIFT	2019	2020	26000	Rio de Janeiro - RJ	147900
+FIAT DOBLÒ	1.8 MPI ESSENCE 7L 16V FLEX 4P MANUAL	2019	2020	154414	Nova Friburgo - RJ	79900
+VOLKSWAGEN POLO	1.0 MPI TOTAL FLEX MANUAL	2019	2020	60830	Rio de Janeiro - RJ	63990
+FIAT DOBLÒ	1.8 MPI ESSENCE 7L 16V FLEX 4P MANUAL	2019	2020	54559	Rio de Janeiro - RJ	83990
+FORD KA	1.5 TI-VCT FLEX SE PLUS MANUAL	2019	2020	34232	Rio de Janeiro - RJ	63060
+FIAT MOBI	1.0 EVO FLEX LIKE. MANUAL	2019	2020	46302	Rio de Janeiro - RJ	49000
+RENAULT CAPTUR	1.6 16V SCE FLEX LIFE X-TRONIC	2019	2020	37000	Rio de Janeiro - RJ	84800
+PEUGEOT 3008	1.6 GRIFFE PACK THP 16V GASOLINA 4P AUTOMÁTICO	2020	2020	46878	Rio de Janeiro - RJ	163000
+CAOA CHERY TIGGO 2	1.5 MPFI 16V FLEX LOOK 4P MANUAL	2019	2020	25000	Rio de Janeiro - RJ	71990
+JEEP RENEGADE	1.8 16V FLEX SPORT 4P AUTOMÁTICO	2019	2020	22000	Rio de Janeiro - RJ	88990
+FORD KA	1.5 TI-VCT FLEX SE PLUS SEDAN MANUAL	2020	2020	40500	Rio de Janeiro - RJ	64400
+FORD KA	1.0 TI-VCT FLEX SE MANUAL	2020	2020	34699	Rio de Janeiro - RJ	56200
+CHEVROLET ONIX	1.0 TURBO FLEX PLUS PREMIER AUTOMÁTICO	2019	2020	77900	Rio de Janeiro - RJ	77700
+HYUNDAI HB20	1.0 12V FLEX SENSE MANUAL	2020	2020	14747	Rio de Janeiro - RJ	64080
+HONDA WR-V	1.5 16V FLEXONE EX CVT	2019	2020	66000	Rio de Janeiro - RJ	96990
+FORD ECOSPORT	2.0 DIRECT FLEX STORM 4WD AUTOMÁTICO	2019	2020	62817	Rio de Janeiro - RJ	85290
+CHEVROLET ONIX	1.0 TURBO FLEX LTZ AUTOMÁTICO	2019	2020	51200	Rio de Janeiro - RJ	81780
+VOLKSWAGEN T-CROSS	1.0 200 TSI TOTAL FLEX COMFORTLINE AUTOMÁTICO	2020	2020	52000	Rio de Janeiro - RJ	109900
+HYUNDAI CRETA	1.6 16V FLEX ATTITUDE MANUAL	2019	2020	14381	Rio de Janeiro - RJ	100990
+CHEVROLET ONIX	1.0 TURBO FLEX PLUS PREMIER AUTOMÁTICO	2019	2020	30000	Rio de Janeiro - RJ	87900
+JEEP RENEGADE	1.8 16V FLEX SPORT 4P AUTOMÁTICO	2019	2020	62000	Rio de Janeiro - RJ	85990
+FORD KA	1.0 TI-VCT FLEX SE MANUAL	2019	2020	65978	Duque de Caxias - RJ	53340
+VOLKSWAGEN JETTA	1.4 250 TSI TOTAL FLEX COMFORTLINE TIPTRONIC	2020	2020	77268	Niterói - RJ	127900
+AUDI Q3	1.4 35 TFSI GASOLINA PRESTIGE S TRONIC	2020	2020	40382	Niterói - RJ	199720
+VOLKSWAGEN VIRTUS	1.6 MSI TOTAL FLEX AUTOMÁTICO	2020	2020	52612	Mesquita - RJ	79990
+FIAT ARGO	1.0 FIREFLY FLEX DRIVE MANUAL	2019	2020	97128	Duque de Caxias - RJ	56160
+VOLKSWAGEN TIGUAN	1.4 250 TSI TOTAL FLEX ALLSPACE COMFORTLINE TIPTRONIC	2019	2020	51072	Niterói - RJ	158980
+HYUNDAI HB20	1.0 12V FLEX EVOLUTION MANUAL	2019	2020	36388	Rio de Janeiro - RJ	66500
+RENAULT SANDERO	1.6 16V SCE FLEX STEPWAY ICONIC X-TRONIC	2019	2020	45000	Rio de Janeiro - RJ	74900
+VOLKSWAGEN POLO	1.6 MSI TOTAL FLEX MANUAL	2019	2020	85206	Nova Iguaçu - RJ	65999
+VOLKSWAGEN POLO	1.0 200 TSI COMFORTLINE AUTOMÁTICO	2019	2020	19036	Rio de Janeiro - RJ	80970
+CHEVROLET ONIX	1.0 TURBO FLEX AUTOMÁTICO	2019	2020	80000	Rio de Janeiro - RJ	73990
+RENAULT DUSTER OROCH	2.0 16V HI-FLEX DYNAMIQUE AUTOMÁTICO	2019	2020	58000	Rio de Janeiro - RJ	87900
+FIAT MOBI	1.0 EVO FLEX LIKE. MANUAL	2020	2020	54523	Niterói - RJ	49390
+CHEVROLET SPIN	1.8 ACTIV7 8V FLEX 4P AUTOMÁTICO	2019	2020	100	São João de Meriti - RJ	79999
+CHEVROLET ONIX	1.0 TURBO FLEX PREMIER AUTOMÁTICO	2020	2020	8955	Rio de Janeiro - RJ	90970
+HONDA CIVIC	2.0 16V FLEXONE EX 4P CVT	2019	2020	51659	Rio de Janeiro - RJ	120680
+FORD ECOSPORT	1.5 TI-VCT FLEX SE MANUAL	2020	2020	29979	Rio de Janeiro - RJ	79070
+VOLKSWAGEN POLO	1.0 200 TSI COMFORTLINE AUTOMÁTICO	2019	2020	14510	Rio de Janeiro - RJ	86170
+FIAT MOBI	1.0 EVO FLEX LIKE. MANUAL	2019	2020	50371	Rio de Janeiro - RJ	50270
+PEUGEOT 2008	1.6 16V FLEX ALLURE PACK 4P AUTOMÁTICO	2019	2020	50437	Rio de Janeiro - RJ	79870
+MITSUBISHI ASX	2.0 MIVEC FLEX HPE CVT	2019	2020	49350	Rio de Janeiro - RJ	114870
+VOLKSWAGEN POLO	1.6 MSI TOTAL FLEX AUTOMÁTICO	2019	2020	51371	Rio de Janeiro - RJ	72480
+CHEVROLET ONIX	1.0 TURBO FLEX PLUS AUTOMÁTICO	2020	2020	10785	Rio de Janeiro - RJ	86970
+FORD KA	1.0 TI-VCT FLEX SE MANUAL	2019	2020	41992	Rio de Janeiro - RJ	54080
+CHEVROLET EQUINOX	1.5 16V TURBO GASOLINA LT AUTOMÁTICO	2019	2020	17679	Rio de Janeiro - RJ	144370
+CHEVROLET ONIX	1.0 TURBO FLEX PLUS PREMIER AUTOMÁTICO	2019	2020	34876	Rio de Janeiro - RJ	87900
+MITSUBISHI ECLIPSE CROSS	1.5 MIVEC TURBO GASOLINA HPE-S AWD CVT	2019	2020	100	Rio de Janeiro - RJ	149900
+PEUGEOT 3008	1.6 ALLURE THP 16V GASOLINA 4P AUTOMÁTICO	2019	2020	8000	Petrópolis - RJ	164900
+CHEVROLET ONIX	1.0 FLEX LT MANUAL	2020	2020	57139	Rio de Janeiro - RJ	66300
+VOLKSWAGEN POLO	1.0 MPI TOTAL FLEX MANUAL	2019	2020	51348	Rio de Janeiro - RJ	63990
+VOLKSWAGEN T-CROSS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2019	2020	50851	Rio de Janeiro - RJ	119430
+FORD KA	1.5 TI-VCT FLEX SE MANUAL	2019	2020	52982	Rio de Janeiro - RJ	59900
+VOLKSWAGEN VIRTUS	1.6 MSI TOTAL FLEX MANUAL	2019	2020	50620	Rio de Janeiro - RJ	74730
+CHEVROLET ONIX	1.0 TURBO FLEX LTZ AUTOMÁTICO	2020	2020	55226	Rio de Janeiro - RJ	85490
+FIAT ARGO	1.0 FIREFLY FLEX DRIVE MANUAL	2019	2020	71620	Rio de Janeiro - RJ	58490
+VOLKSWAGEN T-CROSS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2019	2020	50589	Rio de Janeiro - RJ	112990
+CHEVROLET ONIX	1.0 TURBO FLEX LTZ AUTOMÁTICO	2020	2020	50632	Rio de Janeiro - RJ	85490
+FIAT FIORINO	1.4 MPI FURGÃO HARD WORKING 8V FLEX 2P MANUAL	2019	2020	52000	Itaguaí - RJ	79790
+RENAULT LOGAN	1.6 16V SCE FLEX ZEN MANUAL	2019	2020	52670	Itaguaí - RJ	58700
+VOLKSWAGEN POLO	1.0 MPI TOTAL FLEX MANUAL	2019	2020	53353	Itaguaí - RJ	63490
+CHEVROLET SPIN	1.8 ACTIV7 8V FLEX 4P AUTOMÁTICO	2019	2020	51597	Itaguaí - RJ	86990
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2019	2020	55200	Itaguaí - RJ	90900
+FORD KA	1.5 TI-VCT FLEX SE MANUAL	2019	2020	55000	Itaguaí - RJ	60480
+VOLKSWAGEN POLO	1.0 MPI TOTAL FLEX MANUAL	2019	2020	52056	Itaguaí - RJ	63490
+MINI COOPER	1.5 12V TWINPOWER GASOLINA TOP 2P STEPTRONIC	2020	2020	2000	Petrópolis - RJ	159900
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2019	2020	55000	Itaguaí - RJ	90900
+FIAT FIORINO	1.4 MPI FURGÃO HARD WORKING 8V FLEX 2P MANUAL	2020	2020	39399	Rio de Janeiro - RJ	80600
+FORD KA	1.5 TI-VCT FLEX SE MANUAL	2019	2020	51377	Rio de Janeiro - RJ	58790
+VOLKSWAGEN VIRTUS	1.0 200 TSI COMFORTLINE AUTOMÁTICO	2019	2020	37790	Rio de Janeiro - RJ	83560
+FORD KA	1.5 TI-VCT FLEX SE MANUAL	2019	2020	54335	Rio de Janeiro - RJ	58190
+FIAT FIORINO	1.4 MPI FURGÃO HARD WORKING 8V FLEX 2P MANUAL	2019	2020	72000	Itaguaí - RJ	79790
+VOLKSWAGEN POLO	1.0 MPI TOTAL FLEX MANUAL	2019	2020	55505	Itaguaí - RJ	63490
+RENAULT DUSTER	1.6 16V SCE FLEX DYNAMIQUE X-TRONIC	2019	2020	53000	Itaguaí - RJ	81790
+VOLKSWAGEN POLO	1.0 200 TSI COMFORTLINE AUTOMÁTICO	2019	2020	28000	Rio de Janeiro - RJ	74900
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2019	2020	57563	Rio de Janeiro - RJ	90990
+VOLKSWAGEN POLO	1.0 MPI TOTAL FLEX MANUAL	2019	2020	82000	Rio de Janeiro - RJ	66500
+NISSAN KICKS	1.6 16V FLEXSTART SV 4P XTRONIC	2019	2020	57000	Itaguaí - RJ	93550
+RENAULT CAPTUR	2.0 16V HI-FLEX BOSE AUTOMÁTICO	2019	2020	53000	Itaguaí - RJ	89460
+VOLKSWAGEN T-CROSS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2019	2020	59966	Itaguaí - RJ	115990
+TOYOTA ETIOS	1.5 X PLUS SEDAN 16V FLEX 4P AUTOMÁTICO	2019	2020	53000	Itaguaí - RJ	70990
+CHEVROLET ONIX	1.0 TURBO FLEX LTZ AUTOMÁTICO	2019	2020	64000	Itaguaí - RJ	80490
+NISSAN KICKS	1.6 16V FLEXSTART SV 4P XTRONIC	2019	2020	57690	Itaguaí - RJ	91900
+RENAULT DUSTER	1.6 16V SCE FLEX DYNAMIQUE X-TRONIC	2019	2020	54182	Itaguaí - RJ	81990
+JEEP COMPASS	2.0 16V FLEX LONGITUDE AUTOMÁTICO	2019	2020	34000	Rio de Janeiro - RJ	119500
+VOLKSWAGEN T-CROSS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2019	2020	59000	Itaguaí - RJ	106900
+CHEVROLET COBALT	1.8 MPFI LTZ 8V FLEX 4P AUTOMÁTICO	2019	2020	50000	Itaguaí - RJ	75990
+TOYOTA ETIOS	1.5 X PLUS SEDAN 16V FLEX 4P AUTOMÁTICO	2019	2020	55107	Itaguaí - RJ	70990
+VOLKSWAGEN POLO	1.0 MPI TOTAL FLEX MANUAL	2019	2020	63323	Itaguaí - RJ	63490
+MERCEDES-BENZ A 250	2.0 CGI GASOLINA VISION 7G-DCT	2019	2020	52000	Niterói - RJ	319970
+FORD KA	1.5 TI-VCT FLEX SE MANUAL	2019	2020	55009	Itaguaí - RJ	59990
+VOLKSWAGEN GOL	1.6 MSI TOTALFLEX 4P MANUAL	2019	2020	54755	Itaguaí - RJ	53990
+CHEVROLET JOY	1.0 SPE4 FLEX MANUAL	2020	2020	62000	Itaguaí - RJ	56490
+FIAT DOBLÒ	1.8 MPI ESSENCE 7L 16V FLEX 4P MANUAL	2019	2020	49000	Itaguaí - RJ	84900
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2019	2020	55735	Itaguaí - RJ	90900
+RENAULT SANDERO	1.6 16V SCE FLEX STEPWAY ZEN MANUAL	2019	2020	54873	Itaguaí - RJ	65990
+VOLKSWAGEN POLO	1.0 MPI TOTAL FLEX MANUAL	2019	2020	58569	Itaguaí - RJ	63490
+VOLKSWAGEN VIRTUS	1.0 200 TSI COMFORTLINE AUTOMÁTICO	2019	2020	60176	Itaguaí - RJ	80900
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2019	2020	68849	Rio de Janeiro - RJ	92990
+FIAT DOBLÒ	1.8 MPI ESSENCE 7L 16V FLEX 4P MANUAL	2019	2020	55598	Rio de Janeiro - RJ	81990
+NISSAN KICKS	1.6 16V FLEXSTART SV 4P XTRONIC	2019	2020	59416	Rio de Janeiro - RJ	96990
+FIAT DOBLÒ	1.8 MPI ESSENCE 7L 16V FLEX 4P MANUAL	2019	2020	54410	Rio de Janeiro - RJ	81990
+JEEP COMPASS	2.0 16V FLEX LONGITUDE AUTOMÁTICO	2019	2020	54848	Rio de Janeiro - RJ	122490
+TOYOTA ETIOS	1.5 X PLUS SEDAN 16V FLEX 4P AUTOMÁTICO	2019	2020	55000	Itaguaí - RJ	70990
+FIAT MOBI	1.0 EVO FLEX LIKE. MANUAL	2019	2020	37000	Rio de Janeiro - RJ	45000
+RENAULT CAPTUR	2.0 16V HI-FLEX INTENSE AUTOMÁTICO	2019	2020	56880	Rio de Janeiro - RJ	84490
+JEEP COMPASS	2.0 16V FLEX LONGITUDE AUTOMÁTICO	2020	2020	56529	Rio de Janeiro - RJ	125480
+CHEVROLET SPIN	1.8 ACTIV7 8V FLEX 4P AUTOMÁTICO	2019	2020	55000	Rio de Janeiro - RJ	88890
+CHEVROLET ONIX	1.0 TURBO FLEX LTZ AUTOMÁTICO	2019	2020	55047	Rio de Janeiro - RJ	83990
+VOLKSWAGEN POLO	1.0 MPI TOTAL FLEX MANUAL	2019	2020	60480	Rio de Janeiro - RJ	65990
+VOLKSWAGEN T-CROSS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2020	2020	57093	Rio de Janeiro - RJ	112500
+RENAULT CAPTUR	2.0 16V HI-FLEX INTENSE AUTOMÁTICO	2019	2020	54860	Rio de Janeiro - RJ	84490
+CHEVROLET ONIX	1.0 TURBO FLEX PLUS LT MANUAL	2020	2020	55893	Rio de Janeiro - RJ	77770
+TOYOTA YARIS	1.5 16V FLEX SEDAN XL MULTIDRIVE	2019	2020	44000	Rio de Janeiro - RJ	82000
+FORD KA	1.5 TI-VCT FLEX SE MANUAL	2019	2020	41582	Itaguaí - RJ	60490
+FORD KA	1.5 TI-VCT FLEX SE MANUAL	2020	2020	58335	Itaguaí - RJ	60420
+VOLKSWAGEN VOYAGE	1.6 MSI TOTALFLEX 4P MANUAL	2019	2020	55414	Itaguaí - RJ	59110
+VOLKSWAGEN VOYAGE	1.6 MSI TOTALFLEX 4P MANUAL	2019	2020	54303	Itaguaí - RJ	59120
+FORD KA	1.0 TI-VCT FLEX SE MANUAL	2019	2020	68000	Itaguaí - RJ	53990
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2019	2020	53562	Itaguaí - RJ	90900
+CHEVROLET ONIX	1.0 TURBO FLEX LTZ AUTOMÁTICO	2019	2020	56874	Itaguaí - RJ	80900
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL BUSINESS EAT6	2020	2020	45500	Rio de Janeiro - RJ	77000
+JEEP COMPASS	2.0 16V DIESEL TRAILHAWK 4X4 AUTOMÁTICO	2020	2020	32000	Maricá - RJ	175900
+FORD KA	1.0 TI-VCT FLEX SE MANUAL	2019	2020	100	Rio de Janeiro - RJ	55900
+VOLKSWAGEN JETTA	2.0 350 TSI GASOLINA GLI DSG	2020	2020	28000	Rio de Janeiro - RJ	182900
+FIAT TORO	1.8 16V EVO FLEX FREEDOM AT6	2020	2020	65070	Itaguaí - RJ	105900
+HONDA CIVIC	1.5 16V TURBO GASOLINA TOURING 4P CVT	2019	2020	23500	Rio de Janeiro - RJ	148000
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2019	2020	26000	Duque de Caxias - RJ	94990
+SUZUKI VITARA	1.4 16V TURBO GASOLINA 4STYLE ALLGRIP AUTOMÁTICO	2019	2020	29000	Rio de Janeiro - RJ	136990
+VOLKSWAGEN VIRTUS	1.4 250 TSI GTS AUTOMÁTICO	2020	2020	58774	Rio de Janeiro - RJ	113000
+HYUNDAI HB20X	1.6 16V FLEX DIAMOND AUTOMÁTICO	2019	2020	18000	Rio de Janeiro - RJ	80900
+MINI COUNTRYMAN	2.0 16V TWINPOWER TURBO GASOLINA COOPER S ALL4 STEPTRONIC	2020	2020	20900	Petrópolis - RJ	185000
+VOLKSWAGEN T-CROSS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2019	2020	57212	Nova Iguaçu - RJ	110990
+CHEVROLET ONIX	1.0 TURBO FLEX LTZ AUTOMÁTICO	2019	2020	60798	Nova Iguaçu - RJ	82490
+NISSAN FRONTIER	2.3 16V TURBO DIESEL XE CD 4X4 AUTOMÁTICO	2019	2020	80821	Nova Iguaçu - RJ	202110
+VOLKSWAGEN T-CROSS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2019	2020	59554	Nova Iguaçu - RJ	110990
+CHEVROLET JOY	1.0 SPE4 FLEX MANUAL	2020	2020	93431	Nova Iguaçu - RJ	58760
+VOLKSWAGEN AMAROK	2.0 COMFORTLINE 4X4 CD 16V TURBO INTERCOOLER DIESEL 4P AUTOMÁTICO	2019	2020	68677	Rio de Janeiro - RJ	197990
+CHEVROLET SPIN	1.8 ACTIV7 8V FLEX 4P AUTOMÁTICO	2019	2020	54421	Nova Iguaçu - RJ	89900
+CHEVROLET CRUZE	1.4 TURBO LT 16V FLEX 4P AUTOMÁTICO	2019	2020	57588	Rio de Janeiro - RJ	96950
+CHEVROLET ONIX	1.0 TURBO FLEX PLUS LT AUTOMÁTICO	2020	2020	55952	Rio de Janeiro - RJ	77990
+CHEVROLET CRUZE	1.4 TURBO LT 16V FLEX 4P AUTOMÁTICO	2019	2020	68784	Rio de Janeiro - RJ	95500
+VOLKSWAGEN VIRTUS	1.0 200 TSI COMFORTLINE AUTOMÁTICO	2020	2020	56385	Nova Iguaçu - RJ	84220
+CHEVROLET ONIX	1.0 TURBO FLEX LTZ AUTOMÁTICO	2019	2020	60595	Nova Iguaçu - RJ	82490
+VOLKSWAGEN VIRTUS	1.0 200 TSI COMFORTLINE AUTOMÁTICO	2019	2020	30897	Nova Iguaçu - RJ	84990
+NISSAN FRONTIER	2.3 16V TURBO DIESEL XE CD 4X4 AUTOMÁTICO	2019	2020	92175	Rio de Janeiro - RJ	185990
+VOLKSWAGEN GOL	1.6 MSI TOTALFLEX 4P MANUAL	2019	2020	62801	Nova Iguaçu - RJ	54900
+CHEVROLET ONIX	1.0 TURBO FLEX PLUS LT AUTOMÁTICO	2020	2020	58664	Nova Iguaçu - RJ	80890
+FORD KA	1.0 TI-VCT FLEX SE MANUAL	2019	2020	73740	Nova Iguaçu - RJ	47540
+FORD KA	1.0 TI-VCT FLEX SE SEDAN MANUAL	2019	2020	58407	Nova Iguaçu - RJ	53990
+FIAT STRADA	1.4 MPI HARD WORKING CS 8V FLEX 2P MANUAL	2019	2020	84680	Nova Iguaçu - RJ	65990
+VOLVO XC60	2.0 T8 HYBRID POLESTAR ENGINEERED AWD GEARTRONIC	2019	2020	24000	Rio de Janeiro - RJ	378000
+RENAULT SANDERO	1.0 12V SCE FLEX ZEN MANUAL	2019	2020	67000	Nova Iguaçu - RJ	55900
+VOLKSWAGEN T-CROSS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2019	2020	58000	Nova Iguaçu - RJ	119000
+VOLKSWAGEN GOL	1.6 MSI TOTALFLEX 4P MANUAL	2019	2020	62000	Nova Iguaçu - RJ	53900
+FORD RANGER	2.2 XLS 4X2 CD 16V DIESEL 4P AUTOMÁTICO	2019	2020	13000	Rio de Janeiro - RJ	179990
+CHEVROLET JOY	1.0 SPE4 FLEX MANUAL	2020	2020	50990	Nova Iguaçu - RJ	60560
+AUDI Q5	2.0 TFSI GASOLINA S-LINE S TRONIC	2020	2020	34000	Rio de Janeiro - RJ	249900
+TOYOTA ETIOS	1.5 X PLUS SEDAN 16V FLEX 4P AUTOMÁTICO	2019	2020	38714	Rio de Janeiro - RJ	74500
+JEEP COMPASS	2.0 16V DIESEL LONGITUDE 4X4 AUTOMÁTICO	2019	2020	45000	Rio de Janeiro - RJ	149990
+FORD KA	1.5 TI-VCT FLEX SE MANUAL	2019	2020	59600	Nova Iguaçu - RJ	60420
+RENAULT DUSTER	1.6 16V SCE FLEX EXPRESSION X-TRONIC	2019	2020	55817	Nova Iguaçu - RJ	77860
+JEEP COMPASS	2.0 16V FLEX LONGITUDE AUTOMÁTICO	2019	2020	54073	Nova Iguaçu - RJ	120990
+CHEVROLET JOY	1.0 SPE4 FLEX MANUAL	2020	2020	80783	Nova Iguaçu - RJ	59270
+VOLKSWAGEN VIRTUS	1.0 200 TSI COMFORTLINE AUTOMÁTICO	2020	2020	71000	Nova Iguaçu - RJ	77990
+FORD ECOSPORT	2.0 DIRECT FLEX STORM 4WD AUTOMÁTICO	2019	2020	56760	Nova Iguaçu - RJ	88990
+VOLKSWAGEN GOL	1.6 MSI TOTALFLEX 4P MANUAL	2019	2020	54136	Itaguaí - RJ	53990
+HONDA HR-V	1.8 16V FLEX EX 4P AUTOMÁTICO	2020	2020	18000	Rio de Janeiro - RJ	104999
+FIAT CRONOS	1.8 E.TORQ FLEX PRECISION AT6	2019	2020	54254	Rio de Janeiro - RJ	77460
+TOYOTA COROLLA	2.0 VVT-IE FLEX XEI DIRECT SHIFT	2019	2020	48500	Niterói - RJ	118500
+VOLKSWAGEN POLO	1.0 MPI TOTAL FLEX MANUAL	2019	2020	58808	Nova Iguaçu - RJ	63990
+FIAT MOBI	1.0 EVO FLEX LIKE. MANUAL	2020	2020	65000	Nova Iguaçu - RJ	51500
+RENAULT SANDERO	1.6 16V SCE FLEX STEPWAY ZEN MANUAL	2019	2020	54104	Nova Iguaçu - RJ	65920
+FIAT CRONOS	1.3 FIREFLY FLEX DRIVE MANUAL	2020	2020	56469	Nova Iguaçu - RJ	73990
+FORD KA	1.0 TI-VCT FLEX SE MANUAL	2019	2020	60937	Nova Iguaçu - RJ	53990
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2020	2020	28500	Rio de Janeiro - RJ	91000
+NISSAN VERSA	1.6 16V FLEXSTART S 4P MANUAL	2020	2020	50526	Nova Iguaçu - RJ	66460
+AUDI Q3	1.4 35 TFSI GASOLINA PRESTIGE PLUS S TRONIC	2020	2020	40000	Rio de Janeiro - RJ	199999
+JEEP COMPASS	2.0 16V FLEX LONGITUDE AUTOMÁTICO	2019	2020	53176	Rio de Janeiro - RJ	120990
+TROLLER TX4	3.2 TGV 4X4 20V TURBO INTERCOOLER DIESEL 2P AUTOMÁTICO	2020	2020	11256	Nova Friburgo - RJ	230000
+FORD ECOSPORT	1.5 TI-VCT FLEX SE AUTOMÁTICO	2019	2020	52427	Nova Iguaçu - RJ	80440
+VOLKSWAGEN GOL	1.0 12V MPI TOTALFLEX 4P MANUAL	2019	2020	75747	Itaguaí - RJ	52130
+RENAULT CAPTUR	2.0 16V HI-FLEX INTENSE AUTOMÁTICO	2019	2020	53247	Itaguaí - RJ	84490
+JEEP COMPASS	2.0 16V FLEX LONGITUDE AUTOMÁTICO	2019	2020	52319	Itaguaí - RJ	122990
+FORD ECOSPORT	2.0 DIRECT FLEX STORM 4WD AUTOMÁTICO	2019	2020	54682	Itaguaí - RJ	86990
+NISSAN MARCH	1.6 SV 16V FLEXSTART 4P MANUAL	2019	2020	22000	Niterói - RJ	61000
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2019	2020	58794	Rio de Janeiro - RJ	81800
+FORD ECOSPORT	2.0 DIRECT FLEX STORM 4WD AUTOMÁTICO	2019	2020	54070	Nova Iguaçu - RJ	88990
+FIAT MOBI	1.0 EVO FLEX LIKE. MANUAL	2020	2020	59083	Nova Iguaçu - RJ	52610
+CHEVROLET ONIX	1.0 TURBO FLEX PLUS LT MANUAL	2020	2020	61951	Nova Iguaçu - RJ	76610
+FORD KA	1.5 TI-VCT FLEX SE MANUAL	2020	2020	30243	Nova Iguaçu - RJ	62640
+CHEVROLET SPIN	1.8 LS 8V FLEX 4P MANUAL	2019	2020	97762	Nova Iguaçu - RJ	68110
+CHEVROLET JOY	1.0 SPE4 FLEX MANUAL	2020	2020	59974	Nova Iguaçu - RJ	59990
+CHEVROLET ONIX	1.0 MPFI JOY 8V FLEX 4P MANUAL	2020	2020	91999	Nova Iguaçu - RJ	58730
+RENAULT CAPTUR	2.0 16V HI-FLEX INTENSE AUTOMÁTICO	2019	2020	47524	Rio das Ostras - RJ	82990
+FIAT FIORINO	1.4 MPI FURGÃO HARD WORKING 8V FLEX 2P MANUAL	2019	2020	57909	Nova Iguaçu - RJ	79820
+VOLKSWAGEN POLO	1.0 MPI TOTAL FLEX MANUAL	2019	2020	52111	Rio das Ostras - RJ	63990
+TOYOTA ETIOS	1.5 X PLUS SEDAN 16V FLEX 4P AUTOMÁTICO	2019	2020	49588	Rio das Ostras - RJ	72490
+FORD KA	1.0 TI-VCT FLEX SE MANUAL	2019	2020	62443	Rio das Ostras - RJ	52490
+CHEVROLET ONIX	1.0 TURBO FLEX PLUS LTZ AUTOMÁTICO	2019	2020	58921	Rio das Ostras - RJ	84990
+JEEP COMPASS	2.0 16V FLEX LONGITUDE AUTOMÁTICO	2019	2020	55214	Rio das Ostras - RJ	120990
+VOLKSWAGEN T-CROSS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2019	2020	48661	Rio das Ostras - RJ	109990
+FORD ECOSPORT	2.0 DIRECT FLEX STORM 4WD AUTOMÁTICO	2019	2020	55214	Rio das Ostras - RJ	86990
+CHEVROLET SPIN	1.8 ACTIV7 8V FLEX 4P AUTOMÁTICO	2019	2020	56823	Rio das Ostras - RJ	87990
+VOLKSWAGEN POLO	1.0 MPI TOTAL FLEX MANUAL	2019	2020	58033	Nova Iguaçu - RJ	63990
+RENAULT DUSTER	1.6 16V SCE FLEX DYNAMIQUE X-TRONIC	2019	2020	53257	Nova Iguaçu - RJ	82750
+RENAULT DUSTER OROCH	2.0 16V HI-FLEX DYNAMIQUE AUTOMÁTICO	2019	2020	20000	Rio de Janeiro - RJ	77900
+CHEVROLET ONIX	1.0 TURBO FLEX PLUS LT AUTOMÁTICO	2019	2020	54095	Nova Iguaçu - RJ	80340
+CHEVROLET ONIX	1.0 TURBO FLEX LTZ AUTOMÁTICO	2019	2020	55878	Nova Iguaçu - RJ	82490
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2019	2020	55163	Nova Iguaçu - RJ	81990
+FORD KA	1.5 TI-VCT FLEX SE MANUAL	2020	2020	54200	Nova Iguaçu - RJ	61400
+TOYOTA YARIS	1.5 16V FLEX SEDAN XLS CONNECT MULTIDRIVE	2020	2020	40000	Rio de Janeiro - RJ	71000
+BMW 320i	2.0 16V TURBO GASOLINA M SPORT AUTOMÁTICO	2020	2020	10600	Rio de Janeiro - RJ	257000
+VOLKSWAGEN JETTA	1.4 250 TSI TOTAL FLEX R-LINE TIPTRONIC	2019	2020	36521	Rio das Ostras - RJ	150490
+VOLKSWAGEN VIRTUS	1.6 MSI TOTAL FLEX MANUAL	2019	2020	140087	Rio de Janeiro - RJ	70500
+TOYOTA COROLLA	1.8 VVT-I HYBRID FLEX ALTIS CVT	2020	2020	79000	Rio de Janeiro - RJ	136500
+VOLKSWAGEN T-CROSS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2019	2020	59554	Rio de Janeiro - RJ	112990
+JEEP COMPASS	2.0 16V DIESEL LIMITED 4X4 AUTOMÁTICO	2019	2020	19500	Petrópolis - RJ	186900
+MITSUBISHI PAJERO SPORT	2.4 16V MIVEC TURBO DIESEL HPE AWD AUTOMÁTICO	2020	2020	27000	Rio de Janeiro - RJ	304000
+RENAULT SANDERO	1.6 16V SCE FLEX INTENSE X-TRONIC	2019	2020	53999	Nova Iguaçu - RJ	71020
+RENAULT CAPTUR	2.0 16V HI-FLEX BOSE AUTOMÁTICO	2019	2020	53635	Nova Iguaçu - RJ	92380
+CHEVROLET JOY	1.0 SPE4 FLEX PLUS MANUAL	2019	2020	91006	Nova Iguaçu - RJ	60990
+RENAULT KWID	1.0 12V SCE FLEX OUTSIDER MANUAL	2019	2020	81456	Nova Iguaçu - RJ	52900
+FIAT CRONOS	1.3 FIREFLY FLEX DRIVE MANUAL	2020	2020	53073	Nova Iguaçu - RJ	73310
+LAND ROVER RANGE ROVER EVOQUE	2.0 P250 FLEX R-DYNAMIC SE AWD AUTOMÁTICO	2020	2020	64000	Rio de Janeiro - RJ	320000
+BMW X3	3.0 TWINPOWER GASOLINA M40I STEPTRONIC	2019	2020	23850	Rio de Janeiro - RJ	429990
+VOLKSWAGEN POLO	1.0 MPI TOTAL FLEX MANUAL	2019	2020	56469	Rio de Janeiro - RJ	65790
+BMW i3	ELÉTRICO eDRIVE BEV AUTOMÁTICO	2019	2020	14000	Rio de Janeiro - RJ	239000
+BMW X2	2.0 16V TURBO ACTIVEFLEX SDRIVE20I GP STEPTRONIC	2019	2020	14000	Rio de Janeiro - RJ	278900
+VOLVO XC60	2.0 T8 HYBRID MOMENTUM AWD GEARTRONIC	2020	2020	27000	Rio de Janeiro - RJ	300000
+AUDI Q5	2.0 TFSI GASOLINA BLACK S TRONIC	2019	2020	30000	Rio de Janeiro - RJ	305000
+JEEP COMPASS	2.0 16V FLEX LONGITUDE AUTOMÁTICO	2020	2020	60570	Itaguaí - RJ	122990
+FORD KA	1.0 TI-VCT FLEX SE MANUAL	2019	2020	65000	Itaguaí - RJ	52500
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2019	2020	53186	Itaguaí - RJ	90900
+CHEVROLET ONIX	1.0 TURBO FLEX LTZ AUTOMÁTICO	2019	2020	64000	Itaguaí - RJ	80900
+FORD KA	1.0 TI-VCT FLEX SE MANUAL	2019	2020	64000	Itaguaí - RJ	53290
+MERCEDES-BENZ C 63 AMG	4.0 V8 TURBO GASOLINA S SPEEDSHIFT	2019	2020	17000	Campos dos Goytacazes - RJ	689000
+JEEP COMPASS	2.0 16V FLEX LONGITUDE AUTOMÁTICO	2020	2020	29720	Rio de Janeiro - RJ	127200
+CHEVROLET JOY	1.0 SPE4 FLEX MANUAL	2020	2020	62326	Rio de Janeiro - RJ	60050
+NISSAN KICKS	1.6 16V FLEXSTART SV 4P XTRONIC	2019	2020	38951	Rio de Janeiro - RJ	97570
+JEEP COMPASS	2.0 16V FLEX LIMITED AUTOMÁTICO	2020	2020	30000	Barra Mansa - RJ	152000
+AUDI A3	1.4 TFSI GASOLINA SPORTBACK PRESTIGE PLUS S-TRONIC	2020	2020	15800	Rio de Janeiro - RJ	189800
+RENAULT DUSTER OROCH	2.0 16V HI-FLEX DYNAMIQUE AUTOMÁTICO	2019	2020	52000	Nova Iguaçu - RJ	91250
+FORD KA	1.0 TI-VCT FLEX SE SEDAN MANUAL	2020	2020	39993	Nova Iguaçu - RJ	59690
+CHEVROLET ONIX	1.0 TURBO FLEX PLUS PREMIER AUTOMÁTICO	2019	2020	44635	Niterói - RJ	84900
+CHEVROLET ONIX	1.0 TURBO FLEX PLUS PREMIER AUTOMÁTICO	2020	2020	37000	Rio de Janeiro - RJ	86500
+RENAULT CAPTUR	1.6 16V SCE FLEX INTENSE X-TRONIC	2019	2020	39000	Rio de Janeiro - RJ	84490
+NISSAN VERSA	1.6 16V FLEXSTART S 4P MANUAL	2020	2020	50224	Rio das Ostras - RJ	65990
+FORD KA	1.5 TI-VCT FLEX SE PLUS SEDAN MANUAL	2019	2020	55454	Rio das Ostras - RJ	57990
+HONDA CIVIC	2.0 16V FLEXONE EXL 4P CVT	2020	2020	46000	Nova Iguaçu - RJ	122990
+VOLKSWAGEN VIRTUS	1.0 200 TSI COMFORTLINE AUTOMÁTICO	2019	2020	54878	Rio das Ostras - RJ	82990
+HONDA FIT	1.5 EXL 16V FLEX 4P AUTOMÁTICO	2019	2020	15000	Rio de Janeiro - RJ	92900
+VOLKSWAGEN VIRTUS	1.6 MSI TOTAL FLEX AUTOMÁTICO	2019	2020	38542	Rio Bonito - RJ	80900
+TOYOTA ETIOS	1.5 X SEDAN 16V FLEX 4P AUTOMÁTICO	2019	2020	100	Rio de Janeiro - RJ	69900
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2019	2020	63495	Nova Iguaçu - RJ	80720
+FIAT CRONOS	1.8 E.TORQ FLEX PRECISION AT6	2019	2020	52755	Nova Iguaçu - RJ	80360
+NISSAN VERSA	1.6 16V FLEXSTART S 4P MANUAL	2020	2020	50650	Duque de Caxias - RJ	65970
+NISSAN KICKS	1.6 16V FLEXSTART SL 4P XTRONIC	2019	2020	39000	Rio de Janeiro - RJ	98900
+PEUGEOT 3008	1.6 GRIFFE PACK THP 16V GASOLINA 4P AUTOMÁTICO	2019	2020	18000	Rio de Janeiro - RJ	170000
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2019	2020	56237	Rio de Janeiro - RJ	79990
+RENAULT SANDERO	1.6 16V SCE FLEX STEPWAY ZEN MANUAL	2019	2020	55325	Nova Iguaçu - RJ	67950
+CHEVROLET CRUZE	1.4 TURBO LT 16V FLEX 4P AUTOMÁTICO	2019	2020	50530	Rio de Janeiro - RJ	101440
+MERCEDES-BENZ GLB 200	1.3 CGI GASOLINA LAUNCH EDITION 7G-DCT	2020	2020	20000	Niterói - RJ	295000
+VOLKSWAGEN AMAROK	2.0 COMFORTLINE 4X4 CD 16V TURBO INTERCOOLER DIESEL 4P AUTOMÁTICO	2019	2020	100000	Três Rios - RJ	168000
+CHEVROLET ONIX	1.0 TURBO FLEX LTZ AUTOMÁTICO	2019	2020	66589	Nova Iguaçu - RJ	80990
+CHEVROLET ONIX	1.0 FLEX LT MANUAL	2020	2020	85644	Nova Iguaçu - RJ	66790
+NISSAN KICKS	1.6 16V FLEXSTART SV 4P XTRONIC	2019	2020	65350	Nova Iguaçu - RJ	94560
+CHEVROLET JOY	1.0 SPE4 FLEX MANUAL	2020	2020	88874	Nova Iguaçu - RJ	58370
+BMW 320i	2.0 16V TURBO GASOLINA M SPORT AUTOMÁTICO	2019	2020	19500	Campos dos Goytacazes - RJ	279000
+RENAULT SANDERO	1.0 12V SCE FLEX ZEN MANUAL	2019	2020	80174	Nova Iguaçu - RJ	55930
+VOLKSWAGEN POLO	1.0 200 TSI COMFORTLINE AUTOMÁTICO	2020	2020	32000	Nova Friburgo - RJ	80990
+TOYOTA COROLLA	2.0 VVT-IE FLEX ALTIS DIRECT SHIFT	2020	2020	40000	Rio de Janeiro - RJ	133000
+JEEP COMPASS	2.0 16V FLEX LONGITUDE AUTOMÁTICO	2019	2020	62000	Resende - RJ	119900
+TOYOTA COROLLA	2.0 VVT-IE FLEX ALTIS DIRECT SHIFT	2019	2020	14000	Niterói - RJ	144900
+RENAULT SANDERO	1.6 16V SCE FLEX STEPWAY INTENSE X-TRONIC	2019	2020	53931	Duque de Caxias - RJ	74900
+VOLKSWAGEN T-CROSS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2019	2020	63554	Duque de Caxias - RJ	109900
+CHEVROLET S10	2.8 LS 4X4 CD 16V TURBO DIESEL 4P MANUAL	2019	2020	66899	Duque de Caxias - RJ	152800
+RENAULT SANDERO	1.6 16V SCE FLEX STEPWAY ICONIC X-TRONIC	2019	2020	56430	Duque de Caxias - RJ	75260
+CHEVROLET JOY	1.0 SPE4 FLEX MANUAL	2019	2020	78281	Rio de Janeiro - RJ	55420
+HONDA CIVIC	2.0 16V FLEXONE EX 4P CVT	2020	2020	41000	Volta Redonda - RJ	124000
+FIAT CRONOS	1.3 FIREFLY FLEX DRIVE MANUAL	2020	2020	50360	Nova Iguaçu - RJ	73430
+FORD KA	1.0 TI-VCT FLEX SE SEDAN MANUAL	2019	2020	46045	Nova Iguaçu - RJ	53990
+RENAULT CAPTUR	2.0 16V HI-FLEX INTENSE AUTOMÁTICO	2019	2020	54483	Duque de Caxias - RJ	84490
+NISSAN VERSA	1.6 16V FLEXSTART SL 4P XTRONIC	2019	2020	31000	Rio de Janeiro - RJ	69990
+MITSUBISHI ECLIPSE CROSS	1.5 MIVEC TURBO GASOLINA HPE-S CVT	2019	2020	20000	Nova Iguaçu - RJ	135000
+RENAULT CAPTUR	2.0 16V HI-FLEX BOSE AUTOMÁTICO	2019	2020	54680	Rio de Janeiro - RJ	90250
+VOLKSWAGEN T-CROSS	1.0 200 TSI TOTAL FLEX COMFORTLINE AUTOMÁTICO	2019	2020	29530	Resende - RJ	106000
+RENAULT DUSTER	1.6 16V SCE FLEX GOPRO X-TRONIC	2019	2020	50400	Nova Iguaçu - RJ	81790
+CHEVROLET SPIN	1.8 ACTIV7 8V FLEX 4P AUTOMÁTICO	2019	2020	64720	Nova Iguaçu - RJ	88570
+JEEP COMPASS	2.0 16V FLEX LONGITUDE AUTOMÁTICO	2019	2020	36000	Parati - RJ	114900
+FIAT TORO	2.0 16V TURBO DIESEL RANCH 4WD AT9	2019	2020	15221	Rio de Janeiro - RJ	154000
+FORD KA	1.0 TI-VCT FLEX SE MANUAL	2020	2020	67347	Niterói - RJ	53290
+FORD KA	1.0 TI-VCT FLEX SE MANUAL	2020	2020	49022	Niterói - RJ	53900
+RENAULT DUSTER	1.6 16V SCE FLEX DYNAMIQUE X-TRONIC	2019	2020	54706	Niterói - RJ	80900
+CHEVROLET SPIN	1.8 PREMIER 8V FLEX 4P AUTOMÁTICO	2020	2020	53505	Niterói - RJ	91990
+TOYOTA ETIOS	1.5 X PLUS SEDAN 16V FLEX 4P AUTOMÁTICO	2019	2020	55710	Niterói - RJ	70900
+RENAULT LOGAN	1.6 16V SCE FLEX ICONIC X-TRONIC	2019	2020	56824	Niterói - RJ	68990
+VOLKSWAGEN VIRTUS	1.0 200 TSI COMFORTLINE AUTOMÁTICO	2019	2020	54049	Niterói - RJ	79900
+NISSAN FRONTIER	2.3 16V TURBO DIESEL XE CD 4X4 AUTOMÁTICO	2019	2020	19000	Rio de Janeiro - RJ	184900
+TOYOTA COROLLA	1.8 VVT-I HYBRID FLEX ALTIS CVT	2020	2020	22000	Rio de Janeiro - RJ	209000
+FIAT FIORINO	1.4 MPI FURGÃO HARD WORKING 8V FLEX 2P MANUAL	2020	2020	80000	São João de Meriti - RJ	70990
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2019	2020	57816	Itaguaí - RJ	90900
+FORD KA	1.5 TI-VCT FLEX SE PLUS SEDAN MANUAL	2019	2020	73000	Campos dos Goytacazes - RJ	55000
+FORD KA	1.0 TI-VCT FLEX SE MANUAL	2020	2020	57913	Rio de Janeiro - RJ	56530
+VOLKSWAGEN VIRTUS	1.0 200 TSI COMFORTLINE AUTOMÁTICO	2019	2020	54194	Duque de Caxias - RJ	78590
+FIAT ARGO	1.0 FIREFLY FLEX DRIVE MANUAL	2019	2020	87687	Rio de Janeiro - RJ	55900
+CHEVROLET ONIX	1.0 TURBO FLEX LTZ AUTOMÁTICO	2019	2020	55042	Rio de Janeiro - RJ	82990
+VOLKSWAGEN POLO	1.0 MPI TOTAL FLEX MANUAL	2019	2020	71698	Rio de Janeiro - RJ	63990
+FORD KA	1.0 TI-VCT FLEX SE SEDAN MANUAL	2019	2020	110000	São Gonçalo - RJ	51600
+VOLKSWAGEN TIGUAN	1.4 250 TSI TOTAL FLEX ALLSPACE COMFORTLINE TIPTRONIC	2019	2020	41000	Rio de Janeiro - RJ	147500
+VOLKSWAGEN T-CROSS	1.0 200 TSI TOTAL FLEX COMFORTLINE AUTOMÁTICO	2019	2020	40000	Niterói - RJ	110900
+RENAULT CAPTUR	2.0 16V HI-FLEX INTENSE AUTOMÁTICO	2019	2020	53737	Duque de Caxias - RJ	85800
+PEUGEOT 2008	1.6 16V FLEX ALLURE PACK 4P AUTOMÁTICO	2019	2020	57000	Rio de Janeiro - RJ	65000
+VOLKSWAGEN AMAROK	3.0 V6 TDI DIESEL HIGHLINE CD 4MOTION AUTOMÁTICO	2019	2020	47000	Rio de Janeiro - RJ	225000
+RENAULT CAPTUR	2.0 16V HI-FLEX INTENSE AUTOMÁTICO	2019	2020	50350	Nova Iguaçu - RJ	82990
+VOLKSWAGEN POLO	1.0 MPI TOTAL FLEX MANUAL	2019	2020	58368	Nova Iguaçu - RJ	63990
+FIAT ARGO	1.0 FIREFLY FLEX DRIVE MANUAL	2020	2020	89052	Nova Iguaçu - RJ	57990
+CHEVROLET SPIN	1.8 LT 8V FLEX 4P AUTOMÁTICO	2020	2020	73000	Rio de Janeiro - RJ	64900
+VOLKSWAGEN POLO	1.6 MSI TOTAL FLEX MANUAL	2019	2020	47232	Teresópolis - RJ	68900
+FORD KA	1.5 TI-VCT FLEX SE MANUAL	2019	2020	57996	Rio de Janeiro - RJ	59990
+CHEVROLET SPIN	1.8 ACTIV7 8V FLEX 4P AUTOMÁTICO	2019	2020	51945	Rio de Janeiro - RJ	87900
+JEEP COMPASS	2.0 16V DIESEL S 4X4 AUTOMÁTICO	2020	2020	22000	Rio de Janeiro - RJ	185000
+JEEP COMPASS	2.0 16V FLEX LONGITUDE AUTOMÁTICO	2019	2020	52553	Rio de Janeiro - RJ	120990
+VOLKSWAGEN T-CROSS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2019	2020	60412	Rio de Janeiro - RJ	110600
+RENAULT CAPTUR	2.0 16V HI-FLEX INTENSE AUTOMÁTICO	2019	2020	51766	Rio de Janeiro - RJ	82990
+RENAULT SANDERO	1.6 16V SCE FLEX STEPWAY ICONIC X-TRONIC	2019	2020	50892	Rio de Janeiro - RJ	74610
+TOYOTA ETIOS	1.5 X PLUS SEDAN 16V FLEX 4P AUTOMÁTICO	2019	2020	69916	Rio de Janeiro - RJ	70990
+CHEVROLET CRUZE	1.4 TURBO FLEX PREMIER AUTOMÁTICO	2019	2020	28774	Rio de Janeiro - RJ	119900
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2020	2020	55766	Rio de Janeiro - RJ	92370
+RENAULT DUSTER	1.6 16V SCE FLEX GOPRO X-TRONIC	2019	2020	54055	Rio de Janeiro - RJ	83200
+JEEP COMPASS	2.0 16V FLEX LONGITUDE AUTOMÁTICO	2019	2020	49798	Volta Redonda - RJ	120990
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2020	2020	50113	Rio de Janeiro - RJ	92690
+FIAT ARGO	1.8 E.TORQ FLEX TREKKING AT6	2019	2020	36000	Rio de Janeiro - RJ	62490
+VOLKSWAGEN T-CROSS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2019	2020	50500	Volta Redonda - RJ	109990
+RENAULT DUSTER	1.6 16V SCE FLEX DYNAMIQUE X-TRONIC	2019	2020	63400	São Gonçalo - RJ	79900
+BMW X2	1.5 12V ACTIVEFLEX SDRIVE18I GP STEPTRONIC	2019	2020	26000	Niterói - RJ	198000
+FIAT ARGO	1.0 FIREFLY FLEX DRIVE MANUAL	2019	2020	59000	Rio de Janeiro - RJ	57990
+FIAT ARGO	1.0 FIREFLY FLEX DRIVE MANUAL	2019	2020	59000	Rio de Janeiro - RJ	57990
+PEUGEOT 3008	1.6 ALLURE THP 16V GASOLINA 4P AUTOMÁTICO	2019	2020	15000	Rio de Janeiro - RJ	167900
+CHEVROLET ONIX	1.0 TURBO FLEX LTZ AUTOMÁTICO	2019	2020	60798	Niterói - RJ	83900
+TOYOTA RAV4	2.5 VVT-IE HYBRID S CONNECT AWD CVT	2020	2020	99752	Rio de Janeiro - RJ	200000
+LAND ROVER DISCOVERY	3.0 V6 TD6 DIESEL HSE 4WD AUTOMÁTICO	2019	2020	22500	Rio de Janeiro - RJ	600000
+PORSCHE PANAMERA	2.9 V6 E-HYBRID 4 SPORT TURISMO PDK	2020	2020	12679	Rio de Janeiro - RJ	779900
+VOLKSWAGEN T-CROSS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2019	2020	52156	Niterói - RJ	114900
+VOLKSWAGEN POLO	1.6 MSI TOTAL FLEX AUTOMÁTICO	2019	2020	59122	Rio de Janeiro - RJ	70500
+JEEP RENEGADE	1.8 16V FLEX STD 4P AUTOMÁTICO	2020	2020	40000	Duque de Caxias - RJ	82000
+VOLKSWAGEN POLO	1.0 MPI TOTAL FLEX MANUAL	2019	2020	72956	Rio de Janeiro - RJ	63990
+CHEVROLET COBALT	1.8 MPFI LTZ 8V FLEX 4P AUTOMÁTICO	2019	2020	73944	Rio de Janeiro - RJ	74300
+CHEVROLET CRUZE	1.4 TURBO LT 16V FLEX 4P AUTOMÁTICO	2019	2020	50299	Rio de Janeiro - RJ	100440
+RENAULT SANDERO	1.6 16V SCE FLEX STEPWAY ZEN MANUAL	2019	2020	64540	Rio de Janeiro - RJ	67100
+FORD KA	1.5 TI-VCT FLEX SE MANUAL	2020	2020	58126	Rio de Janeiro - RJ	59480
+FORD KA	1.0 TI-VCT FLEX SE MANUAL	2020	2020	29423	Rio de Janeiro - RJ	55990
+NISSAN KICKS	1.6 16V FLEXSTART SV 4P XTRONIC	2020	2020	54461	Rio de Janeiro - RJ	93990
+FORD KA	1.0 TI-VCT FLEX SE SEDAN MANUAL	2020	2020	45370	Rio de Janeiro - RJ	55990
+HYUNDAI HB20S	1.6 16V FLEX VISION AUTOMÁTICO	2019	2020	24300	Rio de Janeiro - RJ	79990
+TOYOTA YARIS	1.5 16V FLEX XS CONNECT MULTIDRIVE	2019	2020	41900	Rio de Janeiro - RJ	89990
+VOLKSWAGEN T-CROSS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2019	2020	48222	Rio de Janeiro - RJ	109990
+TROLLER TX4	3.2 TGV 4X4 20V TURBO INTERCOOLER DIESEL 2P MANUAL	2020	2020	65800	Niterói - RJ	235000
+FORD RANGER	2.2 XLS 4X2 CD 16V DIESEL 4P AUTOMÁTICO	2019	2020	47000	Rio de Janeiro - RJ	155900
+CHEVROLET ONIX	1.0 TURBO FLEX PLUS LT MANUAL	2019	2020	28000	Niterói - RJ	74000
+CHEVROLET SPIN	1.8 ACTIV7 8V FLEX 4P AUTOMÁTICO	2019	2020	50677	Nova Iguaçu - RJ	86990
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2019	2020	53241	Nova Iguaçu - RJ	89990
+FORD ECOSPORT	2.0 DIRECT FLEX STORM 4WD AUTOMÁTICO	2019	2020	50176	Nova Iguaçu - RJ	87990
+FORD KA	1.0 TI-VCT FLEX SE MANUAL	2019	2020	90511	Nova Iguaçu - RJ	53990
+RENAULT CAPTUR	2.0 16V HI-FLEX INTENSE AUTOMÁTICO	2019	2020	51000	Rio de Janeiro - RJ	82990
+RENAULT CAPTUR	2.0 16V HI-FLEX INTENSE AUTOMÁTICO	2019	2020	52000	Rio de Janeiro - RJ	82990
+RENAULT CAPTUR	2.0 16V HI-FLEX INTENSE AUTOMÁTICO	2019	2020	53000	Rio de Janeiro - RJ	82990
+RENAULT CAPTUR	2.0 16V HI-FLEX INTENSE AUTOMÁTICO	2019	2020	52000	Rio de Janeiro - RJ	82990
+FIAT ARGO	1.0 FIREFLY FLEX DRIVE MANUAL	2019	2020	65000	Rio de Janeiro - RJ	57990
+RENAULT CAPTUR	2.0 16V HI-FLEX INTENSE AUTOMÁTICO	2019	2020	51000	Rio de Janeiro - RJ	82990
+NISSAN VERSA	1.6 16V FLEXSTART SV 4P XTRONIC	2020	2020	54000	Rio de Janeiro - RJ	73190
+FIAT ARGO	1.0 FIREFLY FLEX DRIVE MANUAL	2019	2020	72000	Rio de Janeiro - RJ	57990
+RENAULT CAPTUR	2.0 16V HI-FLEX INTENSE AUTOMÁTICO	2019	2020	53000	Rio de Janeiro - RJ	82990
+VOLKSWAGEN TIGUAN	1.4 250 TSI TOTAL FLEX ALLSPACE COMFORTLINE TIPTRONIC	2019	2020	20000	Rio de Janeiro - RJ	173000
+FORD KA	1.0 TI-VCT FLEX FREESTYLE MANUAL	2019	2020	40000	Nova Iguaçu - RJ	57900
+FIAT ARGO	1.8 E.TORQ FLEX TREKKING AT6	2020	2020	16500	Rio de Janeiro - RJ	75000
+VOLKSWAGEN AMAROK	3.0 V6 TDI DIESEL HIGHLINE CD 4MOTION AUTOMÁTICO	2019	2020	41000	Rio de Janeiro - RJ	220000
+FIAT ARGO	1.8 E.TORQ FLEX TREKKING AT6	2020	2020	16500	Rio de Janeiro - RJ	75000
+FORD KA	1.5 TI-VCT FLEX TITANIUM SEDAN AUTOMÁTICO	2019	2020	23000	Rio de Janeiro - RJ	75290
+FORD KA	1.5 TI-VCT FLEX TITANIUM SEDAN AUTOMÁTICO	2019	2020	23000	Rio de Janeiro - RJ	75290
+FORD KA	1.5 TI-VCT FLEX TITANIUM SEDAN AUTOMÁTICO	2019	2020	23000	Rio de Janeiro - RJ	75290
+FORD KA	1.5 TI-VCT FLEX TITANIUM SEDAN AUTOMÁTICO	2019	2020	23000	Rio de Janeiro - RJ	75290
+JEEP COMPASS	2.0 16V FLEX LONGITUDE AUTOMÁTICO	2019	2020	60000	Rio de Janeiro - RJ	119990
+BMW X2	2.0 TWINPOWER GASOLINA M35I XDRIVE STEPTRONIC	2020	2020	4950	Rio de Janeiro - RJ	313000
+VOLKSWAGEN VIRTUS	1.0 200 TSI COMFORTLINE AUTOMÁTICO	2019	2020	62554	Rio das Ostras - RJ	84490
+RENAULT LOGAN	1.6 16V SCE FLEX INTENSE X-TRONIC	2019	2020	53705	Nova Iguaçu - RJ	72410
+HONDA HR-V	1.8 16V FLEX EX 4P AUTOMÁTICO	2020	2020	26000	Rio de Janeiro - RJ	118000
+HONDA HR-V	1.8 16V FLEX EX 4P AUTOMÁTICO	2020	2020	26000	Rio de Janeiro - RJ	118000
+FORD KA	1.0 TI-VCT FLEX SE SEDAN MANUAL	2019	2020	59200	Nova Iguaçu - RJ	53990
+JEEP RENEGADE	2.0 16V TURBO DIESEL TRAILHAWK 4P 4X4 AUTOMÁTICO	2019	2020	34000	Rio de Janeiro - RJ	142000
+RENAULT KWID	1.0 12V SCE FLEX OUTSIDER MANUAL	2019	2020	81600	Rio de Janeiro - RJ	51990
+FORD ECOSPORT	1.5 TI-VCT FLEX SE AUTOMÁTICO	2019	2020	74770	Volta Redonda - RJ	75700
+CHEVROLET SPIN	1.8 LT 8V FLEX 4P AUTOMÁTICO	2019	2020	45000	Rio de Janeiro - RJ	79000
+FORD KA	1.0 TI-VCT FLEX SE MANUAL	2020	2020	26065	Teresópolis - RJ	56500
+FORD ECOSPORT	2.0 DIRECT FLEX STORM 4WD AUTOMÁTICO	2019	2020	50229	Rio de Janeiro - RJ	87990
+VOLKSWAGEN T-CROSS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2019	2020	55151	Rio de Janeiro - RJ	108990
+FIAT ARGO	1.0 FIREFLY FLEX DRIVE MANUAL	2019	2020	75477	Rio de Janeiro - RJ	57990
+FORD ECOSPORT	2.0 DIRECT FLEX STORM 4WD AUTOMÁTICO	2019	2020	36591	Rio de Janeiro - RJ	88990
+RENAULT CAPTUR	2.0 16V HI-FLEX INTENSE AUTOMÁTICO	2019	2020	60792	Rio de Janeiro - RJ	83990
+RENAULT LOGAN	1.0 12V SCE FLEX EXPRESSION MANUAL	2019	2020	82000	Nilópolis - RJ	45000
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2019	2020	54500	São João de Meriti - RJ	91490
+FORD KA	1.0 TI-VCT FLEX SE PLUS MANUAL	2020	2020	48000	Rio de Janeiro - RJ	48000
+NISSAN LEAF	B12P 40 ELÉTRICO	2020	2020	9000	São Pedro da Aldeia - RJ	194000
+FORD KA	1.5 TI-VCT FLEX SE PLUS SEDAN MANUAL	2019	2020	29867	Rio de Janeiro - RJ	65940
+VOLKSWAGEN SAVEIRO	1.6 MSI ROBUST CS 8V FLEX 2P MANUAL	2019	2020	30000	Niterói - RJ	67000
+BMW X1	2.0 16V TURBO ACTIVEFLEX SDRIVE20I 4P AUTOMÁTICO	2019	2020	34500	Itaperuna - RJ	205000
+CHEVROLET JOY	1.0 SPE4 FLEX MANUAL	2020	2020	57737	Nova Iguaçu - RJ	59210
+VOLKSWAGEN VIRTUS	1.0 200 TSI COMFORTLINE AUTOMÁTICO	2019	2020	62482	Nova Iguaçu - RJ	81990
+FORD KA	1.5 TI-VCT FLEX SE MANUAL	2020	2020	67995	Nova Iguaçu - RJ	60930
+CHEVROLET JOY	1.0 SPE4 FLEX PLUS MANUAL	2020	2020	45626	Nova Iguaçu - RJ	62690
+HONDA FIT	1.5 EX 16V FLEX 4P AUTOMÁTICO	2019	2020	18700	Rio de Janeiro - RJ	90900
+JEEP COMPASS	2.0 16V FLEX SPORT AUTOMÁTICO	2019	2020	37000	Rio de Janeiro - RJ	115000
+VOLKSWAGEN JETTA	1.4 250 TSI TOTAL FLEX COMFORTLINE TIPTRONIC	2020	2020	29000	Rio de Janeiro - RJ	123900
+LAND ROVER DISCOVERY SPORT	2.0 P250 TURBO FLEX SE AUTOMÁTICO	2019	2020	23000	Rio de Janeiro - RJ	300000
+RENAULT LOGAN	1.0 12V SCE FLEX AUTHENTIQUE MANUAL	2019	2020	65000	Rio de Janeiro - RJ	35000
+FORD KA	1.0 TI-VCT FLEX SE MANUAL	2019	2020	36700	Rio de Janeiro - RJ	50800
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2019	2020	18000	Rio de Janeiro - RJ	92000
+HONDA CIVIC	1.5 16V TURBO GASOLINA TOURING 4P CVT	2020	2020	75750	Rio de Janeiro - RJ	145000
+RENAULT KWID	1.0 12V SCE FLEX OUTSIDER MANUAL	2019	2020	76600	Nova Iguaçu - RJ	52840
+RENAULT CAPTUR	2.0 16V HI-FLEX INTENSE AUTOMÁTICO	2019	2020	48133	Nova Iguaçu - RJ	82990
+RENAULT SANDERO	1.6 16V SCE FLEX INTENSE X-TRONIC	2019	2020	50400	Nova Iguaçu - RJ	70900
+VOLKSWAGEN T-CROSS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2020	2020	50232	Rio de Janeiro - RJ	114990
+CHEVROLET ONIX	1.0 TURBO FLEX LTZ AUTOMÁTICO	2019	2020	73334	Rio de Janeiro - RJ	79990
+JEEP COMPASS	2.0 16V FLEX LONGITUDE AUTOMÁTICO	2019	2020	60276	Rio de Janeiro - RJ	122990
+NISSAN KICKS	1.6 16V FLEXSTART SV 4P XTRONIC	2019	2020	53572	Rio de Janeiro - RJ	93990
+FORD KA	1.5 TI-VCT FLEX FREESTYLE AUTOMÁTICO	2019	2020	31631	Rio de Janeiro - RJ	68990
+CHEVROLET ONIX	1.0 TURBO FLEX LTZ AUTOMÁTICO	2020	2020	50775	Rio de Janeiro - RJ	82990
+FORD KA	1.0 TI-VCT FLEX SE SEDAN MANUAL	2019	2020	66912	Rio de Janeiro - RJ	57990
+LAND ROVER RANGE ROVER VELAR	2.0 P300 GASOLINA R-DYNAMIC SE AUTOMÁTICO	2020	2020	23045	Rio de Janeiro - RJ	550000000
+CHEVROLET SPIN	1.8 ACTIV7 8V FLEX 4P AUTOMÁTICO	2019	2020	232000	Rio de Janeiro - RJ	82900
+AUDI Q3	1.4 35 TFSI GASOLINA PRESTIGE PLUS S TRONIC	2020	2020	17000	Rio de Janeiro - RJ	215990
+FORD KA	1.0 TI-VCT FLEX SE MANUAL	2020	2020	38491	Rio de Janeiro - RJ	55690
+HYUNDAI HB20	1.0 12V FLEX SENSE MANUAL	2020	2020	44000	Rio de Janeiro - RJ	61990
+HYUNDAI CRETA	1.6 16V FLEX ATTITUDE AUTOMÁTICO	2019	2020	26500	Rio de Janeiro - RJ	88950
+CHEVROLET ONIX	1.0 TURBO FLEX PREMIER AUTOMÁTICO	2019	2020	10500	Rio de Janeiro - RJ	83999
+TOYOTA COROLLA	1.8 VVT-I HYBRID FLEX ALTIS CVT	2020	2020	30800	Niterói - RJ	147500
+CAOA CHERY TIGGO 5x	1.5 VVT TURBO iFLEX T DCT	2019	2020	83000	Rio de Janeiro - RJ	87200
+AUDI A3	1.4 TFSI GASOLINA SPORTBACK PRESTIGE PLUS S-TRONIC	2020	2020	13000	Petrópolis - RJ	169900
+VOLKSWAGEN POLO	1.6 MSI TOTAL FLEX MANUAL	2019	2020	47232	Petrópolis - RJ	68900
+VOLKSWAGEN POLO	1.6 MSI TOTAL FLEX MANUAL	2019	2020	47232	Rio das Ostras - RJ	68900
+VOLVO XC60	2.0 T8 HYBRID MOMENTUM AWD GEARTRONIC	2020	2020	19978	Rio de Janeiro - RJ	309900
+FORD RANGER	3.2 LIMITED 4X4 CD 20V DIESEL 4P AUTOMÁTICO	2019	2020	33000	Araruama - RJ	270000
+LAND ROVER DISCOVERY	3.0 V6 TD6 DIESEL HSE LUXURY 4WD AUTOMÁTICO	2019	2020	48000	Cabo Frio - RJ	580000
+JEEP COMPASS	2.0 16V DIESEL LIMITED 4X4 AUTOMÁTICO	2020	2020	25000	Rio de Janeiro - RJ	182900
+VOLKSWAGEN POLO	1.0 MPI TOTAL FLEX MANUAL	2019	2020	61000	Duque de Caxias - RJ	63990
+VOLKSWAGEN POLO	1.4 250 TSI GTS AUTOMÁTICO	2020	2020	30000	Rio de Janeiro - RJ	109900
+FORD KA	1.5 TI-VCT FLEX TITANIUM SEDAN AUTOMÁTICO	2019	2020	54000	Rio de Janeiro - RJ	67000
+JEEP COMPASS	2.0 16V FLEX SPORT AUTOMÁTICO	2020	2020	25115	Rio de Janeiro - RJ	117900
+JEEP RENEGADE	1.8 16V FLEX STD 4P AUTOMÁTICO	2019	2020	22000	Rio de Janeiro - RJ	86990
+JEEP COMPASS	2.0 16V DIESEL LONGITUDE 4X4 AUTOMÁTICO	2019	2020	46000	Rio de Janeiro - RJ	157000
+CAOA CHERY TIGGO 5x	1.5 VVT TURBO iFLEX TXS DCT	2019	2020	25300	Rio de Janeiro - RJ	103900
+VOLKSWAGEN JETTA	2.0 350 TSI GASOLINA GLI DSG	2020	2020	46650	Rio de Janeiro - RJ	179900
+BMW i3	ELÉTRICO eDRIVE BEV AUTOMÁTICO	2020	2020	33000	Rio de Janeiro - RJ	219000
+JEEP COMPASS	2.0 16V FLEX LONGITUDE AUTOMÁTICO	2019	2020	27500	Rio de Janeiro - RJ	125000
+FIAT TORO	1.8 16V EVO FLEX FREEDOM AT6	2019	2020	53000	Rio de Janeiro - RJ	102980
+MINI COOPER	2.0 16V TWINPOWER GASOLINA S 2P STEPTRONIC	2019	2020	17561	Rio de Janeiro - RJ	185000
+MERCEDES-BENZ C 300	2.0 CGI GASOLINA SPORT 9G-TRONIC	2020	2020	9600	Rio de Janeiro - RJ	379900
+RENAULT LOGAN	1.6 16V SCE FLEX ZEN MANUAL	2019	2020	52793	Rio de Janeiro - RJ	62899
+JEEP COMPASS	2.0 16V FLEX SPORT AUTOMÁTICO	2020	2020	37253	Nova Iguaçu - RJ	122840
+RENAULT LOGAN	1.6 16V SCE FLEX INTENSE X-TRONIC	2019	2020	76175	Nova Iguaçu - RJ	70550
+HONDA WR-V	1.5 16V FLEXONE EXL CVT	2020	2020	43842	Teresópolis - RJ	99900
+VOLKSWAGEN POLO	1.0 200 TSI COMFORTLINE AUTOMÁTICO	2019	2020	50000	Cabo Frio - RJ	77000
+LAND ROVER DISCOVERY SPORT	2.0 D180 TURBO DIESEL SE AUTOMÁTICO	2019	2020	40000	Rio de Janeiro - RJ	285000
+AUDI Q3	1.4 35 TFSI GASOLINA PRESTIGE S TRONIC	2020	2020	49054	Rio de Janeiro - RJ	214900
+VOLKSWAGEN POLO	1.0 MPI TOTAL FLEX MANUAL	2019	2020	59532	Volta Redonda - RJ	63990
+FORD ECOSPORT	1.5 TI-VCT FLEX SE AUTOMÁTICO	2019	2020	58922	Volta Redonda - RJ	77640
+RENAULT MASTER	2.3 DCI DIESEL FURGÃO L1H1 3P MANUAL	2019	2020	59328	Rio de Janeiro - RJ	165990
+RENAULT DUSTER	1.6 16V SCE FLEX DYNAMIQUE X-TRONIC	2019	2020	62100	Rio das Ostras - RJ	77490
+TOYOTA ETIOS	1.5 X PLUS SEDAN 16V FLEX 4P AUTOMÁTICO	2019	2020	70000	Nova Iguaçu - RJ	71990
+MITSUBISHI PAJERO SPORT	2.4 16V MIVEC TURBO DIESEL HPE AWD AUTOMÁTICO	2019	2020	45000	Rio de Janeiro - RJ	323500
+FIAT UNO	1.0 FIRE FLEX ATTRACTIVE MANUAL	2019	2020	29910	Rio de Janeiro - RJ	48500
+VOLKSWAGEN TIGUAN	1.4 250 TSI TOTAL FLEX ALLSPACE COMFORTLINE TIPTRONIC	2019	2020	61959	Rio de Janeiro - RJ	166990
+FIAT STRADA	1.4 MPI HARD WORKING CS 8V FLEX 2P MANUAL	2019	2020	51000	Rio de Janeiro - RJ	60000
+TOYOTA HILUX SW4	2.8 SRX 4X4 7 LUGARES 16V TURBO INTERCOOLER DIESEL 4P AUTOMÁTICO	2020	2020	37000	Rio de Janeiro - RJ	315000
+HONDA FIT	1.5 EXL 16V FLEX 4P AUTOMÁTICO	2019	2020	48700	Rio de Janeiro - RJ	92990
+FORD KA	1.0 TI-VCT FLEX SE MANUAL	2020	2020	45950	Rio de Janeiro - RJ	54990
+FIAT CRONOS	1.3 FIREFLY FLEX DRIVE MANUAL	2020	2020	50079	Rio de Janeiro - RJ	71990
+FIAT ARGO	1.0 FIREFLY FLEX DRIVE MANUAL	2020	2021	67877	Rio de Janeiro - RJ	65990
+NISSAN KICKS	1.6 16V FLEXSTART SV 4P XTRONIC	2021	2021	53102	Rio de Janeiro - RJ	111400
+FIAT DOBLÒ	1.8 MPI ESSENCE 7L 16V FLEX 4P MANUAL	2020	2021	49463	Rio de Janeiro - RJ	90720
+PEUGEOT 208	1.6 16V FLEX ACTIVE PACK AT6	2020	2021	54598	Rio de Janeiro - RJ	77990
+FIAT TORO	1.8 16V EVO FLEX FREEDOM AT6	2021	2021	52700	Nova Iguaçu - RJ	112570
+FORD ECOSPORT	1.5 TI-VCT FLEX SE AUTOMÁTICO	2020	2021	54554	Nova Iguaçu - RJ	85090
+CHEVROLET SPIN	1.8 PREMIER 8V FLEX 4P AUTOMÁTICO	2020	2021	50400	Nova Iguaçu - RJ	89990
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2020	2021	51186	Nova Iguaçu - RJ	93990
+FIAT DOBLÒ	1.8 MPI ESSENCE 7L 16V FLEX 4P MANUAL	2020	2021	53024	Rio de Janeiro - RJ	88610
+VOLKSWAGEN VIRTUS	1.0 200 TSI COMFORTLINE AUTOMÁTICO	2020	2021	60000	Rio de Janeiro - RJ	84490
+FIAT DOBLÒ	1.8 MPI ESSENCE 7L 16V FLEX 4P MANUAL	2020	2021	56185	Rio de Janeiro - RJ	89150
+FIAT FIORINO	1.4 MPI FURGÃO ENDURANCE 8V FLEX 2P MANUAL	2021	2021	74653	Rio de Janeiro - RJ	80990
+FIAT ARGO	1.0 FIREFLY FLEX DRIVE MANUAL	2020	2021	71518	Rio de Janeiro - RJ	60990
+PEUGEOT 2008	1.6 16V FLEX ALLURE PACK 4P AUTOMÁTICO	2020	2021	52000	Rio de Janeiro - RJ	74990
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2020	2021	50003	Rio de Janeiro - RJ	93990
+CHEVROLET TRACKER	1.2 TURBO FLEX PREMIER AUTOMÁTICO	2020	2021	58873	Rio de Janeiro - RJ	119990
+FIAT FIORINO	1.4 MPI FURGÃO HARD WORKING 8V FLEX 2P MANUAL	2020	2021	54149	Nova Iguaçu - RJ	79990
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2020	2021	51796	Nova Iguaçu - RJ	93990
+JEEP COMPASS	2.0 16V FLEX LONGITUDE AUTOMÁTICO	2020	2021	24000	Rio de Janeiro - RJ	132900
+VOLKSWAGEN VOYAGE	1.6 MSI TOTALFLEX 4P MANUAL	2020	2021	53663	Rio de Janeiro - RJ	60990
+VOLKSWAGEN VOYAGE	1.6 MSI TOTALFLEX 4P MANUAL	2021	2021	29000	Rio de Janeiro - RJ	55900
+MERCEDES-BENZ GLC 220d	2.0 TURBO DIESEL ENDURO 9G-TRONIC	2021	2021	23000	Rio de Janeiro - RJ	435990
+VOLKSWAGEN NIVUS	1.0 200 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2020	2021	32000	Rio de Janeiro - RJ	189990
+NISSAN VERSA	1.6 16V FLEX EXCLUSIVE XTRONIC	2020	2021	29000	Rio de Janeiro - RJ	99900
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2020	2021	51188	Rio de Janeiro - RJ	97090
+VOLKSWAGEN NIVUS	1.0 200 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2021	2021	9500	Rio de Janeiro - RJ	128900
+FIAT CRONOS	1.3 FIREFLY FLEX DRIVE MANUAL	2021	2021	54197	Rio de Janeiro - RJ	74990
+TOYOTA COROLLA	2.0 VVT-IE FLEX XEI DIRECT SHIFT	2021	2021	9000	Rio de Janeiro - RJ	139990
+RENAULT LOGAN	1.0 12V SCE FLEX LIFE MANUAL	2020	2021	63100	Rio de Janeiro - RJ	45900
+VOLKSWAGEN VIRTUS	1.6 MSI TOTAL FLEX AUTOMÁTICO	2021	2021	30000	Rio de Janeiro - RJ	79900
+VOLKSWAGEN GOL	1.6 MSI TOTALFLEX 4P MANUAL	2021	2021	29000	Rio de Janeiro - RJ	51900
+JEEP COMPASS	2.0 16V DIESEL LIMITED 4X4 AUTOMÁTICO	2020	2021	33000	Rio de Janeiro - RJ	185990
+VOLKSWAGEN GOL	1.0 12V MPI TOTALFLEX 4P MANUAL	2020	2021	67722	Rio de Janeiro - RJ	53990
+FORD RANGER	3.2 XLT 4X4 CD 20V DIESEL 4P AUTOMÁTICO	2020	2021	38000	Rio de Janeiro - RJ	210990
+RENAULT CAPTUR	1.6 16V SCE FLEX BOSE X-TRONIC	2020	2021	27000	Rio de Janeiro - RJ	99900
+FIAT TORO	1.8 16V EVO FLEX ENDURANCE AT6	2020	2021	44674	Rio de Janeiro - RJ	102830
+JEEP COMPASS	2.0 16V DIESEL LIMITED 4X4 AUTOMÁTICO	2021	2021	6472	Rio de Janeiro - RJ	194910
+JEEP COMPASS	2.0 16V DIESEL LIMITED 4X4 AUTOMÁTICO	2021	2021	17500	Niterói - RJ	192070
+VOLKSWAGEN VOYAGE	1.6 MSI TOTALFLEX 4P MANUAL	2020	2021	59000	Rio de Janeiro - RJ	69900
+RENAULT CAPTUR	1.6 16V SCE FLEX BOSE X-TRONIC	2020	2021	25000	Rio de Janeiro - RJ	100990
+VOLKSWAGEN VIRTUS	1.6 MSI TOTAL FLEX AUTOMÁTICO	2020	2021	21000	Rio de Janeiro - RJ	80900
+JEEP RENEGADE	2.0 16V TURBO DIESEL LONGITUDE 4P 4X4 AUTOMÁTICO	2021	2021	19051	Rio de Janeiro - RJ	158880
+TOYOTA COROLLA	2.0 VVT-IE FLEX ALTIS DIRECT SHIFT	2020	2021	23000	Rio de Janeiro - RJ	152990
+FIAT CRONOS	1.8 E.TORQ FLEX HGT AT6	2021	2021	25015	Rio de Janeiro - RJ	92030
+FIAT CRONOS	1.8 E.TORQ FLEX HGT AT6	2021	2021	40647	Rio de Janeiro - RJ	90650
+FIAT DOBLÒ	1.8 MPI CARGO16V FLEX 4P MANUAL	2021	2021	21106	Rio de Janeiro - RJ	85990
+JEEP COMPASS	2.0 16V FLEX LONGITUDE AUTOMÁTICO	2020	2021	21199	Nova Iguaçu - RJ	138700
+FIAT MOBI	1.0 EVO FLEX LIKE. MANUAL	2021	2021	31174	Rio de Janeiro - RJ	52470
+VOLKSWAGEN VIRTUS	1.0 200 TSI COMFORTLINE AUTOMÁTICO	2020	2021	48126	Rio de Janeiro - RJ	86120
+FIAT CRONOS	1.8 E.TORQ FLEX HGT AT6	2021	2021	40775	Rio de Janeiro - RJ	90650
+CHEVROLET ONIX	1.0 TURBO FLEX LT MANUAL	2020	2021	13000	Rio de Janeiro - RJ	76900
+FIAT DOBLÒ	1.8 MPI CARGO16V FLEX 4P MANUAL	2021	2021	18726	Niterói - RJ	80990
+PORSCHE 911	3.0 24V H6 GASOLINA CARRERA PDK	2021	2021	1185	Rio de Janeiro - RJ	970000
+TOYOTA HILUX SW4	2.8 D-4D TURBO DIESEL SRX 7L 4X4 AUTOMÁTICO	2021	2021	16000	Duque de Caxias - RJ	364900
+FIAT TORO	2.0 16V TURBO DIESEL VOLCANO 4WD AT9	2020	2021	58000	Rio de Janeiro - RJ	149990
+JEEP RENEGADE	1.8 16V FLEX STD 4P AUTOMÁTICO	2021	2021	25249	Rio de Janeiro - RJ	90990
+JEEP RENEGADE	2.0 16V TURBO DIESEL LONGITUDE 4P 4X4 AUTOMÁTICO	2021	2021	25064	Rio de Janeiro - RJ	156540
+VOLKSWAGEN T-CROSS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2020	2021	53000	Rio de Janeiro - RJ	126990
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL PACK EAT6	2020	2021	54390	Rio de Janeiro - RJ	87590
+CHEVROLET TRACKER	1.2 TURBO FLEX PREMIER AUTOMÁTICO	2020	2021	58647	Rio de Janeiro - RJ	120000
+JEEP COMPASS	2.0 16V FLEX LONGITUDE AUTOMÁTICO	2020	2021	53099	Rio de Janeiro - RJ	129110
+CHEVROLET TRACKER	1.2 TURBO FLEX PREMIER AUTOMÁTICO	2020	2021	52000	Rio de Janeiro - RJ	129990
+JEEP COMPASS	2.0 16V FLEX LONGITUDE AUTOMÁTICO	2020	2021	40000	Mesquita - RJ	129900
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2020	2021	48996	Niterói - RJ	93990
+FIAT CRONOS	1.8 E.TORQ FLEX PRECISION AT6	2021	2021	50488	Niterói - RJ	89900
+BMW X1	2.0 16V TURBO ACTIVEFLEX SDRIVE20I 4P AUTOMÁTICO	2020	2021	21130	Niterói - RJ	222900
+VOLKSWAGEN GOL	1.0 12V MPI TOTALFLEX 4P MANUAL	2020	2021	68105	Niterói - RJ	54490
+VOLKSWAGEN VOYAGE	1.0 12V MPI TOTALFLEX 4P MANUAL	2020	2021	61409	Niterói - RJ	53990
+HYUNDAI HB20	1.0 12V FLEX EVOLUTION MANUAL	2021	2021	9500	Rio de Janeiro - RJ	67900
+CHEVROLET SPIN	1.8 PREMIER 8V FLEX 4P AUTOMÁTICO	2021	2021	28000	Rio de Janeiro - RJ	82900
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2021	2021	20000	Rio de Janeiro - RJ	87990
+CHEVROLET ONIX	1.0 TURBO FLEX PLUS LTZ MANUAL	2020	2021	65442	Duque de Caxias - RJ	77320
+VOLKSWAGEN NIVUS	1.0 200 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2021	2021	15607	Rio de Janeiro - RJ	122900
+VOLKSWAGEN POLO	1.0 MPI TOTAL FLEX MANUAL	2020	2021	30273	Rio de Janeiro - RJ	67970
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2020	2021	45178	Rio de Janeiro - RJ	95580
+CHEVROLET ONIX	1.0 TURBO FLEX PREMIER AUTOMÁTICO	2020	2021	57000	Rio de Janeiro - RJ	91990
+JEEP RENEGADE	1.8 16V FLEX 4P AUTOMÁTICO	2021	2021	5477	Rio de Janeiro - RJ	99870
+VOLKSWAGEN VOYAGE	1.6 MSI TOTALFLEX 4P MANUAL	2020	2021	100	São João de Meriti - RJ	57900
+FIAT MOBI	1.0 EVO FLEX LIKE. MANUAL	2021	2021	37610	Rio de Janeiro - RJ	53460
+CHEVROLET ONIX	1.0 TURBO FLEX PLUS LTZ MANUAL	2021	2021	100	Rio de Janeiro - RJ	83990
+CITROËN C4 CACTUS	1.6 THP FLEX SHINE EAT6	2020	2021	9145	Rio de Janeiro - RJ	113870
+FIAT MOBI	1.0 EVO FLEX EASY MANUAL	2021	2021	1274	Rio de Janeiro - RJ	56170
+NISSAN KICKS	1.6 16V FLEXSTART SV 4P XTRONIC	2020	2021	10066	Rio de Janeiro - RJ	107470
+VOLKSWAGEN NIVUS	1.0 200 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2021	2021	6275	Rio de Janeiro - RJ	128370
+HONDA CITY	1.5 EXL 16V FLEX 4P AUTOMÁTICO	2021	2021	5626	Rio de Janeiro - RJ	107870
+VOLKSWAGEN NIVUS	1.0 200 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2020	2021	11147	Rio de Janeiro - RJ	126970
+CHEVROLET ONIX	1.0 TURBO FLEX PREMIER AUTOMÁTICO	2020	2021	21155	Rio de Janeiro - RJ	93870
+FORD ECOSPORT	1.5 TI-VCT FLEX SE AUTOMÁTICO	2021	2021	11303	Rio de Janeiro - RJ	84370
+VOLKSWAGEN FOX	1.6 MSI TOTAL FLEX XTREME 4P MANUAL	2021	2021	14253	Rio de Janeiro - RJ	74870
+JEEP COMPASS	2.0 16V FLEX LONGITUDE AUTOMÁTICO	2020	2021	9873	Rio de Janeiro - RJ	141470
+JEEP RENEGADE	1.8 16V FLEX LIMITED 4P AUTOMÁTICO	2021	2021	26295	Rio de Janeiro - RJ	121370
+PORSCHE TAYCAN	ELÉTRICO	2021	2021	8630	Rio de Janeiro - RJ	699000
+FIAT CRONOS	1.8 E.TORQ FLEX HGT AT6	2021	2021	23731	Rio de Janeiro - RJ	93410
+VOLKSWAGEN VOYAGE	1.6 MSI TOTALFLEX 4P MANUAL	2020	2021	52000	Rio de Janeiro - RJ	60490
+VOLKSWAGEN VOYAGE	1.6 MSI TOTALFLEX 4P MANUAL	2020	2021	50872	Rio de Janeiro - RJ	60490
+FIAT TORO	2.0 16V TURBO DIESEL RANCH 4WD AT9	2020	2021	20000	Rio de Janeiro - RJ	178900
+FORD TERRITORY	1.5 ECOBOOST GTDI GASOLINA SEL AUTOMÁTICO	2020	2021	9000	Petrópolis - RJ	159900
+HONDA CIVIC	2.0 16V FLEXONE EXL 4P CVT	2021	2021	22233	Rio de Janeiro - RJ	140000
+NISSAN FRONTIER	2.3 16V TURBO DIESEL XE CD 4X4 AUTOMÁTICO	2021	2021	13560	Rio de Janeiro - RJ	205000
+TROLLER T4	3.2 TGV 4X4 20V TURBO INTERCOOLER DIESEL 2P AUTOMÁTICO	2021	2021	2989	Rio de Janeiro - RJ	259900
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2020	2021	56535	Rio de Janeiro - RJ	94990
+VOLKSWAGEN T-CROSS	1.0 200 TSI TOTAL FLEX SENSE AUTOMÁTICO	2021	2021	10700	Rio de Janeiro - RJ	105000
+VOLKSWAGEN GOL	1.6 MSI TOTALFLEX 4P MANUAL	2020	2021	80793	Rio de Janeiro - RJ	58490
+VOLKSWAGEN VOYAGE	1.6 MSI TOTALFLEX 4P MANUAL	2020	2021	57160	Itaguaí - RJ	60490
+TOYOTA HILUX SW4	2.8 D-4D TURBO DIESEL SRX 7L 4X4 AUTOMÁTICO	2020	2021	21000	Rio de Janeiro - RJ	355000
+CHEVROLET TRACKER	1.0 TURBO FLEX LTZ AUTOMÁTICO	2020	2021	20000	Rio de Janeiro - RJ	115900
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2021	2021	54583	Itaguaí - RJ	95900
+TOYOTA HILUX	2.8 D-4D TURBO DIESEL CD SRX 4X4 AUTOMÁTICO	2021	2021	5900	Rio de Janeiro - RJ	299900
+CHEVROLET TRACKER	1.2 TURBO FLEX PREMIER AUTOMÁTICO	2020	2021	54356	Itaguaí - RJ	122990
+HONDA WR-V	1.5 16V FLEXONE EXL CVT	2020	2021	18511	Niterói - RJ	101900
+HONDA CITY	1.5 EXL 16V FLEX 4P AUTOMÁTICO	2020	2021	40473	Niterói - RJ	104400
+CHEVROLET ONIX	1.0 TURBO FLEX RS AUTOMÁTICO	2021	2021	12592	Maricá - RJ	87900
+JEEP COMPASS	2.0 16V DIESEL LONGITUDE 4X4 AUTOMÁTICO	2021	2021	100	Maricá - RJ	194900
+JEEP RENEGADE	2.0 16V TURBO DIESEL LONGITUDE 4P 4X4 AUTOMÁTICO	2021	2021	24000	Rio de Janeiro - RJ	151500
+JEEP COMPASS	2.0 16V DIESEL LONGITUDE 4X4 AUTOMÁTICO	2021	2021	26000	Nova Friburgo - RJ	178700
+VOLKSWAGEN VOYAGE	1.6 MSI TOTALFLEX 4P MANUAL	2020	2021	54640	Itaguaí - RJ	60490
+CHEVROLET ONIX	1.0 TURBO FLEX PLUS LTZ AUTOMÁTICO	2020	2021	53236	Itaguaí - RJ	85990
+MERCEDES-BENZ GLB 200	1.3 CGI GASOLINA PROGRESSIVE 7G-DCT	2021	2021	13000	Niterói - RJ	355000
+CHEVROLET TRACKER	1.2 TURBO FLEX PREMIER AUTOMÁTICO	2021	2021	17499	Rio de Janeiro - RJ	126999
+JEEP COMPASS	2.0 16V DIESEL S 4X4 AUTOMÁTICO	2021	2021	37000	Campos dos Goytacazes - RJ	195000
+CHEVROLET SPIN	1.8 PREMIER 8V FLEX 4P AUTOMÁTICO	2020	2021	55761	Rio de Janeiro - RJ	90590
+VOLKSWAGEN GOL	1.0 12V MPI TOTALFLEX 4P MANUAL	2020	2021	77890	Nova Iguaçu - RJ	52990
+FIAT FIORINO	1.4 MPI FURGÃO ENDURANCE 8V FLEX 2P MANUAL	2021	2021	13254	Rio de Janeiro - RJ	92810
+PEUGEOT 2008	1.6 16V FLEX ALLURE PACK 4P AUTOMÁTICO	2020	2021	37867	Rio de Janeiro - RJ	91580
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2020	2021	53484	Nova Iguaçu - RJ	93990
+FIAT FIORINO	1.4 MPI FURGÃO HARD WORKING 8V FLEX 2P MANUAL	2020	2021	87106	Nova Iguaçu - RJ	79990
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2020	2021	60755	Nova Iguaçu - RJ	93990
+VOLKSWAGEN VIRTUS	1.0 200 TSI COMFORTLINE AUTOMÁTICO	2020	2021	53932	Nova Iguaçu - RJ	84990
+MERCEDES-BENZ GLE 53 AMG	3.0 I6 GASOLINA 4MATIC+ 9G-TRONIC	2021	2021	34000	Rio de Janeiro - RJ	899000
+CHEVROLET TRACKER	1.2 TURBO FLEX PREMIER AUTOMÁTICO	2021	2021	74279	Rio de Janeiro - RJ	118400
+CHEVROLET TRACKER	1.0 TURBO FLEX LTZ AUTOMÁTICO	2020	2021	35243	Rio de Janeiro - RJ	114430
+CHEVROLET TRACKER	1.0 TURBO FLEX LTZ AUTOMÁTICO	2020	2021	56857	Nova Iguaçu - RJ	112300
+VOLKSWAGEN GOL	1.6 MSI TOTALFLEX 4P MANUAL	2020	2021	54478	Nova Iguaçu - RJ	56990
+FIAT DOBLÒ	1.8 MPI ESSENCE 7L 16V FLEX 4P MANUAL	2020	2021	53260	Nova Iguaçu - RJ	91690
+FIAT TORO	1.8 16V EVO FLEX FREEDOM AT6	2021	2021	60895	Nova Iguaçu - RJ	110710
+FIAT DOBLÒ	1.8 MPI ESSENCE 7L 16V FLEX 4P MANUAL	2020	2021	53000	Nova Iguaçu - RJ	90990
+JEEP COMPASS	2.0 16V FLEX LONGITUDE AUTOMÁTICO	2020	2021	41737	Rio de Janeiro - RJ	168999
+BMW 330e	2.0 16V TURBO HÍBRIDO M SPORT AUTOMÁTICO	2021	2021	4700	Rio de Janeiro - RJ	322900
+JEEP COMPASS	2.0 16V DIESEL TRAILHAWK 4X4 AUTOMÁTICO	2020	2021	38445	Rio das Ostras - RJ	193990
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2021	2021	6090	Rio de Janeiro - RJ	104890
+VOLKSWAGEN VOYAGE	1.6 MSI TOTALFLEX 4P MANUAL	2020	2021	57183	Nova Iguaçu - RJ	60490
+AUDI Q5	2.0 45 TFSI GASOLINA S-LINE QUATTRO S TRONIC	2021	2021	5515	Rio de Janeiro - RJ	330000
+FIAT TORO	2.0 16V TURBO DIESEL ULTRA 4WD AT9	2020	2021	31000	Petrópolis - RJ	174900
+TOYOTA HILUX SW4	2.8 D-4D TURBO DIESEL SRX 7L 4X4 AUTOMÁTICO	2021	2021	25000	Rio de Janeiro - RJ	459900
+VOLKSWAGEN T-CROSS	1.0 200 TSI TOTAL FLEX AUTOMÁTICO	2021	2021	43000	Rio de Janeiro - RJ	99000
+FORD RANGER	3.2 LIMITED 4X4 CD 20V DIESEL 4P AUTOMÁTICO	2021	2021	16000	Rio de Janeiro - RJ	245000
+VOLKSWAGEN GOL	1.0 12V MPI TOTALFLEX 4P MANUAL	2020	2021	72000	Nova Iguaçu - RJ	52990
+VOLKSWAGEN VOYAGE	1.6 MSI TOTALFLEX 4P MANUAL	2020	2021	56939	Nova Iguaçu - RJ	60490
+JEEP COMPASS	2.0 16V DIESEL S 4X4 AUTOMÁTICO	2021	2021	41000	Duque de Caxias - RJ	170000
+RENAULT LOGAN	1.0 12V SCE FLEX ZEN MANUAL	2020	2021	75200	Nova Iguaçu - RJ	58990
+CHEVROLET SPIN	1.8 PREMIER 8V FLEX 4P AUTOMÁTICO	2020	2021	72497	Nova Iguaçu - RJ	98380
+VOLKSWAGEN GOL	1.6 MSI TOTALFLEX 4P MANUAL	2020	2021	57302	Nova Iguaçu - RJ	54490
+CHEVROLET ONIX	1.0 TURBO FLEX PLUS LTZ AUTOMÁTICO	2020	2021	62449	Nova Iguaçu - RJ	82490
+DODGE RAM	5.7 V8 GASOLINA 1500 REBEL CD 4X4 AUTOMÁTICO	2021	2021	10600	Rio de Janeiro - RJ	479900
+VOLKSWAGEN T-CROSS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2020	2021	54916	Volta Redonda - RJ	119690
+RENAULT SANDERO	1.6 16V SCE FLEX STEPWAY ZEN MANUAL	2020	2021	55270	Nova Iguaçu - RJ	69760
+CHEVROLET TRACKER	1.0 TURBO FLEX LTZ AUTOMÁTICO	2020	2021	60192	Itaguaí - RJ	108990
+VOLKSWAGEN NIVUS	1.0 200 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2021	2021	17714	Nova Iguaçu - RJ	130900
+FIAT MOBI	1.0 EVO FLEX LIKE. MANUAL	2021	2021	12186	Nova Iguaçu - RJ	59850
+HYUNDAI HB20S	1.0 12V FLEX VISION MANUAL	2020	2021	19957	Nova Iguaçu - RJ	91760
+FORD KA	1.5 TI-VCT FLEX SE PLUS MANUAL	2020	2021	39943	Nova Iguaçu - RJ	66090
+VOLKSWAGEN T-CROSS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2020	2021	54464	Nova Iguaçu - RJ	126270
+CHEVROLET ONIX	1.0 TURBO FLEX PLUS LTZ AUTOMÁTICO	2020	2021	59578	Nova Iguaçu - RJ	80090
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2020	2021	52382	Nova Iguaçu - RJ	93990
+FIAT FIORINO	1.4 MPI FURGÃO HARD WORKING 8V FLEX 2P MANUAL	2020	2021	54749	Nova Iguaçu - RJ	79990
+CHEVROLET TRACKER	1.0 TURBO FLEX LTZ AUTOMÁTICO	2020	2021	54413	Nova Iguaçu - RJ	111500
+VOLKSWAGEN GOL	1.0 12V MPI TOTALFLEX 4P MANUAL	2020	2021	61339	Rio das Ostras - RJ	54490
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2020	2021	46887	Rio das Ostras - RJ	92990
+CHEVROLET TRACKER	1.2 TURBO FLEX PREMIER AUTOMÁTICO	2020	2021	50987	Rio das Ostras - RJ	119990
+FIAT TORO	1.8 16V EVO FLEX FREEDOM AT6	2020	2021	49587	Rio das Ostras - RJ	109990
+CHEVROLET SPIN	1.8 PREMIER 8V FLEX 4P AUTOMÁTICO	2020	2021	55087	Rio das Ostras - RJ	95990
+JEEP COMPASS	2.0 16V FLEX LONGITUDE AUTOMÁTICO	2020	2021	50288	Nova Iguaçu - RJ	144200
+PEUGEOT 208	1.6 16V FLEX ACTIVE PACK AT6	2020	2021	59359	Nova Iguaçu - RJ	76490
+VOLKSWAGEN NIVUS	1.0 200 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2021	2021	17714	Rio de Janeiro - RJ	130900
+VOLKSWAGEN NIVUS	1.0 200 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2021	2021	53076	Rio das Ostras - RJ	126490
+MITSUBISHI OUTLANDER	2.2 MIVEC DI-D DIESEL HPE-S AWD AUTOMÁTICO	2020	2021	32159	Barra Mansa - RJ	240000
+VOLKSWAGEN T-CROSS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2020	2021	27915	Rio de Janeiro - RJ	129440
+JEEP RENEGADE	1.8 16V FLEX STD 4P AUTOMÁTICO	2021	2021	9000	Rio de Janeiro - RJ	89900
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2020	2021	55310	Rio de Janeiro - RJ	93990
+CAOA CHERY TIGGO 2	1.5 MPFI 16V FLEX ACT 4P AUTOMÁTICO	2021	2021	6900	Macaé - RJ	85000
+JEEP RENEGADE	1.8 16V FLEX STD 4P AUTOMÁTICO	2020	2021	19000	Rio de Janeiro - RJ	88000
+FIAT STRADA	1.4 FIRE FLEX ENDURANCE CS MANUAL	2020	2021	55150	Nova Iguaçu - RJ	81990
+VOLKSWAGEN VOYAGE	1.6 MSI TOTALFLEX 4P MANUAL	2020	2021	53495	Nova Iguaçu - RJ	59490
+FIAT MOBI	1.0 EVO FLEX LIKE. MANUAL	2021	2021	12160	Rio de Janeiro - RJ	59850
+FIAT TORO	1.8 16V EVO FLEX FREEDOM AT6	2020	2021	10000	Niterói - RJ	118000
+FORD KA	1.0 TI-VCT FLEX SE SEDAN MANUAL	2020	2021	93602	Itaguaí - RJ	57800
+CHEVROLET SPIN	1.8 PREMIER 8V FLEX 4P AUTOMÁTICO	2020	2021	72497	Rio de Janeiro - RJ	91990
+VOLKSWAGEN VIRTUS	1.0 200 TSI COMFORTLINE AUTOMÁTICO	2020	2021	58434	Rio das Ostras - RJ	84490
+RENAULT CAPTUR	1.6 16V SCE FLEX BOSE X-TRONIC	2020	2021	11500	Casimiro de Abreu - RJ	106000
+FORD KA	1.0 TI-VCT FLEX SE SEDAN MANUAL	2020	2021	80400	Nova Iguaçu - RJ	57980
+CAOA CHERY TIGGO 5x	1.5 VVT TURBO iFLEX TXS DCT	2020	2021	45648	Teresópolis - RJ	114000
+FORD RANGER	3.2 XLT 4X4 CD 20V DIESEL 4P AUTOMÁTICO	2021	2021	42650	Mangaratiba - RJ	219950
+VOLKSWAGEN T-CROSS	1.0 200 TSI TOTAL FLEX AUTOMÁTICO	2020	2021	30000	Volta Redonda - RJ	113500
+VOLKSWAGEN VIRTUS	1.0 200 TSI COMFORTLINE AUTOMÁTICO	2020	2021	10200	Rio de Janeiro - RJ	98500
+CHEVROLET TRACKER	1.2 TURBO FLEX PREMIER AUTOMÁTICO	2020	2021	19000	Rio de Janeiro - RJ	127890
+CHEVROLET TRACKER	1.2 TURBO FLEX PREMIER AUTOMÁTICO	2020	2021	50000	Rio de Janeiro - RJ	119900
+JEEP RENEGADE	2.0 16V TURBO DIESEL TRAILHAWK 4P 4X4 AUTOMÁTICO	2020	2021	20000	Rio de Janeiro - RJ	129900
+CHEVROLET ONIX	1.0 FLEX LT MANUAL	2020	2021	60887	Rio das Ostras - RJ	68990
+JEEP RENEGADE	2.0 16V TURBO DIESEL MOAB 4P 4X4 AUTOMÁTICO	2021	2021	32000	Rio de Janeiro - RJ	149000
+NISSAN VERSA	1.0 12V FLEX V-DRIVE MANUAL	2020	2021	82100	Nova Iguaçu - RJ	65610
+BMW 320i	2.0 16V TURBO GASOLINA M SPORT AUTOMÁTICO	2021	2021	17200	Niterói - RJ	305000
+LAND ROVER RANGE ROVER EVOQUE	2.0 P250 FLEX R-DYNAMIC SE AWD AUTOMÁTICO	2020	2021	10000	Rio de Janeiro - RJ	369900
+CHEVROLET ONIX	1.0 FLEX PLUS LT MANUAL	2020	2021	89192	Nova Iguaçu - RJ	74920
+CHEVROLET ONIX	1.0 TURBO FLEX PLUS LTZ AUTOMÁTICO	2021	2021	54070	Nova Iguaçu - RJ	88430
+CHEVROLET ONIX	1.0 TURBO FLEX PLUS LTZ AUTOMÁTICO	2021	2021	55456	Nova Iguaçu - RJ	88430
+HONDA HR-V	1.8 16V FLEX EXL 4P AUTOMÁTICO	2020	2021	13000	Rio de Janeiro - RJ	135000
+HYUNDAI TUCSON	1.6 16V T-GDI GASOLINA GLS ECOSHIFT	2020	2021	41200	Rio de Janeiro - RJ	149990
+MITSUBISHI PAJERO SPORT	2.4 16V MIVEC TURBO DIESEL HPE AWD AUTOMÁTICO	2020	2021	24500	Rio de Janeiro - RJ	385800
+VOLKSWAGEN SAVEIRO	1.6 MSI TRENDLINE CS 8V FLEX 2P MANUAL	2020	2021	72841	Rio de Janeiro - RJ	73000
+FORD KA	1.0 TI-VCT FLEX SE SEDAN MANUAL	2020	2021	80400	Nova Iguaçu - RJ	56900
+FIAT MOBI	1.0 EVO FLEX LIKE. MANUAL	2021	2021	672123	Nova Iguaçu - RJ	56900
+MITSUBISHI ECLIPSE CROSS	1.5 MIVEC TURBO GASOLINA HPE-S CVT	2020	2021	13895	Rio de Janeiro - RJ	148850
+HONDA CIVIC	2.0 16V FLEXONE LX 4P CVT	2021	2021	17000	Itaboraí - RJ	120000
+TOYOTA HILUX SW4	2.8 D-4D TURBO DIESEL SRX 7L 4X4 AUTOMÁTICO	2021	2021	9000	Rio de Janeiro - RJ	459900
+HONDA HR-V	1.8 16V FLEX EX 4P AUTOMÁTICO	2021	2021	23000	Resende - RJ	128900
+FORD TERRITORY	1.5 ECOBOOST GTDI GASOLINA SEL AUTOMÁTICO	2020	2021	26000	Teresópolis - RJ	155000
+HONDA WR-V	1.5 16V FLEXONE EXL CVT	2020	2021	18511	Teresópolis - RJ	101900
+JEEP COMPASS	2.0 16V DIESEL LONGITUDE 4X4 AUTOMÁTICO	2021	2021	16000	Nova Iguaçu - RJ	186000
+PEUGEOT 208	1.6 16V FLEX ACTIVE PACK AT6	2020	2021	57322	Rio das Ostras - RJ	76490
+FIAT STRADA	1.4 FIRE FLEX ENDURANCE CS MANUAL	2020	2021	59932	Rio das Ostras - RJ	79990
+VOLKSWAGEN T-CROSS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2020	2021	8000	Rio de Janeiro - RJ	129990
+CHEVROLET ONIX	1.0 FLEX PLUS LT MANUAL	2020	2021	76200	Rio de Janeiro - RJ	72700
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2021	2021	48148	Rio de Janeiro - RJ	94990
+JEEP COMPASS	2.0 16V DIESEL LONGITUDE 4X4 AUTOMÁTICO	2021	2021	34000	Petrópolis - RJ	175900
+RENAULT CAPTUR	1.6 16V SCE FLEX BOSE X-TRONIC	2020	2021	40000	Niterói - RJ	89990
+FORD ECOSPORT	1.5 TI-VCT FLEX SE AUTOMÁTICO	2020	2021	54223	Niterói - RJ	79990
+CHEVROLET ONIX	1.0 TURBO FLEX PLUS LTZ AUTOMÁTICO	2020	2021	54134	Niterói - RJ	86990
+FIAT STRADA	1.4 FIRE FLEX ENDURANCE CS MANUAL	2020	2021	57400	Niterói - RJ	80900
+VOLKSWAGEN VIRTUS	1.0 200 TSI COMFORTLINE AUTOMÁTICO	2020	2021	52279	Niterói - RJ	77900
+FORD KA	1.0 TI-VCT FLEX SE MANUAL	2020	2021	82338	Niterói - RJ	49990
+VOLKSWAGEN GOL	1.6 MSI TOTALFLEX 4P MANUAL	2020	2021	59220	Niterói - RJ	56990
+CHEVROLET ONIX	1.0 TURBO FLEX PLUS LTZ AUTOMÁTICO	2020	2021	54668	Niterói - RJ	86990
+FIAT DOBLÒ	1.8 MPI ESSENCE 7L 16V FLEX 4P MANUAL	2020	2021	50082	Niterói - RJ	87900
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2020	2021	39777	Niterói - RJ	93990
+CHEVROLET S10	2.8 16V TURBO DIESEL LS CD 4X4 MANUAL	2020	2021	70351	Niterói - RJ	154900
+FIAT TORO	1.8 16V EVO FLEX FREEDOM AT6	2020	2021	53256	Niterói - RJ	109990
+PEUGEOT 208	1.6 16V FLEX ACTIVE PACK AT6	2020	2021	39955	Niterói - RJ	76490
+CHEVROLET SPIN	1.8 PREMIER 8V FLEX 4P AUTOMÁTICO	2020	2021	53768	Niterói - RJ	91990
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2020	2021	50153	Niterói - RJ	89990
+FIAT FIORINO	1.4 MPI FURGÃO HARD WORKING 8V FLEX 2P MANUAL	2020	2021	55407	Niterói - RJ	79990
+FIAT TORO	1.8 16V EVO FLEX FREEDOM AT6	2020	2021	55237	Itaguaí - RJ	109990
+MITSUBISHI PAJERO SPORT	2.4 16V MIVEC TURBO DIESEL HPE-S AWD AUTOMÁTICO	2020	2021	17000	Rio de Janeiro - RJ	405000
+VOLKSWAGEN VIRTUS	1.6 MSI TOTAL FLEX MANUAL	2020	2021	55100	Nova Iguaçu - RJ	78050
+CHEVROLET TRACKER	1.2 TURBO FLEX PREMIER AUTOMÁTICO	2020	2021	67509	Duque de Caxias - RJ	119900
+CHEVROLET TRACKER	1.2 TURBO FLEX LTZ AUTOMÁTICO	2020	2021	53200	Duque de Caxias - RJ	107900
+VOLKSWAGEN GOL	1.6 MSI TOTALFLEX 4P MANUAL	2020	2021	58728	Rio de Janeiro - RJ	56990
+VOLKSWAGEN GOL	1.6 MSI TOTALFLEX 4P MANUAL	2020	2021	62898	Rio de Janeiro - RJ	56990
+VOLKSWAGEN GOL	1.6 MSI TOTALFLEX 4P MANUAL	2020	2021	50445	Rio de Janeiro - RJ	56990
+VOLKSWAGEN GOL	1.6 MSI TOTALFLEX 4P MANUAL	2020	2021	53900	Nova Iguaçu - RJ	54490
+FIAT DOBLÒ	1.8 MPI ESSENCE 7L 16V FLEX 4P MANUAL	2021	2021	55400	Nova Iguaçu - RJ	88990
+CHEVROLET TRACKER	1.0 TURBO FLEX LTZ AUTOMÁTICO	2020	2021	52314	Volta Redonda - RJ	107400
+CHEVROLET TRACKER	1.2 TURBO FLEX PREMIER AUTOMÁTICO	2020	2021	40000	Rio de Janeiro - RJ	126000
+CHEVROLET TRACKER	1.2 TURBO FLEX PREMIER AUTOMÁTICO	2020	2021	61419	Rio de Janeiro - RJ	119990
+VOLKSWAGEN T-CROSS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2020	2021	52073	Rio de Janeiro - RJ	121590
+VOLKSWAGEN VIRTUS	1.0 200 TSI COMFORTLINE AUTOMÁTICO	2020	2021	60374	Rio de Janeiro - RJ	84490
+PEUGEOT 208	1.6 16V FLEX ACTIVE PACK AT6	2020	2021	50386	Rio de Janeiro - RJ	76490
+FIAT FIORINO	1.4 MPI FURGÃO ENDURANCE 8V FLEX 2P MANUAL	2021	2021	70829	Rio de Janeiro - RJ	80990
+CHEVROLET SPIN	1.8 PREMIER 8V FLEX 4P AUTOMÁTICO	2020	2021	52838	Rio de Janeiro - RJ	93990
+PEUGEOT 2008	1.6 16V FLEX ALLURE PACK 4P AUTOMÁTICO	2020	2021	38602	Rio de Janeiro - RJ	75990
+FIAT TORO	2.0 16V TURBO DIESEL ULTRA 4WD AT9	2021	2021	13000	São Gonçalo - RJ	160000
+FORD RANGER	2.2 XLS 4X4 CD 16V DIESEL 4P AUTOMÁTICO	2021	2021	60737	Rio de Janeiro - RJ	208990
+VOLKSWAGEN GOL	1.6 MSI TOTALFLEX 4P MANUAL	2020	2021	63997	Volta Redonda - RJ	57490
+CHEVROLET TRACKER	1.2 TURBO FLEX PREMIER AUTOMÁTICO	2021	2021	53000	Rio de Janeiro - RJ	114999
+CHEVROLET TRACKER	1.2 TURBO FLEX PREMIER AUTOMÁTICO	2020	2021	83905	Itaguaí - RJ	110900
+PEUGEOT 2008	1.6 16V FLEX ALLURE PACK 4P AUTOMÁTICO	2020	2021	54588	Itaguaí - RJ	72000
+VOLKSWAGEN NIVUS	1.0 200 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2021	2021	43000	Niterói - RJ	116000
+BMW X2	1.5 12V ACTIVEFLEX SDRIVE18I GP STEPTRONIC	2021	2021	16000	Barra Mansa - RJ	234900
+FIAT MOBI	1.0 EVO FLEX LIKE. MANUAL	2021	2021	67530	Rio de Janeiro - RJ	57080
+VOLVO XC40	1.5 T5 RECHARGE INSCRIPTION GEARTRONIC	2021	2021	13479	Duque de Caxias - RJ	310000
+LAND ROVER RANGE ROVER VOGUE	3.0 TDV6 4X4 24V TURBO DIESEL 4P AUTOMÁTICO	2021	2021	13737	Rio de Janeiro - RJ	950000
+BMW X7	4.4 V8 GASOLINA M50i STEPTRONIC	2021	2021	100	Rio de Janeiro - RJ	1150000
+BMW X3	2.0 16V HÍBRIDO XDRIVE30E STEPTRONIC	2021	2021	100	Rio de Janeiro - RJ	459000
+BMW X3	2.0 16V HÍBRIDO XDRIVE30E STEPTRONIC	2020	2021	3200	Rio de Janeiro - RJ	449000
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2021	2021	66237	Rio de Janeiro - RJ	94990
+CHEVROLET TRACKER	1.0 TURBO FLEX LTZ AUTOMÁTICO	2020	2021	54401	Rio de Janeiro - RJ	109930
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2020	2021	50003	Rio de Janeiro - RJ	93990
+JEEP COMPASS	2.0 16V FLEX LONGITUDE AUTOMÁTICO	2020	2021	46000	Rio de Janeiro - RJ	135990
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2020	2021	53457	Rio de Janeiro - RJ	92990
+RENAULT KWID	1.0 12V SCE FLEX INTENSE MANUAL	2020	2021	50500	Rio de Janeiro - RJ	53990
+CHEVROLET TRACKER	1.2 TURBO FLEX PREMIER AUTOMÁTICO	2020	2021	51631	Niterói - RJ	119990
+FIAT STRADA	1.4 FIRE FLEX ENDURANCE CS MANUAL	2020	2021	55150	Volta Redonda - RJ	79990
+FORD TERRITORY	1.5 ECOBOOST GTDI GASOLINA SEL AUTOMÁTICO	2020	2021	14500	Rio de Janeiro - RJ	149000
+PEUGEOT 2008	1.6 16V FLEX ALLURE PACK 4P AUTOMÁTICO	2020	2021	51017	Volta Redonda - RJ	76990
+AUDI Q3	1.4 35 TFSI GASOLINA PRESTIGE PLUS S TRONIC	2021	2021	100	Rio de Janeiro - RJ	329900
+JEEP COMPASS	2.0 16V DIESEL LONGITUDE 4X4 AUTOMÁTICO	2021	2021	33000	Rio de Janeiro - RJ	175000
+FORD RANGER	3.2 XLT 4X4 CD 20V DIESEL 4P AUTOMÁTICO	2020	2021	35000	Rio de Janeiro - RJ	219900
+TOYOTA COROLLA	2.0 VVT-IE FLEX XEI DIRECT SHIFT	2020	2021	33515	Nova Iguaçu - RJ	139950
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL PACK EAT6	2020	2021	40000	Nova Iguaçu - RJ	96900
+PEUGEOT PARTNER	1.6 FURGÃO 800KG 16V FLEX 3P MANUAL	2020	2021	52006	Nova Iguaçu - RJ	75500
+FIAT ARGO	1.0 FIREFLY FLEX DRIVE MANUAL	2020	2021	79705	Nova Iguaçu - RJ	59990
+JEEP RENEGADE	2.0 16V TURBO DIESEL LONGITUDE 4P 4X4 AUTOMÁTICO	2021	2021	24900	Rio de Janeiro - RJ	154800
+VOLKSWAGEN GOL	1.0 12V MPI TOTALFLEX 4P MANUAL	2020	2021	60000	Rio de Janeiro - RJ	54490
+CHEVROLET SPIN	1.8 PREMIER 8V FLEX 4P AUTOMÁTICO	2020	2021	51233	Rio de Janeiro - RJ	91990
+VOLKSWAGEN GOL	1.0 12V MPI TOTALFLEX 4P MANUAL	2020	2021	60000	Rio de Janeiro - RJ	54490
+VOLKSWAGEN GOL	1.0 12V MPI TOTALFLEX 4P MANUAL	2020	2021	60000	Rio de Janeiro - RJ	54490
+FIAT TORO	1.8 16V EVO FLEX FREEDOM AT6	2021	2021	45700	Nova Iguaçu - RJ	114770
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2021	2021	39661	Rio de Janeiro - RJ	95800
+HONDA CITY	1.5 EX 16V FLEX 4P AUTOMÁTICO	2021	2021	10300	Rio de Janeiro - RJ	100800
+TOYOTA HILUX SW4	2.8 D-4D TURBO DIESEL SRX 7L 4X4 AUTOMÁTICO	2021	2021	23500	Rio de Janeiro - RJ	339900
+FIAT CRONOS	1.3 FIREFLY FLEX DRIVE MANUAL	2021	2021	51687	Rio das Ostras - RJ	74990
+RENAULT SANDERO	1.6 16V SCE FLEX STEPWAY ZEN MANUAL	2020	2021	60571	Nova Iguaçu - RJ	71640
+VOLKSWAGEN VIRTUS	1.0 200 TSI COMFORTLINE AUTOMÁTICO	2020	2021	67049	Nova Iguaçu - RJ	84490
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL PACK EAT6	2020	2021	50437	Nova Iguaçu - RJ	94150
+CHEVROLET ONIX	1.0 TURBO FLEX PLUS LTZ AUTOMÁTICO	2020	2021	53301	Nova Iguaçu - RJ	86990
+CHEVROLET TRACKER	1.2 TURBO FLEX PREMIER AUTOMÁTICO	2020	2021	50051	Rio de Janeiro - RJ	121990
+CHEVROLET TRACKER	1.2 TURBO FLEX PREMIER AUTOMÁTICO	2021	2021	52441	Rio de Janeiro - RJ	122990
+CHEVROLET ONIX	1.0 TURBO FLEX PLUS LTZ AUTOMÁTICO	2020	2021	54171	Rio de Janeiro - RJ	83990
+JEEP COMPASS	2.0 16V DIESEL LONGITUDE 4X4 AUTOMÁTICO	2021	2021	25450	Niterói - RJ	166999
+MITSUBISHI PAJERO SPORT	2.4 16V MIVEC TURBO DIESEL HPE AWD AUTOMÁTICO	2020	2021	25000	Volta Redonda - RJ	310900
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2021	2021	39891	Rio de Janeiro - RJ	80990
+FORD ECOSPORT	1.5 TI-VCT FLEX SE AUTOMÁTICO	2020	2021	51724	Rio de Janeiro - RJ	81990
+PEUGEOT PARTNER	1.6 FURGÃO 800KG 16V FLEX 3P MANUAL	2020	2021	52354	Rio de Janeiro - RJ	73990
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2020	2021	52000	Rio de Janeiro - RJ	93990
+FIAT TORO	1.8 16V EVO FLEX FREEDOM AT6	2020	2021	32625	Rio de Janeiro - RJ	112990
+JEEP RENEGADE	1.8 16V FLEX LIMITED 4P AUTOMÁTICO	2020	2021	36000	Maricá - RJ	114500
+HONDA HR-V	1.8 16V FLEX EXL 4P AUTOMÁTICO	2021	2021	19593	Rio de Janeiro - RJ	132000
+JEEP COMPASS	2.0 16V DIESEL LIMITED 4X4 AUTOMÁTICO	2021	2021	20438	Rio de Janeiro - RJ	237900
+BMW 320i	2.0 16V TURBO GASOLINA SPORT GP AUTOMÁTICO	2020	2021	32000	Itatiaia - RJ	264900
+FIAT STRADA	1.4 FIRE FLEX ENDURANCE CS MANUAL	2020	2021	55150	Nova Iguaçu - RJ	83040
+MERCEDES-BENZ AMG GT 43	3.0 EQ BOOST HÍBRIDO 9G-TRONIC	2021	2021	3600	Rio de Janeiro - RJ	885000
+TOYOTA HILUX	2.8 D-4D TURBO DIESEL CD SRX 4X4 AUTOMÁTICO	2021	2021	9000	Rio de Janeiro - RJ	360000
+TOYOTA COROLLA	2.0 VVT-IE FLEX XEI DIRECT SHIFT	2020	2021	33515	Duque de Caxias - RJ	139950
+TOYOTA HILUX	2.8 D-4D TURBO DIESEL CD SRX 4X4 AUTOMÁTICO	2021	2021	9100	Rio de Janeiro - RJ	360000
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2021	2021	1050	Cabo Frio - RJ	109900
+CHEVROLET TRACKER	1.2 TURBO FLEX PREMIER AUTOMÁTICO	2020	2021	53380	Rio de Janeiro - RJ	122990
+FORD KA	1.5 TI-VCT FLEX SE PLUS MANUAL	2020	2021	43615	Rio de Janeiro - RJ	68800
+JEEP RENEGADE	1.8 16V FLEX LIMITED 4P AUTOMÁTICO	2021	2021	24300	Rio de Janeiro - RJ	115000
+NISSAN KICKS	1.6 16V FLEXSTART SV 4P XTRONIC	2021	2021	60150	Volta Redonda - RJ	100990
+FIAT TORO	1.8 16V EVO FLEX FREEDOM AT6	2020	2021	53434	Volta Redonda - RJ	109990
+VOLVO XC40	1.5 T5 RECHARGE INSCRIPTION GEARTRONIC	2021	2021	23000	Rio de Janeiro - RJ	290000
+JEEP RENEGADE	2.0 16V TURBO DIESEL TRAILHAWK 4P 4X4 AUTOMÁTICO	2020	2021	37000	Rio de Janeiro - RJ	155000
+FIAT TORO	1.8 16V EVO FLEX FREEDOM AT6	2020	2021	48791	Rio de Janeiro - RJ	110490
+CHEVROLET S10	2.8 16V TURBO DIESEL LS CD 4X4 MANUAL	2020	2021	62715	Nova Iguaçu - RJ	172990
+VOLKSWAGEN VIRTUS	1.0 200 TSI COMFORTLINE AUTOMÁTICO	2020	2021	50600	Rio de Janeiro - RJ	84990
+CHEVROLET ONIX	1.0 TURBO FLEX PLUS LTZ AUTOMÁTICO	2021	2021	50316	Rio de Janeiro - RJ	86990
+NISSAN KICKS	1.6 16V FLEXSTART SV 4P XTRONIC	2021	2021	51192	Rio de Janeiro - RJ	104990
+FIAT DOBLÒ	1.8 MPI ESSENCE 7L 16V FLEX 4P MANUAL	2021	2021	50198	Rio de Janeiro - RJ	88990
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2020	2021	51119	Rio de Janeiro - RJ	93990
+RENAULT SANDERO	1.6 16V SCE FLEX STEPWAY ZEN MANUAL	2020	2021	63334	Rio de Janeiro - RJ	68990
+TOYOTA HILUX SW4	2.7 VVT-i FLEX SRV 7L 4X2 AUTOMÁTICO	2021	2021	6200	Rio de Janeiro - RJ	285000
+FIAT DOBLÒ	1.8 MPI CARGO16V FLEX 4P MANUAL	2021	2021	28776	Niterói - RJ	78400
+FIAT MOBI	1.0 EVO FLEX LIKE. MANUAL	2021	2021	30937	Niterói - RJ	53460
+FIAT MOBI	1.0 EVO FLEX LIKE. MANUAL	2020	2021	45286	Niterói - RJ	53460
+FIAT DOBLÒ	1.8 MPI CARGO16V FLEX 4P MANUAL	2021	2021	23882	Niterói - RJ	79380
+FIAT MOBI	1.0 EVO FLEX LIKE. MANUAL	2021	2021	44812	Niterói - RJ	53460
+JEEP RENEGADE	1.8 16V FLEX SPORT 4P AUTOMÁTICO	2021	2021	12300	Niterói - RJ	89000
+VOLKSWAGEN VOYAGE	1.6 MSI TOTALFLEX 4P MANUAL	2020	2021	66327	Rio de Janeiro - RJ	59990
+VOLKSWAGEN VOYAGE	1.6 MSI TOTALFLEX 4P MANUAL	2020	2021	62165	Rio de Janeiro - RJ	59990
+FORD ECOSPORT	1.5 TI-VCT FLEX SE AUTOMÁTICO	2020	2021	35000	Rio de Janeiro - RJ	80000
+FIAT MOBI	1.0 EVO FLEX LIKE. MANUAL	2021	2021	33408	Niterói - RJ	53460
+HYUNDAI HB20X	1.6 16V FLEX DIAMOND PLUS AUTOMÁTICO	2020	2021	13495	Rio de Janeiro - RJ	89990
+CHEVROLET TRACKER	1.0 TURBO FLEX LTZ AUTOMÁTICO	2020	2021	61824	Niterói - RJ	105900
+CHEVROLET ONIX	1.0 TURBO FLEX PLUS PREMIER MIDNIGHT AUTOMÁTICO	2021	2021	26000	Rio de Janeiro - RJ	92500
+HONDA CITY	1.5 LX 16V FLEX 4P AUTOMÁTICO	2021	2021	62350	Rio de Janeiro - RJ	86990
+FIAT MOBI	1.0 EVO FLEX LIKE. MANUAL	2021	2021	31313	Niterói - RJ	52920
+MERCEDES-BENZ GLE 400d	3.0 V6 DIESEL 4MATIC 9G-TRONIC	2021	2021	22000	Rio de Janeiro - RJ	614900
+CHEVROLET S10	2.8 16V TURBO DIESEL LTZ CD 4X4 AUTOMÁTICO	2020	2021	39000	Campos dos Goytacazes - RJ	218000
+VOLKSWAGEN T-CROSS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2020	2021	15000	Rio de Janeiro - RJ	130000
+BMW 320i	2.0 16V TURBO FLEX SPORT GP AUTOMÁTICO	2021	2021	17000	Rio de Janeiro - RJ	249900
+NISSAN KICKS	1.6 16V FLEXSTART S 4P MANUAL	2020	2021	37500	Rio de Janeiro - RJ	87490
+VOLKSWAGEN VIRTUS	1.0 200 TSI COMFORTLINE AUTOMÁTICO	2020	2021	54131	Volta Redonda - RJ	84490
+PORSCHE 718	2.0 16V H4 GASOLINA CAYMAN PDK	2021	2021	5300	Rio de Janeiro - RJ	609900
+VOLKSWAGEN TIGUAN	2.0 350 TSI GASOLINA ALLSPACE R-LINE 4MOTION DSG	2021	2021	8400	Rio de Janeiro - RJ	269000
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2020	2021	53297	Rio de Janeiro - RJ	95840
+VOLKSWAGEN VOYAGE	1.6 MSI TOTALFLEX 4P MANUAL	2020	2021	57088	Nova Iguaçu - RJ	60490
+CHEVROLET TRACKER	1.2 TURBO FLEX AUTOMÁTICO	2020	2021	19800	Rio de Janeiro - RJ	120000
+VOLKSWAGEN NIVUS	1.0 200 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2021	2021	8701	Rio de Janeiro - RJ	123900
+FORD RANGER	3.2 LIMITED 4X4 CD 20V DIESEL 4P AUTOMÁTICO	2020	2021	77500	Macaé - RJ	225500
+VOLKSWAGEN VOYAGE	1.6 MSI TOTALFLEX 4P MANUAL	2020	2021	49000	Rio de Janeiro - RJ	60490
+VOLKSWAGEN VOYAGE	1.6 MSI TOTALFLEX 4P MANUAL	2020	2021	45000	Rio de Janeiro - RJ	60490
+VOLKSWAGEN NIVUS	1.0 200 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2021	2021	24000	Rio de Janeiro - RJ	124900
+VOLKSWAGEN UP	1.0 170 TSI TOTAL FLEX XTREME 4P MANUAL	2021	2021	47010	Volta Redonda - RJ	74990
+JEEP RENEGADE	1.8 16V FLEX SPORT 4P AUTOMÁTICO	2021	2021	31329	Rio de Janeiro - RJ	92070
+VOLKSWAGEN VIRTUS	1.6 MSI TOTAL FLEX MANUAL	2020	2021	53919	Rio de Janeiro - RJ	78899
+NISSAN KICKS	1.6 16V FLEXSTART SV 4P XTRONIC	2021	2021	50288	Nova Iguaçu - RJ	100990
+FIAT DOBLÒ	1.8 MPI ESSENCE 7L 16V FLEX 4P MANUAL	2021	2021	51000	Nova Iguaçu - RJ	89900
+FORD KA	1.5 TI-VCT FLEX SE PLUS MANUAL	2020	2021	51000	Rio de Janeiro - RJ	65990
+VOLKSWAGEN GOL	1.0 12V MPI TOTALFLEX 4P MANUAL	2020	2021	29800	Rio de Janeiro - RJ	52990
+PEUGEOT 208	1.6 16V FLEX ACTIVE PACK AT6	2021	2021	50763	Volta Redonda - RJ	77990
+FIAT CRONOS	1.3 FIREFLY FLEX DRIVE MANUAL	2021	2021	71171	Volta Redonda - RJ	68990
+JEEP COMPASS	2.0 16V FLEX LONGITUDE AUTOMÁTICO	2020	2021	49662	Volta Redonda - RJ	128470
+FIAT TORO	1.8 16V EVO FLEX FREEDOM AT6	2021	2021	37000	Rio de Janeiro - RJ	105900
+CHEVROLET ONIX	1.0 TURBO FLEX PLUS LTZ AUTOMÁTICO	2020	2021	52224	Rio das Ostras - RJ	86990
+PEUGEOT 2008	1.6 16V FLEX ALLURE PACK 4P AUTOMÁTICO	2020	2021	55334	Rio das Ostras - RJ	74990
+VOLKSWAGEN VOYAGE	1.6 MSI TOTALFLEX 4P MANUAL	2020	2021	56991	Rio das Ostras - RJ	60490
+VOLKSWAGEN GOL	1.6 MSI TOTALFLEX 4P MANUAL	2020	2021	55214	Rio das Ostras - RJ	56990
+CHEVROLET ONIX	1.0 FLEX PLUS LT MANUAL	2020	2021	7500	Rio de Janeiro - RJ	69000
+FIAT TORO	1.8 16V EVO FLEX FREEDOM AT6	2021	2021	50566	Nova Iguaçu - RJ	111830
+NISSAN KICKS	1.6 16V FLEXSTART S 4P MANUAL	2020	2021	23500	Rio de Janeiro - RJ	93000
+JEEP COMPASS	2.0 16V FLEX LONGITUDE AUTOMÁTICO	2021	2021	20000	Rio de Janeiro - RJ	129900
+NISSAN KICKS	1.6 16V FLEXSTART SV 4P XTRONIC	2021	2021	50000	Rio de Janeiro - RJ	100990
+CHEVROLET ONIX	1.0 TURBO FLEX PLUS LTZ MANUAL	2020	2021	49000	Rio de Janeiro - RJ	78490
+CHEVROLET ONIX	1.0 TURBO FLEX PLUS LTZ AUTOMÁTICO	2020	2021	49000	Rio de Janeiro - RJ	86990
+CHEVROLET ONIX	1.0 TURBO FLEX PLUS LTZ MANUAL	2020	2021	49000	Rio de Janeiro - RJ	78490
+PORSCHE CAYENNE	3.0 V6 E-HYBRID AWD TIPTRONIC S	2021	2021	4700	Rio de Janeiro - RJ	800000
+VOLKSWAGEN NIVUS	1.0 200 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2020	2021	3600	Rio de Janeiro - RJ	124000
+FIAT MOBI	1.0 EVO FLEX LIKE. MANUAL	2021	2021	67530	Rio de Janeiro - RJ	52100
+VOLKSWAGEN FOX	1.6 MSI TOTAL FLEX XTREME 4P MANUAL	2021	2021	12300	Rio de Janeiro - RJ	71990
+HONDA CITY	1.5 EX 16V FLEX 4P AUTOMÁTICO	2020	2021	31000	Rio de Janeiro - RJ	98490
+PEUGEOT 208	1.6 16V FLEX ALLURE AT6	2020	2021	38491	Rio de Janeiro - RJ	87990
+JEEP COMPASS	2.0 16V DIESEL LIMITED 4X4 AUTOMÁTICO	2020	2021	71114	Rio de Janeiro - RJ	197990
+FIAT MOBI	1.0 EVO FLEX LIKE. MANUAL	2020	2021	47223	Niterói - RJ	53460
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2020	2021	51526	Rio de Janeiro - RJ	94990
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2021	2021	50500	Rio de Janeiro - RJ	95990
+PORSCHE 911	3.0 24V H6 GASOLINA CARRERA PDK	2021	2021	4100	Niterói - RJ	930000
+CITROËN C3	1.2 PURE TECH FLEX ATTRACTION MANUAL	2020	2021	50750	Rio de Janeiro - RJ	59980
+HYUNDAI HB20	1.0 TGDI FLEX SPORT AUTOMÁTICO	2020	2021	26000	Rio de Janeiro - RJ	87990
+FORD KA	1.0 TI-VCT FLEX SE MANUAL	2020	2021	14000	Rio de Janeiro - RJ	59990
+FIAT MOBI	1.0 EVO FLEX LIKE. MANUAL	2020	2021	69500	Duque de Caxias - RJ	53790
+VOLKSWAGEN T-CROSS	1.0 200 TSI TOTAL FLEX AUTOMÁTICO	2021	2021	68000	Rio de Janeiro - RJ	98900
+RENAULT DUSTER	1.6 16V SCE FLEX ICONIC X-TRONIC	2020	2021	55000	Rio de Janeiro - RJ	96000
+VOLKSWAGEN T-CROSS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2020	2021	50760	Rio de Janeiro - RJ	113100
+PORSCHE TAYCAN	TURBO S ELÉTRICO	2020	2021	1680	Rio de Janeiro - RJ	1100000
+VOLKSWAGEN SAVEIRO	1.6 CROSS CD 16V FLEX 2P MANUAL	2020	2021	20000	Petrópolis - RJ	100000
+VOLKSWAGEN SAVEIRO	1.6 MSI TRENDLINE CS 8V FLEX 2P MANUAL	2020	2021	39352	Rio de Janeiro - RJ	74990
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2020	2021	59241	Rio de Janeiro - RJ	93990
+RENAULT SANDERO	1.0 12V SCE FLEX ZEN MANUAL	2020	2021	85278	Rio de Janeiro - RJ	56380
+TOYOTA RAV4	2.5 VVT-IE HYBRID SX CONNECT AWD CVT	2021	2021	27500	Rio de Janeiro - RJ	287900
+FORD KA	1.0 TI-VCT FLEX SE PLUS MANUAL	2020	2021	35000	Rio de Janeiro - RJ	55990
+MERCEDES-BENZ GLC 300	2.0 CGI GASOLINA COUPÉ 4MATIC 9G-TRONIC	2021	2021	10000	Rio de Janeiro - RJ	499900
+JEEP RENEGADE	1.8 16V FLEX 4P AUTOMÁTICO	2020	2021	12800	Niterói - RJ	86000
+PEUGEOT 208	1.6 16V FLEX ACTIVE PACK AT6	2021	2021	9000	Resende - RJ	79500
+JEEP RENEGADE	2.0 16V TURBO DIESEL MOAB 4P 4X4 AUTOMÁTICO	2021	2021	24000	Rio de Janeiro - RJ	130000
+FIAT TORO	2.0 16V TURBO DIESEL RANCH 4WD AT9	2021	2021	54000	Rio de Janeiro - RJ	165000
+HYUNDAI CRETA	1.6 16V FLEX SMART PLUS AUTOMÁTICO	2021	2021	34000	Niterói - RJ	95000
+JEEP COMPASS	2.0 16V FLEX LONGITUDE AUTOMÁTICO	2020	2021	50000	Rio de Janeiro - RJ	127990
+CHEVROLET TRACKER	1.2 TURBO FLEX LTZ AUTOMÁTICO	2020	2021	50000	Rio de Janeiro - RJ	114900
+VOLKSWAGEN SAVEIRO	1.6 MSI ROBUST CS 8V FLEX 2P MANUAL	2020	2021	52360	Rio de Janeiro - RJ	70500
+VOLKSWAGEN T-CROSS	1.0 200 TSI TOTAL FLEX AUTOMÁTICO	2021	2021	1046	Niterói - RJ	119000
+VOLKSWAGEN GOL	1.6 MSI TOTALFLEX 4P MANUAL	2020	2021	50400	Rio de Janeiro - RJ	57990
+TOYOTA COROLLA	2.0 VVT-IE FLEX XEI DIRECT SHIFT	2020	2021	15406	Rio de Janeiro - RJ	187000
+CHEVROLET SPIN	1.8 PREMIER 8V FLEX 4P AUTOMÁTICO	2020	2021	52393	Rio de Janeiro - RJ	91990
+VOLKSWAGEN VIRTUS	1.0 200 TSI COMFORTLINE AUTOMÁTICO	2020	2021	53190	Rio de Janeiro - RJ	83990
+CHEVROLET ONIX	1.0 TURBO FLEX RS AUTOMÁTICO	2021	2021	11856	Rio de Janeiro - RJ	89500
+VOLKSWAGEN NIVUS	1.0 200 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2021	2021	9000	Niterói - RJ	128000
+NISSAN FRONTIER	2.3 16V TURBO DIESEL LE CD 4X4 AUTOMÁTICO	2020	2021	12000	Nova Iguaçu - RJ	229000
+TOYOTA HILUX	2.7 VVT-i FLEX CD SRV 4X2 AUTOMÁTICO	2021	2021	32000	Rio de Janeiro - RJ	195000
+CHEVROLET SPIN	1.8 PREMIER 8V FLEX 4P AUTOMÁTICO	2020	2021	62790	Rio de Janeiro - RJ	91990
+VOLKSWAGEN T-CROSS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2021	2021	8500	Rio de Janeiro - RJ	129900
+BMW 320i	2.0 16V TURBO FLEX GP AUTOMÁTICO	2020	2021	29000	Rio de Janeiro - RJ	218900
+BMW 320i	2.0 16V TURBO FLEX SPORT GP AUTOMÁTICO	2021	2021	12000	Rio de Janeiro - RJ	285000
+VOLKSWAGEN T-CROSS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2020	2021	51182	Rio de Janeiro - RJ	119990
+FIAT STRADA	1.4 FIRE FLEX ENDURANCE CS MANUAL	2020	2021	71740	Rio de Janeiro - RJ	77990
+VOLKSWAGEN VIRTUS	1.0 200 TSI COMFORTLINE AUTOMÁTICO	2020	2021	55300	Rio das Ostras - RJ	84490
+PEUGEOT 208	1.6 16V FLEX ACTIVE PACK AT6	2021	2021	38340	Rio de Janeiro - RJ	77890
+CHEVROLET TRACKER	1.0 TURBO FLEX LTZ AUTOMÁTICO	2020	2021	44830	Rio de Janeiro - RJ	103900
+CHEVROLET TRACKER	1.0 TURBO FLEX LTZ AUTOMÁTICO	2020	2021	69336	Rio de Janeiro - RJ	103900
+HONDA CIVIC	2.0 16V FLEXONE EXL 4P CVT	2020	2021	6300	Rio de Janeiro - RJ	139900
+HYUNDAI IX35	2.0 MPFI GL 16V FLEX 4P AUTOMÁTICO	2020	2021	25000	Miguel Pereira - RJ	115900
+PORSCHE TAYCAN	4S ELÉTRICO	2021	2021	8886	Rio de Janeiro - RJ	840000
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2021	2021	52563	Rio de Janeiro - RJ	94680
+JEEP RENEGADE	2.0 16V TURBO DIESEL LONGITUDE 4P 4X4 AUTOMÁTICO	2021	2021	26000	Cabo Frio - RJ	146900
+VOLKSWAGEN TIGUAN	2.0 350 TSI GASOLINA ALLSPACE R-LINE 4MOTION DSG	2021	2021	18500	Rio de Janeiro - RJ	259990
+NISSAN KICKS	1.6 16V FLEXSTART SV 4P XTRONIC	2021	2021	48054	Rio de Janeiro - RJ	99990
+HONDA HR-V	1.8 16V FLEX EX 4P AUTOMÁTICO	2021	2021	22000	Rio de Janeiro - RJ	118000
+FIAT CRONOS	1.3 FIREFLY FLEX MANUAL	2021	2021	23000	Teresópolis - RJ	82000
+FIAT TORO	1.8 16V EVO FLEX FREEDOM AT6	2021	2021	49005	Nova Iguaçu - RJ	112060
+FIAT TORO	1.8 16V EVO FLEX ENDURANCE AT6	2021	2021	50285	Nova Iguaçu - RJ	106730
+CHEVROLET TRACKER	1.0 TURBO FLEX LT AUTOMÁTICO	2020	2021	43000	Barra Mansa - RJ	105990
+NISSAN FRONTIER	2.3 16V TURBO DIESEL ATTACK CD 4X4 AUTOMÁTICO	2021	2021	23055	Niterói - RJ	202390
+FIAT DOBLÒ	1.8 MPI CARGO16V FLEX 4P MANUAL	2021	2021	26476	Niterói - RJ	79200
+BMW 320i	2.0 16V TURBO FLEX GP AUTOMÁTICO	2021	2021	10000	Rio de Janeiro - RJ	224900
+VOLKSWAGEN T-CROSS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2020	2021	63640	Niterói - RJ	112900
+FIAT CRONOS	1.3 FIREFLY FLEX DRIVE MANUAL	2021	2021	30993	Niterói - RJ	73900
+VOLKSWAGEN NIVUS	1.0 200 TSI TOTAL FLEX COMFORTLINE AUTOMÁTICO	2020	2021	14000	Rio de Janeiro - RJ	113500
+FIAT TORO	1.8 16V EVO FLEX FREEDOM AT6	2021	2021	51988	Rio de Janeiro - RJ	111830
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2020	2021	50069	Rio de Janeiro - RJ	93790
+CHEVROLET ONIX	1.0 FLEX MANUAL	2020	2021	82235	Rio de Janeiro - RJ	67990
+FIAT ARGO	1.0 FIREFLY FLEX DRIVE MANUAL	2021	2021	70203	Rio de Janeiro - RJ	60900
+VOLKSWAGEN T-CROSS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2020	2021	23900	Rio de Janeiro - RJ	120000
+NISSAN KICKS	1.6 16V FLEXSTART SV 4P XTRONIC	2020	2021	16600	Rio de Janeiro - RJ	102800
+PEUGEOT 2008	1.6 16V FLEX ALLURE 4P AUTOMÁTICO	2020	2021	8600	Niterói - RJ	80000
+VOLKSWAGEN SAVEIRO	1.6 MSI TRENDLINE CS 8V FLEX 2P MANUAL	2020	2021	27000	Niterói - RJ	72000
+TOYOTA COROLLA	1.8 VVT-I HYBRID FLEX ALTIS CVT	2020	2021	5000	Rio de Janeiro - RJ	146000
+JEEP COMPASS	2.0 16V FLEX LIMITED AUTOMÁTICO	2020	2021	21400	Rio de Janeiro - RJ	150000
+JEEP COMPASS	2.0 16V DIESEL S 4X4 AUTOMÁTICO	2020	2021	21371	Rio de Janeiro - RJ	259900
+FIAT TORO	1.8 16V EVO FLEX FREEDOM AT6	2021	2021	51597	Nova Iguaçu - RJ	111690
+VOLKSWAGEN VOYAGE	1.6 MSI TOTALFLEX 4P MANUAL	2020	2021	56699	Nova Iguaçu - RJ	59490
+VOLKSWAGEN GOL	1.6 MSI TOTALFLEX 4P MANUAL	2020	2021	59830	Niterói - RJ	56990
+JEEP RENEGADE	1.8 16V FLEX LONGITUDE 4P AUTOMÁTICO	2021	2021	7900	Duque de Caxias - RJ	102900
+VOLKSWAGEN NIVUS	1.0 200 TSI TOTAL FLEX COMFORTLINE AUTOMÁTICO	2021	2021	14000	Vila Muriqui - RJ	106980
+MITSUBISHI PAJERO SPORT	2.4 16V MIVEC TURBO DIESEL HPE-S AWD AUTOMÁTICO	2021	2021	10500	Campos dos Goytacazes - RJ	500000
+JEEP RENEGADE	2.0 16V TURBO DIESEL MOAB 4P 4X4 AUTOMÁTICO	2021	2021	22000	Rio de Janeiro - RJ	136000
+FORD RANGER	3.2 LIMITED 4X4 CD 20V DIESEL 4P AUTOMÁTICO	2020	2021	92000	Rio de Janeiro - RJ	247000
+AUDI A6	3.0 55 TFSI GASOLINA PERFORMANCE BLACK QUATTRO 4P S-TRONIC	2020	2021	14500	Rio de Janeiro - RJ	455000
+FIAT FIORINO	1.4 MPI FURGÃO HARD WORKING 8V FLEX 2P MANUAL	2020	2021	55262	Rio das Ostras - RJ	79990
+CHEVROLET ONIX	1.0 FLEX PLUS LT MANUAL	2021	2021	17312	Rio de Janeiro - RJ	79990
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX LIVE EAT6	2020	2021	48175	Rio de Janeiro - RJ	81990
+PEUGEOT 208	1.6 16V FLEX ACTIVE PACK AT6	2020	2021	50228	Rio de Janeiro - RJ	76990
+JEEP COMPASS	2.0 16V DIESEL S 4X4 AUTOMÁTICO	2021	2021	50000	Rio de Janeiro - RJ	203000
+CHEVROLET TRACKER	1.2 TURBO FLEX PREMIER AUTOMÁTICO	2020	2021	48886	Rio de Janeiro - RJ	119990
+CHEVROLET TRACKER	1.0 TURBO FLEX LTZ AUTOMÁTICO	2020	2021	49032	Rio de Janeiro - RJ	107990
+HYUNDAI HB20	1.0 12V FLEX SENSE MANUAL	2021	2021	78000	Niterói - RJ	59900
+HONDA HR-V	1.8 16V FLEX EXL 4P AUTOMÁTICO	2021	2021	22800	Teresópolis - RJ	132900
+PEUGEOT 208	1.6 16V FLEX ACTIVE PACK AT6	2021	2021	45104	Rio das Ostras - RJ	78990
+FIAT FIORINO	1.4 MPI FURGÃO HARD WORKING 8V FLEX 2P MANUAL	2020	2021	60544	Rio das Ostras - RJ	79990
+FIAT GRAND SIENA	1.0 EVO FLEX ATTRACTIVE MANUAL	2021	2021	120000	Rio de Janeiro - RJ	40000
+FORD KA	1.0 TI-VCT FLEX SE PLUS MANUAL	2021	2021	8000	Rio de Janeiro - RJ	59900
+RENAULT CAPTUR	1.6 16V SCE FLEX LIFE X-TRONIC	2021	2021	19890	Rio de Janeiro - RJ	92900
+CHEVROLET ONIX	1.0 FLEX PLUS LT MANUAL	2020	2021	71653	Volta Redonda - RJ	74500
+PEUGEOT 2008	1.6 16V FLEX ALLURE PACK 4P AUTOMÁTICO	2021	2022	29477	Nova Iguaçu - RJ	81340
+TOYOTA COROLLA	1.8 VVT-I HYBRID FLEX ALTIS CVT	2021	2022	14000	Rio de Janeiro - RJ	176900
+FIAT ARGO	1.0 FIREFLY FLEX MANUAL	2021	2022	41910	Rio de Janeiro - RJ	67530
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2021	2022	41100	Rio de Janeiro - RJ	88110
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2021	2022	40529	Rio de Janeiro - RJ	87220
+HYUNDAI HB20	1.0 12V FLEX VISION MANUAL	2021	2022	29782	Rio de Janeiro - RJ	69540
+CAOA CHERY TIGGO 8	1.6 TGDI GASOLINA TXS DCT	2021	2022	30817	Rio de Janeiro - RJ	171270
+PEUGEOT 208	1.6 16V FLEX ALLURE AT6	2021	2022	27197	Rio de Janeiro - RJ	84580
+CAOA CHERY TIGGO 8	1.6 TGDI GASOLINA TXS DCT	2021	2022	30302	Rio de Janeiro - RJ	171270
+FIAT CRONOS	1.3 FIREFLY FLEX MANUAL	2021	2022	29019	Nova Iguaçu - RJ	72750
+CAOA CHERY ARRIZO 6	1.5 VVT TURBO iFLEX GSX CVT	2021	2022	19847	Rio de Janeiro - RJ	115430
+PEUGEOT 208	1.6 16V FLEX ALLURE AT6	2021	2022	24821	Rio de Janeiro - RJ	85850
+NISSAN LEAF	B12P 40 ELÉTRICO	2021	2022	4450	Rio de Janeiro - RJ	222750
+PEUGEOT EXPERT	1.6 BLUEHDI DIESEL BUSINESS PACK MANUAL	2021	2022	24912	Rio de Janeiro - RJ	140560
+FIAT CRONOS	1.3 FIREFLY FLEX MANUAL	2021	2022	22185	Rio de Janeiro - RJ	73840
+FIAT MOBI	1.0 EVO FLEX LIKE. MANUAL	2021	2022	25931	Nova Iguaçu - RJ	55930
+JEEP COMPASS	2.0 TD350 TURBO DIESEL LONGITUDE AT9	2021	2022	18000	Rio de Janeiro - RJ	195990
+NISSAN LEAF	B12P 40 ELÉTRICO	2021	2022	13373	Rio de Janeiro - RJ	222750
+NISSAN LEAF	B12P 40 ELÉTRICO	2021	2022	12232	Rio de Janeiro - RJ	222750
+FIAT MOBI	1.0 EVO FLEX LIKE. MANUAL	2021	2022	11917	Rio de Janeiro - RJ	59990
+FORD MAVERICK	2.0 ECOBOOST GASOLINA LARIAT FX4 AUTOMÁTICO	2022	2022	3500	Rio das Ostras - RJ	230990
+CAOA CHERY TIGGO 8	1.6 TGDI GASOLINA TXS DCT	2021	2022	43132	Nova Iguaçu - RJ	171270
+JEEP COMMANDER	1.3 T270 TURBO FLEX OVERLAND AT6	2022	2022	8600	Barra Mansa - RJ	247900
+CAOA CHERY TIGGO 8	1.6 TGDI GASOLINA TXS DCT	2021	2022	25881	Rio de Janeiro - RJ	171270
+FIAT STRADA	1.4 FIRE FLEX ENDURANCE CS MANUAL	2021	2022	20073	Rio de Janeiro - RJ	91720
+CITROËN JUMPER	2.0 BLUEHDI DIESEL L3H2 FURGÃO 13M MANUAL	2021	2022	48873	Rio de Janeiro - RJ	185910
+NISSAN LEAF	B12P 40 ELÉTRICO	2021	2022	10843	Rio de Janeiro - RJ	224990
+HYUNDAI CRETA	1.6 16V FLEX ACTION AUTOMÁTICO	2021	2022	30761	Rio de Janeiro - RJ	98010
+PORSCHE CAYENNE	3.0 V6 E-HYBRID AWD TIPTRONIC S	2021	2022	10900	Rio de Janeiro - RJ	850000
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2021	2022	26453	Rio de Janeiro - RJ	88990
+NISSAN LEAF	B12P 40 ELÉTRICO	2021	2022	17327	Rio de Janeiro - RJ	224990
+NISSAN LEAF	B12P 40 ELÉTRICO	2021	2022	15241	Rio de Janeiro - RJ	224990
+HYUNDAI HB20S	1.0 TGDI FLEX EVOLUTION AUTOMÁTICO	2021	2022	45072	Rio de Janeiro - RJ	88990
+JEEP COMPASS	1.3 T270 TURBO FLEX SPORT AT6	2021	2022	11842	Rio de Janeiro - RJ	169420
+FIAT TORO	2.0 16V TURBO DIESEL ULTRA 4WD AT9	2021	2022	17000	Rio de Janeiro - RJ	255900
+PEUGEOT EXPERT	1.6 BLUEHDI DIESEL BUSINESS PACK MANUAL	2021	2022	38340	Rio de Janeiro - RJ	139190
+MITSUBISHI ECLIPSE CROSS	1.5 MIVEC TURBO GASOLINA HPE CVT	2021	2022	1000	Rio de Janeiro - RJ	164990
+NISSAN LEAF	B12P 40 ELÉTRICO	2021	2022	12405	Rio de Janeiro - RJ	224990
+NISSAN LEAF	B12P 40 ELÉTRICO	2021	2022	10896	Rio de Janeiro - RJ	224990
+FIAT TORO	1.3 TURBO 270 FLEX ENDURANCE AT6	2021	2022	22317	Niterói - RJ	127540
+FIAT ARGO	1.3 FIREFLY FLEX DRIVE S-DESIGN MANUAL	2021	2022	27235	Niterói - RJ	74900
+FIAT CRONOS	1.3 FIREFLY FLEX DRIVE MANUAL	2021	2022	24822	Rio de Janeiro - RJ	78720
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2021	2022	30207	Rio de Janeiro - RJ	88110
+NISSAN VERSA	1.6 16V FLEX SENSE XTRONIC	2021	2022	42501	Rio de Janeiro - RJ	87840
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2021	2022	39663	Rio de Janeiro - RJ	85990
+NISSAN LEAF	B12P 40 ELÉTRICO	2021	2022	11613	Rio de Janeiro - RJ	224990
+HYUNDAI CRETA	1.6 16V FLEX ACTION AUTOMÁTICO	2021	2022	36678	Nova Iguaçu - RJ	98990
+JEEP COMPASS	1.3 T270 TURBO FLEX SPORT AT6	2021	2022	10693	Rio de Janeiro - RJ	169420
+NISSAN VERSA	1.6 16V FLEX ADVANCE XTRONIC	2021	2022	19263	Rio de Janeiro - RJ	99960
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX LIVE EAT6	2021	2022	29808	Rio de Janeiro - RJ	82170
+RENAULT DUSTER	1.6 16V SCE FLEX ICONIC X-TRONIC	2021	2022	44000	Rio de Janeiro - RJ	99990
+FIAT STRADA	1.3 FIREFLY FLEX FREEDOM CS MANUAL	2021	2022	22997	Niterói - RJ	95010
+MITSUBISHI ECLIPSE CROSS	1.5 MIVEC TURBO GASOLINA HPE CVT	2021	2022	11292	Rio de Janeiro - RJ	182840
+CHEVROLET S10	2.8 16V TURBO DIESEL LS CD 4X4 MANUAL	2021	2022	48055	Rio de Janeiro - RJ	216240
+FIAT STRADA	1.3 FIREFLY FLEX FREEDOM CS MANUAL	2021	2022	30058	Rio de Janeiro - RJ	92760
+PORSCHE 718	2.0 16V H4 GASOLINA BOXSTER PDK	2021	2022	1797	Rio de Janeiro - RJ	800000
+PORSCHE 911	3.0 24V H6 GASOLINA CARRERA GTS PDK	2022	2022	112	Rio de Janeiro - RJ	1570000
+NISSAN VERSA	1.6 16V FLEX EXCLUSIVE XTRONIC	2021	2022	15922	Niterói - RJ	107610
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX LIVE EAT6	2021	2022	27256	Nova Iguaçu - RJ	83990
+JEEP RENEGADE	1.3 T270 TURBO FLEX S 4X4 AT9	2022	2022	2000	Rio de Janeiro - RJ	156990
+CAOA CHERY TIGGO 7	1.5 VVT TURBO iFLEX TXS DCT	2021	2022	12000	Rio de Janeiro - RJ	128990
+NISSAN FRONTIER	2.3 16V TURBO DIESEL XE CD 4X4 AUTOMÁTICO	2021	2022	25622	Rio de Janeiro - RJ	231750
+FIAT ARGO	1.3 FIREFLY FLEX DRIVE S-DESIGN MANUAL	2021	2022	23895	Rio de Janeiro - RJ	76030
+CAOA CHERY TIGGO 8	1.6 TGDI GASOLINA TXS DCT	2021	2022	23323	Rio de Janeiro - RJ	174990
+RENAULT SANDERO	1.0 12V SCE FLEX GT LINE MANUAL	2021	2022	27000	Rio de Janeiro - RJ	70990
+FIAT TORO	2.0 16V TURBO DIESEL VOLCANO 4WD AT9	2021	2022	25256	Rio de Janeiro - RJ	184250
+VOLKSWAGEN T-CROSS	1.0 200 TSI TOTAL FLEX COMFORTLINE AUTOMÁTICO	2021	2022	31000	Rio de Janeiro - RJ	134900
+FIAT MOBI	1.0 EVO FLEX LIKE. MANUAL	2021	2022	1099	Rio de Janeiro - RJ	57900
+RENAULT CAPTUR	1.3 TCE FLEX INTENSE X-TRONIC	2021	2022	27856	Rio de Janeiro - RJ	120540
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2021	2022	35996	Rio de Janeiro - RJ	87750
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2021	2022	30908	Rio de Janeiro - RJ	88990
+VOLKSWAGEN POLO	1.6 MSI TOTAL FLEX MANUAL	2021	2022	19828	Rio de Janeiro - RJ	74900
+FIAT CRONOS	1.3 FIREFLY FLEX DRIVE MANUAL	2022	2022	21225	Rio de Janeiro - RJ	78900
+CAOA CHERY TIGGO 8	1.6 TGDI GASOLINA TXS DCT	2021	2022	17216	Rio de Janeiro - RJ	174990
+MITSUBISHI ECLIPSE CROSS	1.5 MIVEC TURBO GASOLINA HPE CVT	2021	2022	12931	Rio de Janeiro - RJ	182370
+MITSUBISHI ECLIPSE CROSS	1.5 MIVEC TURBO GASOLINA HPE-S CVT	2021	2022	20548	Niterói - RJ	186900
+FIAT ARGO	1.0 FIREFLY FLEX MANUAL	2021	2022	21023	Niterói - RJ	67990
+NISSAN VERSA	1.6 16V FLEX ADVANCE XTRONIC	2021	2022	32692	Niterói - RJ	98480
+TOYOTA COROLLA CROSS	2.0 VVT-IE FLEX XR DIRECT SHIFT	2021	2022	19242	Rio de Janeiro - RJ	152300
+RENAULT DUSTER	1.6 16V SCE FLEX ICONIC X-TRONIC	2021	2022	31541	Mesquita - RJ	103250
+NISSAN VERSA	1.6 16V FLEX EXCLUSIVE XTRONIC	2021	2022	26382	Nova Iguaçu - RJ	106020
+CAOA CHERY TIGGO 5x	1.5 VVT TURBO iFLEX T DCT	2021	2022	5709	Rio de Janeiro - RJ	101970
+VOLKSWAGEN FOX	1.6 MSI TOTAL FLEX CONNECT 4P MANUAL	2021	2022	14463	Rio de Janeiro - RJ	67970
+VOLKSWAGEN FOX	1.6 MSI TOTAL FLEX CONNECT 4P MANUAL	2021	2022	45824	Rio de Janeiro - RJ	64970
+VOLKSWAGEN TAOS	1.4 250 TSI TOTAL FLEX COMFORTLINE AUTOMÁTICO	2022	2022	100	Rio de Janeiro - RJ	173970
+HYUNDAI TUCSON	1.6 16V T-GDI GASOLINA GLS ECOSHIFT	2021	2022	17880	Nova Iguaçu - RJ	176050
+HYUNDAI CRETA	2.0 FLEX ULTIMATE AUTOMÁTICO	2021	2022	100	São João de Meriti - RJ	155999
+FIAT MOBI	1.0 EVO FLEX LIKE. MANUAL	2021	2022	34020	Rio de Janeiro - RJ	55930
+RENAULT CAPTUR	1.3 TCE FLEX ICONIC X-TRONIC	2021	2022	10805	Rio de Janeiro - RJ	129680
+NISSAN VERSA	1.6 16V FLEX ADVANCE XTRONIC	2021	2022	6214	Rio de Janeiro - RJ	101870
+VOLKSWAGEN T-CROSS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2021	2022	2695	Rio de Janeiro - RJ	162870
+PEUGEOT 2008	1.6 16V FLEX ALLURE PACK 4P AUTOMÁTICO	2021	2022	5835	Niterói - RJ	78990
+PEUGEOT 2008	1.6 16V FLEX ALLURE PACK 4P AUTOMÁTICO	2021	2022	20242	Rio de Janeiro - RJ	78990
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX LIVE EAT6	2021	2022	28277	Rio de Janeiro - RJ	82170
+PEUGEOT 2008	1.6 16V FLEX ALLURE PACK 4P AUTOMÁTICO	2021	2022	24573	Niterói - RJ	82990
+PEUGEOT 2008	1.6 16V FLEX ALLURE PACK 4P AUTOMÁTICO	2021	2022	22460	Nova Iguaçu - RJ	78990
+CHEVROLET SPIN	1.8 PREMIER 8V FLEX 4P AUTOMÁTICO	2021	2022	18296	Rio de Janeiro - RJ	106900
+VOLKSWAGEN SAVEIRO	1.6 CROSS CD 16V FLEX 2P MANUAL	2021	2022	100	Petrópolis - RJ	116900
+FIAT PULSE	1.0 TURBO 200 FLEX IMPETUS CVT	2021	2022	100	Petrópolis - RJ	125900
+FIAT PULSE	1.0 TURBO 200 FLEX IMPETUS CVT	2021	2022	100	Petrópolis - RJ	125900
+TOYOTA COROLLA CROSS	2.0 VVT-IE FLEX XRE DIRECT SHIFT	2021	2022	3000	Nova Friburgo - RJ	167900
+FIAT TORO	1.3 TURBO 270 FLEX FREEDOM AT6	2021	2022	100	Maricá - RJ	144800
+NISSAN VERSA	1.6 16V FLEX EXCLUSIVE XTRONIC	2021	2022	100	Maricá - RJ	116490
+CHEVROLET TRACKER	1.2 TURBO FLEX PREMIER AUTOMÁTICO	2021	2022	15000	Rio de Janeiro - RJ	142000
+CAOA CHERY ARRIZO 6 PRO	1.5 VVT TURBO iFLEX CVT	2021	2022	6900	Rio de Janeiro - RJ	119990
+TOYOTA COROLLA	2.0 VVT-IE FLEX GR-S DIRECT SHIFT	2021	2022	10000	Rio de Janeiro - RJ	148900
+TOYOTA COROLLA CROSS	2.0 VVT-IE FLEX XRE DIRECT SHIFT	2021	2022	6136	Rio de Janeiro - RJ	165000
+CHEVROLET S10	2.5 16V FLEX LTZ CD 4X4 AUTOMÁTICO	2021	2022	9500	Itacurussá - RJ	215000
+KIA CARNIVAL	3.5 V6 GASOLINA EX AUTOMATICO	2021	2022	4000	Rio de Janeiro - RJ	610000
+HYUNDAI HB20	1.0 12V FLEX EVOLUTION MANUAL	2022	2022	5400	Rio de Janeiro - RJ	75000
+MERCEDES-BENZ GLC 43 AMG	3.0 V6 GASOLINA 4MATIC 9G-TRONIC	2022	2022	1000	Rio de Janeiro - RJ	659900
+MERCEDES-BENZ C 200	1.5 EQ BOOST HÍBRIDO AMG LINE 9G-TRONIC	2022	2022	100	Rio de Janeiro - RJ	459900
+FIAT TORO	1.8 16V EVO FLEX ENDURANCE AT6	2021	2022	7000	Rio de Janeiro - RJ	116900
+VOLKSWAGEN VIRTUS	1.0 200 TSI COMFORTLINE AUTOMÁTICO	2021	2022	2270	Niterói - RJ	99900
+TOYOTA COROLLA	2.0 VVT-IE FLEX ALTIS DIRECT SHIFT	2021	2022	12455	Petrópolis - RJ	159900
+JEEP COMPASS	2.0 TD350 TURBO DIESEL LIMITED AT9	2021	2022	17000	Macaé - RJ	212990
+BMW 320i	2.0 16V TURBO FLEX M SPORT AUTOMÁTICO	2021	2022	100	Rio de Janeiro - RJ	391990
+JEEP COMPASS	1.3 T270 TURBO FLEX LIMITED AT6	2022	2022	12021	Rio de Janeiro - RJ	246990
+LAND ROVER DISCOVERY	3.0 D300 TURBO DIESEL HSE AUTOMÁTICO	2021	2022	28000	Rio de Janeiro - RJ	799900
+TOYOTA COROLLA	2.0 VVT-IE FLEX ALTIS DIRECT SHIFT	2021	2022	12455	Rio das Ostras - RJ	159900
+BMW 320i	2.0 16V TURBO FLEX SPORT GP AUTOMÁTICO	2021	2022	17000	Rio de Janeiro - RJ	259500
+CAOA CHERY TIGGO 5x	1.5 VVT TURBO iFLEX TXS DCT	2021	2022	20392	Rio de Janeiro - RJ	119990
+CAOA CHERY TIGGO 5x	1.5 VVT TURBO iFLEX TXS DCT	2021	2022	20633	Rio de Janeiro - RJ	119990
+BMW 320i	2.0 16V TURBO FLEX M SPORT AUTOMÁTICO	2021	2022	5700	Rio de Janeiro - RJ	302900
+TOYOTA COROLLA	2.0 VVT-IE FLEX XEI DIRECT SHIFT	2021	2022	9000	Rio de Janeiro - RJ	205000
+BMW X1	2.0 16V TURBO ACTIVEFLEX SDRIVE20I X-LINE 4P AUTOMÁTICO	2021	2022	11000	Rio de Janeiro - RJ	265000
+FORD RANGER	2.2 BLACK 4X2 CD 16V DIESEL 4P AUTOMÁTICO	2021	2022	23000	Rio de Janeiro - RJ	185500
+JEEP COMPASS	1.3 T270 TURBO FLEX LIMITED AT6	2021	2022	9800	Niterói - RJ	192000
+VOLKSWAGEN VIRTUS	1.0 200 TSI COMFORTLINE AUTOMÁTICO	2021	2022	2270	Teresópolis - RJ	99900
+VOLKSWAGEN VIRTUS	1.0 200 TSI COMFORTLINE AUTOMÁTICO	2021	2022	2270	Petrópolis - RJ	99900
+FORD RANGER	3.2 STORM 4X4 CD 20V DIESEL 4P AUTOMÁTICO	2022	2022	16500	Rio de Janeiro - RJ	215000
+CHEVROLET SPIN	1.8 PREMIER 8V FLEX 4P AUTOMÁTICO	2021	2022	50300	Rio de Janeiro - RJ	94990
+TOYOTA COROLLA	1.8 VVT-I HYBRID FLEX ALTIS CVT	2021	2022	13000	Rio de Janeiro - RJ	172000
+FIAT TORO	2.0 16V TURBO DIESEL ULTRA 4WD AT9	2021	2022	32000	Rio de Janeiro - RJ	171000
+FIAT STRADA	1.4 FIRE FLEX ENDURANCE CS MANUAL	2021	2022	26000	Niterói - RJ	85990
+MERCEDES-BENZ GLE 400d	3.0 V6 DIESEL 4MATIC 9G-TRONIC	2022	2022	100	Rio de Janeiro - RJ	779900
+TOYOTA COROLLA CROSS	2.0 VVT-IE FLEX XR DIRECT SHIFT	2021	2022	11000	Barra Mansa - RJ	143500
+VOLKSWAGEN TAOS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2021	2022	4000	Rio de Janeiro - RJ	175000
+CHEVROLET ONIX	1.0 TURBO FLEX LTZ MANUAL	2022	2022	7000	Niterói - RJ	81900
+FORD RANGER	2.2 BLACK 4X2 CD 16V DIESEL 4P AUTOMÁTICO	2021	2022	28000	Itatiaia - RJ	188000
+MERCEDES-BENZ EQS 53 AMG	4MATIC ELÉTRICO	2022	2022	115	Rio de Janeiro - RJ	1590900
+JEEP RENEGADE	1.3 T270 TURBO FLEX S 4X4 AT9	2022	2022	3200	Niterói - RJ	147900
+SUZUKI JIMNY	1.3 4ALL 4X4 16V GASOLINA 2P MANUAL	2022	2022	6182	Rio de Janeiro - RJ	106000
+TOYOTA COROLLA CROSS	2.0 VVT-IE FLEX XRE DIRECT SHIFT	2021	2022	11000	Rio de Janeiro - RJ	154000
+JEEP COMPASS	1.3 T270 TURBO FLEX LONGITUDE AT6	2021	2022	16500	Rio de Janeiro - RJ	159500
+MITSUBISHI L200 TRITON	2.4 16V TURBO DIESEL SPORT HPE-S CD 4P 4X4 AUTOMÁTICO	2021	2022	12000	Rio de Janeiro - RJ	284900
+JEEP COMPASS	2.0 TD350 TURBO DIESEL LIMITED AT9	2022	2022	35000	Rio de Janeiro - RJ	260000
+VOLKSWAGEN VOYAGE	1.6 MSI TOTALFLEX 4P MANUAL	2021	2022	28751	Nova Iguaçu - RJ	76780
+VOLKSWAGEN GOL	1.6 MSI TOTALFLEX 4P MANUAL	2021	2022	17093	Nova Iguaçu - RJ	72800
+JAGUAR F-TYPE	2.0 P300 GASOLINA R-DYNAMIC BLACK CABRIO AUTOMÁTICO	2021	2022	3750	Niterói - RJ	659900
+HONDA CITY	1.5 i-VTEC FLEX TOURING CVT	2022	2022	25000	Niterói - RJ	123500
+JEEP COMPASS	1.3 T270 TURBO FLEX S AT6	2021	2022	18000	Rio de Janeiro - RJ	189900
+JEEP COMPASS	1.3 T270 TURBO FLEX LONGITUDE AT6	2021	2022	32000	Volta Redonda - RJ	164900
+JEEP COMPASS	2.0 TD350 TURBO DIESEL LIMITED AT9	2021	2022	35000	Cabo Frio - RJ	209900
+RENAULT DUSTER OROCH	1.6 16V SCE FLEX DYNAMIQUE MANUAL	2021	2022	16000	Rio de Janeiro - RJ	92990
+TOYOTA COROLLA	2.0 VVT-IE FLEX GR-S DIRECT SHIFT	2021	2022	23000	Itaguaí - RJ	147000
+TOYOTA COROLLA CROSS	2.0 VVT-IE FLEX XRE DIRECT SHIFT	2021	2022	100	Rio de Janeiro - RJ	171900
+CHEVROLET TRACKER	1.2 TURBO FLEX PREMIER AUTOMÁTICO	2021	2022	14000	Nova Friburgo - RJ	135000
+CHEVROLET SPIN	1.8 PREMIER 8V FLEX 4P AUTOMÁTICO	2021	2022	52359	Rio de Janeiro - RJ	102990
+FIAT TORO	2.0 16V TURBO DIESEL ULTRA 4WD AT9	2021	2022	18759	Rio das Ostras - RJ	196990
+CAOA CHERY TIGGO 8	1.6 TGDI GASOLINA TXS DCT	2021	2022	20000	Rio de Janeiro - RJ	164900
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2021	2022	50512	Nova Iguaçu - RJ	83990
+JEEP RENEGADE	1.3 T270 TURBO FLEX S 4X4 AT9	2022	2022	2000	Petrópolis - RJ	165900
+VOLKSWAGEN SAVEIRO	1.6 MSI ROBUST CD 8V FLEX 2P MANUAL	2021	2022	46777	Rio de Janeiro - RJ	85777
+TOYOTA COROLLA CROSS	1.8 VVT-I HYBRID FLEX XRV CVT	2021	2022	16802	Angra dos Reis - RJ	199900
+CHEVROLET SPIN	1.8 PREMIER 8V FLEX 4P AUTOMÁTICO	2021	2022	53000	Duque de Caxias - RJ	99900
+JEEP COMPASS	1.3 T270 TURBO FLEX LIMITED AT6	2021	2022	15000	Niterói - RJ	186000
+PORSCHE MACAN	2.9 V6 BITURBO GASOLINA S PDK	2022	2022	13000	Rio de Janeiro - RJ	830000
+CHEVROLET ONIX	1.0 TURBO FLEX PLUS PREMIER AUTOMÁTICO	2022	2022	19000	Niterói - RJ	98000
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2021	2022	58633	Rio das Ostras - RJ	85990
+BMW 330e	2.0 16V TURBO HÍBRIDO M SPORT AUTOMÁTICO	2021	2022	9000	Niterói - RJ	361000
+BMW 320i	2.0 16V TURBO FLEX SPORT GP AUTOMÁTICO	2022	2022	3100	Rio de Janeiro - RJ	266000
+BMW 218i	1.5 TWINTURBO GASOLINA GRAN COUPE SPORT GP STEPTRONIC	2021	2022	3800	Rio de Janeiro - RJ	270000
+CHEVROLET CRUZE	1.4 TURBO FLEX SPORT6 PREMIER AUTOMÁTICO	2021	2022	12351	Rio de Janeiro - RJ	144000
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2022	2022	49000	Rio de Janeiro - RJ	85990
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2021	2022	49000	Rio de Janeiro - RJ	85990
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2022	2022	49000	Rio de Janeiro - RJ	85990
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2021	2022	49000	Rio de Janeiro - RJ	85990
+FIAT CRONOS	1.3 FIREFLY FLEX MANUAL	2021	2022	33907	Niterói - RJ	72750
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2021	2022	47000	Rio de Janeiro - RJ	85990
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2021	2022	48500	Rio de Janeiro - RJ	85990
+HYUNDAI CRETA	1.6 16V FLEX ACTION AUTOMÁTICO	2022	2022	3682	Niterói - RJ	100000
+MERCEDES-BENZ C 300	2.0 EQ BOOST HÍBRIDO AMG LINE 9G-TRONIC	2022	2022	12000	Rio de Janeiro - RJ	398900
+VOLKSWAGEN TAOS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2021	2022	8000	Rio de Janeiro - RJ	190000
+JEEP COMPASS	2.0 TD350 TURBO DIESEL LONGITUDE AT9	2021	2022	10000	Rio de Janeiro - RJ	207000
+FIAT STRADA	1.4 FIRE FLEX ENDURANCE CS MANUAL	2021	2022	29198	Rio de Janeiro - RJ	90360
+CAOA CHERY TIGGO 8	1.6 TGDI GASOLINA TXS DCT	2021	2022	9200	Campos dos Goytacazes - RJ	179800
+FORD RANGER	3.2 LIMITED 4X4 CD 20V DIESEL 4P AUTOMÁTICO	2021	2022	35000	Rio de Janeiro - RJ	265000
+HONDA CITY	1.5 i-VTEC FLEX HATCH TOURING CVT	2022	2022	4440	Rio de Janeiro - RJ	189000
+TOYOTA COROLLA CROSS	1.8 VVT-I HYBRID FLEX XRX CVT	2022	2022	31000	Rio de Janeiro - RJ	188990
+CAOA CHERY TIGGO 8	1.6 TGDI GASOLINA TXS DCT	2021	2022	25395	Rio de Janeiro - RJ	171270
+FIAT TORO	2.0 16V TURBO DIESEL RANCH 4WD AT9	2021	2022	23000	Travessão - RJ	187900
+HYUNDAI HB20	1.0 12V FLEX VISION MANUAL	2021	2022	31000	Petrópolis - RJ	65900
+PEUGEOT 208	1.6 16V FLEX ALLURE AT6	2021	2022	30215	Niterói - RJ	84580
+BMW M 440i	3.0 I6 TWINTURBO GASOLINA COUPÉ STEPTRONIC	2021	2022	22000	Rio de Janeiro - RJ	500000
+JEEP COMPASS	2.0 TD350 TURBO DIESEL LONGITUDE AT9	2021	2022	28000	Rio de Janeiro - RJ	200000
+HYUNDAI CRETA	2.0 FLEX ULTIMATE AUTOMÁTICO	2021	2022	28000	Niterói - RJ	148000
+FIAT STRADA	1.3 FIREFLY FLEX FREEDOM CS MANUAL	2021	2022	19749	Niterói - RJ	91900
+VOLKSWAGEN VIRTUS	1.0 200 TSI COMFORTLINE AUTOMÁTICO	2022	2022	15500	Rio de Janeiro - RJ	95900
+FIAT PULSE	1.0 TURBO 200 FLEX IMPETUS CVT	2022	2022	100	Rio de Janeiro - RJ	112000
+JEEP COMPASS	1.3 T270 TURBO FLEX LONGITUDE AT6	2021	2022	20500	Magé - RJ	157990
+PEUGEOT 208	1.6 16V FLEX ALLURE AT6	2021	2022	15746	Rio de Janeiro - RJ	86490
+VOLKSWAGEN GOL	1.6 MSI TOTALFLEX 4P MANUAL	2021	2022	4904	Rio de Janeiro - RJ	69730
+FIAT CRONOS	1.3 FIREFLY FLEX DRIVE MANUAL	2021	2022	39994	Nova Iguaçu - RJ	78900
+PEUGEOT 2008	1.6 16V FLEX ALLURE PACK 4P AUTOMÁTICO	2021	2022	31000	Rio de Janeiro - RJ	75990
+JEEP COMPASS	1.3 T270 TURBO FLEX SPORT AT6	2021	2022	23200	Rio de Janeiro - RJ	148700
+CAOA CHERY TIGGO 8	1.6 TGDI GASOLINA TXS DCT	2021	2022	37068	Rio de Janeiro - RJ	169540
+VOLKSWAGEN TAOS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2021	2022	20000	Resende - RJ	189900
+FORD RANGER	2.2 BLACK 4X2 CD 16V DIESEL 4P AUTOMÁTICO	2021	2022	7000	Rio de Janeiro - RJ	259900
+HYUNDAI HB20	1.0 TGDI FLEX EVOLUTION AUTOMÁTICO	2021	2022	46000	Rio de Janeiro - RJ	85990
+HYUNDAI HB20	1.0 TGDI FLEX EVOLUTION AUTOMÁTICO	2021	2022	46000	Rio de Janeiro - RJ	85990
+HYUNDAI HB20	1.0 TGDI FLEX EVOLUTION AUTOMÁTICO	2021	2022	46000	Rio de Janeiro - RJ	85990
+HYUNDAI HB20	1.0 TGDI FLEX EVOLUTION AUTOMÁTICO	2021	2022	46000	Rio de Janeiro - RJ	85990
+HYUNDAI HB20	1.0 TGDI FLEX EVOLUTION AUTOMÁTICO	2021	2022	46000	Rio de Janeiro - RJ	85990
+HYUNDAI HB20	1.0 TGDI FLEX EVOLUTION AUTOMÁTICO	2021	2022	46000	Rio de Janeiro - RJ	85990
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2021	2022	25053	Rio de Janeiro - RJ	87990
+CAOA CHERY TIGGO 8	1.6 TGDI GASOLINA TXS DCT	2021	2022	37084	Rio de Janeiro - RJ	171270
+RENAULT DUSTER	1.6 16V SCE FLEX ICONIC X-TRONIC	2021	2022	40000	Rio de Janeiro - RJ	108350
+RENAULT DUSTER	1.6 16V SCE FLEX ICONIC X-TRONIC	2021	2022	40000	Rio de Janeiro - RJ	108350
+JEEP COMPASS	1.3 T270 TURBO FLEX LONGITUDE AT6	2021	2022	9800	Niterói - RJ	165000
+TOYOTA COROLLA	2.0 VVT-IE FLEX XEI DIRECT SHIFT	2021	2022	47930	Rio de Janeiro - RJ	139990
+FIAT TORO	2.0 16V TURBO DIESEL VOLCANO 4WD AT9	2021	2022	18800	Teresópolis - RJ	158000
+NISSAN LEAF	B12P 40 ELÉTRICO	2021	2022	4656	Rio de Janeiro - RJ	222750
+CHEVROLET SPIN	1.8 PREMIER 8V FLEX 4P AUTOMÁTICO	2021	2022	52849	Niterói - RJ	95990
+CAOA CHERY TIGGO 3X	1.0 VVT TURBO iFLEX PRO CVT	2021	2022	6950	Rio de Janeiro - RJ	98000
+TOYOTA HILUX	2.8 D-4D TURBO DIESEL CD SRV 4X4 AUTOMÁTICO	2022	2022	7000	Itaperuna - RJ	265000
+JEEP COMPASS	1.3 T270 TURBO FLEX LIMITED AT6	2021	2022	15000	Volta Redonda - RJ	173800
+NISSAN FRONTIER	2.3 16V TURBO DIESEL ATTACK CD 4X4 AUTOMÁTICO	2021	2022	11000	Rio de Janeiro - RJ	220000
+VOLKSWAGEN GOL	1.6 MSI TOTALFLEX 4P MANUAL	2021	2022	8521	Rio de Janeiro - RJ	66890
+RENAULT LOGAN	1.0 12V SCE FLEX ZEN MANUAL	2021	2022	82639	Rio de Janeiro - RJ	70990
+FIAT MOBI	1.0 EVO FLEX LIKE. MANUAL	2021	2022	42811	Rio de Janeiro - RJ	55370
+JEEP COMPASS	2.0 TD350 TURBO DIESEL LIMITED AT9	2021	2022	37000	Rio de Janeiro - RJ	208000
+BMW X1	2.0 16V TURBO ACTIVEFLEX SDRIVE20I X-LINE 4P AUTOMÁTICO	2021	2022	21000	Rio de Janeiro - RJ	244900
+RENAULT SANDERO	2.0 16V HI-FLEX RS MANUAL	2021	2022	9384	Volta Redonda - RJ	82900
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2021	2022	39650	Rio de Janeiro - RJ	82990
+CHEVROLET SPIN	1.8 PREMIER 8V FLEX 4P AUTOMÁTICO	2021	2022	50224	Rio de Janeiro - RJ	95990
+VOLKSWAGEN TAOS	1.4 250 TSI TOTAL FLEX COMFORTLINE AUTOMÁTICO	2021	2022	12094	Rio das Ostras - RJ	161900
+VOLKSWAGEN TAOS	1.4 250 TSI TOTAL FLEX COMFORTLINE AUTOMÁTICO	2021	2022	12094	Petrópolis - RJ	161900
+VOLKSWAGEN TAOS	1.4 250 TSI TOTAL FLEX COMFORTLINE AUTOMÁTICO	2021	2022	12094	Niterói - RJ	161900
+BMW M5	4.4 V8 TWINPOWER GASOLINA COMPETITION M XDRIVE STEPTRONIC	2021	2022	2450	Rio de Janeiro - RJ	897000
+PEUGEOT 3008	1.6 16V THP GASOLINA GRIFFE AUTOMÁTICO	2022	2022	11000	Niterói - RJ	215000
+HYUNDAI HB20	1.0 12V FLEX SENSE MANUAL	2021	2022	11000	Rio de Janeiro - RJ	68000
+PEUGEOT 208	1.6 16V FLEX ALLURE AT6	2021	2022	24224	Niterói - RJ	85850
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX LIVE EAT6	2021	2022	33416	Niterói - RJ	82170
+NISSAN VERSA	1.6 16V FLEX ADVANCE XTRONIC	2021	2022	6200	Rio de Janeiro - RJ	102990
+JEEP COMMANDER	2.0 TD380 TURBO DIESEL OVERLAND AT9	2022	2022	8100	Rio de Janeiro - RJ	350000
+FIAT STRADA	1.4 FIRE FLEX ENDURANCE CS MANUAL	2022	2022	15000	Rio de Janeiro - RJ	94999
+VOLKSWAGEN VOYAGE	1.6 MSI TOTALFLEX 4P MANUAL	2021	2022	31455	Nova Iguaçu - RJ	68370
+JEEP COMPASS	1.3 T270 TURBO FLEX LIMITED AT6	2022	2022	14700	Niterói - RJ	179999
+TOYOTA COROLLA CROSS	2.0 VVT-IE FLEX XR DIRECT SHIFT	2021	2022	6374	Rio de Janeiro - RJ	149990
+JEEP COMPASS	2.0 TD350 TURBO DIESEL LIMITED AT9	2021	2022	9200	Cabo Frio - RJ	230000
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2021	2022	39405	Rio de Janeiro - RJ	88110
+AUDI Q7	3.0 55 TFSI GASOLINA PERFORMANCE BLACK QUATTRO TIPTRONIC	2022	2022	100	Rio de Janeiro - RJ	789900
+VOLKSWAGEN VOYAGE	1.6 MSI TOTALFLEX 4P MANUAL	2021	2022	68259	Nova Iguaçu - RJ	65770
+FIAT ARGO	1.0 FIREFLY FLEX DRIVE MANUAL	2021	2022	30874	Rio de Janeiro - RJ	69260
+NISSAN KICKS	1.6 16V FLEXSTART ACTIVE XTRONIC	2021	2022	14000	Rio de Janeiro - RJ	102500
+MERCEDES-BENZ C 200	1.5 EQ BOOST HÍBRIDO AMG LINE 9G-TRONIC	2021	2022	1700	Rio de Janeiro - RJ	445000
+FIAT ARGO	1.0 FIREFLY FLEX DRIVE MANUAL	2021	2022	6000	Rio das Ostras - RJ	69900
+NISSAN KICKS	1.6 16V FLEXSTART ADVANCE XTRONIC	2021	2022	18000	Resende - RJ	116990
+FIAT TORO	1.8 16V EVO FLEX ENDURANCE AT6	2021	2022	42182	Niterói - RJ	111910
+BMW 320i	2.0 16V TURBO FLEX M SPORT AUTOMÁTICO	2022	2022	5500	Rio de Janeiro - RJ	289900
+JEEP COMPASS	1.3 T270 TURBO FLEX LONGITUDE AT6	2021	2022	13500	Rio de Janeiro - RJ	163900
+CHEVROLET CRUZE	1.4 TURBO LT 16V FLEX 4P AUTOMÁTICO	2021	2022	29964	Rio de Janeiro - RJ	116620
+CHEVROLET CRUZE	1.4 TURBO LT 16V FLEX 4P AUTOMÁTICO	2021	2022	26899	Niterói - RJ	116620
+JEEP COMMANDER	1.3 T270 TURBO FLEX LIMITED AT6	2022	2022	500	Rio de Janeiro - RJ	240000
+FIAT TORO	2.0 16V TURBO DIESEL ULTRA 4WD AT9	2021	2022	12000	Rio de Janeiro - RJ	189000
+BMW 320i	2.0 16V TURBO FLEX M SPORT AUTOMÁTICO	2021	2022	27000	Rio de Janeiro - RJ	280000
+NISSAN KICKS	1.6 16V FLEXSTART ADVANCE XTRONIC	2021	2022	10777	Rio de Janeiro - RJ	112400
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2021	2022	46758	Rio de Janeiro - RJ	84990
+NISSAN KICKS	1.6 16V FLEXSTART ADVANCE XTRONIC	2022	2022	1230	Rio de Janeiro - RJ	114000
+NISSAN LEAF	B12P 40 ELÉTRICO	2021	2022	8763	Niterói - RJ	224990
+CAOA CHERY TIGGO 5x	1.5 VVT TURBO iFLEX TXS DCT	2022	2022	1430	Rio de Janeiro - RJ	129800
+HYUNDAI HB20S	1.0 TGDI FLEX EVOLUTION AUTOMÁTICO	2021	2022	51036	Nova Iguaçu - RJ	89460
+TOYOTA COROLLA CROSS	1.8 VVT-I HYBRID FLEX XRX CVT	2021	2022	4300	Rio de Janeiro - RJ	189500
+HYUNDAI CRETA	2.0 FLEX ULTIMATE AUTOMÁTICO	2022	2022	25000	Nova Iguaçu - RJ	149900
+BMW 330e	2.0 16V TURBO HÍBRIDO M SPORT AUTOMÁTICO	2022	2022	1200	Rio de Janeiro - RJ	329997
+JEEP COMPASS	2.0 TD350 TURBO DIESEL TRAILHAWK AT9	2021	2022	1050	Rio de Janeiro - RJ	221800
+CAOA CHERY TIGGO 8	1.6 TGDI GASOLINA TXS DCT	2021	2022	1280	Rio de Janeiro - RJ	170000
+VOLKSWAGEN NIVUS	1.0 200 TSI TOTAL FLEX COMFORTLINE AUTOMÁTICO	2022	2022	1200	Rio de Janeiro - RJ	116800
+NISSAN FRONTIER	2.3 16V TURBO DIESEL ATTACK CD 4X4 AUTOMÁTICO	2021	2022	28320	Niterói - RJ	212930
+FIAT CRONOS	1.3 FIREFLY FLEX MANUAL	2021	2022	34462	Niterói - RJ	72020
+VOLVO C40	P8 RECHARGE PURE ELECTRIC AWD	2022	2022	3900	Barra do Piraí - RJ	385000
+FIAT ARGO	1.0 FIREFLY FLEX DRIVE MANUAL	2021	2022	6000	Niterói - RJ	69900
+JEEP COMMANDER	2.0 TD380 TURBO DIESEL LIMITED AT9	2022	2022	11000	Rio de Janeiro - RJ	259900
+VOLKSWAGEN VOYAGE	1.6 MSI TOTALFLEX 4P MANUAL	2021	2022	29600	Niterói - RJ	68900
+VOLKSWAGEN VOYAGE	1.6 MSI TOTALFLEX 4P MANUAL	2021	2022	29600	Rio das Ostras - RJ	68900
+FIAT STRADA	1.3 FIREFLY FLEX FREEDOM CS MANUAL	2021	2022	19749	Rio das Ostras - RJ	91900
+HONDA CITY	1.5 i-VTEC FLEX EXL CVT	2022	2022	6500	Rio de Janeiro - RJ	114500
+CAOA CHERY TIGGO 5x	1.5 VVT TURBO iFLEX TXS DCT	2021	2022	15000	Niterói - RJ	117900
+VOLKSWAGEN NIVUS	1.0 200 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2022	2022	4000	Rio de Janeiro - RJ	131900
+PEUGEOT 208	1.6 16V FLEX ALLURE AT6	2021	2022	12000	Rio de Janeiro - RJ	83990
+NISSAN KICKS	1.6 16V FLEXSTART ADVANCE XTRONIC	2021	2022	22480	Rio de Janeiro - RJ	111480
+VOLKSWAGEN T-CROSS	1.0 200 TSI TOTAL FLEX AUTOMÁTICO	2022	2022	125	Rio de Janeiro - RJ	136000
+VOLKSWAGEN T-CROSS	1.0 200 TSI TOTAL FLEX COMFORTLINE AUTOMÁTICO	2021	2022	13000	Rio de Janeiro - RJ	134900
+FIAT STRADA	1.3 FIREFLY FLEX FREEDOM CD MANUAL	2021	2022	20000	Rio de Janeiro - RJ	98000
+JEEP COMMANDER	2.0 TD380 TURBO DIESEL OVERLAND AT9	2021	2022	13000	Itaperuna - RJ	285000
+NISSAN KICKS	1.6 16V FLEXSTART ADVANCE XTRONIC	2021	2022	23174	Niterói - RJ	111480
+VOLKSWAGEN TAOS	1.4 250 TSI TOTAL FLEX COMFORTLINE AUTOMÁTICO	2021	2022	8900	Rio de Janeiro - RJ	169000
+PORSCHE CAYENNE	3.0 V6 E-HYBRID COUPÉ AWD TIPTRONIC S	2021	2022	6600	Rio de Janeiro - RJ	950000
+NISSAN KICKS	1.6 16V FLEXSTART SENSE XTRONIC	2021	2022	21724	Niterói - RJ	107330
+JEEP RENEGADE	1.3 T270 TURBO FLEX LONGITUDE AT6	2022	2022	591	Rio de Janeiro - RJ	209700
+JEEP RENEGADE	1.3 T270 TURBO FLEX SPORT AT6	2022	2022	11016	Rio de Janeiro - RJ	121900
+JEEP COMPASS	1.3 T270 TURBO FLEX SPORT AT6	2021	2022	16113	Rio de Janeiro - RJ	154700
+RENAULT KWID	1.0 12V SCE FLEX ZEN MANUAL	2021	2022	33417	Niterói - RJ	56650
+HYUNDAI HB20X	1.6 16V FLEX DIAMOND AUTOMÁTICO	2021	2022	25172	Niterói - RJ	87990
+HYUNDAI HB20S	1.0 TGDI FLEX EVOLUTION AUTOMÁTICO	2021	2022	43386	Niterói - RJ	85780
+FIAT CRONOS	1.3 FIREFLY FLEX DRIVE MANUAL	2021	2022	50347	Volta Redonda - RJ	74490
+FIAT ARGO	1.3 FIREFLY FLEX DRIVE S-DESIGN MANUAL	2021	2022	23336	Niterói - RJ	76030
+FIAT STRADA	1.3 FIREFLY FLEX FREEDOM CS MANUAL	2021	2022	3900	Teresópolis - RJ	99900
+CHEVROLET TRACKER	1.2 TURBO FLEX PREMIER AUTOMÁTICO	2021	2022	18527	Rio de Janeiro - RJ	137770
+JEEP COMPASS	1.3 T270 TURBO FLEX SPORT AT6	2021	2022	58000	Casimiro de Abreu - RJ	149000
+PEUGEOT 2008	1.6 16V FLEX ALLURE PACK 4P AUTOMÁTICO	2021	2022	22000	Rio de Janeiro - RJ	77990
+HYUNDAI HB20S	1.0 TGDI FLEX EVOLUTION AUTOMÁTICO	2021	2022	28700	Rio de Janeiro - RJ	86900
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2021	2022	20000	Rio de Janeiro - RJ	89500
+MINI COOPER	2.0 16V TWINPOWER GASOLINA S TOP 2P STEPTRONIC	2022	2022	2000	Nova Friburgo - RJ	259000
+JEEP COMMANDER	2.0 TD380 TURBO DIESEL OVERLAND AT9	2022	2022	5500	Rio de Janeiro - RJ	294500
+VOLKSWAGEN TAOS	1.4 250 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2021	2022	7600	Rio de Janeiro - RJ	247900
+AUDI Q5	2.0 45 TFSI GASOLINA PRESTIGE QUATTRO S TRONIC	2022	2022	1280	Rio de Janeiro - RJ	314900
+AUDI Q5	2.0 45 TFSI GASOLINA PRESTIGE QUATTRO S TRONIC	2022	2022	1280	Rio de Janeiro - RJ	319900
+VOLKSWAGEN NIVUS	1.0 200 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2022	2022	2000	Rio de Janeiro - RJ	129900
+HYUNDAI HB20S	1.0 TGDI FLEX EVOLUTION AUTOMÁTICO	2021	2022	48994	Rio de Janeiro - RJ	89660
+CHEVROLET TRACKER	1.2 TURBO FLEX PREMIER AUTOMÁTICO	2021	2022	9347	Rio de Janeiro - RJ	142280
+PORSCHE MACAN	2.9 V6 BITURBO GASOLINA GTS PDK	2022	2022	1418	Rio de Janeiro - RJ	840000
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX LIVE EAT6	2021	2022	7204	Niterói - RJ	85490
+AUDI RS E-TRON GT	ELÉTRICO QUATTRO	2021	2022	1400	Rio de Janeiro - RJ	833000
+FIAT ARGO	1.3 FIREFLY FLEX DRIVE S-DESIGN MANUAL	2021	2022	22481	Niterói - RJ	76030
+FIAT ARGO	1.3 FIREFLY FLEX DRIVE S-DESIGN MANUAL	2021	2022	28586	Niterói - RJ	74900
+NISSAN KICKS	1.6 16V FLEXSTART ADVANCE XTRONIC	2021	2022	36577	Rio de Janeiro - RJ	108180
+JEEP RENEGADE	1.3 T270 TURBO FLEX LONGITUDE AT6	2022	2022	7800	Cabo Frio - RJ	124900
+JEEP COMPASS	1.3 T270 TURBO FLEX S AT6	2021	2022	8375	Rio de Janeiro - RJ	214000
+LAND ROVER RANGE ROVER SPORT	3.0 D300 TURBO DIESEL HSE AUTOMÁTICO	2021	2022	26819	Rio de Janeiro - RJ	785000
+JEEP RENEGADE	1.3 T270 TURBO FLEX LONGITUDE AT6	2022	2022	10200	Niterói - RJ	141500
+HYUNDAI HB20X	1.6 16V FLEX EVOLUTION AUTOMÁTICO	2021	2022	30877	Niterói - RJ	82990
+NISSAN KICKS	1.6 16V FLEXSTART EXCLUSIVE XTRONIC	2021	2022	30500	Rio de Janeiro - RJ	118000
+PEUGEOT 208	1.6 16V FLEX ACTIVE AT6	2021	2022	22426	Rio de Janeiro - RJ	82820
+TOYOTA COROLLA	2.0 VVT-IE FLEX XEI DIRECT SHIFT	2021	2022	37748	Rio das Ostras - RJ	142490
+FIAT STRADA	1.3 FIREFLY FLEX FREEDOM CS MANUAL	2021	2022	30280	Niterói - RJ	93600
+FIAT TORO	2.0 16V TURBO DIESEL FREEDOM 4WD AT9	2022	2022	9000	Barra Mansa - RJ	170000
+CHEVROLET TRACKER	1.2 TURBO FLEX PREMIER AUTOMÁTICO	2021	2022	22682	Rio de Janeiro - RJ	139050
+RENAULT SANDERO	1.6 16V SCE FLEX STEPWAY ICONIC X-TRONIC	2021	2022	16000	Rio de Janeiro - RJ	82900
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2021	2022	35056	Rio de Janeiro - RJ	94830
+TOYOTA COROLLA CROSS	1.8 VVT-I HYBRID FLEX XRX CVT	2021	2022	26000	Rio de Janeiro - RJ	181000
+JEEP COMPASS	1.3 T270 TURBO FLEX LIMITED AT6	2021	2022	42500	Rio de Janeiro - RJ	169000
+VOLKSWAGEN T-CROSS	1.0 200 TSI TOTAL FLEX COMFORTLINE AUTOMÁTICO	2022	2022	9000	Rio de Janeiro - RJ	128000
+CHEVROLET SPIN	1.8 PREMIER 8V FLEX 4P AUTOMÁTICO	2021	2022	34320	São João de Meriti - RJ	110900
+RENAULT LOGAN	1.0 12V SCE FLEX LIFE MANUAL	2021	2022	72191	Rio de Janeiro - RJ	61900
+CAOA CHERY TIGGO 5x	1.5 VVT TURBO iFLEX TXS DCT	2021	2022	29157	Rio de Janeiro - RJ	119900
+TOYOTA COROLLA CROSS	2.0 VVT-IE FLEX XRE DIRECT SHIFT	2021	2022	13000	Rio de Janeiro - RJ	160000
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2021	2022	36867	São João de Meriti - RJ	94900
+FIAT CRONOS	1.3 FIREFLY FLEX MANUAL	2021	2022	48534	Niterói - RJ	71280
+NISSAN KICKS	1.6 16V FLEXSTART ADVANCE XTRONIC	2021	2022	28310	Niterói - RJ	108960
+HYUNDAI TUCSON	1.6 16V T-GDI GASOLINA GLS ECOSHIFT	2021	2022	12879	Niterói - RJ	178650
+HONDA CITY	1.5 i-VTEC FLEX HATCH TOURING CVT	2022	2022	14941	Rio de Janeiro - RJ	122000
+FIAT MOBI	1.0 EVO FLEX LIKE. MANUAL	2021	2022	25000	Resende - RJ	59990
+BMW M3	3.0 I6 TWINTURBO GASOLINA COMPETITION M STEPTRONIC	2022	2022	770	Rio de Janeiro - RJ	870990
+HYUNDAI HB20	1.0 12V FLEX VISION MANUAL	2021	2022	4800	Niterói - RJ	69900
+CAOA CHERY TIGGO 8	1.6 TGDI GASOLINA TXS DCT	2021	2022	20303	Niterói - RJ	172900
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2021	2022	36850	Nova Iguaçu - RJ	87590
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2021	2022	48863	Rio de Janeiro - RJ	86510
+CHEVROLET CRUZE	1.4 TURBO LT 16V FLEX 4P AUTOMÁTICO	2021	2022	39562	Nova Iguaçu - RJ	129480
+FIAT CRONOS	1.3 FIREFLY FLEX DRIVE MANUAL	2021	2022	44828	Nova Iguaçu - RJ	74790
+CHEVROLET TRACKER	1.2 TURBO FLEX PREMIER AUTOMÁTICO	2021	2022	49897	Nova Iguaçu - RJ	135820
+VOLKSWAGEN GOL	1.6 MSI TOTALFLEX 4P MANUAL	2021	2022	12785	Rio de Janeiro - RJ	65870
+BMW 118i	1.5 12V GASOLINA SPORT GP STEPTRONIC	2021	2022	5000	Rio de Janeiro - RJ	300000
+NISSAN KICKS	1.6 16V FLEXSTART ADVANCE XTRONIC	2021	2022	10600	Rio de Janeiro - RJ	106000
+PEUGEOT 208	1.6 16V FLEX ALLURE AT6	2021	2022	37787	Rio de Janeiro - RJ	84160
+NISSAN KICKS	1.6 16V FLEXSTART ADVANCE XTRONIC	2021	2022	10600	Rio de Janeiro - RJ	106000
+HYUNDAI HB20	1.0 TGDI FLEX EVOLUTION AUTOMÁTICO	2021	2022	47826	Rio de Janeiro - RJ	88490
+LAND ROVER RANGE ROVER SPORT	5.0 SVR CARBON EDITION 4X4 V8 32V GASOLINA 4P AUTOMÁTICO	2021	2022	700	Rio de Janeiro - RJ	1390000
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2021	2022	46724	Nova Iguaçu - RJ	85990
+TOYOTA COROLLA	2.0 VVT-IE FLEX XEI DIRECT SHIFT	2021	2022	47930	Niterói - RJ	141070
+HYUNDAI HB20	1.0 12V FLEX EVOLUTION MANUAL	2021	2022	19059	Rio de Janeiro - RJ	67900
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2021	2022	50314	Rio das Ostras - RJ	85990
+HYUNDAI HB20S	1.0 TGDI FLEX EVOLUTION AUTOMÁTICO	2021	2022	51000	Duque de Caxias - RJ	87900
+JEEP COMPASS	1.3 T270 TURBO FLEX LONGITUDE AT6	2021	2022	13000	Niterói - RJ	158900
+HYUNDAI HB20	1.0 12V FLEX EVOLUTION MANUAL	2021	2022	38791	Rio de Janeiro - RJ	72440
+PORSCHE PANAMERA	2.9 V6 E-HYBRID 4 SPORT TURISMO PDK	2021	2022	1300	Rio de Janeiro - RJ	1100000
+FIAT PULSE	1.3 FLEX DRIVE CVT	2022	2022	4719	Teresópolis - RJ	97900
+FIAT PULSE	1.3 FLEX DRIVE CVT	2022	2022	4719	Rio das Ostras - RJ	97900
+FIAT TORO	1.3 TURBO 270 FLEX VOLCANO AT6	2021	2022	6880	Rio de Janeiro - RJ	156900
+JEEP COMPASS	1.3 T270 TURBO FLEX LONGITUDE AT6	2021	2022	12400	Rio de Janeiro - RJ	170000
+JEEP COMPASS	2.0 TD350 TURBO DIESEL TRAILHAWK AT9	2022	2022	12900	Nova Friburgo - RJ	221900
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2021	2022	23750	Niterói - RJ	89590
+PEUGEOT 2008	1.6 16V FLEX ALLURE PACK 4P AUTOMÁTICO	2021	2022	32927	Niterói - RJ	82170
+FIAT TORO	2.0 16V TURBO DIESEL RANCH 4WD AT9	2022	2022	22000	Nova Friburgo - RJ	175000
+RAM CLASSIC	5.7 V8 GASOLINA LARAMIE CD 4X4 AUTOMÁTICO	2022	2022	0	Volta Redonda - RJ	370000
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2021	2022	23430	Rio de Janeiro - RJ	89590
+CHEVROLET ONIX	1.0 TURBO FLEX PLUS AUTOMÁTICO	2021	2022	23000	Rio de Janeiro - RJ	92900
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2021	2022	48912	Rio de Janeiro - RJ	85990
+FIAT CRONOS	1.3 FIREFLY FLEX DRIVE MANUAL	2021	2022	44000	Rio de Janeiro - RJ	74490
+FORD RANGER	3.2 STORM 4X4 CD 20V DIESEL 4P AUTOMÁTICO	2021	2022	43000	Rio de Janeiro - RJ	210000
+CAOA CHERY TIGGO 8	1.6 TGDI GASOLINA TXS DCT	2021	2022	20303	Petrópolis - RJ	172900
+PEUGEOT 208	1.6 16V FLEX ALLURE AT6	2021	2022	31870	Niterói - RJ	85440
+RENAULT KWID	1.0 12V SCE FLEX OUTSIDER MANUAL	2021	2022	13642	Rio de Janeiro - RJ	62270
+CHEVROLET ONIX	1.0 TURBO FLEX PREMIER AUTOMÁTICO	2021	2022	22000	Barra Mansa - RJ	96490
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2021	2022	45895	Rio de Janeiro - RJ	86930
+CAOA CHERY TIGGO 5x	1.5 VVT TURBO iFLEX TXS DCT	2021	2022	10900	Rio de Janeiro - RJ	118000
+TOYOTA YARIS	1.5 16V FLEX SEDAN XS CONNECT MULTIDRIVE	2021	2022	10524	Rio de Janeiro - RJ	96900
+AUDI A3	2.0 40 TFSI GASOLINA SPORTBACK PERFORMANCE BLACK S-TRONIC	2021	2022	8692	Rio de Janeiro - RJ	258000
+CAOA CHERY TIGGO 2	1.5 MPFI 16V FLEX LOOK 4P AUTOMÁTICO	2021	2022	19300	Rio de Janeiro - RJ	78000
+BMW X1	2.0 16V TURBO ACTIVEFLEX SDRIVE20I M SPORT PLUS 4P AUTOMÁTICO	2022	2022	5646	Rio de Janeiro - RJ	389900
+HYUNDAI CRETA	1.0 TGDI FLEX PLATINUM AUTOMÁTICO	2021	2022	7000	Rio de Janeiro - RJ	145000
+HYUNDAI CRETA	1.0 TGDI FLEX PLATINUM AUTOMÁTICO	2022	2022	3000	Rio de Janeiro - RJ	114900
+CHEVROLET TRACKER	1.2 TURBO FLEX PREMIER AUTOMÁTICO	2021	2022	10100	São Gonçalo - RJ	133000
+HYUNDAI HB20X	1.6 16V FLEX EVOLUTION AUTOMÁTICO	2021	2022	36417	Niterói - RJ	82990
+JEEP COMPASS	1.3 T270 TURBO FLEX SPORT AT6	2022	2022	18000	Rio de Janeiro - RJ	152900
+FIAT ARGO	1.0 FIREFLY FLEX DRIVE MANUAL	2022	2022	8900	Rio de Janeiro - RJ	69900
+CAOA CHERY TIGGO 8	1.6 TGDI GASOLINA TXS DCT	2021	2022	28000	Rio de Janeiro - RJ	159900
+CHEVROLET TRACKER	1.0 TURBO FLEX LT AUTOMÁTICO	2021	2022	32000	Rio de Janeiro - RJ	93900
+CAOA CHERY TIGGO 5x	1.5 VVT TURBO iFLEX TXS DCT	2021	2022	18000	Rio de Janeiro - RJ	118900
+VOLKSWAGEN GOL	1.6 MSI TOTALFLEX 4P MANUAL	2021	2022	52600	Nova Iguaçu - RJ	63390
+JEEP COMPASS	1.3 T270 TURBO FLEX LONGITUDE AT6	2021	2022	15000	Rio de Janeiro - RJ	169990
+RENAULT KWID	1.0 12V SCE FLEX ZEN MANUAL	2021	2022	7000	Rio de Janeiro - RJ	56900
+FIAT TORO	2.0 16V TURBO DIESEL RANCH 4WD AT9	2022	2022	23000	Rio de Janeiro - RJ	184900
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2021	2022	39846	Niterói - RJ	85990
+HYUNDAI HB20X	1.6 16V FLEX VISION AUTOMÁTICO	2021	2022	49701	Rio de Janeiro - RJ	87310
+HYUNDAI HB20	1.0 12V FLEX VISION MANUAL	2021	2022	24500	Rio de Janeiro - RJ	68000
+JEEP COMPASS	1.3 T270 TURBO FLEX LONGITUDE AT6	2021	2022	5990	Rio de Janeiro - RJ	165000
+VOLKSWAGEN VOYAGE	1.6 MSI TOTALFLEX 4P MANUAL	2021	2022	38474	Rio de Janeiro - RJ	68110
+HYUNDAI HB20	1.0 TGDI FLEX EVOLUTION AUTOMÁTICO	2021	2022	17625	Rio de Janeiro - RJ	88430
+VOLKSWAGEN VIRTUS	1.0 200 TSI COMFORTLINE AUTOMÁTICO	2021	2022	2270	Rio das Ostras - RJ	99900
+JEEP COMMANDER	2.0 TD380 TURBO DIESEL OVERLAND AT9	2022	2022	449	Rio de Janeiro - RJ	295000
+CHEVROLET CRUZE	1.4 TURBO LT 16V FLEX 4P AUTOMÁTICO	2021	2022	49896	Niterói - RJ	120490
+CHEVROLET S10	2.8 16V TURBO DIESEL LS CD 4X4 MANUAL	2021	2022	32054	Niterói - RJ	217070
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2021	2022	54899	Mesquita - RJ	86990
+CHEVROLET SPIN	1.8 PREMIER 8V FLEX 4P AUTOMÁTICO	2021	2022	33999	Mesquita - RJ	99390
+FIAT ARGO	1.0 FIREFLY FLEX MANUAL	2021	2022	52141	Niterói - RJ	66970
+FIAT CRONOS	1.3 FIREFLY FLEX DRIVE MANUAL	2021	2022	40725	Mesquita - RJ	73900
+PEUGEOT 2008	1.6 16V FLEX ALLURE PACK 4P AUTOMÁTICO	2021	2022	30909	Mesquita - RJ	82900
+PEUGEOT 2008	1.6 16V FLEX ALLURE PACK 4P AUTOMÁTICO	2021	2022	47008	Mesquita - RJ	82490
+VOLKSWAGEN VOYAGE	1.0 12V MPI TOTALFLEX 4P MANUAL	2021	2022	58581	Mesquita - RJ	67990
+PEUGEOT 2008	1.6 16V FLEX ALLURE PACK 4P AUTOMÁTICO	2021	2022	30193	Niterói - RJ	82900
+PEUGEOT 2008	1.6 16V FLEX ALLURE PACK 4P AUTOMÁTICO	2021	2022	29369	Niterói - RJ	82900
+PEUGEOT 208	1.6 16V FLEX ALLURE AT6	2021	2022	37794	Niterói - RJ	89630
+RENAULT DUSTER	1.6 16V SCE FLEX ICONIC X-TRONIC	2021	2022	34715	Niterói - RJ	106430
+RENAULT DUSTER	1.6 16V SCE FLEX ICONIC X-TRONIC	2021	2022	54555	Duque de Caxias - RJ	105900
+RENAULT LOGAN	1.0 12V SCE FLEX ZEN MANUAL	2021	2022	48738	Duque de Caxias - RJ	73400
+RENAULT LOGAN	1.0 12V SCE FLEX LIFE MANUAL	2021	2022	67746	Duque de Caxias - RJ	62620
+FIAT CRONOS	1.3 FIREFLY FLEX MANUAL	2021	2022	40725	Duque de Caxias - RJ	73900
+VOLKSWAGEN VIRTUS	1.6 MSI TOTAL FLEX MANUAL	2021	2022	37824	Niterói - RJ	86420
+VOLKSWAGEN VOYAGE	1.0 12V MPI TOTALFLEX 4P MANUAL	2021	2022	45924	Niterói - RJ	67990
+FIAT TORO	1.3 TURBO 270 FLEX VOLCANO AT6	2021	2022	11150	Rio de Janeiro - RJ	160000
+FIAT CRONOS	1.3 FIREFLY FLEX MANUAL	2021	2022	41700	São Gonçalo - RJ	76900
+CHEVROLET TRACKER	1.2 TURBO FLEX PREMIER AUTOMÁTICO	2021	2022	18000	Teresópolis - RJ	131500
+FIAT PULSE	1.0 TURBO 200 FLEX IMPETUS CVT	2021	2022	11326	Niterói - RJ	115900
+MINI COOPER	2.0 16V TWINPOWER GASOLINA S SPORT CABRIO STEPTRONIC	2021	2022	13800	Rio de Janeiro - RJ	279800
+BMW X1	2.0 16V TURBO ACTIVEFLEX SDRIVE20I M SPORT 4P AUTOMÁTICO	2022	2022	8325	Nova Iguaçu - RJ	289000
+FIAT STRADA	1.3 FIREFLY FLEX FREEDOM CS MANUAL	2021	2022	9721	Niterói - RJ	96410
+VOLKSWAGEN NIVUS	1.0 200 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2022	2022	2000	Rio de Janeiro - RJ	131000
+NISSAN KICKS	1.6 16V FLEXSTART EXCLUSIVE XTRONIC	2021	2022	13000	Rio de Janeiro - RJ	118000
+RENAULT LOGAN	1.0 12V SCE FLEX LIFE MANUAL	2021	2022	73934	Rio de Janeiro - RJ	61150
+JEEP COMPASS	1.3 T270 TURBO FLEX LONGITUDE AT6	2021	2022	13000	Volta Redonda - RJ	169900
+CHEVROLET TRAILBLAZER	2.8 PREMIER 4X4 16V TURBO DIESEL 4P AUTOMÁTICO	2021	2022	18000	Rio de Janeiro - RJ	299990
+RENAULT CAPTUR	1.3 TCE FLEX INTENSE X-TRONIC	2021	2022	35000	Rio de Janeiro - RJ	122990
+MITSUBISHI L200 TRITON	2.4 16V TURBO DIESEL GL CD 4X4 MANUAL	2021	2022	36597	Niterói - RJ	165320
+BMW 320i	2.0 16V TURBO FLEX GP AUTOMÁTICO	2021	2022	25000	Rio de Janeiro - RJ	259900
+MERCEDES-BENZ C 200	1.5 EQ BOOST HÍBRIDO AMG LINE 9G-TRONIC	2021	2022	5500	Rio de Janeiro - RJ	459000
+VOLKSWAGEN VOYAGE	1.6 16V MSI TOTALFLEX 4P AUTOMÁTICO	2021	2022	24918	Niterói - RJ	81700
+PEUGEOT 2008	1.6 16V FLEX ALLURE PACK 4P AUTOMÁTICO	2021	2022	20590	Niterói - RJ	78990
+RAM 3500	6.7 I6 TURBO DIESEL LIMITED LONGHORN CD 4X4  AUTOMÁTICO	2022	2022	1200	Rio de Janeiro - RJ	670000
+TOYOTA COROLLA CROSS	1.8 VVT-I HYBRID FLEX SPECIAL EDITION CVT	2021	2022	5281	Niterói - RJ	192000
+PEUGEOT 208	1.6 16V FLEX ALLURE AT6	2021	2022	20668	Niterói - RJ	86720
+HONDA CITY	1.5 i-VTEC FLEX TOURING CVT	2022	2022	7900	Rio de Janeiro - RJ	120990
+FIAT MOBI	1.0 EVO FLEX LIKE. MANUAL	2021	2022	24749	Niterói - RJ	56460
+FIAT MOBI	1.0 EVO FLEX LIKE. MANUAL	2021	2022	60102	Niterói - RJ	55900
+FIAT MOBI	1.0 EVO FLEX LIKE. MANUAL	2021	2022	25012	Niterói - RJ	56180
+HONDA CITY	1.5 i-VTEC FLEX TOURING CVT	2022	2022	6000	Barra Mansa - RJ	128990
+CHEVROLET TRACKER	1.0 TURBO FLEX LT AUTOMÁTICO	2021	2022	165	Rio de Janeiro - RJ	118900
+CHEVROLET TRACKER	1.2 TURBO FLEX PREMIER AUTOMÁTICO	2021	2022	11213	Rio de Janeiro - RJ	141570
+VOLKSWAGEN GOL	1.0 12V MPI TOTALFLEX 4P MANUAL	2021	2022	10252	Rio de Janeiro - RJ	63180
+PEUGEOT EXPERT	1.6 BLUEHDI DIESEL BUSINESS PACK MANUAL	2021	2022	43591	Rio de Janeiro - RJ	139190
+FIAT TORO	2.0 16V TURBO DIESEL VOLCANO 4WD AT9	2021	2022	13217	Rio de Janeiro - RJ	169900
+FIAT CRONOS	1.3 FIREFLY FLEX DRIVE MANUAL	2021	2022	31070	Mesquita - RJ	74870
+HYUNDAI CRETA	1.0 TGDI FLEX LIMITED AUTOMÁTICO	2022	2022	5800	Niterói - RJ	124900
+VOLKSWAGEN NIVUS	1.0 200 TSI TOTAL FLEX HIGHLINE AUTOMÁTICO	2021	2022	16232	Rio de Janeiro - RJ	133620
+RENAULT DUSTER	1.6 16V SCE FLEX ZEN MANUAL	2021	2022	24112	Niterói - RJ	95550
+VOLKSWAGEN GOL	1.6 MSI TOTALFLEX 4P MANUAL	2021	2022	24583	Rio de Janeiro - RJ	65330
+CITROËN C4 CACTUS	1.6 VTI 120 FLEX FEEL EAT6	2021	2022	38226	Rio de Janeiro - RJ	87430
+MITSUBISHI L200 TRITON	2.4 16V TURBO DIESEL SPORT HPE-S CD 4P 4X4 AUTOMÁTICO	2021	2022	25000	Rio de Janeiro - RJ	348000
+FIAT TORO	1.3 TURBO 270 FLEX ENDURANCE AT6	2022	2022	12000	Rio de Janeiro - RJ	120000
+HYUNDAI HB20X	1.6 16V FLEX DIAMOND AUTOMÁTICO	2021	2022	19834	Rio de Janeiro - RJ	93800
+PEUGEOT 208	1.6 16V FLEX ALLURE AT6	2021	2022	40610	Niterói - RJ	84990
+TOYOTA COROLLA	2.0 VVT-IE FLEX XEI DIRECT SHIFT	2021	2022	34900	Rio de Janeiro - RJ	177900
+BMW X6	4.4 V8 BITURBO GASOLINA M COMPETITION AUTOMÁTICO	2022	2022	2490	Rio de Janeiro - RJ	1180000
+CAOA CHERY TIGGO 8	1.6 TGDI GASOLINA TXS DCT	2021	2022	13458	Niterói - RJ	174990
+PEUGEOT 2008	1.6 16V FLEX ALLURE PACK 4P AUTOMÁTICO	2021	2022	23200	Rio de Janeiro - RJ	78990
+JEEP COMMANDER	1.3 T270 TURBO FLEX OVERLAND AT6	2021	2022	111	Rio de Janeiro - RJ	339990
+PORSCHE CAYENNE	3.0 V6 E-HYBRID AWD TIPTRONIC S	2022	2022	3300	Rio de Janeiro - RJ	999999
+TOYOTA COROLLA CROSS	2.0 VVT-IE FLEX XRE DIRECT SHIFT	2021	2022	23500	Rio de Janeiro - RJ	215000
+BMW 745Le	3.0 TWINPOWER HÍBRIDO M SPORT AUTOMÁTICO	2021	2022	4000	Rio de Janeiro - RJ	739000
+JEEP COMMANDER	1.3 T270 TURBO FLEX OVERLAND AT6	2022	2022	100	Rio de Janeiro - RJ	279990
+JEEP COMMANDER	1.3 T270 TURBO FLEX OVERLAND AT6	2022	2022	100	Rio de Janeiro - RJ	275900
+JEEP COMMANDER	2.0 TD380 TURBO DIESEL OVERLAND AT9	2022	2022	100	Rio de Janeiro - RJ	319990
+RAM 3500	6.7 I6 TURBO DIESEL LIMITED LONGHORN CD 4X4  AUTOMÁTICO	2022	2022	100	Niterói - RJ	615000
+PORSCHE MACAN	2.9 V6 BITURBO GASOLINA GTS PDK	2021	2022	1000	Angra dos Reis - RJ	919000
+VOLKSWAGEN POLO	1.0 200 TSI COMFORTLINE AUTOMÁTICO	2021	2022	15200	Rio de Janeiro - RJ	97800
+BMW Z4	3.0 TWINPOWER GASOLINA M40I STEPTRONIC	2021	2022	4000	Rio de Janeiro - RJ	560000
+JEEP COMPASS	1.3 T270 TURBO FLEX LIMITED AT6	2021	2022	6000	Rio de Janeiro - RJ	180000
+CAOA CHERY TIGGO 8	1.6 TGDI GASOLINA TXS DCT	2021	2022	30000	Rio de Janeiro - RJ	172000
+FIAT TORO	2.0 16V TURBO DIESEL RANCH 4WD AT9	2021	2022	22000	Rio de Janeiro - RJ	187999
