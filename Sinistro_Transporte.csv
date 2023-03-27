@@ -1,0 +1,1443 @@
+﻿Sinistro Data;Sinistro Horário;Sinistro Cidade;Sinistro UF;Sinistro Endereço;Carga;Origem Cidade;Origem UF;Destino Cidade;Destino UF; Valor Carga ;Vínculo Motorista;Sinistro
+2017-01-06;0:10;Aramina;SP;SP 330 Km 446;E-Commerce;Minas Gerais;MG; São Paulo;SP; R$ 182.566,21 ;S/Comprovação;Roubo
+2017-01-08;23:59;Rio Claro;SP;Rua/Avenida;Tubos e Conexões;Rio Claro;SP;São Paulo;SP; R$ 153.990,09 ;S/Comprovação;Furto
+2017-01-08;23:59;Rio Claro;SP;Rua/Avenida;Tubos e Conexões;Rio Claro;SP;São Paulo;SP; R$ 123.075,92 ;Autônomo;Furto
+2017-01-10;10:29;Petropolis;RJ;BR 040;Óleo Lubrificante;Duque de Caxias;RJ;Aparecida de Goiânia;GO; R$ 237.451,83 ;Autônomo;Roubo
+2017-01-10;17:10;Barra do Turvo;SP;BR 116 KM 561,7;Geral;Duque de Caxias;RJ;Resende;RJ; R$ 229.960,00 ;S/Comprovação;Tombamento
+2017-01-10;5:45;Limeira;SP;SP 330 KM 145;Alumínio;Pindamonhangaba;SP;Cuiabá;MT; R$ 444.100,61 ;Autônomo;Roubo
+2017-01-12;9:00;São Gonçalo do Sapucaí;MG;BR 381 KM 768;Hig/Limp/Cosm;Louveira;SP;João Pessoa;PB; R$ 619.712,82 ;Funcionário;Roubo
+2017-01-12;6:30;Marquês de Souza;RS;BR 386 Km 318;Frigorífico;Castro;PR;Roca Sales;RS; R$ 194.201,90 ;Funcionário;Incêndio
+2017-01-12;20:30;Guaratuba;PR;BR 376 KM 668;Matéria Prima;São Paulo;SP;Rio Grande do Sul;RS; R$ 118.803,78 ;S/Comprovação;Tombamento
+2017-01-14;5:32;Guarulhos;SP;SP 070;E-Commerce;Itapevi;SP;Guarulhos;SP; R$ 102.622,96 ;S/Comprovação;Roubo
+2017-01-14;1:45;Corinto;MG;BR 135 Km 594;Frigorífico;Janaúba;MG;Santos;SP; R$ 259.705,31 ;Autônomo;Tombamento
+2017-01-16;21:00;Delmiro Gouveia;AL;BR 423 KM 101;Hig/Limp/Cosm;Louveira;SP;São José do Mipibu;RN; R$ 855.596,40 ;Funcionário;Roubo
+2017-01-16;17:00;Rio Verde;GO;BR 060;Sementes;Aparecida de Goiânia;GO;Diversos;GO; R$ 580.432,20 ;Autônomo;Roubo
+2017-01-17;1:30;Água Branca;AL;BR 423 KM 67;Geral;São Paulo;SP;Abreu de Lima;PR; R$ 410.129,69 ;Autônomo;Tombamento
+2017-01-18;13:30;Paranatama;PE;BR 423;Hig/Limp/Cosm;Louveira;SP;João Pessoa;PB; R$ 619.712,82 ;Funcionário;Roubo
+2017-01-18;22:00;Atibaia;SP;BR 381 KM 42;Químico;Mauá;SP;Dermeval Lobão;PI; R$ 123.335,52 ;Autônomo;Roubo
+2017-01-19;3:18;Professor Jamil;GO;BR 153 Km 550;E-Commerce;Uberlândia;MG; Goiânia;GO; R$ 169.091,84 ;S/Comprovação;Roubo
+2017-01-19;5:00;Guararema;SP;BR 116 KM 187;Alumínio;Araquari;SC;Pindamonhangaba;SP; R$ 256.499,91 ;Autônomo;Roubo
+2017-01-20;11:30;Mamanguape;PB;BR 101 KM 220;Hig/Limp/Cosm;Louveira;SP;São José do Mipibu;RN; R$ 759.571,76 ;Funcionário;Roubo
+2017-01-21;20:00;Itatiba;SP;SP 065 KM 103;Químico;Camaçari;BA;Indaiatuba;SP; R$ 264.850,19 ;Funcionário;Roubo
+2017-01-22;1:49;Itabamcuri;MG;BR 116 KM 324;Hig/Limp/Cosm;Louveira;SP;Vitoria da Conquista;BA; R$ 160.566,08 ;Funcionário;Roubo
+2017-01-22;16:00;Pedras de Fogo;PB;BR 101;Hig/Limp/Cosm;Ipojuca;PE;Mossoró;RN; R$ 132.486,92 ;Funcionário;Roubo
+2017-01-25;2:06;Prata;MG;BR 153;Hig/Limp/Cosm;Louveira;SP;Castanhal;PA; R$ 355.882,66 ;Funcionário;Roubo
+2017-01-25;2:30;Itapissuma;PE;BR 101 KM 25;Bebidas;Cabo de Santo Agostinho;PE;João Pessoa;PB; R$ 131.320,00 ;S/Comprovação;Colisão
+2017-01-25;23:27;Pindamonhangaba;SP;BR 116 KM 99;Alumínio;Sertãozinho;SP;Pindamonhangaba;SP; R$ 147.149,20 ;Autônomo;Roubo
+2017-01-26;11:40;Jundiaí;SP;SP 300 KM 63,5;Doces/Chocolate;Cabreuva;SP;Uberlândia;MG; R$ 243.803,42 ;S/Comprovação;Tombamento
+2017-01-28;1:00;Frutal;MG;BR 153;Couro;Senador Canedo;GO;Barretos;SP; R$ 208.968,98 ;Autônomo;Roubo
+2017-01-28;16:00;Paulo Afonso;BA;BR 423;Hig/Limp/Cosm;Louveira;SP;Jaboatão dos Guararapes;PE; R$ 1.075.171,46 ;Funcionário;Roubo
+2017-01-29;0:30;Atibaia;SP;BR 381;Geral;Belo Horizonte;MG;Jacarei;SP; R$ 343.059,00 ;Autônomo;Roubo
+2017-01-29;22:00;Garanhuns;PE;BR 423;Hig/Limp/Cosm;Louveira;SP;Natal;RN; R$ 704.165,47 ;S/Comprovação;Roubo
+2017-01-29;19:20;Rio de Janeiro;RJ;Rua/Avenida;Específicas;Porto Alegre;RS;Rio de Janeiro;RJ; R$ 471.165,83 ;Funcionário;Roubo
+2017-01-30;1:00;Governador Valadares;MG;BR 116 KM 395;Alimentício;Louveira;SP;Juazeiro do Norte;CE; R$ 158.035,90 ;Funcionário;Roubo
+2017-01-30;0:20;Nova Iguaçú;RJ;BR 116 KM 182;Alimentício;Cabreuva;SP;Rio de Janeiro;RJ; R$ 109.965,77 ;Funcionário;Roubo
+2017-01-30;17:23;Vespasiano;MG;Transporte;Aço/Ferro;Guatapará;SP;Vespasiano;MG; R$ 165.158,39 ;Funcionário;Molhadura
+2017-01-31;16:00;Pindamonhangaba;SP;BR 116 km 86;Eletrodoméstico;Cajamar;SP;Serra;ES; R$ 396.461,26 ;S/Comprovação;Roubo
+2017-01-31;22:52;Arujá;SP;BR 116 km 201;Eletrodoméstico;Cajamar;SP;Serra;ES; R$ 383.663,39 ;S/Comprovação;Roubo
+2017-02-01;7:20;Caçapava;SP;BR 116 Km 131;Alumínio;Pindamonhangaba;SP;Araçariguama;SP; R$ 203.512,19 ;Autônomo;Roubo
+2017-02-02;19:40;Xexéu;PE;BR 101 KM 130;Hig/Limp/Cosm;Vinhedo;SP;Ipojuca;PE; R$ 247.133,69 ;Funcionário;Roubo
+2017-02-04;17:00;Petrolina;PE;BR 407;Hig/Limp/Cosm;Louveira;SP;Teresina;PI; R$ 521.812,44 ;Funcionário;Roubo
+2017-02-05;3:00;Campina Grande do Sul;PR;BR 116 km 67;Calçados;Nova Serrana;MG;Dvs;RS; R$ 142.729,44 ;Funcionário;Roubo
+2017-02-06;22:30;Grão Mogol;MG;BR 251 km 425;Frigorífico;São Sebastião do Oeste;MG;Jacobina;BA; R$ 140.103,40 ;Funcionário;Tombamento
+2017-02-06;11:30;Itabirito;MG;BR 040 KM 581;E-Commerce;Contagem;MG;Juiz de Fora;MG; R$ 278.575,23 ;Funcionário;Roubo
+2017-02-06;8:50;Cezarina;GO;BR 060 Km 224;Defensivo Agrícola;Aparecida de Goiânia;GO;Jataí;GO; R$ 343.502,00 ;S/Comprovação;Roubo
+2017-02-07;21:54;Itamaraju;BA;BR 101 KM 800;Café;Guaçuí;ES;Itaporanga d'Ajuda;SE; R$ 343.466,50 ;Funcionário;Roubo
+2017-02-07;6:15;Varjão de Minas;MG;BR 365 Km 317;Aço/Ferro;Orlândia;SP;Camaçari;BA; R$ 188.809,30 ;Funcionário;Incêndio
+2017-02-08;6:30;Nova Iguaçú;RJ;BR 116;Alimentício;Cabreuva;SP;Nova Iguaçu;RJ; R$ 119.912,97 ;S/Comprovação;Roubo
+2017-02-08;21:30;Barrolândia;TO;BR 153 KM 451;Alimentício;Anajás;PA;Serra;ES; R$ 223.193,30 ;S/Comprovação;Roubo
+2017-02-08;3:00;Canguaretama;RN;BR 101 Km 170;Óleo Comestível;São Paulo;SP;Rio Grande do Norte;RN; R$ 134.640,00 ;S/Comprovação;Roubo
+2017-02-09;8:30;Campina Grande do Sul;PR;BR 116 Km 69;Alumínio;Araquari;SC;Pindamonhangaba;SP; R$ 210.215,18 ;S/Comprovação;Roubo
+2017-02-09;21:30;São Paulo;SP;Rua/Avenida;Tratores/Empilhadeiras;Belo Horizonte;MG;São Bernardo do Campo;SP; R$ 180.000,00 ;Autônomo;Roubo
+2017-02-12;23:00;Palmares;PE;BR 101 KM 186;Hig/Limp/Cosm;Vinhedo;SP;Ipojuca;PE; R$ 458.109,48 ;S/Comprovação;Roubo
+2017-02-14;16:00;Pilar;AL;BR 101 KM 100;Hig/Limp/Cosm;Ipojuca;PE;Lauro de Freitas;BA; R$ 145.342,08 ;S/Comprovação;Tombamento
+2017-02-14;9:30;Arujá;SP;Rua/Avenida;Confecção/Tecido/Fios;Itaquaquecetuba;SP;Osasco;SP; R$ 108.644,51 ;Autônomo;Roubo
+2017-02-15;21:30;Rio de Janeiro;RJ;BR 116 KM 200;Hig/Limp/Cosm;Pouso Alegre;MG;Rio de Janeiro;RJ; R$ 121.907,71 ;S/Comprovação;Roubo
+2017-02-15;11:30;Jaboatão dos Guararapes;PE;BR 101;Hig/Limp/Cosm;Ipojuca;PE;Marcanaú;CE; R$ 126.734,24 ;Funcionário;Roubo
+2017-02-15;22:10;Campinas;SP;SP 348 KM 88;E-Commerce;Itapevi;SP;Campinas;SP; R$ 768.854,49 ;S/Comprovação;Roubo
+2017-02-16;10:24;Divinópolis;MG;BR 050;Hig/Limp/Cosm;Pouso Alegre;MG;Divinópolis;MG; R$ 303.639,91 ;Autônomo;Roubo
+2017-02-16;10:00;Cerqueira César;SP;SP 280 Km 265;Eletrodoméstico;São Paulo;SP;Maringa;PR; R$ 122.709,57 ;S/Comprovação;Colisão
+2017-02-16;8:30;Blumenau;SC;BR 470;E-Commerce;Itajaí;SC;Blumenau;SC; R$ 471.093,25 ;S/Comprovação;Roubo
+2017-02-16;4:00;Lorena;SP;BR 116 KM 46;Alumínio;Juiz de Fora;MG;Pindamonhangaba;SP; R$ 123.574,00 ;Autônomo;Roubo
+2017-02-17;1:30;Santa Rita do Passa Quatro;SP;SP 330 KM 236;Laticínios;Sacramento;MG;São Paulo;SP; R$ 488.235,54 ;S/Comprovação;Roubo
+2017-02-17;22:00;Mairiporã;SP;BR 381;Geral;Arapongas;PR;Cajazeiras;PB; R$ 122.198,17 ;Autônomo;Roubo
+2017-02-18;17:00;Benevides;PA;BR 316;Laticínios;Teutonia;RS;Belém;PA; R$ 304.128,12 ;Autônomo;Roubo
+2017-02-20;20:50;Itapeva;MG;BR 381 KM 925,3;Café;Três Corações;MG;Santos;SP; R$ 425.901,60 ;S/Comprovação;Tombamento
+2017-02-20;12:00;Iatí;PE;BR 423 KM 135;Hig/Limp/Cosm;Louveira;SP;Jaboatão dos Guararapes;PE; R$ 1.047.428,25 ;Funcionário;Roubo
+2017-02-21;0:40; Campo do Tenente;PR;PR 427 KM 7,4;Maquinário; Porto Alegre;RS; Itumbiara;GO; R$ 1.260.000,00 ;S/Comprovação;Tombamento
+2017-02-21;0:30;Queluz;SP;BR 116;Confecção/Tecido/Fios;Itaguaí;RJ;São Paulo;SP; R$ 390.848,34 ;Funcionário;Roubo
+2017-02-22;22:00;Caiaponia;GO;BR 158;Laticínios;Nova Xavantina;MT;São Paulo;SP; R$ 368.048,50 ;S/Comprovação;Roubo
+2017-02-22;2:00;Aparecida;SP;BR 116 Km 72;Alumínio;Juiz de Fora;MG;Pindamonhangaba;SP; R$ 118.094,00 ;S/Comprovação;Roubo
+2017-02-22;7:00;Corinto;MG;BR 251 Km 320;Químico;Camaçari;BA;Indaiatuba;SP; R$ 246.004,24 ;S/Comprovação;Tombamento
+2017-02-23;1:00;Rio de Janeiro;RJ;BR 116 KM 163;Geral;Rio de Janeiro;RJ;Diversos;SP; R$ 395.853,95 ;Funcionário;Roubo
+2017-02-23;23:30;Bom Jesus de Goiás;GO;BR 452;Óleo Comestível;Rondonópolis;MT;Uberlândia;MG; R$ 100.531,20 ;Autônomo;Roubo
+2017-02-24;8:30;Cachoeira de Carmo;MG;BR 381 Km 723;Confecção/Tecido/Fios;Guarulhos;SP;Currais Novos;RN; R$ 202.407,23 ;S/Comprovação;Tombamento
+2017-03-02;23:50;AntonIna;PR;BR 116 Km 22;Específicas;Blumenau;SC;Osasco;SP; R$ 178.211,85 ;S/Comprovação;Colisão
+2017-03-02;23:30;Santa Cruz da Conceição;SP;SP 330;Fios/Cabos; Sorocaba;SP;Brasilia;DF; R$ 357.000,00 ;Autônomo;Roubo
+2017-03-02;11:52;Arujá;SP;BR 116 Km 200;Polímeros;Duque de Caxias;RJ;Rio Negro;PR; R$ 166.610,28 ;S/Comprovação;Roubo
+2017-03-03;1:14;Niterói;RJ;BR 101 KM 310;Hig/Limp/Cosm;Louveira;SP;Serra;ES; R$ 102.881,76 ;Funcionário;Roubo
+2017-03-03;3:30;Prata;MG;BR 153 KM 108;Combustível;Paulínia;SP;Senador Canedo;GO; R$ 114.443,28 ;S/Comprovação;Roubo
+2017-03-06;3:00;Atibaia;SP;BR 381 KM 47,5;Confecção/Tecido/Fios;Feira de Santana;BA;Guarulhos;SP; R$ 625.532,88 ;Autônomo;Roubo
+2017-03-06;5:20;Jundiaí;SP;SP 348 KM 39;E-Commerce;Itapevi;SP;Hortolandia;SP; R$ 141.670,42 ;S/Comprovação;Roubo
+2017-03-06;16:20;São Paulo;SP;Rua/Avenida;Polímeros;Paulínia;SP;Betim;MG; R$ 180.703,13 ;S/Comprovação;Roubo
+2017-03-07;20:45;Porto Real do Colégio;AL;BR 101;Hig/Limp/Cosm;Vinhedo;SP;Ipojuca;PE; R$ 439.884,65 ;Funcionário;Roubo
+2017-03-08;2:15;Pardinho;SP;SP 280 KM 190;E-Commerce;Itapevi;SP;Bauru;SP; R$ 291.530,43 ;S/Comprovação;Roubo
+2017-03-09;13:27;São Roque;SP;SP 270;E-Commerce;Hortolandia;SP;Barueri;SP; R$ 260.405,10 ;S/Comprovação;Roubo
+2017-03-12;15:30;Rio de Janeiro;RJ;BR 116;Pescado;Rio de Janeiro;RJ;Rio de Janeiro;RJ; R$ 280.000,00 ;Funcionário;Roubo
+2017-03-13;22:30;São Gonçalo;RJ;BR 101;Específicas;Guarulhos;SP;Maricá;RJ; R$ 105.112,72 ;S/Comprovação;Roubo
+2017-03-13;21:30;Eldorado dos Carajás;PA;Rua/Avenida;Alimentício;Conceição do Araguaia;PA;Breu Branco;PA; R$ 126.053,17 ;Funcionário;Roubo
+2017-03-15;21:00;Rio de Janeiro;RJ;BR 116 KM 177;Específicas;Porto Alegre;RS; Rio de Janeiro;RJ; R$ 270.815,18 ;Funcionário;Roubo
+2017-03-15;5:00;Oliveira;MG;BR 381 Km 622;Geral;São Paulo;SP;Sete lagoas;MG; R$ 616.152,93 ;S/Comprovação;Colisão
+2017-03-15;20:20;Guarulhos;SP;BR 116 KM 216;Alumínio;São Paulo;SP;Pindamonhangaba;SP; R$ 146.475,00 ;Funcionário;Roubo
+2017-03-15;21:30;Nova Iguaçú;RJ;BR 116;Confecção/Tecido/Fios;Rio de Janeiro;RJ;Amparo;SP; R$ 433.299,43 ;Funcionário;Roubo
+2017-03-15;19:15;Cachoeira Paulista;SP;BR 116;Polímeros;Duque de Caxias;RJ;Londrina;PR; R$ 151.820,16 ;Autônomo;Roubo
+2017-03-17;6:30;Presidente Venceslau;SP;SP 563;Alimentício;Nova Londrina;PR;Fortaleza;CE; R$ 116.300,00 ;Autônomo;Colisão
+2017-03-17;3:57;Arujá;SP;BR 116 KM 197;E-Commerce; Itapevi;SP; São José de Campos;SP; R$ 475.544,96 ;S/Comprovação;Roubo
+2017-03-18;9:35;Rio de Janeiro;RJ;BR 116;Tubos e Conexões;Rio Claro;SP;Rio de Janeiro;RJ; R$ 245.893,34 ;Autônomo;Roubo
+2017-03-18;0:30;Araquari;SC;BR 280 KM 20;Aço/Ferro;São Francisco;SC;Araquari;SC; R$ 140.813,40 ;Funcionário;Roubo
+2017-03-18;13:04;Vitória de Santo Antão;PE;BR 232;E-commerce;Recife;PE;Santa Inês;MA; R$ 237.606,13 ;Autônomo;Roubo
+2017-03-19;16:35;Paranatama;PE;BR 423;Hig/Limp/Cosm;Louveira;SP;João Pessoa;PB; R$ 700.385,33 ;Funcionário;Roubo
+2017-03-20;10:40;São Bernardo do Campo;SP;SP 160 Km 23;Confecção/Tecido/Fios;Barueri;SP;São Bernardo do Campo;SP; R$ 266.462,11 ;Autônomo;Roubo
+2017-03-21;2:38;Barbacena;MG;BR 040 Km 704;Específicas;Contagem;MG;Duque de Caxias;RJ; R$ 136.423,43 ;Autônomo;Roubo
+2017-03-22;8:30;São Cristovâo do Sul;SC;BR 116 Km 172,6;Alimentício;Antônio Prado;RS;Nerópolis;GO; R$ 274.250,00 ;S/Comprovação;Tombamento
+2017-03-22;6:16;São João do Meriti;RJ;Rua/Avenida;Frigorífico;Várzea Grande;MT;Rio de Janeiro;RJ; R$ 392.789,11 ;Autônomo;Roubo
+2017-03-22;4:00;Luziania;GO;BR 040 km 18;Bebidas;Pirassununga;SP;Brasilia;DF; R$ 104.039,27 ;Funcionário;Roubo
+2017-03-23;22:00;Guarulhos;SP;Rua/Avenida;Aço/Ferro; Guarulhos;SP;Sertãozinho;SP; R$ 213.353,01 ;Autônomo;Roubo
+2017-03-23;8:50;Inhapim;MG;BR 116 Km 498;Alumínio;Pindamonhangaba;SP;Alagoinhas;BA; R$ 467.025,90 ;S/Comprovação;Queda
+2017-03-24;4:40;Jaraguá;SP;SP 348  Km 23;E-Commerce; Itapevi;SP;Jundiaí;SP; R$ 253.944,22 ;S/Comprovação;Roubo
+2017-03-25;18:30;Arujá;SP;BR 116 KM 203;Calçados;São Paulo;SP;Recife;PE; R$ 791.900,81 ;Autônomo;Roubo
+2017-03-26;1:48;Wanderlândia;TO;BR 153 Km 104;Alimentício; Contagem;MG; Benevides;PA; R$ 214.526,17 ;S/Comprovação;Colisão
+2017-03-26;16:00;Rio de Janeiro;RJ;BR 040;Polímeros;Duque de Caxias;RJ;Camaçari;BA; R$ 100.248,32 ;Autônomo;Roubo
+2017-03-27;5:30;São José do Rio Preto;SP;SP 153;Aço/Ferro;Sabará;MG;Três Lagoas;MS; R$ 147.411,07 ;Autônomo;Roubo
+2017-03-27;22:11;Nova Era;MG;BR 381 KM 343;Específicas; Contagem;MG; Feira de Santana;BA; R$ 528.522,00 ;Agregado;Roubo
+2017-03-28;20:00;Mairiporã;SP;SP 381 Km 37;Frigorífico;Janaúba;MG;Guarujá;SP; R$ 361.071,00 ;Funcionário;Roubo
+2017-03-29;9:53;Mauá;SP;Rua/Avenida;Polímeros;Duque de Caxias;RJ;Maua;SP; R$ 154.427,45 ;Agregado;Roubo
+2017-03-29;12:50;Mauá;SP;Rua/Avenida;Polímeros;Duque de Caxias;RJ;Mauá;SP; R$ 149.882,16 ;S/Comprovação;Roubo
+2017-03-30;16:11;Atibaia;SP;BR 381 Km 35;Pescado;Florianópolis;SC;Sapé;PE; R$ 220.180,00 ;Autônomo;Roubo
+2017-03-30;10:24;Rio de Janeiro;RJ; Rua/Avenida;Fios/Cabos; Sorocaba;SP;Rio de Janeiro;RJ; R$ 204.815,04 ;Autônomo;Roubo
+2017-03-31;18:00;Cachoeira do Pajeú;MG;BR 116 KM 23;Alimentício;Monte Alto;SP;Igarassu;PE; R$ 102.445,90 ;S/Comprovação;Roubo
+2017-03-31;16:00;Rio de Janeiro;RJ;BR 101;Hig/Limp/Cosm;Louveira;SP;Rio de Janeiro;RJ; R$ 169.547,47 ;Funcionário;Roubo
+2017-03-31;2:30;Professor Jamil;GO;BR 153;E-Commerce;Uberlândia;MG; Goianésia;GO; R$ 108.732,10 ;Autônomo;Roubo
+2017-03-31;23:00;Javi;BA;BR 242 Km 641;Combustível;São Francisco do Conde;BA;Senador Canedo;GO; R$ 103.443,12 ;Funcionário;Roubo
+2017-04-01;13:00;Rio de Janeiro;RJ;BR 101;Hig/Limp/Cosm;Pouso Alegre;MG;Rio de Janeiro;RJ; R$ 146.029,58 ;Funcionário;Roubo
+2017-04-02;1:30;Presidente Dutra;MA;BR 226  ;Hig/Limp/Cosm; Salto;SP; São Luiz;MA; R$ 114.044,70 ;Autônomo;Roubo
+2017-04-03;20:50;Arujá;SP;BR 116 KM 202;Alumínio; Araquari;SC;Pindamonhangaba;SP; R$ 289.025,76 ;Agregado;Roubo
+2017-04-04;14:30;Jardim Recanto Verde;SP;Rua/Avenida;Confecção/Tecido/Fios; Guarulhos;SP;Guarulhos;SP; R$ 162.559,79 ;Autônomo;Roubo
+2017-04-05;5:00;Arujá;SP;BR 116 Km 203;Pescado; Itajaí;SC; Araujá;SP; R$ 276.140,09 ;S/Comprovação;Roubo
+2017-04-06;0:30;Itaporanga da Ajuda;SE;BR 101 KM 123;Hig/Limp/Cosm;Louveira;SP;Jaboatão dos Guararapes;PE; R$ 794.203,58 ;Funcionário;Roubo
+2017-04-06;0:30;Itaporanga da Ajuda;SE;BR 101 KM 123;Hig/Limp/Cosm;Louveira;SP;Jaboatão dos Guararapes;PE; R$ 746.894,69 ;Funcionário;Roubo
+2017-04-07;3:25;Nova Iguaçú;RJ; Rua/Avenida;Pescado;Osasco;SP; São João do Meriti;RJ; R$ 225.836,61 ;Autônomo;Roubo
+2017-04-09;19:20;Iaras;SP;SP 280 Km 280;Celulares;Taubaté;SP;Nova Alvorada do Sul;MS; R$ 1.074.000,20 ;S/Comprovação;Roubo
+2017-04-09;9:37;Limeira;SP;SP 330 KM 150;Laticínios;Bragança Paulista;SP; São Luiz;MA; R$ 398.736,00 ;Autônomo;Roubo
+2017-04-10;7:00;São Bernardo do Campo;SP;Rua/Avenida;Polímeros;Itapoá;SC;São Bernardo do Campo;SP; R$ 161.068,45 ;Funcionário;Roubo
+2017-04-11;19:30;Cuiabá;MT;BR 364;Combustível;Paulínia;SP;Cuiabá;MT; R$ 152.875,28 ;S/Comprovação;Roubo
+2017-04-11;20:00;Pindamonhangaba;SP;BR 116 Km 90;Alumínio;Extrema;MG;Pindamonhangaba;SP; R$ 138.379,00 ;Funcionário;Roubo
+2017-04-13;20:47;Rio de Janeiro;RJ;Rua/Avenida;Medicamento;Brasilia;DF;Rio de Janeiro;RJ; R$ 684.982,30 ;Autônomo;Roubo
+2017-04-13;5:30;Cajamar;SP;SP 330 KM 49;Calçados;Louveira;SP;Cajamar;SP; R$ 427.907,37 ;Autônomo;Roubo
+2017-04-13;23:30;Nova Iguaçú;RJ;BR 116;Frigorífico;Palmeiras de Goiás;GO;São João de Meriti;RJ; R$ 382.501,45 ;Funcionário;Roubo
+2017-04-14;0:20;Francisco Morato;SP;SP 332  ;Eletrônicos;Cajamar;SP;Rio de Janeiro;RJ; R$ 281.304,14 ;S/Comprovação;Roubo
+2017-04-14;1:00;Paulínia;SP;BR 381;Combustível;Paulínia;SP;Uberlândia;MG; R$ 112.047,71 ;S/Comprovação;Roubo
+2017-04-14;0:00;Manaus;AM;Rua/Avenida;Aço/Ferro;Pindamonhangaba;SP;Manaus;AM; R$ 345.559,83 ;S/Comprovação;Avarias
+2017-04-18;21:00;Tijucas do Sul;PR;BR 376;Confecção/Tecido/Fios; Itajaí;SC;São Paulo;SP; R$ 258.792,85 ;Autônomo;Roubo
+2017-04-19;8:30;São João do Meriti;RJ;BR 101;Pescado;Belford Roxo;RJ;Rio de Janeiro;RJ; R$ 203.151,61 ;Funcionário;Roubo
+2017-04-19;10:00;Areia Branca;SE;BR 235 KM 35;Específicas;Aracaju;SE;Aracaju;SE; R$ 149.173,97 ;Autônomo;Roubo
+2017-04-19;22:17;São Paulo;SP; Rua/Avenida;Pescado;Itarema;CE;São Paulo;SP; R$ 372.082,00 ;Funcionário;Roubo
+2017-04-19;5:30;Cordeirópolis;SP;Rua/Avenida;Combustível;São Paulo;SP;São Paulo;SP; R$ 132.176,75 ;Autônomo;Roubo
+2017-04-20;4:30;Rio de Janeiro;RJ;BR 101;Alimentício;São Paulo;SP;Rio de Janeiro;RJ; R$ 291.400,00 ;Autônomo;Roubo
+2017-04-20;2:15;Miracatu;SP;BR 116 Km 369;Polímeros;Duque de Caxias;RJ;Rio Negro;PR; R$ 156.149,85 ;S/Comprovação;Tombamento
+2017-04-23;11:45;Juquiá;SP;BR 116 Km 430;Celulares;Taubaté;SP;Nova Santa Rita;RS; R$ 800.523,80 ;S/Comprovação;Roubo
+2017-04-24;3:00;Atibaia;SP;SP 065 KM 85;Hig/Limp/Cosm;Pouso Alegre;MG;Taboão da Serra;SP; R$ 396.072,00 ;S/Comprovação;Roubo
+2017-04-25;3:45;Jacareí;SP;BR 116 KM 175;E-Commerce; Itapevi;SP;São Jose de Campos;SP; R$ 368.790,40 ;S/Comprovação;Roubo
+2017-04-25;10:00;Açailândia;MA;BR 222 Km 631;Alimentício;Santa Inês;MA;Primavera do Leste;MT; R$ 136.034,14 ;S/Comprovação;Tombamento
+2017-04-25;15:35;Ibitinga;SP;SP 304 KM 368;Frigorífico;José Bonifácio;SP;São João de Meriti;RJ; R$ 129.960,20 ;S/Comprovação;Tombamento
+2017-04-25;5:00;Mairiporã;SP;BR 381 Km 67 ;Laticínios;Itajaí;SC;Contagem;MG; R$ 287.500,00 ;Autônomo;Roubo
+2017-04-25;4:30;São José dos Pinhais;PR;BR 376 Km 629;Polímeros;Triunfo;RS;Campo Largo;PR; R$ 135.216,54 ;Autônomo;Roubo
+2017-04-26;16:20;Rio de Janeiro;RJ;Rua/Avenida;Celulares;Taubaté;SP;Rio de Janeiro;RJ; R$ 340.304,85 ;S/Comprovação;Roubo
+2017-04-26;16:30;Guaratinguetá;SP;BR 116 Km 58;Polímeros;Piracicaba;SP;Serra;ES; R$ 110.080,71 ;Autônomo;Roubo
+2017-04-26;20:00;Lavras;MG;BR 381 KM 700;Hig/Limp/Cosm;Pouso Alegre;MG;Contagem;MG; R$ 538.724,61 ;S/Comprovação;Colisão
+2017-04-27;22:20;Hidrolândia;GO;BR 153;Alimentício;Uberlândia;MG;Hidrolândia;GO; R$ 356.852,52 ;Funcionário;Roubo
+2017-04-27;5:40;Roda Velha;BA;BR 020 Km 84;Alimentício;Brasilia;DF;Bahia;BA; R$ 116.000,00 ;S/Comprovação;Roubo
+2017-04-27;22:30;Rio de Janeiro;RJ;BR 116 Km 199;Alimentício;Ibiuna;SP;Duque de Caxias;RJ; R$ 123.768,66 ;S/Comprovação;Roubo
+2017-04-28;2:00;Bom Retiro;SC; ;Aço/Ferro;Joinville;SC;Bento Gonçalves;RS; R$ 258.170,62 ;S/Comprovação;Roubo
+2017-04-29;5:00;Campo Grande;RJ;BR 101;Confecção/Tecido/Fios;Rio de Janeiro;RJ;Rio de Janeiro;RJ; R$ 150.723,08 ;Funcionário;Roubo
+2017-04-29;7:00;São Miguel dos Campos;AL;BR 101;Alimentício;Gloria do Goitá;PE;Feira de Santana;BA; R$ 107.805,40 ;S/Comprovação;Roubo
+2017-04-30;7:00;São Bernardo do Campo;SP;SP 150 Km 19;Veículo;São Paulo;SP;Natal;RN; R$ 207.454,00 ;S/Comprovação;Colisão
+2017-04-30;19:00;Ibó;PE;BR 116;Frigorífico;Serra Negra;SP;João Pessoa;PB; R$ 547.380,00 ;Agregado;Roubo
+2017-05-02;10:30;Rio de Janeiro;RJ;Rua/Avenida;Autopeças;Barueri;SP;Rio de Janeiro;RJ; R$ 135.312,25 ;S/Comprovação;Roubo
+2017-05-02;23:00;Feira de Santana;BA;BR 324;Específicas;Guarulhos;SP;Salvador;BA; R$ 169.633,73 ;Funcionário;Roubo
+2017-05-02;2:30;Piraí;RJ;BR 116 Km 284;Alimentício;Araçariguama;SP;Rio de Janeiro;RJ; R$ 252.575,58 ;S/Comprovação;Roubo
+2017-05-02;19:00;Jaboatão dos Guararapes;PE;Rua/Avenida;E-commerce;Cabo de Santo Agostinho;PE;Arapiraca;AL; R$ 203.435,26 ;Autônomo;Roubo
+2017-05-03;0:15;Guarulhos;SP;BR 381 Km 89;Medicamento;São Paulo;SP;Porto Alegre;RS; R$ 696.641,14 ;Autônomo;Roubo
+2017-05-03;0:01;Recife;PE;PE 060 Km 07;Alumínio;Cabo de Santo Agostinho;PE;Pindamonhangaba;SP; R$ 327.602,33 ;S/Comprovação;Adernamento
+2017-05-04;22:00;Araporã;MG;BR 153 KM 7,5;Rolamentos;Itajaí;SC;Goiânia;GO; R$ 155.148,80 ;Autônomo;Tombamento
+2017-05-05;0:01;Rio de Janeiro;RJ;Rua/Avenida;Específicas;Santos;SP;Rio de Janeiro;RJ; R$ 271.349,68 ;S/Comprovação;Roubo
+2017-05-06;20:00;Novo Lino;AL;BR 101;Hig/Limp/Cosm;Cabo de Santo Agostinho;PE;Salvador;BA; R$ 133.073,02 ;S/Comprovação;Roubo
+2017-05-06;20:53;João Neiva;ES;BR 101;Laticínios;Itapetinga;BA;Cariacica;ES; R$ 165.648,00 ;Autônomo;Roubo
+2017-05-08;18:30;Campina Grande do Sul;PR;BR 116 Km 12;Específicas;Cabreuva;SP;Florianópolis;SC; R$ 184.902,65 ;S/Comprovação;Roubo
+2017-05-09;7:00;Itatiaia;RJ;BR 116 Km 316;Confecção/Tecido/Fios;Guarulhos;SP;Duque de Caxias;RJ; R$ 283.458,39 ;S/Comprovação;Roubo
+2017-05-09;4:25;Guarulhos;SP;Rua/Avenida;Geral;Maringá;PR;Guarulhos;SP; R$ 110.852,69 ;Autônomo;Roubo
+2017-05-09;2:00;Araquari;SC;BR 101;Café;Santa Luiza;MG;Palhoça;SC; R$ 324.820,56 ;Autônomo;Roubo
+2017-05-09;6:00;Junqueiro;AL;BR 101 Km 191,80;Laticínios; Maceió;AL;Hidrolândia;GO; R$ 141.762,50 ;S/Comprovação;Tombamento
+2017-05-09;9:00;Mairiporã;SP;BR 381 Km 53;Papel;São Paulo;SP;São Paulo;SP; R$ 123.284,36 ;S/Comprovação;Roubo
+2017-05-10;14:40;Rio de Janeiro;RJ;BR 101;Alimentício;Louveira;SP;Jaboatão dos Guararapes;PE; R$ 245.345,41 ;Funcionário;Roubo
+2017-05-10;22:05;Aparecida de Goiânia;GO;BR 153;Hig/Limp/Cosm;Louveira;SP;Anápolis ;GO; R$ 124.417,44 ;Funcionário;Roubo
+2017-05-10;17:00;São Paulo;SP;BR 381 KM 85;Veículo;Curitiba;PR;Simões Filho;BA; R$ 345.000,00 ;Funcionário;Roubo
+2017-05-10;21:30;Rio de Janeiro;RJ;BR 116 Km 190;Alimentício;Ibiuna;SP;Campos dos Goytacazes;RJ; R$ 131.884,28 ;Funcionário;Roubo
+2017-05-10;21:30;Rio de Janeiro;RJ;BR 116 Km 190;Alimentício;Ibiuna;SP;Campos dos Goytacazes;RJ; R$ 131.884,28 ;Funcionário;Roubo
+2017-05-10;15:20;Joaquim Nabuco;PE;BR 101;Hig/Limp/Cosm;Vinhedo;SP;Ipojuca;PE; R$ 441.254,30 ;Funcionário;Roubo
+2017-05-11;6:33;Barueri;SP;SP 330 KM 13;Calçados;Louveira;SP;Barueri;SP; R$ 484.002,64 ;Funcionário;Roubo
+2017-05-11;22:30;Cabobró;PE;Desvio;Fraldas;Goiânia;GO;São Fidélis;RJ; R$ 115.741,58 ;Autônomo;Desvio de Carga
+2017-05-12;17:40;São Paulo;SP;Rua/Avenida;Confecção/Tecido/Fios;São Paulo;SP;Guarulhos;SP; R$ 149.924,78 ;Autônomo;Roubo
+2017-05-12;17:00;Simolândia;GO;BR 020 Km 187;Alimentício;Barreiras;BA;Correntina;BA; R$ 194.360,00 ;Autônomo;Tombamento
+2017-05-13;16:00;Campina Grande do Sul;PR;BR 116 Km 32;Frigorífico;Tapejara;RS;Duque de Caxias;RJ; R$ 185.130,00 ;S/Comprovação;Tombamento
+2017-05-14;1:30;São Sebastião;AL;BR 101 KM 206;Hig/Limp/Cosm;Vinhedo;SP;Ipojuca;PE; R$ 408.042,24 ;Funcionário;Roubo
+2017-05-14;1:30;São Sebastião;AL;BR 101 KM 206;Hig/Limp/Cosm;Vinhedo;SP;Ipojuca;PE; R$ 441.254,30 ;Funcionário;Roubo
+2017-05-14;7:00;Itatim;BA;BR 116 ;Bebidas;Cabo de Santo Agostinho;PE;Rio de Janeiro;RJ; R$ 383.491,38 ;S/Comprovação;Roubo
+2017-05-15;19:00;Colatina;ES;BR 259;Hig/Limp/Cosm;Mogi das Cruzes;SP;Colatina;ES; R$ 349.058,36 ;Funcionário;Roubo
+2017-05-15;23:30;Presidente Prudente;SP; ;Aço/Ferro;Timóteo;MG;Maringá;PR; R$ 107.263,75 ;Autônomo;Roubo
+2017-05-18;20:30;Camanducaia;MG;BR 381;Hig/Limp/Cosm;Pouso Alegre;MG;Louveira;SP; R$ 158.244,00 ;S/Comprovação;Roubo
+2017-05-18;17:30;Lavrinhas;SP;BR 116 KM 020;Alumínio;Cariacica;ES;Pindamonhangaba;SP; R$ 384.323,58 ;Funcionário;Roubo
+2017-05-18;5:52;Juquitiba;SP;BR 116 KM 358;Alumínio;Araquari;SC;Pindamonhangaba;SP; R$ 285.641,08 ;S/Comprovação;Roubo
+2017-05-18;11:55;São Sebastião do Sacramento;MG;BR 381 Km 445;Específicas;Feira de Santana;BA;Contagem;MG; R$ 682.928,00 ;S/Comprovação;Tombamento
+2017-05-19;15:39;Duque de Caxias;RJ;BR 040 KM 115;Específicas;Rio de Janeiro;RJ;Rio das Ostras;RJ; R$ 164.621,29 ;Autônomo;Roubo
+2017-05-20;19:00;Extrema;MG;BR 381 KM 940;Químico;Vespasiano;MG;Indaiatuba;SP; R$ 215.551,41 ;S/Comprovação;Roubo
+2017-05-20;9:45;Mathias Lobato;MG;BR 116;Pneus;Camaçari;BA;Santo André;SP; R$ 415.699,99 ;Funcionário;Roubo
+2017-05-21;1:25;Campinas;SP;SP 330 KM 108;Frigorífico;Jataí;GO;Jundiaí;SP; R$ 200.132,62 ;Autônomo;Roubo
+2017-05-21;12:30;Vitória de Santo Antão;PE;BR 232;Pescado;São Gonçalo do Amarante;CE;Vitória do Santo Antão;PE; R$ 264.595,20 ;Autônomo;Roubo
+2017-05-22;5:50;Mauá;SP;SP 017;Artigo Esportivo;Santos;SP;Guarulhos;SP; R$ 1.308.417,33 ;S/Comprovação;Roubo
+2017-05-22;3:15;São Sepe;RS;BR 392 Km 320.7;Bebidas;Guarulhos;SP;Diadema;SP; R$ 133.678,53 ;S/Comprovação;Colisão
+2017-05-23;2:25;São Miguel do Guama;PA;BR 010 Km 316;Geral;Imperatriz;MA;Bélem;PA; R$ 118.660,00 ;Funcionário;Roubo
+2017-05-23;19:00;Ibiraci;MG;Transporte;Maquinário;Jundiaí;SP;Arapora;MG; R$ 25.782.268,20 ;S/Comprovação;Queda
+2017-05-24;7:35;Cajamar;SP;SP 330 Km 44;Eletrônicos;Cajamar;SP;Campinas;SP; R$ 341.010,94 ;S/Comprovação;Roubo
+2017-05-24;4:30;Morrinhos;GO;BR 153 KM 610;Hig/Limp/Cosm;Louveira;SP;Anapolis;GO; R$ 114.917,76 ;S/Comprovação;Roubo
+2017-05-24;12:40;Sacramento;MG;BR 262 Km 743;Calçados;Perdigão;MG;Campo Grande;MS; R$ 141.505,62 ;Autônomo;Roubo
+2017-05-24;10:30;Taboão da Serra;SP;BR 116 Km 274;Minério;Itaquaquecetuba;SP;Loanda;PR; R$ 154.000,00 ;Autônomo;Roubo
+2017-05-24;21:19;Queimados;RJ;BR 116;Frigorífico;Jataí;GO;São João do Meriti;RJ; R$ 223.155,26 ;S/Comprovação;Roubo
+2017-05-24;6:30;Jundiaí;SP;SP 330 Km 56;Calçados;Louveira;SP;Barueri;SP; R$ 573.665,80 ;S/Comprovação;Roubo
+2017-05-24;4:00;Itinga;MA;BR 010  ;Frigorífico;Cajamar;SP;Santana;AP; R$ 403.969,40 ;Funcionário;Tombamento
+2017-05-24;18:10;Rio de Janeiro;RJ;BR 101;Pescado;Macaíba;RN;Rio de Janeiro;RJ; R$ 163.065,00 ;Funcionário;Roubo
+2017-05-25;7:15;Itirapina;SP;SP 225 Km 110,9;Combustível;São José dos Campos;SP;Bauru;SP; R$ 140.000,00 ;S/Comprovação;Roubo
+2017-05-26;6:40;Rio de Janeiro;RJ;Rua/Avenida;Frigorífico;Várzea Grande;MT;Rio de Janeiro;RJ; R$ 432.000,00 ;S/Comprovação;Roubo
+2017-05-26;2:00;Anápolis;GO;BR 153 KM 52;Hig/Limp/Cosm;Louveira;SP;Anapolis;GO; R$ 126.650,72 ;Funcionário;Roubo
+2017-05-26;20:00;Águas Vermelhas;MG;BR 116 Km 16;Confecção/Tecido/Fios;Feira de Santana;BA;Guarulhos;SP; R$ 523.967,01 ;Autônomo;Roubo
+2017-05-26;7:30;Itapeva;MG;BR 381 Km 925 ;Geral;Juiz de Fora;MG;São Paulo;SP; R$ 201.583,97 ;S/Comprovação;Tombamento
+2017-05-27;11:53;Manoel Vitorino;BA;BR 116 KM 722;Matéria Prima;Várzea Paulista;SP;Recife;PE; R$ 102.228,40 ;S/Comprovação;Incêndio
+2017-05-28;2:58;Sousa;PB;BR 230;Hig/Limp/Cosm;Ipojuca;PE;Juazeiro do Norte;CE; R$ 190.902,12 ;S/Comprovação;Roubo
+2017-05-29;17:30;Rio de Janeiro;RJ;Rua/Avenida;Minério;Pirapora;MG;Rio de Janeiro;RJ; R$ 245.000,00 ;S/Comprovação;Roubo
+2017-05-30;5:50;Salvador;BA;Rua/Avenida;Papel;Três Lagoas;MS;Salvador;BA; R$ 264.541,60 ;S/Comprovação;Roubo
+2017-05-30;3:40;Cachoeira Paulista;SP;BR 116 KM 35;Confecção/Tecido/Fios;São Paulo;SP;São Paulo;SP; R$ 909.868,45 ;Autônomo;Roubo
+2017-05-30;15:00;São Sebastião;AL;BR 101;Hig/Limp/Cosm;Louveira;SP;Natal;RN; R$ 627.784,47 ;Funcionário;Roubo
+2017-05-30;10:15;São Paulo;SP;Rua/Avenida;E-Commerce; Itapevi;SP;São Paulo;SP; R$ 306.116,18 ;S/Comprovação;Roubo
+2017-05-30;22:40;Cambuí;MG;BR 381 Km 888;Aço/Ferro;Itapeva;SP;Ouro Branco;MG; R$ 174.424,80 ;S/Comprovação;Roubo
+2017-05-30;7:20;Rio de Janeiro;RJ;BR 101;Confecção/Tecido/Fios;Rio de Janeiro;RJ;Rio de Janeiro;RJ; R$ 304.790,96 ;S/Comprovação;Roubo
+2017-05-31;4:48;Guarulhos;SP;BR 116 Km 227;E-Commerce;Barueri;SP;São José dos Campos;SP; R$ 171.191,66 ;S/Comprovação;Roubo
+2017-05-31;18:00;Rianapolis;GO;BR 153;Hig/Limp/Cosm;Louveira;SP;Belém;PA; R$ 437.477,87 ;Funcionário;Roubo
+2017-05-31;6:50;Guarulhos;SP;Rua/Avenida;Pneus;Itajaí;SC;Guarulhos;SP; R$ 360.000,00 ;S/Comprovação;Roubo em Depósito
+2017-05-31;5:30;Campo Alegre de Goiás;GO;BR 050;Papel;Três Lagoas;MS;Brasilia;DF; R$ 157.868,57 ;Autônomo;Roubo
+2017-05-31;23:10;Frutal;MG;BR 364;Defensivo Agrícola;Guararema;SP;Tapurah;MT; R$ 327.350,40 ;Autônomo;Roubo
+2017-06-01;19:34;Itabuna;BA;BR 101 KM 503,5;Hig/Limp/Cosm;Louveira;SP;João Pessoa;PB; R$ 914.950,17 ;Funcionário;Furto
+2017-06-01;14:41;São Sebastião do Passé;BA;BR 110 Km 395;Fertilizantes;Candeias;SE;Rosário do Catete;SE; R$ 111.095,94 ;S/Comprovação;Tombamento
+2017-06-01;22:00;Xerém;RJ;BR 116 Km 1;Alimentício;Cabreuva;SP;Rio de Janeiro;RJ; R$ 141.656,99 ;Funcionário;Roubo
+2017-06-02;4:00;Cambuí;MG;BR 381;Tinta/Verniz;Mauá;SP;Betim;MG; R$ 192.208,63 ;S/Comprovação;Roubo
+2017-06-02;9:51;São Paulo;SP;Rua/Avenida;Polímeros;Itajaí;SC;São Paulo;SP; R$ 138.022,50 ;Funcionário;Roubo
+2017-06-02;17:30;Manaus;AM;Balsa;Calçados;São Paulo;SP;Belém;PA; R$ 292.496,48 ;S/Comprovação;Roubo
+2017-06-03;10:30;Oliveira Fortes;MG;BR 040 KM 730;Bebidas;Rio de Janeiro;RJ;Uberlândia;MG; R$ 215.656,84 ;Funcionário;Tombamento
+2017-06-04;6:49;Queimados;RJ;Rua/Avenida;Hig/Limp/Cosm;Jundiaí;SP;Rio de Janeiro;RJ; R$ 231.478,07 ;S/Comprovação;Roubo
+2017-06-04;19:40;Macaíba;RN;BR 101;Alimentício;Cabo de Santo Agostinho;PE;Caucaia;CE; R$ 223.523,80 ;Autônomo;Roubo
+2017-06-04;2:00;Carmo da Cachoeira;MG;BR 381 KM 727;Fios/Cabos; Sorocaba;SP;Recife;PE; R$ 204.305,36 ;Autônomo;Roubo
+2017-06-04;2:00;Carmo da Cachoeira;MG;BR 381 KM 727;Fios/Cabos; Sorocaba;SP;Recife;PE; R$ 644.887,80 ;Autônomo;Roubo
+2017-06-05;14:55;Rio de Janeiro;RJ;SP 310;Minério;Pirapora;MG;Rio de Janeiro;RJ; R$ 214.075,97 ;S/Comprovação;Roubo
+2017-06-05;1:10;Morrinhos;GO;BR 153 Km 310;Alimentício;Barueri;SP;Santa Isabel do Pará;PA; R$ 117.660,00 ;S/Comprovação;Roubo
+2017-06-05;21:52;Rio de Janeiro;RJ;BR 101;Medicamento;Rio de Janeiro;RJ;Barra da Tijuca;RJ; R$ 163.285,30 ;Funcionário;Roubo
+2017-06-06;21:45;Nova Iguaçú;RJ;BR 116;Papel;Três Lagoas;MS;Rio de Janeiro;RJ; R$ 323.789,21 ;Funcionário;Roubo
+2017-06-07;22:20;Rio de Janeiro;RJ;BR 116;Específicas;Duque de Caxias;RJ;Guarulhos;SP; R$ 179.815,10 ;Autônomo;Roubo
+2017-06-08;22:00;São Carlos;SP;SP 310;Químico;Paulínia;SP;Goiânia;GO; R$ 114.540,32 ;Autônomo;Roubo
+2017-06-09;11:20;Santo Estevão;BA;BR 116 Km 467;Calçados;Embu das Artes;SP;Salvador;BA; R$ 269.607,10 ;Funcionário;Tombamento
+2017-06-09;21:00;Araporã;MG;BR 153;Combustível;Ribeirão Preto;SP;Senador Canedo;GO; R$ 162.829,82 ;S/Comprovação;Roubo
+2017-06-09;18:50;São João do Meriti;RJ;BR 116;Frigorífico;Rolim de Moura;RO;São João de Meriti;RJ; R$ 234.500,00 ;Funcionário;Roubo
+2017-06-11;23:59;Barbacena;MG;BR 040 Km 695;Aço/Ferro;Barbacena;MG;Volta Redonda;RJ; R$ 325.724,89 ;Funcionário;Furto
+2017-06-11;9:44;Rio de Janeiro;RJ;BR 101;Frigorífico;Araguaína;TO;São João de Meriti;RJ; R$ 221.000,00 ;Autônomo;Roubo
+2017-06-12;4:00;São Paulo;SP;Estrada;Confecção/Tecido/Fios;Itajaí;SC;São Paulo;SP; R$ 163.752,38 ;S/Comprovação;Roubo
+2017-06-15;15:40;Itatim;BA;BR 116 KM 517;Hig/Limp/Cosm;Louveira;SP;Feira de Santana;BA; R$ 972.056,24 ;Funcionário;Roubo
+2017-06-15;0:57;Rio de Janeiro;RJ;BR 116 Km 195;Pescado;Osasco;SP;Belford Roxo;RJ; R$ 149.054,14 ;Funcionário;Roubo
+2017-06-16;22:00;Paulo Afonso;BA;BA-210;Frigorífico;Serra Negra;SP;Campina Grande;PB; R$ 591.360,00 ;Agregado;Roubo
+2017-06-17;14:00;Rio de Janeiro;RJ;BR 101;Específicas;Rio de Janeiro;RJ;Rio de Janeiro;RJ; R$ 152.669,20 ;Agregado;Roubo
+2017-06-18;18:30;Duque de Caxias;RJ;BR 493;Hig/Limp/Cosm;Louveira;SP;Jaboatão dos Guararapes;PE; R$ 477.212,98 ;Funcionário;Roubo
+2017-06-19;6:30;Rio de Janeiro;RJ;Rua/Avenida;Confecção/Tecido/Fios;Rio de Janeiro;RJ;Vila da Penha;RJ; R$ 163.100,13 ;S/Comprovação;Roubo
+2017-06-20;9:00;Santa Isabel;SP;BR 116 KM 185;Celulares;Taubaté;SP;Guarulhos;SP; R$ 251.955,20 ;S/Comprovação;Roubo
+2017-06-21;20:50;Itatiba;SP;SP 065 KM 106;Hig/Limp/Cosm;Itumbiara;GO;Jarinu;SP; R$ 819.942,60 ;Autônomo;Roubo
+2017-06-21;23:30;Santa Rita;PB;BR 101 Km 68;Hig/Limp/Cosm;Ipojuca;PE;Maracanau;CE; R$ 185.432,78 ;S/Comprovação;Roubo
+2017-06-21;22:30;Anchieta;ES;BR 101;Hig/Limp/Cosm;Indaiatuba;SP;Serra;ES; R$ 109.020,80 ;Autônomo;Roubo
+2017-06-21;20:30;Nova Iguaçú;RJ;BR 116 KM 178;Eletrodoméstico;Arujá;SP;São João do Meriti;RJ; R$ 298.633,69 ;Funcionário;Roubo
+2017-06-22;2:26;Rondonópolis;MT;Rua/Avenida;Frigorífico;Várzea Grande;MT;Santos;SP; R$ 290.784,46 ;Autônomo;Roubo
+2017-06-22;18:50;Mineiros;GO;BR 364 KM 10;Combustível;Paranaguá;PR;Várzea Grande;MT; R$ 111.942,31 ;Autônomo;Roubo
+2017-06-23;7:00;Igarapé;MG;BR 381 KM 520;Eletrônicos;Cajamar;SP;Contagem;MG; R$ 588.138,12 ;S/Comprovação;Roubo
+2017-06-25;2:30;Igarapé do Meio;MA;BR 222 ;Frigorífico;São Luis;MA;São Félix do Xingú;PA; R$ 151.170,70 ;S/Comprovação;Tombamento
+2017-06-25;21:14;Mandirituba;PR;BR 116 Km 136;Frigorífico;Barretos;SP;Cachoeirinha;RS; R$ 313.788,96 ;Agregado;Roubo
+2017-06-26;20:30;Campinas;SP;SP 330;Frigorífico;Paranatinga;MT;Itupeva;SP; R$ 209.190,68 ;Autônomo;Roubo
+2017-06-26;7:00;Aparecida de Goiânia;GO;Rua/Avenida;Hig/Limp/Cosm;Louveira;SP;Aparecida de Goiânia;GO; R$ 209.181,50 ;S/Comprovação;Roubo
+2017-06-26;9:10;Mogi das Cruzes;SP;SP 070 KM 44;Celulares;São Paulo;SP;Taubaté;SP; R$ 364.148,07 ;S/Comprovação;Roubo
+2017-06-26;19:30;Palmeira;PR;BR 277 Km 198,5;Hig/Limp/Cosm;Pouso Alegre;MG;Guarapuava;PR; R$ 328.193,87 ;Funcionário;Tombamento
+2017-06-26;17:00;São Paulo;SP;SP 021;Frigorífico;Paranatinga;MT;Cubatão;SP; R$ 332.890,57 ;Autônomo;Roubo
+2017-06-26;0:30;Embú das Artes;SP;SP 021;Polímeros;Itajaí;SC;Barueri;SP; R$ 133.998,05 ;Autônomo;Roubo
+2017-06-27;9:30;Campina Grande do Sul;PR;BR 116 Km 545;Confecção/Tecido/Fios;Guarulhos;SP;Porto Alegre;RS; R$ 125.732,50 ;Funcionário;Colisão
+2017-06-27;11:00;Mamanguape;PB;Desvio;Hig/Limp/Cosm;Ipojuca;PE;Fortaleza;CE; R$ 107.520,96 ;Autônomo;Desvio de Carga
+2017-06-27;16:15;Perdões;MG;BR 381 Km 707;Eletrônicos;Vespasiano;MG;Jundiaí;SP; R$ 204.000,00 ;Autônomo;Roubo
+2017-06-28;3:30;Umbaúba;SE;BR 101 KM 179;Hig/Limp/Cosm;Louveira;SP;Ipojuca;PE; R$ 394.180,56 ;S/Comprovação;Roubo
+2017-06-29;18:00;Petrópolis;RJ;BR 040;Frigorífico;Sete Lagoas;MG;Itaguaí;RJ; R$ 214.954,56 ;S/Comprovação;Roubo
+2017-06-29;18:30;Mauá;SP;Rua/Avenida;Polímeros;Paulínia;SP;Betim;MG; R$ 180.703,13 ;Autônomo;Roubo
+2017-06-29;13:00;Seropédica;RJ;BR 116;Confecção/Tecido/Fios;Cotia;SP;Nova Iguaçú;RJ; R$ 394.691,04 ;S/Comprovação;Roubo
+2017-06-29;17:04;Rio de Janeiro;RJ;BR 101;Pescado;Cubatão;SP;Rio de Janeiro;RJ; R$ 126.500,00 ;Funcionário;Roubo
+2017-06-30;12:14;Venturosa;PE;BR 424;Alimentício;Garanhuns;PE;São Luis;MA; R$ 269.701,17 ;Agregado;Roubo
+2017-06-30;4:30;Maruin;SE;BR 101;Fios/Cabos;Sorocaba;SP;João Pessoa;PB; R$ 225.666,76 ;S/Comprovação;Incêndio
+2017-06-30;21:45;Pedra Azul;MG;BR 116 Km 40;Específicas;Guarulhos;SP;Feira de Santana;BA; R$ 509.532,01 ;Agregado;Roubo
+2017-06-30;5:44;Rio de Janeiro;RJ;BR 101;Alimentício;Cabreuva;SP;Rio de Janeiro;RJ; R$ 118.650,82 ;Funcionário;Roubo
+2017-06-30;21:52;São Paulo;SP;Rua/Avenida;E-Commerce;Barueri;SP;São Paulo;SP; R$ 210.173,02 ;S/Comprovação;Roubo
+2017-07-01;18:48;Nova Odessa;SP;SP 330 KM 116,5;Óleo Lubrificante;Rio de Janeiro;RJ;Várzea Grande;MT; R$ 232.382,89 ;Autônomo;Roubo
+2017-07-02;16:00;Nova Iguaçú;RJ;BR 116;Bebidas;Flores da Cunha;RS;Rio de Janeiro;RJ; R$ 178.414,46 ;Funcionário;Roubo
+2017-07-02;11:55;São João do Meriti;RJ;Rua/Avenida;Frigorífico;Rolim de Moura;RO;São João de Meriti;RJ; R$ 243.590,00 ;Funcionário;Roubo
+2017-07-03;6:37;Bom Jesus dos Perdões;SP;Rua/Avenida;Celulares;Taubaté;SP;Jundiaí;SP; R$ 124.298,00 ;S/Comprovação;Roubo
+2017-07-03;12:00;Édeia;GO;GO 410 KM 66;Defensivo Agrícola;Aparecida de Goiânia;GO;Quirinópolis;GO; R$ 477.085,00 ;Funcionário;Roubo
+2017-07-03;6:40;Mairinque;SP;SP 280 KM 68;Óleo Lubrificante;Rio de Janeiro;RJ;Várzea Grande;MT; R$ 198.040,11 ;Autônomo;Roubo
+2017-07-06;14:44;Pindamonhangaba;SP;Rua/Avenida;Alumínio;Pindamonhangaba;SP;Ponta Grossa;PR; R$ 166.402,05 ;Agregado;Roubo
+2017-07-08;2:40;Matipó;MG;BR 262 KM 88;Café;Varginha;MG;Catanduva;SP; R$ 215.905,00 ;Autônomo;Roubo
+2017-07-08;19:30;Ponta Alta;GO;BR 070 Km 421;Hig/Limp/Cosm;Goiânia;GO;Guajará-Mirim;RO; R$ 155.252,22 ;S/Comprovação;Tombamento
+2017-07-09;15:24;Rio de Janeiro;RJ;Rua/Avenida;Pescado;Cubatão;SP;Rio de Janeiro;RJ; R$ 132.000,00 ;Autônomo;Roubo
+2017-07-11;20:00;Rio Largo;AL;BR 101 KM 75;Hig/Limp/Cosm;Vinhedo;SP;Ipojuca;PE; R$ 435.753,89 ;S/Comprovação;Roubo
+2017-07-11;4:30;Nova Iguaçú;RJ;BR 116;Geral;Guarulhos;SP;Rio de Janeiro;RJ; R$ 187.901,63 ;S/Comprovação;Roubo
+2017-07-12;5:45;Jundiaí;SP;SP 330;Calçados;Louveira;SP;São Roque;SP; R$ 287.691,15 ;S/Comprovação;Roubo
+2017-07-12;6:40;Rio de Janeiro;RJ;BR 101;Confecção/Tecido/Fios;Nova Iguaçu;RJ;Rio de Janeiro;RJ; R$ 141.826,94 ;Autônomo;Roubo
+2017-07-13;17:30;Brumadinho;MG;BR 381 KM 521;Eletrodoméstico;Arujá;SP;Cabo de Santo Agostinho;PE; R$ 359.660,22 ;Autônomo;Roubo
+2017-07-13;21:00;Itabuna;BA;BR 101 Km 503 ;Laticínios;Barra Mansa;RJ;Campina Grande;PB; R$ 160.380,00 ;Autônomo;Roubo
+2017-07-13;16:50;Rio de Janeiro;RJ;BR 101;Eletrodoméstico;Guarulhos;SP;Rio de Janeiro;RJ; R$ 264.399,76 ;Funcionário;Roubo
+2017-07-14;19:21;Delta;MG;BR 050 KM 204;Eletrônicos;Guarulhos;SP;Uberlândia;MG; R$ 718.851,49 ;S/Comprovação;Roubo
+2017-07-14;20:00;Jaguaquara;BA;BR 116 Km 641;Café;Santos;SP;Itaporanga D' Ajuda;SE; R$ 290.435,00 ;S/Comprovação;Tombamento
+2017-07-15;8:00;Santa Maria Eterna;BA;BR 101;Bebidas;Alagoinhas;BA;Ibiraçú;ES; R$ 105.488,53 ;Autônomo;Tombamento
+2017-07-16;0:30;Alvorada;TO;BR 153;Hig/Limp/Cosm;Louveira;SP;São Luis;MA; R$ 635.075,74 ;S/Comprovação;Roubo
+2017-07-16;7:00;Itabela;BA;BR 101 Km 737;Alimentício;Santa Maria de Jetiba;ES;Maracanau;CE; R$ 108.397,00 ;Autônomo;Tombamento
+2017-07-18;2:20;Duque de Caxias;RJ;BR 040 KM 122;Calçados;Louveira;SP;Volta Redonda;RJ; R$ 216.271,04 ;Autônomo;Roubo
+2017-07-18;9:00;Bonsucesso;RJ;Rua/Avenida;Celulares;Rio de Janeiro;RJ;Rio de Janeiro;RJ; R$ 188.219,20 ;S/Comprovação;Roubo
+2017-07-19;8:30;Anápolis;GO;BR 153 Km 103;Combustível;Senador Canedo;GO;Brasilia;DF; R$ 146.724,52 ;S/Comprovação;Roubo
+2017-07-20;11:48;Nova Iguaçú;RJ;BR 116 Km 180;Frigorífico;Araguaína;TO;Queimados;RJ; R$ 254.000,00 ;Autônomo;Roubo
+2017-07-21;1:00;Araporã;MG;BR 153;Hig/Limp/Cosm;Louveira;SP;Aparecida de Goiânia;GO; R$ 1.195.260,74 ;S/Comprovação;Roubo
+2017-07-21;11:30;Vinhedo;SP;SP 330 Km 73;Hig/Limp/Cosm;Valinhos;SP;Louveira;SP; R$ 230.901,30 ;S/Comprovação;Incêndio
+2017-07-22;14:00;Paraúna;GO;GO 320;Defensivo Agrícola;Guararema;SP;Cuiabá;MT; R$ 248.851,00 ;S/Comprovação;Roubo
+2017-07-22;19:40;Prata;MG;BR 153 Km 108;Eletrônicos;Belém;PA;Cajamar;SP; R$ 1.421.260,20 ;S/Comprovação;Roubo
+2017-07-23;0:05;Ribeirão Pires;SP;SP 330 KM 312;Café;Leme;SP;Itaporanga D' Ajuda;SE; R$ 290.435,00 ;Autônomo;Roubo
+2017-07-24;3:40;Carmo da Cachoeira;MG;BR 381 Km 734;Eletrodoméstico;Varginha;MG;Contagem;MG; R$ 272.008,22 ;Funcionário;Roubo
+2017-07-24;8:30;Barra do Turvo;SP;BR 116 Km 545;Frigorífico;São João;PR;Rio de Janeiro;RJ; R$ 118.886,40 ;S/Comprovação;Tombamento
+2017-07-26;22:40;Itumbiara;GO;BR 153 KM 511;Hig/Limp/Cosm;Louveira;SP;Aparecida de Goiânia;GO; R$ 1.219.630,40 ;S/Comprovação;Roubo
+2017-07-26;0:03;Planura;MG;BR 364 KM 1;Laticínios;Piranhas;GO;Ribeirão Preto;SP; R$ 148.622,21 ;Funcionário;Roubo
+2017-07-26;5:30;Belford Roxo;RJ;BR 116 Km 174;Geral;São Paulo;SP;Rio de Janeiro;RJ; R$ 544.472,41 ;S/Comprovação;Roubo
+2017-07-26;22:50;Cubatão;SP;Rua/Avenida;Café;Varginha;MG;Guarujá;SP; R$ 149.781,70 ;Funcionário;Roubo
+2017-07-26;23:00;Senador Canedo;GO;Rua/Avenida;Combustível;Paulínia;SP;Senador Canedo;GO; R$ 142.331,85 ;S/Comprovação;Roubo
+2017-07-26;4:00;Arujá;SP;BR 116 KM 203;Alumínio;Araguari;SC;Pindamonhangaba;SP; R$ 280.220,97 ;Autônomo;Roubo
+2017-07-27;23:30;Rio de Janeiro;RJ;Rua/Avenida;Frigorífico;Santa Maria;RS;Rio de Janeiro;RJ; R$ 232.193,76 ;Funcionário;Roubo
+2017-07-28;11:30;Jarinu;SP;SP 065 KM 94;Eletrônicos;Campinas;SP;Taubaté;SP; R$ 526.956,56 ;S/Comprovação;Roubo
+2017-07-29;2:30;Delmiro Gouveia;AL;BR 423;Hig/Limp/Cosm;Louveira;SP;João Pessoa;PB; R$ 387.338,65 ;Funcionário;Roubo
+2017-07-29;0:30;São Sebastião;AL;BR 101 Km 199;Químico;Joboatão dos Guararapes;PE;Aracaju;SE; R$ 158.614,90 ;S/Comprovação;Roubo
+2017-07-31;23:59;São Paulo;SP;Rua/Avenida;Alumínio;Toledo;PR;Pindamonhangaba;SP; R$ 105.730,20 ;Autônomo;Roubo
+2017-07-31;0:10;Itatim;BA;BR 116;Hig/Limp/Cosm;Cosmópolis;SP;Cabo de Santo Agostinho;PE; R$ 144.206,16 ;S/Comprovação;Roubo
+2017-07-31;8:30;Betim;MG;BR 381 Km 501;Hig/Limp/Cosm;Pouso Alegre;MG;Contagem;MG; R$ 582.026,92 ;S/Comprovação;Colisão
+2017-08-01;18:00;Concórdia;SC;BR 153 Km 106,03;Específicas;São Paulo;SP;Passo Fundo;RS; R$ 160.760,08 ;Agregado;Colisão
+2017-08-01;23:25;São Paulo;SP;Rua/Avenida;Específicas;Osasco;SP;São Paulo;SP; R$ 123.521,66 ;Autônomo;Roubo
+2017-08-01;20:30;Laje;BA;BR 101;Bebidas;Teresópolis;RJ;Salvador;BA; R$ 161.852,91 ;Autônomo;Roubo
+2017-08-02;15:55;Amarante;PI;BR 343;Hig/Limp/Cosm;Louveira;SP;Teresina;PI; R$ 319.478,27 ;S/Comprovação;Roubo
+2017-08-02;15:55;Amarante;PI;BR 343;Hig/Limp/Cosm;Louveira;SP;Teresina;PI; R$ 866.207,49 ;S/Comprovação;Roubo
+2017-08-02;14:00;Ibatiba;ES;Rua/Avenida;Fraldas;Goiânia;GO;Colatina;ES; R$ 173.070,18 ;S/Comprovação;Tombamento
+2017-08-05;13:30;Paulínia;SP;Rua/Avenida;Combustível;Paulínia;SP;Senador Canedo;GO; R$ 118.320,56 ;S/Comprovação;Roubo
+2017-08-06;22:48;Pesqueira;PE;BR 232;Químico;Ananindeua;PA;Jaboatão dos Guararapes;PE; R$ 760.162,27 ;Funcionário;Roubo
+2017-08-07;7:00;Campo Largo;PR;BR 277;Sementes;Campo Verde;MT;Andirá;PR; R$ 373.650,79 ;Autônomo;Roubo
+2017-08-07;22:45;Cajamar;SP;SP 330 Km 49;Frigorífico;Cajamar;SP;Cajamar;SP; R$ 430.000,00 ;Autônomo;Roubo
+2017-08-08;23:50;São Paulo;SP;Rua/Avenida;Específicas;Osasco;SP;São Paulo;SP; R$ 113.547,23 ;Funcionário;Roubo
+2017-08-08;21:30;Jaguaribe;CE;BR 116 Km 322,50;Confecção/Tecido/Fios;Americana;SP;Fortaleza;CE; R$ 262.453,79 ;S/Comprovação;Tombamento
+2017-08-08;5:39;Santo Antonio de Leverger;MT;BR 364 Km 364;Específicas;São Paulo;SP;Várzea Grande;MT; R$ 184.787,15 ;S/Comprovação;Tombamento
+2017-08-09;23:00;Arcos;MG;BR 354 Km 476;Café;Patrocínio;MG;Varginha;MG; R$ 350.140,00 ;Autônomo;Roubo
+2017-08-10;5:00;Morretes;PR;BR 277 Km 39;Frigorífico;Paranaguá;PR;Cruzeiro do Oeste;PR; R$ 287.970,65 ;S/Comprovação;Tombamento
+2017-08-11;20:00;Cubatão;SP;Rua/Avenida;Frigorífico;São Paulo;SP;Guarujá;SP; R$ 183.677,84 ;Autônomo;Roubo
+2017-08-11;8:05;Rio Claro;SP;SP 364 Km 185;Combustível;Paulínia;SP;Ribeirão Preto;SP; R$ 142.249,01 ;Autônomo;Roubo
+2017-08-11;6:20;Leopoldina;MG;BR 166 Km 780,60;Alumínio;Teresina;PI;Pindamonhangaba;SP; R$ 518.366,61 ;S/Comprovação;Queda
+2017-08-13;1:40;Itapecerica da Serra;SP;SP 021 KM 54;Frigorífico;Palmeiras de Goiás;GO;Guarujá;SP; R$ 664.000,00 ;Funcionário;Roubo
+2017-08-15;22:27;Leopoldina;MG;BR 116 KM 768;Confecção/Tecido/Fios;Rio de Janeiro;RJ;São Luiz;MA; R$ 523.079,18 ;Autônomo;Roubo
+2017-08-15;3:30;Osasco;SP;Rua/Avenida;Químico;Barueri;SP;São Paulo;SP; R$ 252.117,04 ;Autônomo;Roubo
+2017-08-15;9:00;Leopoldina;MG;BR 166 Km 782,10;Alumínio;Estância;SE;Pindamonhangaba;SP; R$ 499.319,34 ;S/Comprovação;Tombamento
+2017-08-16;23:36;Uberaba;MG;BR 050;Hig/Limp/Cosm;Louveira;SP;São José do Mipibu;RN; R$ 328.246,00 ;S/Comprovação;Roubo
+2017-08-16;13:57;São Lourenço da Serra;SP;BR 116 KM 313;Alumínio;Pindamonhangaba;SP;Ponta Grossa;PR; R$ 491.479,31 ;Autônomo;Roubo
+2017-08-18;20:00;Itapebi;BA;BR 101;Hig/Limp/Cosm;Louveira;SP;Caruaru;PE; R$ 121.972,60 ;S/Comprovação;Roubo
+2017-08-18;22:10;São Paulo;SP;SP 015;E-Commerce;Barueri;SP;São Paulo;SP; R$ 151.162,01 ;S/Comprovação;Roubo
+2017-08-18;9:00;Ourinhos;SP;BR 153 KM 315;Aço/Ferro;Araquari;SC;Cuiabá;MT; R$ 153.248,97 ;S/Comprovação;Roubo
+2017-08-19;8:30;Cosmópolis;SP;SP 332 KM 137;Combustível;Paulínia;SP;Cuiabá;MT; R$ 115.247,00 ;S/Comprovação;Roubo
+2017-08-19;9:30;Pindamonhangaba;SP;Rua/Avenida;Alumínio;Cianorte;PR;Pindamonhangaba;SP; R$ 120.000,00 ;S/Comprovação;Roubo
+2017-08-21;21:22;Jaguariaíva;PR;PR 151;Combustível;Paranaguá;PR;Cuiabá;MT; R$ 122.463,35 ;Autônomo;Roubo
+2017-08-21;6:20;Iraí de Minas;MG;LMG782 Km 10;Café;Cristalina;GO;São Paulo;SP; R$ 408.535,00 ;Funcionário;Roubo
+2017-08-21;8:00;Guarulhos;SP;Rua/Avenida;Material Elétrico;Porto Ferreira;SP;São Paulo;SP; R$ 158.243,34 ;Funcionário;Roubo
+2017-08-22;22:30;Campinas;SP;SP 065;Hig/Limp/Cosm;Louveira;SP;Campinas;SP; R$ 639.515,29 ;S/Comprovação;Roubo
+2017-08-22;10:30;São Gonçalo;RJ;Rua/Avenida;Específicas;Curitiba;PR;Diversos;RJ; R$ 100.727,51 ;Agregado;Roubo
+2017-08-23;1:00;Pouso Alegre;MG;BR 381 Km 790;Específicas;Betim;MG;São Paulo;SP; R$ 286.326,13 ;Funcionário;Roubo
+2017-08-23;20:00;Rio Real;BA;BR 101;Óleo Lubrificante;Pederneiras;SP;Itabaiana;SE; R$ 125.016,45 ;Autônomo;Roubo
+2017-08-23;23:30;Arujá;SP;BR 116 KM 203;Alumínio;Alumínio;SP;Pindamonhangaba;SP; R$ 188.357,52 ;Autônomo;Roubo
+2017-08-23;11:30;Biguaçu;SC;SC 407;Bebidas;Ponta Grossa;PR;Antônio Carlos;SC; R$ 123.742,03 ;Autônomo;Roubo
+2017-08-24;6:00;São Bernardo do Campo;SP;Estrada 255;Alimentício;Caçapava;SP;São Bernardo do Campo;SP; R$ 197.497,44 ;S/Comprovação;Incêndio
+2017-08-27;13:15;Açailândia;MA;BR 222 KM 626,4;Frigorífico;Xinguara;PA;São Luis;MA; R$ 200.191,63 ;Funcionário;Tombamento
+2017-08-27;12:30;Ouricuri;PE;BR 232;Químico;Ananindeua;PA;Jaboatão dos Guararapes;PE; R$ 703.823,04 ;Funcionário;Roubo
+2017-08-27;14:00;Rosário;BA;BR 020;Bebidas;Brasilia;DF;Irecê;BA; R$ 151.249,28 ;Autônomo;Roubo
+2017-08-28;9:00;Perdões;MG;BR 381 KM 707;Hig/Limp/Cosm;Pouso Alegre;MG;Ribeirão das Neves;MG; R$ 235.057,72 ;Agregado;Tombamento
+2017-08-28;21:50;Guarulhos;SP;BR 116 KM 228;Defensivo Agrícola;Guararema;SP;Santa Cruz do Rio Pardo;SP; R$ 245.760,00 ;Funcionário;Roubo
+2017-08-29;12:00;Vinhedo;SP;SP 330;Hig/Limp/Cosm;Vinhedo;SP;Louveira;SP; R$ 438.497,18 ;S/Comprovação;Roubo
+2017-08-29;9:30;Brasília;DF;Rua/Avenida;Alumínio;Pindamonhangaba;SP;Brasilia;DF; R$ 501.586,75 ;S/Comprovação;Tombamento
+2017-08-29;20:02;Cachoeira Alta;GO;BR 364;Específicas;Guarulhos;SP;Porto Velho;RO; R$ 323.947,99 ;Funcionário;Roubo
+2017-08-31;3:46;AntonIna;PR;BR 116;Frigorífico;Mairinque;SP;Itajai;SC; R$ 297.066,06 ;Autônomo;Roubo
+2017-08-31;5:03;Oliveira;MG;BR 381 Km 600;Eletrodoméstico;Cajamar;SP;Contagem;MG; R$ 248.557,79 ;S/Comprovação;Tombamento
+2017-09-02;14:30;Canto do Buriti;PI;PI 141;Hig/Limp/Cosm;Louveira;SP;Teresina;PI; R$ 1.034.446,72 ;Funcionário;Roubo
+2017-09-02;5:15;Cajati;SP;BR 116 Km 503;Geral;Baueri;SP;Curitiba;PR; R$ 159.744,27 ;Autônomo;Tombamento
+2017-09-03;17:00;Luis Antônio;SP;SP 253;Alumínio;Barcarena;PA;Estiva Gerbi;SP; R$ 270.819,62 ;Autônomo;Roubo
+2017-09-03;17:30;Rio de Janeiro;RJ;Rua/Avenida;Frigorífico;Mirassol do Oeste;MT;São João do Meriti;RJ; R$ 246.910,30 ;S/Comprovação;Roubo
+2017-09-03;18:00;Pirassununga;SP;Desvio;Bebidas;Pirassununga;SP;Santarém;PA; R$ 121.926,00 ;Autônomo;Desvio de Carga
+2017-09-05;20:00;Pontalina;GO;BR 153 KM 600;Bebidas;Pirassununga;SP;Santarém;PA; R$ 121.603,04 ;Autônomo;Roubo
+2017-09-05;19:15;Ipaumirim;CE;BR 116 Km 418;Alimentício;Cianorte;PR;Maracanau;CE; R$ 109.357,00 ;Funcionário;Tombamento
+2017-09-05;18:20;Rio Real;BA;BR 101;Frigorífico;São João;PR;Rio Largo;AL; R$ 164.554,20 ;Funcionário;Tombamento
+2017-09-06;17:40;Garanhuns;PE;BR 423 KM 97,5;Alimentício;Garanhuns;PE;Pouso Alegre;MG; R$ 148.954,80 ;Agregado;Roubo
+2017-09-06;5:30;Valinhos;SP;SP 332 Km 124;Geral;Vargem Grande do Sul;SP;São Paulo;SP; R$ 103.013,58 ;Funcionário;Roubo
+2017-09-06;20:30;Registro;SP;BR 116 KM 449;Alumínio;Pindamonhangaba;SP;Ponta Grossa;PR; R$ 338.932,41 ;Autônomo;Roubo
+2017-09-07;1:00;São Bernardo do Campo;SP;SP 022;Alumínio;Alumínio;SP;Araçariguama;SP; R$ 186.316,42 ;Autônomo;Roubo
+2017-09-07;11:00;Santos;SP;Rua/Avenida;Alimentício;Santos;SP;Alumínio;SP; R$ 651.947,10 ;Autônomo;Roubo
+2017-09-08;0:20;Uberaba;MG;BR 050 Km 183;Café;Linhares;ES;Catanduva;SP; R$ 239.433,60 ;Autônomo;Roubo
+2017-09-09;16:30;Cachoeirinha;PE;BR 101;Hig/Limp/Cosm;Louveira;SP;João Pessoa;PB; R$ 647.455,98 ;Funcionário;Roubo
+2017-09-09;19:00;Morrinhos;GO;BR 153 Km 644;Bateria;São Paulo;SP;Anápolis ;GO; R$ 764.471,52 ;Funcionário;Roubo
+2017-09-09;6:40;Santo Antônio do Amparo;MG;BR 381 Km 650,9;Móveis;Turvo;SC;Salvador;BA; R$ 104.407,55 ;Funcionário;Tombamento
+2017-09-09;14:25;Tabaí;RS;BR 287;Frigorífico;Santa Maria;RS;Jacareí;SP; R$ 278.413,95 ;S/Comprovação;Roubo
+2017-09-10;21:36;Salinas;MG;BR 251 KM 300;Calçados;Birigui;SP;Cabo de Santo Agostinho;PE; R$ 274.256,76 ;Funcionário;Roubo
+2017-09-10;16:00;São João de Meriti;RJ;BR 116;Frigorífico;Rolim de Moura;RO;São João de Meriti;RJ; R$ 432.000,00 ;S/Comprovação;Roubo
+2017-09-12;4:00;Campina Grande do Sul;PR;BR 116 Km 27;Autopeças;São Paulo;SP;Francisco Beltrão;PR; R$ 382.755,46 ;Autônomo;Roubo
+2017-09-12;4:10;São Paulo;SP;BR 374 Km 15;E-Commerce;Itapevi;SP;Guarulhos;SP; R$ 160.694,09 ;Autônomo;Roubo
+2017-09-12;9:30;Pindamonhangaba;SP;BR 116 KM 99;Alumínio;Pindamonhangaba;SP;Ponta Grossa;PR; R$ 541.562,66 ;Autônomo;Roubo
+2017-09-13;14:00;São Bernardo do Campo;SP;Rua/Avenida;Específicas;Guarulhos;SP;Cascavel;PR; R$ 497.876,00 ;S/Comprovação;Roubo
+2017-09-13;12:30;Vitória da Conquista;BA;BR 116 Km 18;Específicas;Feira de Santana;BA;Contagem;MG; R$ 835.808,95 ;S/Comprovação;Tombamento
+2017-09-14;10:00;Canguaretama;RN;BR 101;Hig/Limp/Cosm;Ipojuca;PE;Mossoró;RN; R$ 101.023,20 ;S/Comprovação;Roubo
+2017-09-14;15:30;Arujá;SP;BR 116 KM 198;Alumínio;Pindamonhangaba;SP;Ponta Grossa;PR; R$ 498.933,18 ;S/Comprovação;Roubo
+2017-09-17;1:47;Cachoeirinha;PE;BR 101;Hig/Limp/Cosm;Vinhedo;SP;Ipojuca;PE; R$ 434.049,39 ;Funcionário;Roubo
+2017-09-17;8:30;Nova Iguaçú;RJ;BR 116;Frigorífico;Cascavel;PR;São Gonçalo;RJ; R$ 128.145,46 ;Funcionário;Roubo
+2017-09-17;21:00;Rosário Oeste;MT;BR 364;Laticínios;Maravilhas;SC;Lucas do Rio Verde;MT; R$ 137.555,88 ;Funcionário;Roubo
+2017-09-17;14:00;Tucano;BA;BR 116;Doces/Chocolate;Lageado;RS;Vitória de Santo Antão;PE; R$ 263.199,44 ;S/Comprovação;Roubo
+2017-09-17;17:20;Araraquara;SP;SP 310;Frigorífico;Ji-Paraná;RO;Barueri;SP; R$ 205.644,24 ;Autônomo;Roubo
+2017-09-18;23:10;Cajamar;SP;SP 330 Km 38;Eletrônicos;Santos;SP;Cajamar;SP; R$ 2.036.726,70 ;Funcionário;Roubo
+2017-09-18;23:00;Aracati;CE;BR 304 ;Alimentício;Fortaleza;CE;Maceió;AL; R$ 161.840,31 ;S/Comprovação;Roubo
+2017-09-20;3:10;Paraí;RJ;BR 116 Km 220;Confecção/Tecido/Fios;Itaguaí;RJ;São Paulo;SP; R$ 423.548,28 ;Funcionário;Tombamento
+2017-09-21;0:30;Juquitiba;SP;BR 116 Km 314;Alumínio;Araquari;SC;Pindamonhangaba;SP; R$ 135.718,50 ;Autônomo;Roubo
+2017-09-21;12:30;Francisco Morato;SP;Rua/Avenida;Óleo Comestível;Mairiporã;SP;Montes Claros;MG; R$ 111.240,00 ;Autônomo;Tombamento
+2017-09-23;6:20;Duque de Caxias;RJ;BR 040;Específicas;Duque de Caxias;RJ;Vitória;ES; R$ 377.333,33 ;Agregado;Roubo
+2017-09-24;19:00;Carangola;MG;MG 482 Km 29;Café;Espera Feliz;MG;Bom Jesus;RS; R$ 332.384,00 ;S/Comprovação;Tombamento
+2017-09-25;14:21;Caçu;GO;GO 206 Km 1;Frigorífico;Palmeiras de Goiás;GO;Caçu;GO; R$ 186.460,67 ;Funcionário;Incêndio
+2017-09-26;11:34;Guaratuba;PR;BR 376 Km 664;Bebidas;Ponta Grossa;PR;Porto Alegre;RS; R$ 214.975,63 ;S/Comprovação;Tombamento
+2017-09-26;21:02;Janaúba;MG;MG 122 Km 163,5;Material Elétrico;Jundiaí;SP;Blumenau;SC; R$ 167.769,16 ;S/Comprovação;Tombamento
+2017-09-27;22:00;Hidrolândia;GO;BR 153;Hig/Limp/Cosm;Louveira;SP;Anápolis;GO; R$ 309.236,76 ;S/Comprovação;Roubo
+2017-09-27;19:30;Simões Filho;BA;BR 324;Celulares;Cajazeiras;BA;Camaçari;BA; R$ 201.990,09 ;Funcionário;Roubo
+2017-09-27;12:20;Argirita;MG;BR 267 Km 28,30;Laticínios;Catanduva;SP;Cariacica;ES; R$ 150.850,00 ;Autônomo;Tombamento
+2017-09-28;4:00;Pardinho;SP;SP 280 KM 193;Bebidas;Jacareí;SP;Dourados;MS; R$ 182.909,59 ;Autônomo;Roubo
+2017-09-28;17:30;Delta;MG;BR 050 KM201;Eletrônicos;Cajamar;SP;Goiânia;GO; R$ 400.595,70 ;S/Comprovação;Roubo
+2017-09-29;14:00;Miracatu;SP;BR 116;Alumínio;Araquari;SC;Pindamonhangaba;SP; R$ 339.058,94 ;S/Comprovação;Roubo
+2017-09-29;4:35;Hortolândia;SP;SP 101 Km 11;Específicas;Hortolandia;SP;Praia Grande;SP; R$ 326.856,00 ;Agregado;Roubo
+2017-09-29;21:30;Paraíso do Tocantins;TO;BR 153 KM 499;Eletrônicos;Belém;PA;Contagem;MG; R$ 1.296.044,88 ;S/Comprovação;Roubo
+2017-09-29;21:00;Nazaré Paulista;SP;SP 065 Km 50;Eletrônicos;Campinas;SP;Taubaté;SP; R$ 1.584.572,25 ;S/Comprovação;Roubo
+2017-09-29;18:29;Seropédica;RJ;BR 116 KM 200;Laticínios;Barra Mansa;RJ;Nova Iguaçú;RJ; R$ 126.572,50 ;Autônomo;Roubo
+2017-09-29;11:00;Contagem;MG;BR 040 Km 93;Bebidas;Jundiaí;SP;Contagem;MG; R$ 161.330,20 ;S/Comprovação;Tombamento
+2017-09-29;2:20;Embu;SP;SP 021 Km 34;Tinta/Verniz;São Bernardo do Campo;SP;Blumenau;SC; R$ 241.846,59 ;S/Comprovação;Tombamento
+2017-09-30;10:50;Aparecida d'Oeste;SP;SP 563 Km 13;Frigorífico;Cidade Gaúcha;PR;Marituba;PA; R$ 110.466,00 ;S/Comprovação;Tombamento
+2017-09-30;17:40;Ribeirão;PE;BR 101;Doces/Chocolate;Jundiaí;SP;Cabo de Santo Agostinho;PE; R$ 379.851,76 ;Autônomo;Roubo
+2017-10-01;20:30;Tucano;BA;BR 116 Km 280;Alimentício;Itaicaba;CE;Curitiba;PR; R$ 250.458,00 ;Funcionário;Roubo
+2017-10-01;19:40;Araças;BA;BA 93 Km 18;Alimentício;Cabo de Santo Agostinho;PE;Salvador;BA; R$ 224.263,33 ;Autônomo;Tombamento
+2017-10-01;20:30;Floriano;PI;BR 230 KM 304;Hig/Limp/Cosm;Louveira;SP;Teresina;PI; R$ 789.812,56 ;S/Comprovação;Roubo
+2017-10-02;1:10;Rio de Janeiro;RJ;BR 116;Hig/Limp/Cosm;Pouso Alegre;MG;São João do Meriti;RJ; R$ 100.754,13 ;Agregado;Roubo
+2017-10-02;20:40;Itaquaquecetuba;SP;Rua/Avenida;Alumínio;Itaquaquecetuba;SP;Monte Alto;SP; R$ 212.062,00 ;Autônomo;Roubo
+2017-10-03;17:00;Jacareí;SP;SP 065 Km 10;Alumínio;Pindamonhangaba;SP;Extrema;MG; R$ 338.786,52 ;Funcionário;Roubo
+2017-10-03;18:40;Itapecerica da Serra;SP;BR 116 Km 65;Pneus;Navagantes;SC;São Paulo;SP; R$ 201.426,62 ;Autônomo;Roubo
+2017-10-03;19:00;Atibaia;SP;BR 381 Km 42;Veículo;São Bernardo do Campo;SP;Petrolina;PE; R$ 264.000,00 ;S/Comprovação;Roubo
+2017-10-03;20:00;Camamu;BA;BA 652;Geral;Grapiuna;BA;Soretama;ES; R$ 135.912,00 ;S/Comprovação;Tombamento
+2017-10-03;10:00;São Paulo;SP;Rua/Avenida;Alimentício;São Paulo;SP;Osasco;SP; R$ 116.830,75 ;S/Comprovação;Variação de Temperatura
+2017-10-03;5:20;Vitória da Conquista;BA;BR 116 Km 839;Alumínio;Teresina;PI;Pindamonhangaba;SP; R$ 351.435,80 ;S/Comprovação;Adernamento
+2017-10-04;17:40;Arujá;SP;BR 116 Km 201;Alimentício;São Vicente;SP;Cariacica;ES; R$ 217.606,60 ;Autônomo;Roubo
+2017-10-04;2:23;São Paulo;SP;Rua/Avenida;Celulares;Cajamar;SP;Guarulhos;SP; R$ 120.000,00 ;Agregado;Roubo
+2017-10-04;19:00;Queimados;RJ;BR 116 KM 185;Pneus;Itajaí;SC;Rio de Janeiro;RJ; R$ 247.112,61 ;Autônomo;Roubo
+2017-10-05;21:30;São Paulo;SP;BR 381;Alumínio;São Paulo;SP;Belém;PA; R$ 221.519,00 ;Autônomo;Roubo
+2017-10-05;23:30;Curvelo;MG;BR 040 Km 385;Combustível;Ipameri;GO;Betim;MG; R$ 111.849,18 ;S/Comprovação;Roubo
+2017-10-06;5:00;Campina Grande do Sul;PR;BR 116;Polímeros;Itapoá;SC;São Bernardo do Campo;SP; R$ 137.929,77 ;Autônomo;Roubo
+2017-10-06;3:58;São Paulo;SP;Rua/Avenida;Geral;Itajaí;SC;São Paulo;SP; R$ 348.647,80 ;Autônomo;Roubo
+2017-10-06;10:54;Ouro Branco;MG;BR 423;Material Elétrico;São Paulo;SP;Ananindeua;PA; R$ 801.304,26 ;Funcionário;Roubo
+2017-10-06;14:30;Guarulhos;SP;BR 116 KM 20;Alumínio;Pindamonhangaba;SP;Viamão;RS; R$ 546.906,10 ;Autônomo;Roubo
+2017-10-07;14:00;São José dos Pinhais;PR;BR 227 Km 22;Alumínio;Pindamonhangaba;SP;Ponta Grossa;PR; R$ 528.930,49 ;Autônomo;Roubo
+2017-10-07;1:00;Araguari;MG;BR 050;Defensivo Agrícola;Araçariguama;SP;Luís Eduardo Magalhães;BA; R$ 995.629,92 ;S/Comprovação;Roubo
+2017-10-07;21:30;Miracatu;SP;BR 116 Km 357;Polímeros;Guarulhos;SP;Novo Hamburgo;RS; R$ 194.098,00 ;S/Comprovação;Incêndio
+2017-10-08;22:35;Barra do Garças;MT;BR 070 ;Defensivo Agrícola;Cuabá;MT;Querencia;MT; R$ 189.141,00 ;Autônomo;Roubo
+2017-10-09;8:30;Contagem;MG;Rua/Avenida;Específicas;Belo Horizonte;MG;Contagem;MG; R$ 356.696,69 ;S/Comprovação;Roubo
+2017-10-09;16:00;São Paulo;SP;Rua/Avenida;Fios/Cabos;Santo André;SP;Juatuba;MG; R$ 145.000,00 ;Autônomo;Roubo
+2017-10-09;5:02;Mateus Leme;MG;BR 262 Km 384;Específicas;Contagem;MG;Arcos;MG; R$ 131.619,06 ;S/Comprovação;Roubo
+2017-10-09;7:00;Nova Iguaçú;RJ;Rua/Avenida;Específicas;Hidrolândia;GO;Nova Iguaçú;RJ; R$ 249.074,47 ;Agregado;Incêndio
+2017-10-11;23:00;Duque de Caxias;RJ;Rua/Avenida;Alimentício;Ibiuna;SP;Duque de Caxias;RJ; R$ 120.471,40 ;Funcionário;Roubo
+2017-10-12;7:15;Espinosa;MG;BR 122 Km 825;Veículo;Natal;RN;São Paulo;SP; R$ 652.582,00 ;S/Comprovação;Tombamento
+2017-10-12;13:40;Mairiporã;SP;BR 381 Km 60;Frigorífico;Janaúba;MG;Santos;SP; R$ 538.560,89 ;S/Comprovação;Tombamento
+2017-10-15;12:11;São Gonçalo do Rio Abaixo;MG;BR 381 Km 362;Bebidas;Linhares;ES;Belo Horizonte;MG; R$ 150.000,00 ;S/Comprovação;Queda
+2017-10-16;21:00;Açu;RN;BR 304;Alimentício;Gloria do Goitá;PE;Mossoró;RN; R$ 125.653,63 ;Autônomo;Roubo
+2017-10-16;11:02;Santo Inácio;PR; ;Frigorífico;Encanto;RS;Barreiras;BA; R$ 149.204,50 ;S/Comprovação;Roubo
+2017-10-17;18:00;Mairinque;SP;SP 270 Km 71;Alumínio;Alumínio;SP;Pindamonhangaba;SP; R$ 211.413,82 ;Autônomo;Roubo
+2017-10-18;23:00;Curvelo;MG;MG 135 KM 326;Calçados;Nova Serrana;MG;Pernambuco;PE; R$ 526.624,80 ;S/Comprovação;Roubo
+2017-10-18;1:00;Barra Velha;SC;BR 101;Bebidas;Uberlândia;MG;Eldorado do Sul;RS; R$ 134.945,97 ;Funcionário;Roubo
+2017-10-19;10:40;Rondonópolis;MT;BR 364 Km 214;Algodão;Diamantino;MT;Cubatão;SP; R$ 269.026,21 ;S/Comprovação;Roubo
+2017-10-19;15:01;Feira de Santana;BA;Desvio;Eletrônicos;Arujá;SP;Teresina;PI; R$ 240.247,44 ;Autônomo;Desvio de Carga
+2017-10-20;21:30;Recife;PE;BR 101;Eletrônicos;Fortaleza;CE;Recife;PE; R$ 168.523,51 ;Agregado;Roubo
+2017-10-20;10:40;Diadema;SP;Desvio;Polímeros;São Paulo;SP;Diadema;SP; R$ 102.919,38 ;Autônomo;Desvio de Carga
+2017-10-22;6:30;Pouso Alegre;MG;BR 459 km 105;Hig/Limp/Cosm;Pouso Alegre;MG;Uberlândia;MG; R$ 227.104,29 ;S/Comprovação;Incêndio
+2017-10-23;16:30;Rio de Janeiro;RJ;BR 101;Alimentício;Belém;PA;Rio de Janeiro;RJ; R$ 140.000,00 ;S/Comprovação;Roubo
+2017-10-23;19:00;Mamanguape;PB;BR 101;Hig/Limp/Cosm;Ipojuca;PE;Mamanguape;PB; R$ 131.947,20 ;Autônomo;Roubo
+2017-10-24;6:00;Mairinque;SP;SP 280 Km 62;E-Commerce;Barueri;SP;Diversos;SP; R$ 215.080,54 ;Agregado;Roubo
+2017-10-24;17:08;Jacareí;SP;SP 065 Km 08;Alumínio;Pindamonhangaba;SP;Itumbiara;GO; R$ 283.748,02 ;Agregado;Roubo
+2017-10-24;22:00;Catalão;GO;BR 050;Óleo Comestível;Uberlândia;MG;Formosa;GO; R$ 120.658,21 ;Funcionário;Roubo
+2017-10-24;21:10;Cabo de Santo Agostinho;PE;BR 101 KM 106;Hig/Limp/Cosm;Ipojuca;PE;Maceio;AL; R$ 114.533,07 ;S/Comprovação;Roubo
+2017-10-24;21:00;Rio de Janeiro;RJ;Rua/Avenida;Óleo Lubrificante;Rio de Janeiro;RJ;São Caetano do Sul;SP; R$ 108.163,92 ;S/Comprovação;Roubo
+2017-10-26;14:30;Pontos e Lacerda;MT;BR 174 Km 245;Específicas;Hidrolândia;GO;JI-Paraná;RO; R$ 549.879,25 ;S/Comprovação;Tombamento
+2017-10-26;2:15;Itatiba;SP;SP 065 KM 105;Alumínio;Aparecida de Goiânia;GO;Pindamonhangaba;SP; R$ 144.450,00 ;Autônomo;Roubo
+2017-10-27;10:42;Salinas;MG;BR 251;Hig/Limp/Cosm;Vinhedo;SP;Ipojuca;PE; R$ 430.813,77 ;Funcionário;Roubo
+2017-10-27;4:30;Rio de Janeiro;RJ;BR 101;Eletrônicos;Belém;PA;Cajamar;SP; R$ 1.138.606,20 ;S/Comprovação;Roubo
+2017-10-28;17:30;Rio de Janeiro;RJ;Rua/Avenida;Específicas;Rio de Janeiro;RJ;São Paulo;SP; R$ 613.035,74 ;Agregado;Roubo
+2017-10-28;17:30;Rio de Janeiro;RJ;Rua/Avenida;Específicas;Rio de Janeiro;RJ;São Paulo;SP; R$ 223.212,00 ;Agregado;Roubo
+2017-10-28;21:30;Frutal;MG;BR 153 Km 187;Eletrônicos;Cajamar;SP;Brasilia;DF; R$ 730.173,00 ;Funcionário;Roubo
+2017-10-29;18:30;Santa Barbara do Leste;MG;BR 116 Km 554;Calçados;Louveira;SP;Quixada;CE; R$ 158.986,59 ;S/Comprovação;Colisão
+2017-10-29;10:00;Cajati;SP;BR 116 Km 509;Bebidas;Farroupilha;RS;Guarulhos;SP; R$ 166.248,51 ;S/Comprovação;Tombamento
+2017-10-30;3:00;São Paulo;SP;SP 381 Km 86;Polímeros;Camaçari;BA;Boituva;SP; R$ 159.644,74 ;Autônomo;Furto
+2017-10-30;20:10;Igarata;SP;SP 065 KM 38;Celulares;Campinas;SP;Taubaté;SP; R$ 1.935.372,12 ;S/Comprovação;Roubo
+2017-10-30;2:00;Santa Cruz de Salinas;MG;BR 251 Km 223.7;Específicas;São Paulo;SP;Recife;PE; R$ 252.797,66 ;S/Comprovação;Colisão
+2017-10-31;14:07;Palhoça;SC;BR 101 KM 238;Calçados;Louveira;SP;Porto Alegre;RS; R$ 1.045.674,87 ;Autônomo;Roubo
+2017-10-31;0:40;Cubatão;SP;SP 150  ;Café;Marília;SP;Santos;SP; R$ 232.744,42 ;S/Comprovação;Tombamento
+2017-10-31;23:00;Arujá;SP;SP 021;Alumínio;Pindamonhangaba;SP;Viamão;RS; R$ 358.899,24 ;Autônomo;Roubo
+2017-11-01;19:30;Belo Horizonte;MG;Rua/Avenida;Específicas;Contagem;MG;Contagem;MG; R$ 103.805,73 ;S/Comprovação;Roubo
+2017-11-04;4:00;Conceição do Jacuipe;BA;Desvio;Laticínios;Arroio do Meio;RS;Recife;PE; R$ 255.000,00 ;Autônomo;Desvio de Carga
+2017-11-05;23:00;Feira de Santana;BA;BR 116;Alumínio;São Luis;MA;Duque de Caxias;RJ; R$ 125.000,00 ;Autônomo;Roubo
+2017-11-05;11:52;Belford Roxo;RJ;BR 116;Frigorífico;Araraquara;SP;Rio de Janeiro;RJ; R$ 245.200,00 ;S/Comprovação;Roubo
+2017-11-05;11:30;São João de Meriti;RJ;BR 116;Frigorífico;Mirassol do Oeste;MT;Niterói;RJ; R$ 228.000,00 ;S/Comprovação;Roubo
+2017-11-07;1:00;Atibaia;SP;BR 381 KM 29;Alimentício;Maceió;AL;Guarulhos;SP; R$ 364.491,26 ;Agregado;Roubo
+2017-11-07;10:55;Jacareí;SP;SP 065 ;Alumínio;Pindamonhangaba;SP;Brasilia;DF; R$ 510.535,87 ;Funcionário;Roubo
+2017-11-07;7:40;Cabo de Santo Agostinho;PE;BR 101 Km 108;Alimentício;Cabo de Santo Agostinho;PE;Petrolina;PE; R$ 160.295,83 ;S/Comprovação;Tombamento
+2017-11-08;21:30;Itapecerica da Serra;SP;BR 116 Km 289;Alumínio;Alumínio;SP;Santa Cruz do Serra;RS; R$ 265.336,49 ;Autônomo;Roubo
+2017-11-09;9:00;Guarulhos;SP;Rua/Avenida;Pneus;Mauá;SP;Ananindeua;PA; R$ 213.954,98 ;Funcionário;Roubo em Depósito
+2017-11-10;21:00;Novo Lino;AL;BR 101 KM 40;Hig/Limp/Cosm;Ipojuca;PE;Louveira;SP; R$ 555.596,52 ;Funcionário;Furto
+2017-11-11;14:43;Belford Roxo;RJ;BR 116;Calçados;Campo Bom;RS;Cariacica;ES; R$ 898.963,02 ;Funcionário;Roubo
+2017-11-12;2:30;São Caetano;PE;BR 232 Km 148;Hig/Limp/Cosm;Louveira;SP;São José do Mipibu;RN; R$ 424.152,14 ;Funcionário;Roubo
+2017-11-12;10:45;Duque de Caxias;RJ;BR 040;Específicas;Hortolandia;SP;Duque de Caxias;RJ; R$ 619.029,00 ;S/Comprovação;Roubo
+2017-11-13;1:30;Cajati;SP;BR 116 KM 500;Alimentício;Itajaí;SC;Goiás;GO; R$ 361.635,00 ;Autônomo;Roubo
+2017-11-14;7:30;Nova Era;MG;BR 381 Km 335;Alimentício;Campo Limpo Paulista;SP;Euzébio;CE; R$ 199.345,61 ;Autônomo;Tombamento
+2017-11-14;2:46;São José dos Pinhais;PR;Rua/Avenida;Hig/Limp/Cosm;Pouso Alegre;MG;Içara;SC; R$ 153.561,80 ;S/Comprovação;Furto em Depósito
+2017-11-14;2:46;São José dos Pinhais;PR;Rua/Avenida;Hig/Limp/Cosm;Pouso Alegre;MG;Curitiba;PR; R$ 158.471,46 ;S/Comprovação;Furto em Depósito
+2017-11-14;2:00;Balsa Nova;PR;BR 277 KM 123;Bicicleta;Manaus;AM;Navegantes;SC; R$ 603.502,71 ;Agregado;Roubo
+2017-11-15;2:45;Santo Antônio do Amparo;MG;BR 381 KM 659,5;Hig/Limp/Cosm;Pouso Alegre;MG;Betim;MG; R$ 635.802,40 ;S/Comprovação;Queda
+2017-11-15;23:40;Mesquita;RJ;BR 116;Material Elétrico;Arujá;SP;São Gonçalo;RJ; R$ 204.881,47 ;Funcionário;Roubo
+2017-11-16;23:40;Mesquita;RJ;BR 116;Material Elétrico;Arujá;SP;Niterói;RJ; R$ 107.838,48 ;S/Comprovação;Roubo
+2017-11-16;12:00;Guarulhos;SP;BR 116 Km 225;Confecção/Tecido/Fios;Guarulhos;SP;Guarulhos;SP; R$ 181.788,66 ;Funcionário;Roubo
+2017-11-16;10:00;Paulista;PE;Desvio;Hig/Limp/Cosm;Paulista;PE;Bélem;PA; R$ 123.411,96 ;Autônomo;Desvio de Carga
+2017-11-17;10:20;Betim;MG;BR 262 KM 356;E-Commerce;Contagem;MG;Divinópolis;MG; R$ 262.599,34 ;S/Comprovação;Roubo
+2017-11-17;7:00;Limeira;SP;SP 330 KM176;Combustível;Paulínia;SP;Onda Verde;SP; R$ 174.773,20 ;S/Comprovação;Roubo
+2017-11-17;20:30;São Roque;SP;SP 280 Km 57;Específicas;Curitiba;PR;Sorocaba;SP; R$ 357.310,03 ;Agregado;Roubo
+2017-11-17;16:20;Duque de Caxias;RJ;BR 040;Alimentício;Belford Roxo;RJ;Petrópolis;RJ; R$ 109.494,15 ;Funcionário;Roubo
+2017-11-17;6:00;Rio de Janeiro;RJ;Rua/Avenida;Específicas;São Paulo;SP;Diversos;RJ; R$ 336.563,57 ;Agregado;Roubo
+2017-11-19;9:00;Fortaleza do Tabocão;TO;BR 153 Km 364;Hig/Limp/Cosm;Imperatriz;MA;Amparo;SP; R$ 150.286,86 ;S/Comprovação;Tombamento
+2017-11-20;8:21;Contagem;MG;Rua/Avenida;Específicas;Contagem;MG;Belo Horizonte;MG; R$ 386.092,28 ;S/Comprovação;Roubo
+2017-11-20;19:45;São Manuel;SP;SP 300 Km 274;E-Commerce;Itapevi;SP;Bauru;SP; R$ 252.476,89 ;S/Comprovação;Roubo
+2017-11-20;18:00;São João do Meriti;RJ;BR 116;Frigorífico;Tapejara;RS;São João do Meriti;RJ; R$ 167.940,00 ;Agregado;Roubo
+2017-11-20;22:17;Bom Jesus do Piauí;PI;BR 135;Hig/Limp/Cosm;Louveira;SP;Teresina;PI; R$ 624.655,07 ;Funcionário;Roubo
+2017-11-20;1:40;Cambuí;MG;BR 381 Km 898;Café;Nova Venécia;ES;Araras;SP; R$ 239.772,73 ;Autônomo;Roubo
+2017-11-20;17:25;Delta;MG;BR 050 KM 203;Eletrônicos;Guarulhos;SP;Uberlândia;MG; R$ 400.000,00 ;S/Comprovação;Roubo
+2017-11-21;18:30;São João do Meriti;RJ;BR 116 Km 167;Específicas;Curitiba;PR;Cariacica;ES; R$ 370.810,22 ;Autônomo;Roubo
+2017-11-22;17:15;Rio de Janeiro;RJ;Rua/Avenida;Hig/Limp/Cosm;Pouso Alegre;MG;Rio de Janeiro;RJ; R$ 206.045,96 ;S/Comprovação;Roubo
+2017-11-23;5:20;São Paulo;SP;BR 381;Cobre;Sorocaba;SP;Bofete;SP; R$ 131.862,15 ;Autônomo;Roubo
+2017-11-23;6:31;Mataraca;PB;BR 101;Hig/Limp/Cosm;Louveira;SP;Natal;RN; R$ 656.851,56 ;S/Comprovação;Roubo
+2017-11-23;8:30;Nova Viçosa;BA;BR 101 Km 900;Bebidas;Alagoinhas;BA;Ibiraçú;ES; R$ 115.619,47 ;Autônomo;Roubo
+2017-11-23;6:31;Mataraca;PB;BR 101;Hig/Limp/Cosm;Louveira;SP;Natal;RN; R$ 337.180,23 ;S/Comprovação;Roubo
+2017-11-23;1:40;Pouso Alegre;MG;BR 381 KM 871;Hig/Limp/Cosm;Pouso Alegre;MG;Mirassol;SP; R$ 397.099,50 ;Funcionário;Roubo
+2017-11-24;9:00;Extrema;MG;BR 381 KM 949,9;Hig/Limp/Cosm;Louveira;SP;Ipojuca;PE; R$ 420.730,92 ;Funcionário;Roubo
+2017-11-24;4:30;Atibaia;SP;SP 065 KM 85;Polímeros;Rio de Janeiro;RJ;Vinhedo;SP; R$ 166.333,46 ;Autônomo;Roubo
+2017-11-24;5:06;São Paulo;SP;Rua/Avenida;Eletrônicos;Arujá;SP;São Paulo;SP; R$ 226.385,64 ;Funcionário;Roubo
+2017-11-24;5:15;Itatiba;SP;SP 065 KM 95;Frigorífico;Goianira;GO;Guarulhos;SP; R$ 400.056,91 ;Funcionário;Roubo
+2017-11-24;16:40;Diamantino;MT;BR 163 Km 537;Sementes;Cuiabá;MT;Tapurah;MT; R$ 637.776,15 ;S/Comprovação;Tombamento
+2017-11-26;1:00;Uberaba;MG;BR 050;Alimentício;Goiânia;GO;Pouso Alegre;MG; R$ 114.868,78 ;Autônomo;Roubo
+2017-11-26;0:54;São Bernardo do Campo;SP;SP 160;Frigorífico;Terenos;MS;São Vicente;SP; R$ 195.574,44 ;Agregado;Roubo
+2017-11-26;21:49;Escada;PE;BR 101;Frigorífico;Palmeiras de Goiás;GO;Jaboatão dos Guararapes;PE; R$ 419.936,67 ;Autônomo;Roubo
+2017-11-26;21:05;Curvelo;MG;BR 135 Km 625;Hig/Limp/Cosm;Pouso Alegre;MG;Diversos;SC; R$ 242.632,70 ;S/Comprovação;Tombamento
+2017-11-26;12:30;Monte Castelo;SC;BR 116 Km 100;Específicas;Guarulhos;SP;Porto Alegre;RS; R$ 479.925,57 ;Funcionário;Tombamento
+2017-11-26;8:40;Além Paraiba;MG;BR 393 Km 21;Alimentício;Guarulhos;SP;Viana;ES; R$ 195.904,91 ;S/Comprovação;Tombamento
+2017-11-27;16:40;Belford Roxo;RJ;Rua/Avenida;Hig/Limp/Cosm;Osasco;SP;Rio de Janeiro;RJ; R$ 431.646,52 ;Funcionário;Roubo
+2017-11-27;5:30;Osasco;SP;Desvio;Bebidas;Bento Gonçalves;RS;Osasco;SP; R$ 261.210,76 ;Autônomo;Desvio de Carga
+2017-11-27;4:35;Juatuba;MG;BR 262 Km 379;Específicas;Contagem;MG;Itaúna;MG; R$ 299.074,24 ;Funcionário;Roubo
+2017-11-27;19:30;Vila Boa;GO;BR 020 Km 77;Aço/Ferro;Fortaleza;CE;Brasilia;DF; R$ 102.774,12 ;Autônomo;Roubo
+2017-11-27;8:20;Leopoldina;MG;BR 116 Km 783;Hig/Limp/Cosm;Mogi das Cruzes;SP;Colatina;ES; R$ 388.387,31 ;Funcionário;Tombamento
+2017-11-28;23:20;Joaquim Gomes;AL;BR 101;Hig/Limp/Cosm;Ipojuca;PE;Simões Filho;BA; R$ 379.044,19 ;Funcionário;Roubo
+2017-11-28;19:30;Cubatão;SP;SP 150 Km 50;Liga Metálica;São Paulo;SP;Santos;SP; R$ 408.482,60 ;Autônomo;Roubo
+2017-11-29;10:00;Nova Olinda do Maranhão;MA;BR 316 Km 144;Bebidas;Alagoinhas;BA;Benevides;PA; R$ 100.380,63 ;Autônomo;Tombamento
+2017-11-29;10:00;Canápolis;MG;BR 153 Km 42;Frigorífico;Cascavel;PR;Maracanau;CE; R$ 182.824,80 ;Autônomo;Tombamento
+2017-11-29;0:02;Rio de Janeiro;RJ;Rua/Avenida;Bebidas;Linhares;ES;Rio de Janeiro;RJ; R$ 150.000,00 ;S/Comprovação;Roubo
+2017-11-29;0:20;Venda Nova do Imigrante;ES;BR 262;Material Elétrico;Serra;ES;Diversos;MG; R$ 495.286,74 ;Autônomo;Roubo
+2017-12-01;13:00;Atibaia;SP;BR 381 Km 48;Veículo;São Bernardo do Campo;SP;Atibaia;SP; R$ 115.000,00 ;Autônomo;Roubo
+2017-12-01;22:00;Rio Real;BA;Desvio;Brinquedos;Foz do Iguaçu;PR;Cabo de Santo Agostinho;PE; R$ 146.926,00 ;Autônomo;Desvio de Carga
+2017-12-02;0:30;Jacupiranga;SP; SP 230 Km 480;E-Commerce;Itapevi;SP;Porto Alegre;RS; R$ 919.423,40 ;S/Comprovação;Roubo
+2017-12-02;2:15;Santo Antônio da Patrulha;RS;BR 290 Km 30;Móveis;Bento Gonçalves;RS;São Paulo;SP; R$ 261.585,00 ;S/Comprovação;Colisão
+2017-12-02;21:40;Barretos;SP;BR 364;Algodão;Perolândia;GO;Artur Nogueira;SP; R$ 174.160,60 ;Autônomo;Roubo
+2017-12-04;13:30;Pindamonhangaba;SP;Rua/Avenida;Alumínio;Pindamonhangaba;SP;Brasilia;DF; R$ 331.149,15 ;Funcionário;Roubo
+2017-12-04;22:07;Codó;MA;BR 316 KM 17;Hig/Limp/Cosm;Louveira;SP;Teresina;PI; R$ 546.523,85 ;Funcionário;Roubo
+2017-12-05;14:00;Frutal;MG;BR 153 KM 195;Frigorífico;Gurupi;TO;São Paulo;SP; R$ 153.922,27 ;S/Comprovação;Roubo
+2017-12-05;4:08;Jundiaí;SP;SP 330 KM 63;Hig/Limp/Cosm;Louveira;SP;Pouso Alegre;MG; R$ 134.571,27 ;S/Comprovação;Roubo
+2017-12-05;1:30;Santa Cruz de Salinas;MG;BR 251;Alimentício;Guira;SP;Simões Filho;BA; R$ 107.511,43 ;Funcionário;Roubo
+2017-12-06;18:00;Seropédica;RJ;BR 116 KM 217;Confecção/Tecido/Fios;Rio de Janeiro;RJ;Jundiaí;SP; R$ 431.724,04 ;S/Comprovação;Roubo
+2017-12-06;3:50;Itapeva;MG;BR 381 KM 190;Material Elétrico;São José dos Pinhais;PR;Bom Jesus da Lapa;BA; R$ 187.050,15 ;Autônomo;Roubo
+2017-12-06;8:20;Joaquim Nabuco;PE;BR 101 Km 157;E-Commerce;Recife;PE;Diversos;BA; R$ 426.913,61 ;S/Comprovação;Roubo
+2017-12-06;16:00;Jaciara;MT;BR 263;Combustível;Araucária;PR;Várzea Grande;MT; R$ 129.386,65 ;Autônomo;Roubo
+2017-12-06;21:50;Gurupi;TO;BR 153 Km 667;Hig/Limp/Cosm;Goiânia;GO;Castanhal;PA; R$ 647.826,46 ;S/Comprovação;Roubo
+2017-12-06;19:40;Marituba;BA;BR 316;Alumínio;Barbacena;MG;Arraias;TO; R$ 298.857,99 ;Autônomo;Roubo
+2017-12-06;8:30;Itaju;SP;SP 304 Km 342;Óleo Comestível;Rondonópolis;MT;Elias Fausto;SP; R$ 108.517,50 ;S/Comprovação;Tombamento
+2017-12-07;5:30;Goiatuba;GO;BR 153;Defensivo Agrícola;Hortolandia;SP;Redenção;PA; R$ 199.801,80 ;Autônomo;Roubo
+2017-12-07;0:55;Cachoeira Alta;GO;BR 364;Algodão;Campos de Julio;MT;Alvinópois;MG; R$ 162.015,01 ;Autônomo;Roubo
+2017-12-07;4:00;Orlândia;SP;SP 330 Km 359;Veículo;São Bernando do Campo;SP;Goiânia;GO; R$ 637.690,06 ;S/Comprovação;Tombamento
+2017-12-07;13:30;Campos Altos;MG;BR 262 Km 589;Específicas;Hidrolândia;GO;Cariacica;ES; R$ 387.411,42 ;Agregado;Tombamento
+2017-12-08;21:25;Rio de Janeiro;RJ;BR 101;Específicas;Rio de Janeiro;RJ;São Paulo;SP; R$ 273.953,00 ;Funcionário;Roubo
+2017-12-08;7:17;Cotia;SP;BR 116 Km 280;Hig/Limp/Cosm;Jundiaí;SP;Taboão da Serra;SP; R$ 282.284,19 ;Funcionário;Roubo
+2017-12-08;23:40;Muriaé;MG;BR 116 Km 689,5;Alumínio;Teresina;PI;Pindamonhangaba;SP; R$ 361.006,76 ;S/Comprovação;Tombamento
+2017-12-09;23:20;Campo Largo;PR;BR 277 KM 39;Algodão;Perolândia;GO;Brusque;SC; R$ 144.501,94 ;Autônomo;Roubo
+2017-12-10;22:00;São João do Meriti;RJ;BR 116;Alimentício;São Paulo;SP;Rio de Janeiro;RJ; R$ 138.465,47 ;Autônomo;Roubo
+2017-12-11;20:00;Sumaré;SP; ;Doces/Chocolate;Jundiaí;SP;Contagem;MG; R$ 128.521,50 ;Autônomo;Roubo
+2017-12-11;9:00;São João de Meriti;RJ;Estrada São João Caixas;Alimentício;Rio de Janeiro;RJ;Petropólis;RJ; R$ 236.079,90 ;Funcionário;Roubo
+2017-12-13;6:00;Nova Iguaçú;RJ;BR 116;Frigorífico;São João;PR;Rio de Janeiro;RJ; R$ 150.908,40 ;Funcionário;Roubo
+2017-12-13;0:01;Atibaia;SP;BR 381;Polímeros;Paulínia;SP;Extrema;MG; R$ 106.989,20 ;S/Comprovação;Roubo
+2017-12-13;18:30;Jarinu;SP;SP 354 KM 79;Hig/Limp/Cosm;Pouso Alegre;MG;Curitiba;PR; R$ 391.305,00 ;S/Comprovação;Roubo
+2017-12-13;0:01;Cajamar;SP;SP 330 Km 33;Frigorífico;Jundiaí;SP;Osasco;SP; R$ 350.201,52 ;Funcionário;Incêndio
+2017-12-13;15:40;Porangatu;GO;BR 153 Km 67;Autopeças;Manaus;AM;Jundiaí;SP; R$ 554.335,80 ;S/Comprovação;Colisão
+2017-12-14;7:00;Jarinu;SP;SP 065 KM 90;Celulares;Taubaté;SP;Piracicaba;SP; R$ 164.890,00 ;S/Comprovação;Roubo
+2017-12-14;22:00;Jaguaquara;BA;BR 235 Km 48;Gerador;São Paulo;SP;Lagarto;SE; R$ 148.509,47 ;S/Comprovação;Incêndio
+2017-12-14;0:01;Belém;PA;Balsa;Eletrônicos;Manaus;AM;Uberlândia;MG; R$ 1.796.158,40 ;S/Comprovação;Furto
+2017-12-14;18:40;Rio de Janeiro;RJ;BR 101;Alimentício;Rio de Janeiro;RJ;Rio de Janeiro;RJ; R$ 169.718,80 ;Autônomo;Roubo
+2017-12-15;23:00;Araçariguama;SP;SP 280 KM 48;Óleo Comestível;Rondonópolis;MT;Diadema;SP; R$ 105.364,00 ;Autônomo;Roubo
+2017-12-15;22:30;Santa Rita do Passa Quatro;SP;SP 330;Defensivo Agrícola;Hortolandia;SP;Redenção;PA; R$ 201.435,30 ;Autônomo;Roubo
+2017-12-16;1:30;Barra do Garças;MT;BR 070 Km 37,4;Alimentício;Brasilia;DF;Cuiabá;MT; R$ 129.389,87 ;S/Comprovação;Colisão
+2017-12-17;17:30;Jaciara;MT;BR 364 Km 3;Frigorífico;Ji-Paraná;RO;Betim;MG; R$ 270.947,19 ;S/Comprovação;Tombamento
+2017-12-17;18:49;Rio de Janeiro;RJ;BR 040;Frigorífico;São João;PR;Rio de Janeiro;RJ; R$ 113.233,60 ;Autônomo;Roubo
+2017-12-17;20:00;Curitiba;PR;BR 116 ;Frigorífico;Ji-Paraná;RO;Itá;SC; R$ 295.160,24 ;Autônomo;Roubo
+2017-12-17;11:00;Siqueira Campos;PR;PR 092 Km 261;Frigorífico;Poco das Antas;RS;Jaboatão dos Guararapes;PE; R$ 204.006,86 ;S/Comprovação;Tombamento
+2017-12-17;10:30;Guarulhos;SP;Rua/Avenida;Alumínio;Alumínio;SP;Jaboatão dos Guararapes;PE; R$ 253.129,96 ;Autônomo;Roubo
+2017-12-18;20:30;Atibaia;SP;SP 065 KM 85;Químico;Vespasiano;MG;Indaiatuba;SP; R$ 157.480,40 ;S/Comprovação;Roubo
+2017-12-19;8:30;Nova Iguaçú;RJ;BR 116;Frigorífico;São João;PR;Nova Iguaçú;RJ; R$ 104.332,80 ;Autônomo;Roubo
+2017-12-19;0:40;Guarujá;SP;Rua/Avenida;Eletrônicos;Santos;SP;Cajamar;SP; R$ 1.302.808,50 ;S/Comprovação;Roubo
+2017-12-19;19:00;Campos Altos;MG;BR 262 KM 580;Vidro;Guaratingueta;SP;Gioânia;GO; R$ 139.532,89 ;S/Comprovação;Tombamento
+2017-12-20;0:45;Bezerros;PE;BR 232;Frigorífico;Alvorada;TO;Nazaré da Mata;PE; R$ 142.496,72 ;Autônomo;Roubo
+2017-12-20;23:17;Pariquera Açu;SP;BR 116 Km 463;Bebidas;Ponta Grossa;PR;Jacareí;SP; R$ 124.106,73 ;Autônomo;Roubo
+2017-12-22;3:00;Boituva;SP;SP 280 Km 121;Óleo Comestível;Rondonópolis;MT;São Caetano do Sul;SP; R$ 103.119,00 ;Autônomo;Roubo
+2017-12-22;14:00;Guarulhos;SP;Rua/Avenida;Alumínio;Duque de Caxias;RJ;Mauá;SP; R$ 242.153,85 ;Autônomo;Roubo
+2017-12-22;19:00;Nova Venécia;ES;ES 130 Km 104;Café;Nova Venécia;ES;Natal;RN; R$ 397.565,91 ;S/Comprovação;Tombamento
+2017-12-22;20:00;Tucano;BA;BR 116 Km 295;Específicas;Serra;ES;Fortaleza;CE; R$ 464.998,00 ;S/Comprovação;Tombamento
+2017-12-24;0:01;Belém;PA;Balsa;Gerador;Campinas;SP;Boa Vista;RR; R$ 408.000,00 ;S/Comprovação;Tombamento
+2017-12-25;19:27;Conceição de Castelo;ES;ES 165 Km 130;Alimentício;Santa Maria de Jetiba;ES;Rio de Janeiro;RJ; R$ 118.940,00 ;Funcionário;Tombamento
+2017-12-25;23:14;Eunápolis;BA;BR 101;Alimentício;Louveira;SP;Bayeux;PB; R$ 372.329,18 ;Funcionário;Roubo
+2017-12-25;18:30;Mamanguape;PB;BR 101 KM 60;Hig/Limp/Cosm;Ipojuca;PE;Fortaleza;CE; R$ 295.023,99 ;S/Comprovação;Roubo
+2017-12-26;8:30;Piracicaba;SP;SP 308;Pneus;Paulínia;SP;Piracicaba;SP; R$ 235.208,75 ;Autônomo;Roubo
+2017-12-26;17:00;Caxias;MA;BR 116;Bebidas;Recife;PE;Caxias;MA; R$ 108.247,70 ;Autônomo;Desvio de Carga
+2017-12-27;23:00;Grajaú;MA;BR 226;Óleo Comestível;Itumbiara;GO;Parnaiba;PI; R$ 170.285,34 ;S/Comprovação;Roubo
+2017-12-27;12:25;Rio de Janeiro;RJ;Rua/Avenida;Maquinário;Jundiaí;SP;Diversos;ES; R$ 122.175,84 ;S/Comprovação;Roubo
+2017-12-28;6:00;Teófilo Otoni;MG;BR 116 Km 228;Alumínio;Pindamonhangaba;SP;Cabo de Santo Agostinho;PE; R$ 593.593,86 ;S/Comprovação;Avarias
+2017-12-29;20:00;Paulista;PE;BR 101;Hig/Limp/Cosm;Ipojuca;PE;Igarassu;PE; R$ 163.605,69 ;S/Comprovação;Roubo
+2017-12-29;1:30;São Paulo;SP;SP 015;Frigorífico;Aparecida do Taboado;MS;Santos;SP; R$ 369.389,10 ;Autônomo;Roubo
+2017-12-29;3:30;Santa Maria da Vitória;BA;BA 349;Fraldas;Goiânia;GO;Eunápolis;BA; R$ 172.789,23 ;Autônomo;Roubo
+2018-01-01;10:25;Tucano;BA;BR 116;Hig/Limp/Cosm;Ipojuca;PE;Pouso Alegre;MG; R$ 267.855,32 ;S/Comprovação;Tombamento
+2018-01-02;7:00;Itatiaia;RJ;BR 116 Km 311;Maquinário;Uberaba;MG;Itatiaia;RJ; R$ 1.020.000,00 ;S/Comprovação;Tombamento
+2018-01-03;5:00;São Gonçalo;RJ;BR 101;E-Commerce;Rio de Janeiro;RJ;Campo dos Goytacazes;RJ; R$ 165.896,57 ;Agregado;Roubo
+2018-01-04;21:52;Itaberaba;BA;BR 242 KM 88;Laticínios;Piranhas;GO;Lauro de Freitas;BA; R$ 241.664,80 ;Funcionário;Roubo
+2018-01-06;12:00;Pindamonhangaba;SP;Rua/Avenida;Alumínio;Pindamonhangaba;SP;Pindamonhangaba;SP; R$ 220.339,49 ;Autônomo;Furto
+2018-01-07;14:00;Sapucaia;RJ;BR 393 Km 121.3;Alumínio;Pinda;SP;Cabo de Santo Agostinho;PE; R$ 458.721,11 ;Autônomo;Tombamento
+2018-01-08;1:00;Três Rios;RJ;BR 393 KM 171;Alumínio;Cariacica;ES;Pindamonhangaba;SP; R$ 111.478,26 ;Autônomo;Roubo
+2018-01-09;13:48;Glorinha;RS;RS 030 Km 07;Bebidas;Ponta Grossa;PR;Porto Alegre;RS; R$ 106.947,44 ;S/Comprovação;Tombamento
+2018-01-10;13:30;Macaé;RJ;BR 101 Km 167;Hig/Limp/Cosm;Goiânia;GO;Fidélis;RJ; R$ 129.425,74 ;Autônomo;Roubo
+2018-01-10;20:37;Xinguara;PA;BR 155 Km 15;Frigorífico;Redenção;PA;Paragominas;PA; R$ 244.122,30 ;Autônomo;Tombamento
+2018-01-11;22:00;Mauá da Serra;PR;BR 376  ;Combustível;Rio Grande;RS;Sarandi;PR; R$ 109.456,88 ;Funcionário;Roubo
+2018-01-12;8:00;Palmares;PE;BR 101;E-Commerce;Recife;PE;Salvador;BA; R$ 550.140,39 ;Agregado;Roubo
+2018-01-12;3:24;Porto Feliz;SP;SP 280 KM 103;Pneus;Rio de Janeiro;RJ;JI-Paraná;RO; R$ 486.650,51 ;Autônomo;Roubo
+2018-01-13;23:00;São Bernardo do Campo;SP;Desvio;Café;Londrina;PR;Rio de Janeiro;RJ; R$ 101.880,00 ;Autônomo;Desvio de Carga
+2018-01-13;4:00;Francisco Sá;MG;BR 251 Km 412;Móveis;Barueri;SP;Salvador;BA; R$ 339.319,54 ;S/Comprovação;Colisão
+2018-01-14;6:30;Paraiso do Tocantins;TO;BR 153 KM 480;Tratores/Empilhadeiras;Serra;ES;Barcarena;PA; R$ 182.488,93 ;Funcionário;Roubo
+2018-01-14;8:47;Rio de Janeiro;RJ;BR 116 KM 167;Hig/Limp/Cosm;Pouso Alegre;MG;Rio de Janeiro;RJ; R$ 236.918,61 ;Autônomo;Roubo
+2018-01-14;22:30;Joinville;SC;BR 101 KM 25;Polímeros;Itajaí;SC;São Paulo;SP; R$ 171.806,25 ;Autônomo;Roubo
+2018-01-15;5:20;Monte Alegre de Minas;MG;BR 365 Km 670;Hig/Limp/Cosm;Louveira;SP;Itumbiara;GO; R$ 213.904,43 ;S/Comprovação;Colisão
+2018-01-16;3:10;Bofete;SP;SP 280 Km 176;Bebidas;Itu;SP;Araçatuba;SP; R$ 100.012,70 ;S/Comprovação;Tombamento
+2018-01-17;21:00;Patrocínio;MG;MG 230 Km 85;Café;Monte Carmelo;MG;Varginha;MG; R$ 217.118,16 ;Autônomo;Roubo
+2018-01-17;15:00;Caçapava;SP;BR 116 Km 131;Alumínio;Santos;SP;Pindamonhangaba;SP; R$ 113.145,41 ;Funcionário;Furto
+2018-01-18;1:00;Cambuí;MG;BR 381 Km 888;Aço/Ferro;Araquari;SC;Betim;MG; R$ 342.772,04 ;S/Comprovação;Roubo
+2018-01-18;21:15;Cajati;SP;BR 116 Km 511;Geral;Campo Largo;PR;Betim;MG; R$ 958.842,18 ;S/Comprovação;Incêndio
+2018-01-19;9:00;São Paulo;SP;BR 116;Alimentício;Jacareí;SP;Curitiba;PR; R$ 205.691,95 ;Funcionário;Roubo
+2018-01-19;10:00;São Paulo;SP;Rua/Avenida;Eletrônicos;São Paulo;SP;Louveira;SP; R$ 320.000,00 ;-;Roubo em Depósito
+2018-01-19;10:00;São Paulo;SP;Rua/Avenida;Eletrônicos;São Paulo;SP;Louveira;SP; R$ 160.000,00 ;-;Roubo em Depósito
+2018-01-19;19:15;Cabo de Santo Agostinho;PE;BR 101 Km 102;Óleo Lubrificante;Cabo de Santo Agostinho;PE;Caruaru;PE; R$ 299.656,45 ;S/Comprovação;Tombamento
+2018-01-19;13:00;Itambacuri;MG;BR 116 Km 308;Químico;Camaçari;BA;Arujá;SP; R$ 153.423,75 ;S/Comprovação;Tombamento
+2018-01-20;4:00;Alvorada;TO;BR 153 KM 752;Laticínios;Piranhas;GO;Belém;PA; R$ 303.479,68 ;Funcionário;Roubo
+2018-01-21;5:00;Itatiba;SP;SP 065 Km 95;Alumínio;São José Rio Preto;SP;Pindamonhangaba;SP; R$ 110.183,70 ;Autônomo;Roubo
+2018-01-21;11:59;Recife;PE;BR 101;Hig/Limp/Cosm;Ipojuca;PE;Natal;RN; R$ 192.116,43 ;S/Comprovação;Roubo
+2018-01-21;12:20;Campanário;MG;BR 116 Km 225.0;Alumínio;Teresina;PI;Pindamonhangaba;SP; R$ 515.405,72 ;S/Comprovação;Tombamento
+2018-01-22;11:33;Arujá;SP;BR 116 Km 196;Doces/Chocolate;Vila Velha;ES;Arujá;SP; R$ 180.114,47 ;Autônomo;Roubo
+2018-01-22;11:33;Arujá;SP;BR 116 Km 196;Doces/Chocolate;Vila Velha;ES;Arujá;SP; R$ 180.114,47 ;Autônomo;Roubo
+2018-01-23;6:51;Jundiaí;SP;SP 330 KM 51;Calçados;Louveira;SP;São Paulo;SP; R$ 110.639,90 ;Agregado;Roubo
+2018-01-24;10:30;Jacareí;SP;BR 116 Km 169;Alumínio;Pindamonhangaba;SP;Jacarei;SP; R$ 563.512,78 ;Funcionário;Roubo
+2018-01-24;3:04;Londrina;PR;BR 445;Sementes;Pinhais;PR;Andradina;PR; R$ 189.955,93 ;Autônomo;Roubo
+2018-01-25;2:46;Bambuí;MG;BR 354;Óleo Lubrificante;Duque de Caxias;RJ;Aparecida de Goiânia;GO; R$ 329.587,10 ;Agregado;Roubo
+2018-01-25;3:00;Pouso Alegre;MG;BR 381;Doces/Chocolate;Cordeiropolis;SP;Natal;RN; R$ 137.544,24 ;Autônomo;Roubo
+2018-01-25;20:20;Candido Sales;BA;BR 116;Combustível;Ipojuca;PE;Montes Claros;MG; R$ 195.101,70 ;S/Comprovação;Roubo
+2018-01-26;0:30;Palmas;PR;PR 280 Km 142;Frigorífico;São João;PR;Itapoá;SC; R$ 216.915,50 ;S/Comprovação;Tombamento
+2018-01-26;18:50;Rio de Janeiro;RJ;Rua/Avenida;Específicas;São João de Meriti;RJ;Rio de Janeiro;RJ; R$ 130.145,91 ;S/Comprovação;Roubo
+2018-01-27;14:30;Quatro Barras;PR;BR 116 Km 06;Frigorífico;Chapecó;SC;Rio de Janeiro;RJ; R$ 214.226,88 ;Autônomo;Roubo
+2018-01-27;15:00;Urandi;BA;BR 122 Km 851;Hig/Limp/Cosm;Cabreúva;SP;Simões Filho;BA; R$ 519.672,84 ;S/Comprovação;Tombamento
+2018-01-27;0:01;Santa Bárbara;MG;Rua/Avenida;Maquinário;João Monlevade;MG;Trombudo Central;SC; R$ 946.654,10 ;S/Comprovação;Tombamento
+2018-01-27;16:30;Jequié;BA;BR 116 Km 692;Químico;Camaçari;BA;Mauá;SP; R$ 247.442,42 ;Funcionário;Colisão
+2018-01-28;23:00;Três Corações;MG;BR 381 Km 744,9;Autopeças;Joinville;SC;Contagem;MG; R$ 291.312,09 ;Funcionário;Colisão
+2018-01-28;4:00;Itambacuri;MG;BR 251;Fraldas;Jaguariuna;SP;Fortaleza;CE; R$ 225.310,54 ;Autônomo;Roubo
+2018-01-28;17:06;Santa do Araguaia;GO;BR 362 Km 380;Frigorífico;Várzea Grande;MT;Santos;SP; R$ 382.536,00 ;S/Comprovação;Tombamento
+2018-01-29;5:30;Cosmópolis;SP;SP 133 Km 05;Combustível;Santos;SP;Paulínia;SP; R$ 106.686,13 ;Autônomo;Roubo
+2018-01-30;13:40;Suzano;SP;SP 021 Km 103;Frigorífico;Xaxim;SC;Rio de Janeiro;RJ; R$ 165.792,87 ;Funcionário;Roubo
+2018-01-30;13:40;Suzano;SP;SP 021 Km 103;Frigorífico;Chapecó;SC;Rio de Janeiro;RJ; R$ 191.209,98 ;Funcionário;Roubo
+2018-01-30;13:40;Suzano;SP;SP 021 Km 103;Laticínios;São José dos Pinhais;PR;Itaperuna;RJ; R$ 265.000,00 ;S/Comprovação;Roubo
+2018-01-30;22:00;Rio de Janeiro;RJ;Rua/Avenida;Calçados;Rio de Janeiro;RJ;Araruama;RJ; R$ 286.789,24 ;Autônomo;Roubo
+2018-01-31;17:30;Xexéu;PE;BR 101;Eletrodoméstico;Pato Branco;PR;Escada;PE; R$ 124.936,66 ;Autônomo;Roubo
+2018-01-31;9:40;Três Rios;RJ;BR 040 Km 25;Laticínios;Contagem;MG;Três Rios;RJ; R$ 303.332,72 ;S/Comprovação;Tombamento
+2018-01-31;5:27;Rio de Janeiro;RJ;BR 101;Confecção/Tecido/Fios;Rio de Janeiro;RJ;Rio de Janeiro;RJ; R$ 100.052,51 ;S/Comprovação;Roubo
+2018-02-01;11:30;Miracatu;SP;BR 116 Km 342;Alumínio;Itapevi;SP;Curitiba;PR; R$ 111.369,70 ;S/Comprovação;Tombamento
+2018-02-01;15:15;Campina Verde;MG;BR 364 Km 207;Alumínio;Pindamonhangaba;SP;Cuiabá;MT; R$ 476.844,99 ;S/Comprovação;Tombamento
+2018-02-02;13:15;Palmeira do Tocantins;TO;BR 226 Km 09;Confecção/Tecido/Fios;Castanhal;PA;Marialva;PR; R$ 251.448,46 ;S/Comprovação;Tombamento
+2018-02-02;4:30;Campinas;SP;SP 065;Aço/Ferro;Caxias do Sul;RS;Betim;MG; R$ 108.750,60 ;Autônomo;Roubo
+2018-02-03;16:00;São Gabriel do Oeste;MS;BR 163 Km 645,8;Defensivo Agrícola;Sumaré;SP;Cuiabá;MT; R$ 184.193,74 ;S/Comprovação;Tombamento
+2018-02-03;4:00;Nazaré Paulista;SP;SP 065 Km 68;Bebidas;Jacareí;SP;Trindade;GO; R$ 115.048,52 ;Autônomo;Roubo
+2018-02-04;18:00;Petrópolis;RJ;BR 040;Frigorífico;Araguaína;TO;Rio de Janeiro;RJ; R$ 286.696,82 ;Autônomo;Roubo
+2018-02-04;8:00;Alexânia;GO;BR 060 Km 37;Alimentício;Anápolis;GO;Iraquara;BA; R$ 120.484,00 ;Funcionário;Roubo
+2018-02-04;17:30;São Gonçalo do Rio Abaixo;MG;BR 381 Km 372.3;Autopeças;Lavras;MG;Goiania;PE; R$ 197.000,58 ;S/Comprovação;Colisão
+2018-02-05;1:30;Vitória da Conquista;BA;BR 116;Hig/Limp/Cosm;Vinhedo;SP;Ipojuca;PE; R$ 416.127,15 ;S/Comprovação;Roubo
+2018-02-06;7:30;São Paulo;SP;Rua/Avenida;Polímeros;Itajaí;SC;São Paulo;SP; R$ 157.946,25 ;S/Comprovação;Roubo
+2018-02-07;20:23;Arcos;MG;BR 354;Café;Monte Carmelo;MG;Varginha;MG; R$ 272.560,00 ;Autônomo;Roubo
+2018-02-07;22:00;Cocalinho;MT;MT 326;Bebidas;Anápolis;GO;Itaituba;PA; R$ 176.772,00 ;S/Comprovação;Tombamento
+2018-02-07;6:50;Jataí;GO;BR 040 Km 273;Frigorífico;Rolim de Moura;RO;Contagem;MG; R$ 209.484,97 ;S/Comprovação;Incêndio
+2018-02-08;18:00;Ribeirão Pires;SP;SP 021 Km 102;Polímeros;Cubatão;SP;Extrema;MG; R$ 105.686,15 ;S/Comprovação;Roubo
+2018-02-08;8:00;Rio de Janeiro;RJ;Rua/Avenida;Confecção/Tecido/Fios;Rio de Janeiro;RJ;Rio de Janeiro;RJ; R$ 105.159,56 ;Autônomo;Roubo
+2018-02-09;9:30;Santa Isabel;SP;BR 116 Km 189;Veículo;Juíz de Fora;MG;Mafra;SC; R$ 340.000,00 ;S/Comprovação;Roubo
+2018-02-09;8:00;Carmo da Cachoeira;MG;BR 381 Km 722;Eletrônicos;Guarulhos;SP;Fortaleza;CE; R$ 536.614,85 ;Autônomo;Tombamento
+2018-02-10;7:46;São João de Meriti;RJ;BR 116 Km 174;Frigorífico;Barretos;SP;São João de Meriti;RJ; R$ 410.000,00 ;S/Comprovação;Roubo
+2018-02-11;20:40;Porangaba;SP;SP 280 Km 160;Geral;Três Lagoas;MS;São Caetano do Sul;SP; R$ 104.360,35 ;Funcionário;Colisão
+2018-02-13;1:00;Diadema;SP;Rua/Avenida;Autopeças;Arujá;SP;Mogi das Cruzes;SP; R$ 321.110,94 ;S/Comprovação;Roubo
+2018-02-14;12:30;Paulínia;SP;SP 332 Km 119,4;Combustível;Santos;SP;Campo Grande;MS; R$ 116.143,57 ;Funcionário;Roubo
+2018-02-14;22:20;Caxias;MA;BR 316 Km 543;Específicas;Cabreúva;SP;Tresina;PI; R$ 140.356,53 ;S/Comprovação;Tombamento
+2018-02-14;18:00;Arujá;SP;BR 116;Alimentício;Itajaí;SC;Rio de Janeiro;RJ; R$ 359.100,00 ;Autônomo;Roubo
+2018-02-15;23:57;Escada;PE;BR 101 Km 133;Eletrônicos;Guarulhos;SP;Jaboatão dos Guararapes;PE; R$ 696.348,30 ;S/Comprovação;Roubo
+2018-02-15;15:20;Maracanau;CE;Rua/Avenida;Café;Londrina;PR;Maracanau;CE; R$ 142.500,00 ;S/Comprovação;Molhadura
+2018-02-15;21:00;Jacareí;SP;BR 116;Combustível;Barueri;SP;São José dos Campos;SP; R$ 100.316,25 ;Funcionário;Roubo
+2018-02-15;22:20;Campinas;SP;Rua/Avenida;Autopeças;Sumaré;SP;Campo Largo;PR; R$ 1.039.656,58 ;S/Comprovação;Roubo
+2018-02-18;20:08;Rio de Janeiro;RJ;Rua/Avenida;Eletrônicos;Jaraguá do Sul;SC;Rio de Janeiro;RJ; R$ 523.645,00 ;S/Comprovação;Roubo
+2018-02-18;21:30;São Sebastião;AL;BR 101;Hig/Limp/Cosm;Ipojuca;PE;Nossa Senhora do Socorro;SE; R$ 489.681,57 ;S/Comprovação;Roubo
+2018-02-19;2:00;Atibaia;SP;SP 065;Polímeros;Três Rios;RJ;Mauá;SP; R$ 150.150,00 ;S/Comprovação;Roubo
+2018-02-19;16:30;Jacareí;SP;BR 116;Tratores/Empilhadeiras;São José dos Campos;SP;Araucária;PR; R$ 320.094,41 ;Autônomo;Roubo
+2018-02-20;9:56;Rio de Janeiro;RJ;BR 101;Celulares;Galeão;RJ;Rio de Janeiro;RJ; R$ 171.221,40 ;S/Comprovação;Roubo
+2018-02-20;15:40;São Paulo;SP;SP 015;Fios/Cabos;Itajaí;SC;Três Lagos;MS; R$ 171.013,84 ;S/Comprovação;Roubo
+2018-02-21;23:00;Oliveira;MG;BR 381;Café;Nova Venécia;ES;Jundiaí;SP; R$ 276.370,00 ;S/Comprovação;Roubo
+2018-02-21;8:05;Campinas;SP;SP 083;Confecção/Tecido/Fios;Santos;SP;Mogi Mirim;SP; R$ 1.611.139,89 ;Funcionário;Roubo
+2018-02-21;3:40;Jacareí;SP;BR 116;Aço/Ferro;Volta Redonda;RJ;São Paulo;SP; R$ 121.651,84 ;S/Comprovação;Roubo
+2018-02-23;19:30;Mairipora;SP;BR 381  ;Autopeças;Campo Limpo Paulista;SP;Betim;MG; R$ 134.352,30 ;Autônomo;Roubo
+2018-02-24;14:34;Santo Antonio de Posse;SP;BR 340 Km 145;Laticínios;Bragança Paulista;SP;Domingos do Maranhão;MA; R$ 348.838,63 ;Autônomo;Roubo
+2018-02-27;18:40;São Paulo;SP;Rua/Avenida;Específicas;São Paulo;SP;Belo Horizonte;MG; R$ 297.571,32 ;Agregado;Roubo
+2018-02-28;12:00;São Paulo;SP;Rua/Avenida;Geral;São Paulo;SP;Nova Odessa;SP; R$ 105.393,75 ;S/Comprovação;Roubo
+2018-02-28;15:00;Marabá;PA;PA 160 Km 06;Alimentício;Lucena;PB;Marabá;PA; R$ 151.904,74 ;S/Comprovação;Tombamento
+2018-03-01;10:30;Embú das Artes;SP;SP 021;Alumínio;Viamão;RS;Pindamonhangaba;SP; R$ 168.200,49 ;Agregado;Roubo
+2018-03-01;17:40;Quata;SP;SP 284;Aço/Ferro;São Francisco do Sul;SC;Cuiabá;MT; R$ 191.753,52 ;Autônomo;Roubo
+2018-03-01;21:20;Pedra Azul;MG;BR 251 Km 222;Combustível;São Francisco do Conde;BA;Montes Claros;MG; R$ 126.250,50 ;Autônomo;Roubo
+2018-03-02;1:30;Lajes;RN;BR 304;Hig/Limp/Cosm;Ipojuca;PE;Caucaia;CE; R$ 169.665,89 ;S/Comprovação;Roubo
+2018-03-02;3:44;São José dos Pinhais;PR;BR 376 Km 464;Pescado;Laguna;SC;Diversos;CE; R$ 238.434,00 ;S/Comprovação;Roubo
+2018-03-02;5:00;Arujá;SP;BR 116 Km 201,8;Combustível;Lapa;PR;Vitória;ES; R$ 148.870,59 ;S/Comprovação;Roubo
+2018-03-03;21:00;Lauro de Freitas;BA;BR 324;Veículo;Lauro de Freitas;BA;Porto Velho;RO; R$ 179.000,00 ;Autônomo;Roubo
+2018-03-03;17:00;Ulianópolis;PA;BR 010 Km 78;Alumínio;Pindamonhangaba;SP;Manaus;AM; R$ 364.838,43 ;S/Comprovação;Queda
+2018-03-06;18:00;São Gonçalo;RJ;Rua/Avenida;Alimentício;São Gonçalo ;RJ;Rio de Janeiro;RJ; R$ 201.411,24 ;Agregado;Roubo
+2018-03-07;3:00;Atibaia;SP;SP 065 KM 74;Minério;NiqueLandia;GO;Charqueadas;RS; R$ 519.658,13 ;Autônomo;Roubo
+2018-03-07;6:50;Cosmópolis;SP;SP 332;Combustível;Paulínia;SP;Senador Canedo;GO; R$ 177.204,75 ;S/Comprovação;Roubo
+2018-03-08;19:00;Itatiba;SP;SP 065 Km 104,5;Polímeros;Paulínia;SP;Camaçari;BA; R$ 109.301,06 ;S/Comprovação;Roubo
+2018-03-08;3:30;Barueri;SP;SP 280 Km 23;Medicamento;Itajaí;SC;Itapevi;SP; R$ 1.518.010,00 ;S/Comprovação;Colisão
+2018-03-08;4:49;Limeira;SP;Rua/Avenida;Combustível;Paulínia;SP;Presidente Prudente;SP; R$ 149.644,00 ;Autônomo;Roubo
+2018-03-09;13:47;Valença;BA;BR 101;Café;Eunápolis;BA;Eusébio;CE; R$ 215.910,00 ;Agregado;Roubo
+2018-03-09;17:00;Sapucaia;ES;Desvio;Café;Sapucaia;ES;Araçariguama;SP; R$ 184.660,00 ;Autônomo;Desvio de Carga
+2018-03-10;0:21;Jaboatão dos Guararapes;PE;BR 101;Alimentício;Eusébio;CE;Arapiraca;AL; R$ 152.817,00 ;Autônomo;Roubo
+2018-03-10;9:50;Engenheiro Navarro;MG;BR 135 Km 440;Específicas;Guarulhos;SP;Vitória da Conquista;BA; R$ 689.308,00 ;S/Comprovação;Tombamento
+2018-03-12;5:10;Canoas;RS;BR 116;Eletrônicos;Porto Alegre;RS;Caxias do Sul;RS; R$ 435.373,48 ;Autônomo;Roubo
+2018-03-14;15:00;Canápolis;MG;BR 153 KM 44;Frigorífico;Goianira;GO;Joinville;SC; R$ 209.000,00 ;Funcionário;Roubo
+2018-03-14;12:00;Guaratingueta;SP;BR 116 Km 57;Alumínio;Anápolis;GO;Itaquaquecetuba;SP; R$ 133.289,70 ;Autônomo;Roubo
+2018-03-15;5:00;Itaguara;MG;BR 381 KM 554;Aço/Ferro;Ouro Branco;MG;Santa Luiza;MG; R$ 119.306,52 ;S/Comprovação;Roubo
+2018-03-15;0:45;São Sebastião da Bela Vista;MG;BR 381 Km 838;Eletrônicos;Guarulhos;SP;Belo Horizonte;MG; R$ 448.651,79 ;Agregado;Roubo
+2018-03-16;18:00;Monte Alegre de Minas;MG;BR 153 Km 58;Laticínios;Guarulhos;SP;São Luis;MA; R$ 343.452,20 ;Autônomo;Roubo
+2018-03-16;16:30;Campina Grande do Sul;PR;BR 116 Km 28;Específicas;Blumenau;SC;Duque de Caxias;RJ; R$ 655.646,31 ;S/Comprovação;Tombamento
+2018-03-16;0:20;Guarulhos;SP;BR 116 Km 210;Autopeças;Caixas do Sul;RS;Bom Jesus do Norte;ES; R$ 259.381,83 ;Autônomo;Roubo
+2018-03-19;4:20;São Simão;SP;SP 330 Km 283;Alumínio;Pindamonhangaba;SP;Manaus;AM; R$ 399.695,84 ;Autônomo;Roubo
+2018-03-19;21:00;Jaraguá;GO;BR 153;Confecção/Tecido/Fios;Aparecida de Goiânia;GO;Palmas;TO; R$ 274.653,13 ;Agregado;Roubo
+2018-03-20;13:45;Vacaria;RS;RS 122 Km 167;Autopeças;Caixas do Sul;RS;Resende;RJ; R$ 417.342,02 ;S/Comprovação;Tombamento
+2018-03-21;0:20;Santa Bárbara d' Oeste;SP;SP 348 Km 125;Combustível;Américo Brasiliense;SP;Mauá;SP; R$ 118.979,54 ;S/Comprovação;Roubo
+2018-03-21;2:00;São José dos Pinhais;PR;BR 376;Pescado;Valparaíso de Goiás;GO;Itajaí;SC; R$ 258.719,00 ;Agregado;Roubo
+2018-03-21;16:20;Oliveira;MG;BR 381;Eletrônicos;Cajamar;SP;Contagem;MG; R$ 223.322,75 ;S/Comprovação;Roubo
+2018-03-21;0:01;Palmas;TO;Rua/Avenida;Medicamento;Catalão;GO;Palmas;TO; R$ 255.180,00 ;S/Comprovação;Avarias
+2018-03-22;12:40;Montes Claros;MG;BR 251 KM 521,8;Laticínios;Araras;SP;Feira de Santana;BA; R$ 150.623,20 ;S/Comprovação;Incêndio
+2018-03-22;22:02;São Simão;SP;SP 330 Km 264;Combustível;São Paulo;SP;Ribeirão Preto;SP; R$ 117.548,99 ;Autônomo;Roubo
+2018-03-22;11:30;Diadema;SP;Rua/Avenida;Polímeros;Guarujá;SP;Diadema;SP; R$ 161.508,60 ;S/Comprovação;Roubo
+2018-03-23;2:48;Francisco Sá;MG;BR 251 Km 477;Específicas;Guarulhos;SP;Conde;PB; R$ 303.087,20 ;Autônomo;Roubo
+2018-03-25;19:00;Careaçu;MG;BR 381;Hig/Limp/Cosm;Pouso Alegre;MG;Caratinga;MG; R$ 425.852,18 ;S/Comprovação;Colisão
+2018-03-26;11:00;Curitiba;PR;BR 376;Combustível;Paranaguá;PR;Araucária;PR; R$ 115.005,80 ;Autônomo;Roubo
+2018-03-26;1:15;Itapecerica da Serra;SP;BR 116 Km 27;Alimentício;Navagantes;SC;Diversos;MG; R$ 411.042,61 ;Autônomo;Roubo
+2018-03-26;12:15;Bituruna;PR;PR 170 Km 469;Aves;Santo Antônio do Paraíso;PR;Faxinal dos Guedes;SC; R$ 102.060,00 ;S/Comprovação;Tombamento
+2018-03-26;13:40;Pirajuba;MG;MG 810 KM 7;Eletrônicos;Guarulhos;SP;Ipameri;GO; R$ 790.789,20 ;Agregado;Roubo
+2018-03-26;18:30;Rio de Janeiro;RJ;BR 101;Hig/Limp/Cosm;Pouso Alegre;MG;Rio de Janeiro;RJ; R$ 113.042,77 ;Funcionário;Roubo
+2018-03-26;18:00;Carmópolis de Minas;MG;BR 381 Km 583;Geral;Orlens;SC;Eusébio;CE; R$ 399.946,00 ;Funcionário;Fraude
+2018-03-26;21:30;Oliveira;MG;BR 381 Km 617;Geral;Orlens;SC;Juzeiro do Norte;CE; R$ 399.946,00 ;Funcionário;Fraude
+2018-03-26;20:30;Carmópolis de Minas;MG;BR 381;Geral;Orlens;SC;Juzeiro do Norte;CE; R$ 399.946,00 ;Funcionário;Fraude
+2018-03-26;21:00;Jaguara;SP;SP 015;Específicas;Osasco;SP;São Paulo;SP; R$ 153.941,29 ;S/Comprovação;Roubo
+2018-03-27;4:30;Atibaia;SP;BR 381;Polímeros;Marechal Deodoro;AL;Guarulhos;SP; R$ 132.933,31 ;S/Comprovação;Roubo
+2018-03-27;3:00;Campina Grande do Sul;PR;BR 116;Aço/Ferro;Timóteo;MG;Jaraguá do Sul;SC; R$ 162.815,03 ;S/Comprovação;Roubo
+2018-03-27;16:00;Água Preta;PE;BR 101 Km 168;Alumínio;Pindamonhangaba;SP;Cabo de Santo Agostinho;PE; R$ 661.868,88 ;S/Comprovação;Incêndio
+2018-03-28;23:45;Bayeux;PB;BR 101;Hig/Limp/Cosm;Ipojuca;PE;Mossoró;RN; R$ 132.515,61 ;S/Comprovação;Roubo
+2018-03-28;0:34;Tangua;RJ;BR 101;Específicas;Itaperuna;RJ;Rio de Janeiro;RJ; R$ 231.306,62 ;Funcionário;Roubo
+2018-03-28;2:15;Oliveira;MG;BR 381 Km 640;Geral;Orlens;SC;Salvador;BA; R$ 399.635,00 ;Funcionário;Fraude
+2018-03-28;3:00;Oliveira;MG;BR 381 Km 623;Geral;Orlens;SC;Salvador;BA; R$ 399.635,00 ;Funcionário;Fraude
+2018-03-29;21:09;Juquitiba;SP;SP 230 KM 321;Laticínios;Aceguá;RS;Itapevi;SP; R$ 275.040,00 ;Autônomo;Roubo
+2018-03-31;15:00;Jacareí;SP;BR 116;Bebidas;Rio Claro;SP;Jacarei;SP; R$ 121.763,57 ;Autônomo;Roubo
+2018-04-01;18:48;Perdizes;MG;BR 262 KM 731;Celulares;Taubaté;SP;Araxa;MG; R$ 745.159,68 ;Agregado;Roubo
+2018-04-01;7:00;João Pinheiro;MG;BR 365 Km 323;Alimentício;Antonina;PR;Fortaleza;CE; R$ 128.788,00 ;S/Comprovação;Tombamento
+2018-04-01;16:30;Campina Grande do Sul;PR;BR 116 Km 444;Geral;Orlens;SC;Arujá;SP; R$ 399.944,70 ;Funcionário;Fraude
+2018-04-01;16:30;Jacupiranga;SP;BR 116;Geral;Orlens;SC;São Paulo;SP; R$ 399.944,70 ;Funcionário;Fraude
+2018-04-01;19:30;Cajati;SP;BR 116 Km 505 ou 506 ;Geral;Orlens;SC;Santa Inês;MA; R$ 399.968,50 ;Funcionário;Fraude
+2018-04-01;20:30;Cajati;SP;BR 116 Km 521;Geral;Orlens;SC;Belém;PA; R$ 399.968,50 ;Funcionário;Fraude
+2018-04-01;19:30;Antonina;PR;BR 116 Km 544;Geral;Orlens;SC;São Luis;MA; R$ 399.968,50 ;Funcionário;Fraude
+2018-04-02;17:00;Rio de Janeiro;RJ;Rua/Avenida;Alimentício;Pouso Alegre;MG;Rio de Janeiro;RJ; R$ 200.553,31 ;S/Comprovação;Roubo
+2018-04-02;19:24;João Pessoa;PB;BR 101 KM 92;Hig/Limp/Cosm;Ipojuca;PE;João Pessoa;PB; R$ 179.306,40 ;S/Comprovação;Roubo
+2018-04-03;15:51;Rio Claro;SP;SP 310 KM 167;Químico;Matão;SP;Cubatão;SP; R$ 2.001.412,00 ;S/Comprovação;Roubo
+2018-04-03;11:00;São Carlos;SP;Rua/Avenida;Laticínios;Terra Nova do Norte;MT;São Carlos;SP; R$ 269.202,91 ;Autônomo;Roubo
+2018-04-04;18:45;Rio de Janeiro;RJ;BR 101;Confecção/Tecido/Fios;Duque de Caxias;RJ;Rio de Janeiro;RJ; R$ 134.692,62 ;Autônomo;Roubo
+2018-04-05;6:53;Cajamar;SP;SP 330 KM 34;Eletrônicos;Santos;SP;Cajamar;SP; R$ 2.262.870,65 ;Funcionário;Roubo
+2018-04-05;0:24;Pouso Alegre;MG;BR 381 Km 867;Combustível;Santos;SP;Betim;MG; R$ 267.209,36 ;Funcionário;Roubo
+2018-04-05;2:00;Tanguá;RJ;BR 101;Específicas;Guarulhos;SP;Viana;ES; R$ 164.962,19 ;Autônomo;Roubo
+2018-04-05;11:30;Jaboatão dos Guararapes;PE;BR 101;Alimentício;Jaboatão dos Guararapes;PE;Jaboatão dos Guararapes;PE; R$ 106.561,30 ;S/Comprovação;Roubo
+2018-04-05;18:30;Atibaia;SP;BR 381;Alumínio;São Bernardo do Campo;SP;Lagoa Grande;MG; R$ 249.628,19 ;Autônomo;Roubo
+2018-04-05;19:00;Uberaba;MG;BR 262;Café;Patrocínio;MG;Araras;SP; R$ 284.465,00 ;Agregado;Roubo
+2018-04-06;4:50;Limeira;SP;SP 330 KM 135;Eletrônicos;Cajamar;SP;Ribeirão Preto;SP; R$ 807.669,24 ;Funcionário;Roubo
+2018-04-06;21:05;Ribeirão Pires;SP;SP 021 Km 97;Frigorífico;Janaúba;MG;Santos;SP; R$ 754.557,13 ;Autônomo;Roubo
+2018-04-06;23:00;São Paulo;SP;Rua/Avenida;Papel;Limeira;SP;Cabo de Santo Agostinho;PE; R$ 101.278,58 ;-;Roubo
+2018-04-07;3:00;São Francisco de Paula;RS;RS 453;Alimentício;Caixas do Sul;RS;Brasilia;DF; R$ 105.560,00 ;Autônomo;Roubo
+2018-04-07;20:17;Lavrinhas;SP;BR 116;Hig/Limp/Cosm;Linhares;ES;Avaré;SP; R$ 195.025,00 ;Autônomo;Roubo
+2018-04-07;15:40;Guaruva;SC;BR 376 Km 666;Bebidas;Itapevi;SP;Porto Alegre;RS; R$ 103.051,74 ;S/Comprovação;Tombamento
+2018-04-07;6:10;São Paulo;SP;SP 330 Km 24 ;Alumínio;São Bernardo do Campo;SP;Nova Roma;GO; R$ 246.664,47 ;Autônomo;Roubo
+2018-04-07;15:10;Rondon do Pará;PA;BR 222 Km 70;Frigorífico;Santa Izabel do Pará;PA;Altamira;PA; R$ 108.000,00 ;S/Comprovação;Colisão
+2018-04-08;18:00;Macaíba;RN;BR 304 KM 286;Hig/Limp/Cosm;Ipojuca;PE;Caucaia;CE; R$ 360.081,51 ;Agregado;Roubo
+2018-04-08;20:20;Gaspar;SC;SC 470 Km 32;Frigorífico;Guatambu;SC;Itajaí;SC; R$ 109.835,75 ;Funcionário;Roubo
+2018-04-09;9:00;Mauá;SP;SP 021;Frigorífico;Guia Lopes da Laguna;MS;Santo André;SP; R$ 151.018,00 ;S/Comprovação;Roubo
+2018-04-09;3:15;Garuva;SC;SC 415;Confecção/Tecido/Fios;Itapóa;SC;São José;SC; R$ 460.541,93 ;S/Comprovação;Roubo
+2018-04-09;21:00;Tijucas do Sul;PR;BR 376 Km 670;Geral;Joinville;SC;Curitiba;PR; R$ 201.019,15 ;S/Comprovação;Avarias
+2018-04-10;15:30;Belém de São Francisco;PE;BR 116 KM 90,3;Alimentício;Louveira;SP;Fortaleza;CE; R$ 184.535,87 ;S/Comprovação;Roubo
+2018-04-10;0:40;Campo Largo;PR;BR 277 Km 123;Confecção/Tecido/Fios;Itajaí;SC;São Paulo;SP; R$ 283.293,83 ;Funcionário;Roubo
+2018-04-10;20:00;São José dos Campos;SP;BR 116 KM 157;Doces/Chocolate;Caçapava;SP;Cordeiropolis;SP; R$ 430.642,22 ;Autônomo;Roubo
+2018-04-10;15:30;Belém de São Francisco;PE;BR 116 KM 90,3;Hig/Limp/Cosm;Louveira;SP;Fortaleza;CE; R$ 552.394,93 ;Funcionário;Roubo
+2018-04-11;1:00;Santa Bárbara d' Oeste;SP;SP 348 Km 125;Polímeros;Santo André;SP;Belém;PA; R$ 174.255,96 ;Funcionário;Roubo
+2018-04-11;21:00;Campinas;SP;Rua/Avenida;Ofalmologicos;Campinas;SP;Campinas;SP; R$ 849.905,42 ;Funcionário;Roubo
+2018-04-11;5:50;Jundiaí;SP;SP 348 Km 54;Autopeças;Guarujá;SP;Piracicaba;SP; R$ 403.716,15 ;S/Comprovação;Tombamento
+2018-04-12;3:30;Pariquera Açu;SP;BR 116 ;Cobre;Joinville;SC;Sorocaba;SP; R$ 1.099.108,09 ;S/Comprovação;Roubo
+2018-04-12;4:16;Piracanjuba;GO;GO 020 Km 52;Medicamento;Aparecida de Goiânia;GO;Catalão;GO; R$ 139.794,74 ;S/Comprovação;Roubo
+2018-04-12;4:16;Piracanjuba;GO;GO 020 Km 52;Medicamento;Aparecida de Goiânia;GO;Catalão;GO; R$ 523.761,47 ;S/Comprovação;Roubo
+2018-04-13;5:00;Cordeirópolis;SP;SP 330;Alimentício;Uberlândia;MG;Guarulhos;SP; R$ 278.022,33 ;Autônomo;Roubo
+2018-04-14;16:40;Cachoeira do Pajeú;MG;BR 116;Calçados;Louveira;SP;Diversos;PE; R$ 947.035,55 ;Funcionário;Roubo
+2018-04-15;16:00;Jacareí;SP;BR 116;Pneus;Jaboatão dos Guararapes;PE;Mauá;SP; R$ 360.450,80 ;Funcionário;Roubo
+2018-04-16;18:30;Atibaia;SP;BR 381;Laticínios;Novo Oriente de Minas;MG;Nonoai;RS; R$ 252.800,00 ;Autônomo;Roubo
+2018-04-17;3:30;Socorro;SP;SP 008;Confecção/Tecido/Fios;Águas de Lindóia;SP;Barueri;SP; R$ 195.109,68 ;Funcionário;Roubo
+2018-04-18;17:30;Varginha;MG;BR 491 Km 237;Café;Varginha;MG;Itamogi;MG; R$ 226.525,00 ;S/Comprovação;Tombamento
+2018-04-18;3:00;São José dos Pinhais;PR;BR 376 Km 624;Medicamento;Itajaí;SC;Curitiba;PR; R$ 210.693,37 ;Agregado;Roubo
+2018-04-18;14:26;Campinas;SP;SP 330 Km 86;Específicas;Campinas;SP;Itupeva;SP; R$ 371.152,04 ;Funcionário;Roubo
+2018-04-18;4:00;Caieiras;SP;SP 348 KM 38;Autopeças;Diversos;SP;Diversos;PR; R$ 647.606,04 ;Agregado;Roubo
+2018-04-19;8:00;Teófilo Otoni;MG;BR 116 Km 257;Específicas;Guarulhos;SP;Aracaju;SE; R$ 438.016,79 ;S/Comprovação;Tombamento
+2018-04-19;15:00;São Paulo;SP;SP 021;Confecção/Tecido/Fios;Santos;SP;Taubaté;SP; R$ 311.425,64 ;S/Comprovação;Roubo
+2018-04-20;18:02;Perus;SP;SP 330 Km 23;Frigorífico;São Paulo;SP;Santos;SP; R$ 687.858,21 ;Funcionário;Roubo
+2018-04-23;20:15;Vinhedo;SP;Rua/Avenida;Hig/Limp/Cosm;Vinhedo;SP;Louveira;SP; R$ 413.854,92 ;S/Comprovação;Roubo em Depósito
+2018-04-24;11:30;Saloá;PE;BR 423;Frigorífico;Itaboraí;RJ;Surubim;PE; R$ 270.000,00 ;Funcionário;Roubo
+2018-04-24;23:00;Moreno;PE;BR 232;Alimentício;Glória do Goitá;PE;Jaboatão dos Guararapes;PE; R$ 116.737,95 ;Autônomo;Roubo
+2018-04-24;20:55;Vinhedo;SP;Rua/Avenida;Hig/Limp/Cosm;Vinhedo;SP;Louveira;SP; R$ 404.388,74 ;S/Comprovação;Roubo em Depósito
+2018-04-24;23:30;Mairiporã;SP;BR 381 Km 68;Específicas;Sorocaba;SP;Salvador;BA; R$ 184.888,96 ;S/Comprovação;Tombamento
+2018-04-25;4:30;Araminas;SP;SP 330 Km 431;Específicas;Guarulhos;SP;Diversos;MA; R$ 622.582,38 ;Autônomo;Roubo
+2018-04-25;19:20;Santa Cruz de Salinas;MG;BR 251 Km 250;Hig/Limp/Cosm;Louveira;SP;Jaboatão dos Guararapes;PE; R$ 625.971,12 ;S/Comprovação;Roubo
+2018-04-25;1:15;Rio Largo;AL;BR 101 Km 90,1;Específicas;Moji Mirim;SP;Goiania;PE; R$ 188.247,26 ;S/Comprovação;Tombamento
+2018-04-26;5:23;Rio de Janeiro;RJ;BR 116;Confecção/Tecido/Fios;Duque de Caxias;RJ;Diversos;RJ; R$ 110.227,84 ;Autônomo;Roubo
+2018-04-26;0:40;Xexéu;PE;BR 101 KM 203;Hig/Limp/Cosm;Ipojuca;PE;Salvador;BA; R$ 199.695,87 ;Agregado;Roubo
+2018-04-27;6:47;Atibaia;SP;SP 065 KM 31;Celulares;Taubaté;SP;Araçariguama;SP; R$ 316.827,00 ;S/Comprovação;Roubo
+2018-04-27;7:30;Rio de Janeiro;RJ;Rua/Avenida;Específicas;São João de Meriti;RJ;Rio de Janeiro;RJ; R$ 189.130,22 ;S/Comprovação;Roubo
+2018-04-28;8:33;Ribeirão Preto;SP;Rua/Avenida;Frigorífico;São Bernardo do Campo;SP;São José do Rio Preto;SP; R$ 139.794,74 ;S/Comprovação;Incêndio
+2018-04-29;18:20;Rafael Jambeiro;BA;BR 116;Específicas;Santos;SP;Salvador;BA; R$ 200.466,37 ;Autônomo;Roubo
+2018-05-01;22:08;Barra do Turvo;SP;BR 116 Km 02 ;Específicas;Joinville;SC;Guarulhos;SP; R$ 475.007,15 ;Agregado;Roubo
+2018-05-01;10:45;Demerval Lobão;PI;BR 316 Km 50;Alumínio;Pindamonhangaba;SP;Teresina;PI; R$ 537.459,97 ;S/Comprovação;Avarias
+2018-05-05;15:40;São José dos Campos;SP;BR 116 KM 145;Veículo;Araucária;PR;Cariacica;ES; R$ 204.542,00 ;S/Comprovação;Roubo
+2018-05-06;22:40;Carolina;MA;BR 010;Laticínios;Bela Vista de Goias;GO;São Luiz;MA; R$ 108.779,80 ;Autônomo;Roubo
+2018-05-07;23:00;Entre Rios;BA;BR 101;Confecção/Tecido/Fios;Rio de Janeiro;RJ;Arapiraca;AL; R$ 544.496,42 ;S/Comprovação;Roubo
+2018-05-08;22:30;Campina Grande do Sul;PR;BR 116;Laticínios;Barracão;PR;São Paulo;SP; R$ 229.346,50 ;Autônomo;Roubo
+2018-05-09;23:30;Itaguara;MG;BR 381 KM 577;Hig/Limp/Cosm;Pouso Alegre;MG;Contagem;MG; R$ 624.077,01 ;S/Comprovação;Tombamento
+2018-05-09;20:50;São Paulo;SP;Rua/Avenida;Frigorífico;São Geraldo do Araguaia;PA;Osasco;SP; R$ 147.636,04 ;Autônomo;Roubo
+2018-05-09;21:25;Bragança Paulista;SP;BR 381;Café;Vila Valério;ES;Jundiaí;SP; R$ 187.500,00 ;Autônomo;Roubo
+2018-05-09;22:05;Ortigueira;PR;BR 376 Km 346;Frigorífico;Maringá;PR;Paranaguá;PR; R$ 495.766,80 ;S/Comprovação;Tombamento
+2018-05-09;20:00;Extrema;MG;BR 381 Km 948;Polímeros;Cubatão;SP;Extrema;MG; R$ 113.011,03 ;S/Comprovação;Roubo
+2018-05-10;18:02;Monte Carmelo;MG;MG 223;Café;Monte Carmelo;MG;Varginha;MG; R$ 163.280,64 ;Funcionário;Roubo
+2018-05-10;22:30;Jundiaí;SP;BR 348 Km 68,5;Combustível;Santos;SP;Paulínia;SP; R$ 126.520,28 ;S/Comprovação;Roubo
+2018-05-11;7:21;Itaquaquecetuba;SP;Rua/Avenida;Confecção/Tecido/Fios;Itaquaquecetuba;SP;São Paulo;SP; R$ 153.871,13 ;S/Comprovação;Roubo
+2018-05-11;19:45;Lamarão;BA;BR 116 Km 371;Específicas;Maracanaú;CE;Viana;ES; R$ 665.535,29 ;S/Comprovação;Tombamento
+2018-05-11;11:00;Contagem;MG;Transporte;Alimentício;Taboão da Serra;SP;Contagem;MG; R$ 181.413,95 ;S/Comprovação;Variação de Temperatura
+2018-05-13;11:25;Jaguaribe;CE;BR 116 Km 330;Confecção/Tecido/Fios;Rio de Janeiro;RJ;Fortaleza;CE; R$ 361.789,82 ;Agregado;Roubo
+2018-05-13;16:46;Itapecerica da Serra;SP;BR 116;Laticínios;Esperança;RS;Diversos;SP; R$ 147.660,03 ;Autônomo;Roubo
+2018-05-14;9:18;Osasco;SP;SP 021;Medicamento;Barueri;SP;Osasco;SP; R$ 465.663,75 ;S/Comprovação;Roubo
+2018-05-15;8:30;Pedra Preta;MT;BR 364;Tratores/Empilhadeiras;Piracicaba;SP;Pontes de Lacerda;MT; R$ 476.847,04 ;S/Comprovação;Roubo
+2018-05-16;22:00;Jundiaí;SP;SP 360;Material Construção;Diversos;SP;Estiva;MG; R$ 126.837,31 ;Autônomo;Roubo
+2018-05-17;5:30;Orlândia;SP;SP 330;Café;Araguari;MG;Bom Jesus;RS; R$ 245.455,00 ;Autônomo;Roubo
+2018-05-17;8:00;Parelheiros;SP;SP 021;Veículo;São Bernardo do Campo;SP;Ponta Grossa;PR; R$ 343.200,00 ;S/Comprovação;Roubo
+2018-05-17;3:00;Cambuí;MG;BR 381 Km 888,7;Autopeças;Limeira;SP;Goiana;PR; R$ 779.369,17 ;S/Comprovação;Tombamento
+2018-05-18;22:00;Porto Franco;MA;BR 010 Km 125,6;Café;Londrina;PR;Manaus;AM; R$ 253.110,00 ;Autônomo;Roubo
+2018-05-18;18:20;São Lourenço da Serra;SP;BR 116;Polímeros;Duque de Caxias;RJ;Rio Negro;PR; R$ 163.012,50 ;S/Comprovação;Roubo
+2018-05-20;16:00;Barra Velha;SC;BR 101;Pescado;Navegantes;SC;Rio de Janeiro;RJ; R$ 477.000,00 ;S/Comprovação;Roubo
+2018-05-20;18:00;Queluz;SP;BR 116 Km 30;Café;Mogi Mirim;MG;Santos;SP; R$ 333.947,37 ;Autônomo;Roubo
+2018-05-21;0:01;Cabo de Santo Agostinho;PE;Transporte;Frigorífico;Brasilia;DF;Belo Horizonte;MG; R$ 176.179,02 ;S/Comprovação;Greve
+2018-05-22;14:17;São Paulo;SP;Rua/Avenida;Confecção/Tecido/Fios;Santa Barbara do Oeste;SP;São Paulo;SP; R$ 415.768,06 ;S/Comprovação;Roubo
+2018-05-22;22:26;Angicos;RN;BR 304;Específicas;Jaboatão dos Guararapes;PE;Fortaleza;CE; R$ 479.745,58 ;Agregado;Roubo
+2018-05-22;0:01;Cabo de Santo Agostinho;PE;Transporte;Frigorífico;Brasilia;DF;Palmas;TO; R$ 173.499,89 ;S/Comprovação;Greve
+2018-05-23;18:15;Rio de Janeiro;RJ;BR 101;Computador/Tablet;Rio de Janeiro;RJ;Jundiaí;SP; R$ 266.915,10 ;Funcionário;Roubo
+2018-05-30;17:00;Osasco;SP;Transporte;Laticínios;São jose dos Campos;SP;Osasco;SP; R$ 105.580,51 ;S/Comprovação;Greve
+2018-05-30;2:10;São Paulo;SP;Rua/Avenida;Alumínio;Barueri;SP;Rio de Janeiro;RJ; R$ 150.748,00 ;Autônomo;Roubo
+2018-05-30;15:00;Chapecó;SC;Rua/Avenida;Frigorífico;Joaçaba;SC;Chapecó;SC; R$ 126.473,77 ;S/Comprovação;Variação de Temperatura
+2018-05-31;13:15;Escada;PE;BR 101 KM 186;Hig/Limp/Cosm;Ipojuca;PE;Nossa Senhora do Socorro;SE; R$ 360.348,00 ;S/Comprovação;Roubo
+2018-05-31;14:36;Nova Santa Rita;RS;BR 386 Km 417;Laticínios;Teutonia;RS;Duque de Caxias;RJ; R$ 114.672,93 ;S/Comprovação;Tombamento
+2018-05-31;19:00;Area Branca dos Assis;PR;BR 116;Veículo;Curitiba;PR;Lageado;RS; R$ 363.000,00 ;S/Comprovação;Colisão
+2018-06-02;21:50;Rosário Oeste;MT;BR 163 ;Geral;Cuiabá;MT;Peixoto de Azevedo;MT; R$ 146.595,60 ;Autônomo;Roubo
+2018-06-03;17:00;Blumenau;SC;SC 108 Km 59.35 ;Específicas;Blumenau;SC;São Paulo;SP; R$ 346.057,10 ;S/Comprovação;Tombamento
+2018-06-04;20:00;Maurilândia;GO;BR 452;Frigorífico;Jataí;GO;Rio de Janeiro;RJ; R$ 281.375,00 ;Autônomo;Roubo
+2018-06-04;0:05;Barueri;SP;SP 280;Medicamento;Barueri;SP;Diversos;SP; R$ 350.000,00 ;S/Comprovação;Roubo
+2018-06-04;21:00;Cafeara;PR;Desvio;Alumínio;Itaquaquecetuba;SP;Urussanga;SC; R$ 306.800,00 ;Autônomo;Roubo
+2018-06-05;3:02;Araçariguama;SP;SP 280 Km 44;E-Commerce;Barueri;SP;Lençóis Paulista;SP; R$ 166.168,62 ;Agregado;Roubo
+2018-06-05;7:00;Cocalzinho de Goiás;GO;BR 414;Frigorífico;São Geraldo do Araguaia;PA;Rio de Janeiro;RJ; R$ 238.273,91 ;Autônomo;Roubo
+2018-06-05;19:50;São José do Belmonte;PE;BR 232;Alimentício;Recife;PE;Francisco Santos;PI; R$ 120.154,86 ;Autônomo;Roubo
+2018-06-05;19:20;Nova Odessa;SP;SP 330 KM 117;Frigorífico;Mirassol do Oeste;MT;Cariacica;ES; R$ 336.010,93 ;Autônomo;Roubo
+2018-06-06;11:30;Pindamonhangaba;SP;BR 116 Km 88;Veículo;São Bernardo do Campo;SP;Nova Iguaçú;RJ; R$ 180.390,00 ;Agregado;Roubo
+2018-06-06;4:49;Rio de Janeiro;RJ;BR 101;E-Commerce;Seropédica;RJ;Rio de Janeiro;RJ; R$ 332.107,14 ;Autônomo;Roubo
+2018-06-06;2:03;Jundiaí;SP;SP 348;Alumínio;São Bernardo do Campo;SP;Monte Alegre de Goiás;GO; R$ 263.520,81 ;Autônomo;Roubo
+2018-06-07;20:10;Tijucas do Sul;PR;BR 101;Bebidas;Ponta Grossa;PR;Biguaçu;SC; R$ 133.161,29 ;Funcionário;Roubo
+2018-06-07;13:57;Córrego Dantas;MG;BR 354;Café;Araguari;MG;Varginha;MG; R$ 415.709,08 ;Autônomo;Roubo
+2018-06-08;8:00;Manaus;AM;Rua/Avenida;Alumínio;Pindamonhangaba;SP;Manaus;AM; R$ 377.495,39 ;S/Comprovação;Avarias
+2018-06-08;20:00;Jaguaquara;BA;BR 116;Doces/Chocolate;Rio Claro;SP;Recife;PE; R$ 255.918,14 ;Autônomo;Roubo
+2018-06-08;4:40;Itatiba;SP;SP 065 Km 103;Aço/Ferro;Pinheiral;RJ;Primavera do Leste;MT; R$ 139.169,53 ;Autônomo;Roubo
+2018-06-09;8:30;Nova Olinda;TO;BR 153 Km 209;Tratores/Empilhadeiras;Contagem;MG;Manaus;AM; R$ 636.041,22 ;S/Comprovação;Roubo
+2018-06-09;11:00;Feira de Santana;BA;Incerto;Doces/Chocolate;Guarulhos;SP;Recife;PE; R$ 187.350,49 ;Autônomo;Roubo
+2018-06-10;14:00;Araraquara;SP;SP 310;Frigorífico;Várzea Grande;MT;Campinas;SP; R$ 278.834,56 ;Autônomo;Roubo
+2018-06-11;22:45;Caçapava;SP;BR 116 Km 125;Tinta/Verniz;Mauá;SP;Rio de Janeiro;RJ; R$ 191.841,89 ;Agregado;Roubo
+2018-06-11;23:30;Novo Lino;AL;BR 101 KM 02;Hig/Limp/Cosm;Ipojuca;PE;Salvador;BA; R$ 127.893,81 ;S/Comprovação;Roubo
+2018-06-11;12:30;Carvalhos;MG;BR 267 KM 254;Hig/Limp/Cosm;Pouso Alegre;MG;Juiz de Fora;MG; R$ 285.892,59 ;S/Comprovação;Tombamento
+2018-06-11;23:16;Salinas;MG;BR 251;Defensivo Agrícola;Sorocaba;SP;Petrolina;PE; R$ 1.080.961,11 ;Funcionário;Roubo
+2018-06-12;20:00;Assú;RN;BR 304 KM 86;Eletrodoméstico;Recife;PE;Fortaleza;CE; R$ 222.497,77 ;Autônomo;Roubo
+2018-06-12;8:00;Vale do Sol;RS;BR 156 Km 306;Medicamento;Aparecida de Goiânia;GO;Santa Cruz do Sul;RS; R$ 506.831,38 ;S/Comprovação;Tombamento
+2018-06-12;16:00;Água Doce;SC;BR 153 Km 28;Tratores/Empilhadeiras;Curitiba;PR;Diversos;RS; R$ 458.756,27 ;S/Comprovação;Avarias
+2018-06-13;19:20;Jundiaí;SP;SP 348;Específicas;Campinas;SP;Jundiaí;SP; R$ 3.765.178,90 ;Funcionário;Roubo
+2018-06-13;12:00;Embú das Artes;SP;BR 116;Polímeros;Joinville;SC;Mairiporã;SP; R$ 152.806,50 ;Autônomo;Roubo
+2018-06-14;5:15;Teixeira de Freitas;BA;BR 101 Km 882;Alimentício;Santa Maria de Jetiba;ES;Salvador;BA; R$ 134.365,00 ;S/Comprovação;Tombamento
+2018-06-15;10:50;São Paulo;SP;SP 332 KM 103;Defensivo Agrícola;Franco da Rocha;SP;Barueri;SP; R$ 147.420,00 ;Funcionário;Roubo
+2018-06-15;21:23;Campinas;SP; SP 330 Km 105;Alumínio;Pindamonhangaba;SP;Cuiabá;MT; R$ 393.903,97 ;Autônomo;Roubo
+2018-06-15;15:15;Ortigueira;PR;BR 376 Km 317;Frigorífico;Maringá;PR;Recife;PE; R$ 146.882,53 ;S/Comprovação;Tombamento
+2018-06-16;0:01;Boqueirão do Cesário;CE;BR 304;Alimentício;Cabo de Santo Agostinho;PE;Fortaleza;CE; R$ 107.014,14 ;Autônomo;Roubo
+2018-06-16;5:40;São Gonçalo;RJ;Rua/Avenida;Eletrônicos;Serra;ES;Nova Iguaçú;RJ; R$ 224.535,44 ;S/Comprovação;Roubo
+2018-06-16;19:34;Mamanguape;PB;BR 101 KM 123;Específicas;Fortaleza;CE;João Pessoa;PB; R$ 414.468,15 ;Agregado;Roubo
+2018-06-17;12:35;Juquiá;SP;BR 101;Eletrodoméstico;Taubaté;SP;Porto Belo;SC; R$ 169.488,40 ;Funcionário;Roubo
+2018-06-18;20:30;Pindamonhangaba;SP;BR 116;Alumínio;Simões Filho;BA;Pindamonhangaba;SP; R$ 187.772,07 ;Autônomo;Roubo
+2018-06-19;23:15;Morrinhos;GO;BR 153 Km 613;Hig/Limp/Cosm;Goiânia;GO;Barueri;SP; R$ 358.665,56 ;Agregado;Roubo
+2018-06-19;21:30;Aguaí;SP;SP 340 KM 204;Combustível;Cubatão;SP;Mococa;SP; R$ 115.041,90 ;Autônomo;Roubo
+2018-06-19;7:00;Patrocínio;MG;BR 365;Café;Monte Carmelo;MG;Poços de Caldas;MG; R$ 332.887,70 ;Funcionário;Roubo
+2018-06-20;4:00;Estreito;MA;BR 010;Laticínios;Bragança Paulista;SP;São Luiz;MA; R$ 345.319,88 ;Agregado;Roubo
+2018-06-21;2:00;Dianopolis;TO;TO 040;Frigorífico;Redenção;PA;Muquem do São Francisco;BA; R$ 216.116,99 ;S/Comprovação;Tombamento
+2018-06-24;23:00;Valinhos;SP;SP 065;Laticínios;Cariacica;ES;Guaratingueta;SP; R$ 357.500,00 ;Autônomo;Roubo
+2018-06-24;21:00;Boqueirão do Cesário;CE;BR 304;Específicas;Jaboatão dos Guararapes;PE;Fortaleza;CE; R$ 211.416,77 ;Autônomo;Roubo
+2018-06-25;1:00;Primavera do Leste;MT;BR 070 Km 230;Bebidas;Maceio;AL;Várzea Grande;MT; R$ 101.316,72 ;S/Comprovação;Tombamento
+2018-06-26;6:06;Jundiaí;SP;SP 348 KM 58;Alumínio;São Bernardo do Campo;SP;Buritis;MG; R$ 283.581,33 ;Autônomo;Roubo
+2018-06-26;10:00;Caçapava;SP;BR 381;Veículo;São Bernardo do Campo;SP;Pouso Alegre;MG; R$ 214.896,42 ;S/Comprovação;Roubo
+2018-06-26;13:20;Duque de Caxias;RJ;Estrada;Óleo Lubrificante;Duque de Caxias;RJ;Duque de Caxias;RJ; R$ 131.417,00 ;S/Comprovação;Roubo
+2018-06-26;8:15;Itabirito;MG;BR 040 Km 04;Computador/Tablet;Rio de Janeiro;RJ;Betim;MG; R$ 114.876,70 ;S/Comprovação;Incêndio
+2018-06-27;13:00;Rio de Janeiro;RJ;BR 101;Bebidas;Rio de Janeiro;RJ;Uberlândia;MG; R$ 400.593,00 ;Agregado;Roubo
+2018-06-27;19:30;Nova Itarana;BA;BR 116;Confecção/Tecido/Fios;Rio de Janeiro;RJ;Recife;PE; R$ 153.419,78 ;S/Comprovação;Tombamento
+2018-06-28;14:10;Aparecida;SP;BR 116;Alumínio;Pindamonhangaba;SP;Teresina;PI; R$ 433.913,14 ;Autônomo;Roubo
+2018-06-28;22:30;São Paulo;SP;BR 116;Laticínios;Paraíso;SC;São Paulo;SP; R$ 194.241,32 ;S/Comprovação;Roubo
+2018-06-29;21:37;Apucarana;PR;BR 376;Combustível;Araucária;PR;Dourados;MS; R$ 117.865,25 ;Autônomo;Roubo
+2018-06-29;21:30;Jundiaí;SP;Desvio;Doces/Chocolate;Jundiaí;SP;Belo Horizonte;MG; R$ 165.122,98 ;Autônomo;Desvio de Carga
+2018-06-30;23:40;Patrocínio;MG;BR 365 Km 479;Específicas;Uberlândia;MG;Colatina;ES; R$ 260.722,68 ;Autônomo;Roubo
+2018-07-01;15:00;Jeremoabo;BA;BR 110 KM 84;Hig/Limp/Cosm;Ipojuca;PE;Louveira;SP; R$ 134.394,30 ;S/Comprovação;Tombamento
+2018-07-01;14:00;Atibaia;SP;BR 381 Km 312;Polímeros;Camaçari;BA;Guarulhos;SP; R$ 132.353,70 ;Autônomo;Roubo
+2018-07-02;17:30;Pernambuco;PE;BR 116 Km 39 ;Laticínios;Teutonia;RS;Fortaleza;CE; R$ 256.497,60 ;S/Comprovação;Tombamento
+2018-07-03;7:30;Itatiba;SP;SP 065;Defensivo Agrícola;Guararema;SP;Cuiabá;MT; R$ 429.984,00 ;Agregado;Roubo
+2018-07-04;19:00;Alagoinhas;BA;BR 101;Laticínios;Bragança Paulista;SP;Itabaiana;SE; R$ 381.376,07 ;Autônomo;Roubo
+2018-07-04;11:30;Divino;MG;BR 116 Km 640,9;Bebidas;Itú;SP;Governador Valadares;MG; R$ 153.726,01 ;S/Comprovação;Tombamento
+2018-07-05;21:10;Navagantes;SC;BR 470;Específicas;Brusque;SC;Guarulhos;SP; R$ 294.977,41 ;S/Comprovação;Roubo
+2018-07-05;21:37;Belford Roxo;RJ;BR 116;Específicas;Guarulhos;SP;Rio de Janeiro;RJ; R$ 585.868,01 ;S/Comprovação;Roubo
+2018-07-05;6:50;São Sebastião Paraiso;MG;BR 265 Km 659;Café;Alfenas;MG;Avaré;MG; R$ 268.844,32 ;S/Comprovação;Tombamento
+2018-07-06;2:00;Araçariguama;SP;SP 280 Km 48;Frigorífico;Lençóis Paulista;SP;Santos;SP; R$ 474.508,01 ;Autônomo;Roubo
+2018-07-06;23:30;Jundiaí;SP;SP 330 Km 65;Autopeças;Diversos;SP;Campo Largo;PR; R$ 1.016.075,30 ;Autônomo;Roubo
+2018-07-07;5:30;Rio de Janeiro;RJ;BR 101;E-Commerce;Seropédica;RJ;São Cristovão;RJ; R$ 499.958,71 ;S/Comprovação;Roubo
+2018-07-09;22:30;Laguna;SC;BR 116 Km 116;Alumínio;São Francisco do Sul;SC;Piracicaba;SP; R$ 221.550,06 ;S/Comprovação;Colisão
+2018-07-09;19:00;Cordeirópolis;SP;SP 310 KM 159,5;Frigorífico;Rondonópolis;MT;Varginha;MG; R$ 154.451,40 ;Autônomo;Roubo
+2018-07-10;9:00;Salto;SP;SP 075 Km 35;E-Commerce;Itapevi;SP;Diversos;SP; R$ 543.707,06 ;Agregado;Roubo
+2018-07-11;5:52;Mairiporã;SP;BR 381;Calçados;Guarulhos;SP;Extrema;MG; R$ 694.348,63 ;Funcionário;Roubo
+2018-07-11;20:00;Londrina;PR;PR 445 Km 60;Sementes;Londrina;PR;Criciúma;SC; R$ 689.020,64 ;S/Comprovação;Tombamento
+2018-07-11;23:00;Feira de Santana;BA;BR 116;Geral;Floresta;PE;Pombal;PB; R$ 174.500,00 ;Autônomo;Roubo
+2018-07-12;19:53;Casa Branca;SP;SP 340 Km 223;Defensivo Agrícola;Guararema;SP;Mineiros;GO; R$ 253.027,00 ;Autônomo;Roubo
+2018-07-12;9:00;Itapoa;SC;SC 415 Km 03;Frigorífico;Mandaguari;PR;Itapoa;SC; R$ 318.495,49 ;S/Comprovação;Tombamento
+2018-07-13;17:40;Catuji;MG;BR 116 Km 211;Confecção/Tecido/Fios;Rio de Janeiro;RJ;Jaboatão dos Guararapes;PE; R$ 258.066,97 ;S/Comprovação;Tombamento
+2018-07-13;5:30;Juquitiba;SP;BR 116 Km 337;Doces/Chocolate;Jundiaí;SP;Santa Maria;RS; R$ 175.573,91 ;Autônomo;Roubo
+2018-07-14;9:00;Centralina;MG;BR 153 Km 16;Alimentício;Goiânia;GO;Louveira;SP; R$ 127.789,38 ;S/Comprovação;Tombamento
+2018-07-17;6:00;São Paulo;SP; ;Laticínios;Terra Nova do Norte;MT;Osasco;SP; R$ 456.558,34 ;Autônomo;Roubo
+2018-07-17;17:20;Jaguari;RS;BR 287 KM 355,6;Alimentício;Itaqui;RS;Cajamar;SP; R$ 111.801,45 ;S/Comprovação;Tombamento
+2018-07-19;20:07;Casa Branca;SP;SP 340 KM 2118;Defensivo Agrícola;Guararema;SP;Brasilia;DF; R$ 289.958,40 ;Autônomo;Roubo
+2018-07-19;2:00;Além Paraiba;MG;BR 116 Km 816;Frigorífico;Ponte Nova;MG;Rio de Janeiro;RJ; R$ 219.213,20 ;Funcionário;Roubo
+2018-07-21;5:00;Rio de Janeiro;RJ;Rua/Avenida;E-Commerce;Seropédica;RJ;São Cristovão;RJ; R$ 499.996,45 ;Agregado;Roubo
+2018-07-21;1:15;Além Paraiba;MG;BR 116 Km 816;Confecção/Tecido/Fios;Rio de Janeiro;RJ;Diversas;PI; R$ 566.190,53 ;Funcionário;Roubo
+2018-07-21;1:15;Além Paraiba;MG;BR 116 Km 816;Confecção/Tecido/Fios;Rio de Janeiro;RJ;São Luis;MA; R$ 486.455,66 ;Funcionário;Roubo
+2018-07-22;21:30;Pouso Alegre;MG;BR 381 Km 870;Alimentício;Navegantes;SC;Contagem;MG; R$ 363.343,95 ;Autônomo;Roubo
+2018-07-22;6:00;Primavera do Leste;MT;BR 070 Km 217;Geral;Cabo de Santo Agostinho;PE;Várzea Grande;MT; R$ 197.147,92 ;S/Comprovação;Tombamento
+2018-07-22;13:30;Nova Odessa;SP;SP 330 KM 116,5;Hig/Limp/Cosm;Louveira;SP;Cuiabá;MT; R$ 430.606,02 ;Funcionário;Roubo
+2018-07-22;8:45;Jequitai;MG;BR 365 Km 66;Frigorífico;Boa Esperança do Sul;SP;Belo Cruz;CE; R$ 118.523,70 ;S/Comprovação;Tombamento
+2018-07-23;17:38;Rio de Janeiro;RJ;BR 101;Alumínio;Vitória;ES;Pindamonhangaba;SP; R$ 570.122,07 ;Funcionário;Roubo
+2018-07-23;19:00;Macururé;BA;BR 116;Fraldas;Goiânia;GO;Fortaleza;CE; R$ 199.558,38 ;Autônomo;Roubo
+2018-07-23;13:30;Contagem;MG;BR 251 Km 466;Autopeças;Betim;MG;Nova Goiana;PE; R$ 502.114,89 ;S/Comprovação;Queda
+2018-07-23;15:15;Nova Era;MG;BR 381 Km 337;Autopeças;Juatuba;MG;Nova Goiana;PE; R$ 612.043,62 ;S/Comprovação;Queda
+2018-07-24;17:00;Rio de Janeiro;RJ;BR 101;Óleo Lubrificante;Rio de Janeiro;RJ;Jaraguá do Sul;SC; R$ 339.121,40 ;Funcionário;Roubo
+2018-07-24;11:45;Eldorado do Sul;RS;BR 290 ;Específicas;Bento Gonçalves;RS;Pelotas;RS; R$ 187.092,76 ;S/Comprovação;Furto
+2018-07-25;19:34;Itamaraju;BA;BR 101;Fios/Cabos;Vila Velha;ES;Barreirinhas;MA; R$ 223.765,37 ;Autônomo;Roubo
+2018-07-25;4:00;Juquitiba;SP;BR 116 Km 339;Autopeças;Caixas do Sul;RS;São Bernardo do Campo;SP; R$ 208.244,52 ;S/Comprovação;Tombamento
+2018-07-26;20:50;Itajaí;SC;BR 101 Km 117;Frigorífico;Joaçaba;SC;Itajaí;SC; R$ 270.578,50 ;Agregado;Roubo
+2018-07-26;3:00;Campinas;SP;SP 330 Km 104;Alumínio;Campo Grande;MS;Pindamonhangaba;SP; R$ 158.925,80 ;Autônomo;Roubo
+2018-07-27;20:00;Floriano;PI;BR 230 Km 282;Frigorífico;Jacunda;PA;Recife;PE; R$ 254.414,27 ;Funcionário;Tombamento
+2018-07-28;6:30;Osasco;SP;SP 330;Específicas;Osasco;SP;São Paulo;SP; R$ 213.596,15 ;S/Comprovação;Roubo
+2018-07-29;20:45;Barra Velha;SC;BR 101;Aço/Ferro;Araquari;SC;Bento Gonçalves;RS; R$ 145.286,05 ;Autônomo;Roubo
+2018-07-30;7:27;Caldas;MG;BR 459 km 31;Hig/Limp/Cosm;Pouso Alegre;MG;Ribeirão Preto;SP; R$ 219.838,13 ;S/Comprovação;Tombamento
+2018-07-30;7:12;Porto Alegre;RS;Rua/Avenida;Eletrônicos;Porto Alegre;RS;Cachoeirinha;RS; R$ 363.711,30 ;Agregado;Roubo
+2018-07-30;23:00;São Gonçalo de Abaeté;MG;BR 365;Laticínios;Ibiá;MG;Feira de Santana;BA; R$ 262.566,64 ;Autônomo;Roubo
+2018-07-31;21:40;Pena Forte;CE;BR 116;Bebidas;Jundiaí;SP;Maracanau;CE; R$ 227.335,00 ;S/Comprovação;Roubo
+2018-07-31;5:39;Itaquaquecetuba;SP;Rua/Avenida;Bebidas;Rio de Janeiro;RJ;Uberlândia;MG; R$ 417.515,00 ;Agregado;Roubo
+2018-07-31;3:00;João Pinheiro;MG;BR 040 KM 225;Laticínios;Ibiá;MG;Feira de Santana;BA; R$ 262.566,64 ;Autônomo;Roubo
+2018-08-01;12:06;Ipuã;SP;SP 345 KM 108;Alumínio;Pindamonhangaba;SP;Gama;DF; R$ 602.165,55 ;Autônomo;Roubo
+2018-08-01;22:46;Escada;PE;BR 101 KM 130;Hig/Limp/Cosm;Ipojuca;PE;Simões Filho;BA; R$ 299.931,32 ;Agregado;Roubo
+2018-08-01;16:20;Joboatão dos Guararapes;PE;BR 332 Km 22;Específicas;Ipojuca;PE;Simões Filho;BA; R$ 299.931,32 ;S/Comprovação;Roubo
+2018-08-02;1:01;Euclides da Cunha;BA;BR 116 Km 200;Específicas;Fortaleza;CE;Feira de Santana;BA; R$ 451.041,51 ;S/Comprovação;Incêndio
+2018-08-02;3:55;Ibaboraí;RJ;BR 101 Km 23;Específicas;Porto Alegre;RS;Itaboraí;RJ; R$ 242.935,20 ;S/Comprovação;Roubo
+2018-08-02;8:00;Paulínia;SP;SP 332 Km 122;Aço/Ferro;Paulínia;SP;Caixas do Sul;RS; R$ 148.278,38 ;Autônomo;Roubo
+2018-08-03;14:00;Miracatu;SP;BR 116 Km 350;Alimentício;Navegantes;SC;São Paulo;SP; R$ 333.034,83 ;Autônomo;Roubo
+2018-08-05;20:00;Goiana;PE;PE 062;Hig/Limp/Cosm;Ipojuca;PE;Eusébio;CE; R$ 264.146,67 ;S/Comprovação;Roubo
+2018-08-06;5:00;Nova Iguaçu;RJ;BR 116;Hig/Limp/Cosm;Pouso Alegre;MG;Duque de Caxias;RJ; R$ 217.159,31 ;Autônomo;Roubo
+2018-08-06;3:44;Sapucaia;RJ;BR 393;Hig/Limp/Cosm;Louveira;SP;Serra;ES; R$ 114.985,71 ;S/Comprovação;Roubo
+2018-08-06;3:00;Jaranapolis;GO;BR 153 Km 396;Específicas;Guarulhos;SP;Castanhal;PA; R$ 331.965,09 ;S/Comprovação;Incêndio
+2018-08-06;22:30;Chapadão do Sul;MS;MS 306;Frigorífico;Rio Branco;AC;Leme;SP; R$ 260.184,60 ;S/Comprovação;Tombamento
+2018-08-07;21:00;Estreito;MA;BR 010 KM 1226;Alimentício;Ituiutaba;MG;Maracanau;CE; R$ 109.637,55 ;Autônomo;Roubo
+2018-08-07;16:30;Mairiporã;SP;BR 381 Km 67;Veículo;Juiz de Fora;MG;São Jose dos Pinhais;PR; R$ 375.000,00 ;S/Comprovação;Roubo
+2018-08-08;19:30;Rio de Janeiro;RJ;BR 101;Tinta/Verniz;Mauá;SP;Rio de Janeiro;RJ; R$ 116.187,56 ;Agregado;Roubo
+2018-08-09;4:30;São José dos Pinhais;PR;BR 116;Frigorífico;Campo Grande;MS;Caixas do Sul;RS; R$ 137.467,51 ;S/Comprovação;Roubo
+2018-08-09;22:00;Guarulhos;SP;BR 116 Km 212;Bateria;São Caetano do Sul;SP;Macapá;AP; R$ 518.300,86 ;S/Comprovação;Tombamento
+2018-08-09;19:18;São José dos Campos;SP;BR 116;Químico;Salvador;BA;Amparo;SP; R$ 345.334,13 ;Funcionário;Roubo
+2018-08-10;6:10;Ventania;PR;BR 153 Km 157;Veículo;Curitiba;PR;Campo Grande;MS; R$ 323.000,00 ;S/Comprovação;Tombamento
+2018-08-10;13:19;Goiatuba;GO;BR 153 KM 670;Calçados;Louveira;SP;Anápolis;GO; R$ 446.037,11 ;S/Comprovação;Roubo
+2018-08-10;15:00;Extrema;MG;BR 381 Km 940.7;Autopeças;Diversos;SP;Betim;MG; R$ 679.577,07 ;S/Comprovação;Tombamento
+2018-08-12;21:30;Itú;SP;SP 280 KM 72;Frigorífico;Várzea Grande;MT;São Paulo;SP; R$ 295.851,60 ;Autônomo;Roubo
+2018-08-12;18:18;Vitória da Conquista;BA;BR 116;Pneus;Rio de Janeiro;RJ;Luís Eduardo Magalhães;BA; R$ 459.327,02 ;Autônomo;Roubo
+2018-08-12;11:30;Bela Vista de Minas;MG;BR 381 Km 342;Autopeças;Santa Rita do Sapucaí;MG;Goiana;PE; R$ 816.898,13 ;S/Comprovação;Queda
+2018-08-13;0:40;São Gonçalo do Sapucaí;MG;BR 381 Km 796;Autopeças;Jundiaí;SP;Betim;MG; R$ 1.341.656,68 ;S/Comprovação;Roubo
+2018-08-15;18:26;Rio de Janeiro;RJ;BR 101;Geral;Varginha;MG;Rio de Janeiro;RJ; R$ 147.000,00 ;Autônomo;Roubo
+2018-08-16;3:00;Xexéu;PE;BR 101;Hig/Limp/Cosm;Igarassu;PE;Nossa Senhora do Socorro;SE; R$ 113.652,80 ;S/Comprovação;Roubo
+2018-08-16;1:00;Pouso Alegre;MG;BR 381 KM 871;Hig/Limp/Cosm;Pouso Alegre;MG;São José dos Pinhais;PR; R$ 681.654,49 ;Autônomo;Roubo
+2018-08-16;16:30;Jacareí;SP;SP 065 Km 24;Frigorífico;Araguaína;TO;São João de Meriti;RJ; R$ 339.188,13 ;S/Comprovação;Roubo
+2018-08-19;2:30;Sales de Oliveira;SP;SP 330 Km 346;Alumínio;Pindamonhangaba;SP;Gama;DF; R$ 582.768,55 ;Autônomo;Roubo
+2018-08-19;7:00;Antas;BA;BR 110;Geral;Guarulhos;SP;Cabedelo;PB; R$ 154.940,70 ;Autônomo;Roubo
+2018-08-21;22:17;Mairiporã;SP;BR 381;Específicas;Guarulhos;SP;Feira de Santana;BA; R$ 484.124,97 ;Autônomo;Desvio de Carga
+2018-08-21;17:00;Cajati;SP;BR 116 Km 513;Minério;Itajaí;SC;Ferraz de Vasconcelos;SP; R$ 181.112,54 ;Autônomo;Colisão
+2018-08-22;7:14;Irituia;PA;BR 010 Km 354,2;Específicas;Aparecida de Goiânia;GO;Bélem;PA; R$ 822.265,22 ;S/Comprovação;Tombamento
+2018-08-22;9:00;São João de Meriti;RJ;Rua/Avenida;Hig/Limp/Cosm;Pouso Alegre;MG;São João de Meriti;RJ; R$ 224.037,54 ;S/Comprovação;Roubo
+2018-08-22;20:00;Jaú;SP;SP 225;Combustível;Cubatão;SP;Bauru;SP; R$ 120.838,20 ;S/Comprovação;Roubo
+2018-08-22;2:30;São José dos Pinhais;PR;BR 376 KM 624;Hig/Limp/Cosm;Pouso Alegre;MG;Campo Bom;RS; R$ 251.264,43 ;Funcionário;Roubo
+2018-08-22;22:00;Canudos;BA;BR 116;Café;Eunápolis;BA;Eusébio;CE; R$ 255.681,25 ;S/Comprovação;Roubo
+2018-08-23;7:20;Rio de Janeiro;RJ;Rua/Avenida;Confecção/Tecido/Fios;Rio de Janeiro;RJ;Rio de Janeiro;RJ; R$ 102.343,49 ;S/Comprovação;Roubo
+2018-08-23;5:00;São Paulo;SP;BR 116;Veículo;São Bernado do Campo;SP;Belo Horizonte;MG; R$ 218.570,37 ;S/Comprovação;Roubo
+2018-08-24;5:10;Duque de Caxias;RJ;Rua/Avenida;Confecção/Tecido/Fios;Duque de Caxias;RJ;Diversos;RJ; R$ 114.844,64 ;S/Comprovação;Roubo
+2018-08-24;20:15;Campina Grande do Sul;PR;BR 116 Km 28,2;Veículo;Ribeiro Preto;SP;São José;SC; R$ 210.000,00 ;S/Comprovação;Tombamento
+2018-08-24;5:30;Mairiporã;SP;BR 381 Km 65;Veículo;São Bernado do Campo;SP;Belo Horizonte;MG; R$ 309.750,00 ;S/Comprovação;Roubo
+2018-08-26;2:00;Paragominas;PA;BR 010 Km 167,2;Geral;Manaus;AM;Vinhedo;SP; R$ 268.121,75 ;S/Comprovação;Incêndio
+2018-08-27;0:20;Osasco;SP;SP 021 KM 27;Brinquedos;Embu das Artes;SP;Maringá;PR; R$ 113.232,11 ;S/Comprovação;Roubo
+2018-08-27;17:30;Camamu;BA;BR 101 Km 423;Laticínios;Ilhéus;BA;Salvador;BA; R$ 571.745,48 ;S/Comprovação;Tombamento
+2018-08-28;15:00;São Lourenço da Serra;SP;BR 116 Km 300;Veículo;São Bernado do Campo;SP;São Jose dos Pinhais;PR; R$ 277.741,28 ;S/Comprovação;Roubo
+2018-08-28;18:30;Porangatu;GO;BR 153 Km 34;Celulares;Anápolis;GO;Marabá;PA; R$ 354.167,16 ;S/Comprovação;Tombamento
+2018-08-28;17:30;Alfenas;MG;BR 491 Km 174;Café;Três Pontas;MG;Alfenas;MG; R$ 321.948,00 ;S/Comprovação;Molhadura
+2018-08-29;23:30;Campo Largo;PR; ;Pneus;Itajaí;SC;Araçatuba;SP; R$ 218.039,00 ;S/Comprovação;Roubo
+2018-08-30;9:00;Miracatu;SP;BR 116 KM 343;Alimentício;Navegantes;SC;Contagem;MG; R$ 354.211,15 ;Autônomo;Roubo
+2018-08-30;8:00;Paranaguá;PR;BR 376 ;Específicas;Ponta Grossa;PR;Paranaguá;PR; R$ 181.927,35 ;S/Comprovação;Roubo
+2018-08-30;23:00;Jaboatão dos Guararapes;PE;BR 232 Km 22;Alimentício;Recife;PE;Rio de Janeiro;RJ; R$ 144.535,70 ;S/Comprovação;Roubo
+2018-08-30;12:40;Colorado do Oeste;RO;BR 435 Km 63,3;Defensivo Agrícola;Cuiabá;MT;Pimenteiras do Oeste;RO; R$ 456.960,62 ;S/Comprovação;Tombamento
+2018-08-30;19:15;Rio de Janeiro;RJ;BR 116 KM 163;Geral;Rio de Janeiro;RJ;São Paulo;SP; R$ 207.029,76 ;Funcionário;Roubo
+2018-08-31;5:00;Catalão;GO;BR 352;Laticínios;Curumbaiba;GO;Vitoria da Conquista;BA; R$ 165.617,10 ;Autônomo;Roubo
+2018-08-31;21:00;Osasco;SP;Rua/Avenida;Específicas;Osasco;SP;São Paulo;SP; R$ 177.205,54 ;S/Comprovação;Roubo
+2018-08-31;14:50;Trindade;PE;Desvio;Geral;Carapicuiba;SP;Cobra;CE; R$ 193.798,66 ;Autônomo;Desvio de Carga
+2018-08-31;10:30;Caxias do Sul;RS;Transporte;Alimentício;Taboão da Serra;SP;Caxias do Sul;RS; R$ 368.577,06 ;S/Comprovação;Variação de Temperatura
+2018-08-31;23:30;Rianapolis;GO;BR 153;Defensivo Agrícola;Diversos;SP;Diversos;GO; R$ 861.089,00 ;Funcionário;Roubo
+2018-09-03;0:44;Vila Boa;GO;BR 020;Defensivo Agrícola;Boituva;SP;Luiz Eduardo Magalhães;BA; R$ 1.098.173,38 ;Agregado;Roubo
+2018-09-03;5:00;Wenceslau Braz;PR;PR 092 Km 05;Frigorífico;Vargem Grande;MT;Curitiba;PR; R$ 297.102,54 ;S/Comprovação;Tombamento
+2018-09-03;22:05;Paraná;PR;BR 376 Km 655;Frigorífico;Castro;PR;Itajaí;SC; R$ 172.966,29 ;Funcionário;Roubo
+2018-09-04;20:27;Guararema;SP;BR 116;Combustível;Manguinhos;RJ;Guarulhos;SP; R$ 262.709,24 ;Autônomo;Roubo
+2018-09-04;22:40;Uberaba;MG;BR 050;Defensivo Agrícola;Sorocaba;SP;Luiz Eduardo Magalhães;BA; R$ 244.530,00 ;Agregado;Roubo
+2018-09-04;8:41;Atibaia;SP;BR 381 ;Específicas;Guarulhos;SP;Natal;RN; R$ 204.333,54 ;S/Comprovação;Roubo
+2018-09-04;23:00;Cajati;SP;BR 116 Km 513;Específicas;Blumenau;SC;Guarulhos;SP; R$ 661.726,30 ;S/Comprovação;Colisão
+2018-09-05;14:00;Casa Branca;SP; ;Veículo;São Bernando do Campo;SP;Recife;PE; R$ 121.561,10 ;S/Comprovação;Roubo
+2018-09-05;23:09;Lavrinhas;SP;BR 116 KM 26;Alumínio;Vitória;ES;Pindamonhangaba;SP; R$ 633.110,60 ;Autônomo;Roubo
+2018-09-05;15:00;Vassouras;RJ;BR 393 Km 241;Aço/Ferro;Poá;SP;Recife;PE; R$ 226.749,48 ;S/Comprovação;Incêndio
+2018-09-06;22:20;Itajaí;SC;BR 101;Alimentício;Navegantes;SC;Itajaí;SC; R$ 326.768,00 ;Autônomo;Furto
+2018-09-07;3:56;Itapecerica da Serra;SP;BR 116 KM 285;Frigorífico;Várzea Grande;MT;São Paulo;SP; R$ 173.264,31 ;Autônomo;Roubo
+2018-09-10;21:42;Correntina;BA;BR 020 Km 21;Específicas;Aquiraz;CE;Aparecida de Goiânia;GO; R$ 865.452,99 ;S/Comprovação;Roubo
+2018-09-10;21:30;Rio de Janeiro;RJ;BR 101;Calçados;Queimados;RJ;Duque de Caxias;RJ; R$ 233.777,55 ;Agregado;Roubo
+2018-09-10;0:28;Santos;SP;SP 270;Frigorífico;Palmeiras de Goiás;GO;Santos;SP; R$ 702.000,00 ;S/Comprovação;Roubo
+2018-09-11;20:40;Ortigueira;PR;BR 376;Combustível;Araucária;PR;Campo Grande;MS; R$ 131.558,64 ;Funcionário;Roubo
+2018-09-12;3:00;Pindamonhangaba;SP;BR 116;Café;Manhumirim;MG;Santos;SP; R$ 291.181,64 ;S/Comprovação;Roubo
+2018-09-12;14:00;São Francisco Sul;SC;Desvio;Aço/Ferro;São Franscisco do Sul;SC;São João do Itaperiu;SC; R$ 118.086,00 ;Autônomo;Desvio de Carga
+2018-09-13;14:00;Uberaba;MG;BR 050 KM 184;Defensivo Agrícola;Guararema;SP;Uruçuí;PI; R$ 380.217,60 ;Autônomo;Roubo
+2018-09-13;23:57;Bady Bassitt;SP;BR 153 Km 79,5;Defensivo Agrícola;Uberaba;MG;Campo Grande;MS; R$ 618.028,96 ;Autônomo;Roubo
+2018-09-14;1:20;Pouso Alegre;MG;BR 381 Km 782;Hig/Limp/Cosm;Pouso Alegre;MG;Taboão da Serra;SP; R$ 134.176,93 ;S/Comprovação;Tombamento
+2018-09-14;14:30;Rio de Janeiro;RJ;Estrada;Laticínios;Rio de Janeiro;RJ;Rio de Janeiro;RJ; R$ 262.197,00 ;Funcionário;Roubo
+2018-09-14;14:30;Rio de Janeiro;RJ;Estrada;Laticínios;Rio de Janeiro;RJ;Rio de Janeiro;RJ; R$ 262.197,00 ;Funcionário;Roubo
+2018-09-15;18:30;Barueri;SP;SP 280 KM 29;Hospitalar;Goiânia;GO;Jandira;SP; R$ 814.188,84 ;Funcionário;Roubo
+2018-09-15;21:00;Pouso Alegre;MG;BR 381;Laticínios;Mairiporã;SP;Jaboatão dos Guararapes;PE; R$ 650.068,43 ;S/Comprovação;Incêndio
+2018-09-15;20:01;Monte Carmelo;MG;MG 452;Sementes;Paracacu;MG;Uberlândia;MG; R$ 253.137,30 ;Autônomo;Roubo
+2018-09-16;1:00;José Bonifácio;SP;BR 153 Km 99;Específicas;Uberlândia;MG;Maringá;PR; R$ 487.129,51 ;Autônomo;Roubo
+2018-09-16;16:30;Jataí;GO;BR 364 Km 441;Laticínios;Curumbaiba;GO;Campo Grande;MS; R$ 227.294,64 ;S/Comprovação;Avarias
+2018-09-17;2:00;Itapevi;SP;BR 374 Km 32;Específicas;São Paulo;SP;Londrina;PR; R$ 757.109,01 ;S/Comprovação;Roubo
+2018-09-17;13:00;Conceição de Castelo;ES;BR 101 Km 27,7;Específicas;Viana;ES;Feira de Santana;BA; R$ 421.628,89 ;S/Comprovação;Colisão
+2018-09-17;1:30;Paracambi;RJ;BR 116 Km 217;Laticínios;Teutonia;RS;São João do Meriti;RJ; R$ 417.376,82 ;Autônomo;Roubo
+2018-09-18;3:00;Orlandia;SP;SP 330 ;Laticínios;Corumbaiba;GO;Guarulhos;SP; R$ 160.627,50 ;S/Comprovação;Roubo
+2018-09-19;10:00;Mauá;SP;Rua/Avenida;Veículo;Curitiba;PR;Mauá;SP; R$ 370.000,00 ;S/Comprovação;Roubo
+2018-09-19;18:00;Sumaré;SP;Transporte;Maquinário;Jundiaí;SP;Itajubá;MG; R$ 236.910,40 ;S/Comprovação;Avarias
+2018-09-20;10:00;São João do Meriti;RJ;Rua/Avenida;Laticínios;Passo Fundo;RS;São João do Meriti;RJ; R$ 119.992,78 ;Funcionário;Roubo
+2018-09-21;9:30;Rio de Janeiro;RJ;Rua/Avenida;Celulares;Rio de Janeiro;RJ;Rio de Janeiro;RJ; R$ 172.872,60 ;Agregado;Roubo
+2018-09-21;9:30;Buritis;MG;MR 400 Km 07;Defensivo Agrícola;Uberaba;MG;Buritis;MG; R$ 773.475,50 ;S/Comprovação;Tombamento
+2018-09-22;18:00;Planaltina;DF;BR 020;Defensivo Agrícola;Sorocaba;SP;Luiz Eduardo Magalhães;BA; R$ 1.065.072,60 ;S/Comprovação;Roubo
+2018-09-23;3:00;Campinas;SP;SP 065;Sementes;Sacramento;MG;Casas Branca;SP; R$ 173.743,87 ;Autônomo;Roubo
+2018-09-24;11:00;Bom Jesus de Goiás;GO;BR 452;Confecção/Tecido/Fios;Arujá;SP;Goiania;GO; R$ 435.592,75 ;S/Comprovação;Roubo
+2018-09-24;1:00;Caieiras;SP;SP 348;Frigorífico;Hidrolândia;GO;São Paulo;SP; R$ 169.194,68 ;S/Comprovação;Roubo
+2018-09-24;22:50;Castilho;SP;SP 300  ;Frigorífico;Rondonópolis;MT;Estrela do Oeste;SP; R$ 294.810,69 ;Autônomo;Roubo
+2018-09-24;18:00;Parquelândia;CE;Rua/Avenida;Calçados;Fortaleza;CE;Fortaleza;CE; R$ 381.564,63 ;S/Comprovação;Roubo
+2018-09-25;9:40;Fortaleza;CE;Rua/Avenida;Celulares;Fortaleza;CE;Fortaleza;CE; R$ 158.473,51 ;S/Comprovação;Roubo
+2018-09-25;21:30;Tibagi;PR;BR 376;Combustível;Araucária;PR;Dourados;MS; R$ 137.097,00 ;Agregado;Roubo
+2018-09-26;19:11;Ribeirão Preto;SP;SP 330 Km 321;Alumínio;Ipiranga;GO;Pindamonhangaba;SP; R$ 142.462,40 ;Autônomo;Roubo
+2018-09-26;2:00;Igaratá;SP;SP 065 Km 24;Específicas;Catalão;GO;Campo dos Goytacazes;RJ; R$ 153.364,80 ;S/Comprovação;Roubo
+2018-09-26;10:35;São José dos Pinhais;PR;BR 376 Km 624;Bebidas;Itajaí;SC;Rio de Janeiro;RJ; R$ 197.501,30 ;S/Comprovação;Roubo
+2018-09-28;6:38;Embú das Artes;SP;BR 116;Aço/Ferro;Pindamonhangaba;SP;Jaraguá do Sul;SC; R$ 129.738,53 ;Autônomo;Roubo
+2018-09-28;10:00;Caucaia;CE;BR 222 Km 04;Frigorífico;Caucaia;CE;Caucaia;CE; R$ 266.732,97 ;S/Comprovação;Variação de Temperatura
+2018-09-28;1:05;Carceres;MT;BR 174 Km 100;Frigorífico;Rolim de Moura;RO;Itajaí;SC; R$ 270.853,73 ;S/Comprovação;Incêndio
+2018-09-29;11:00;Itaquiraí;MS;BR 163 Km104 ;Frigorífico;Chapéco;SC;Campo Grande;MS; R$ 218.366,96 ;S/Comprovação;Tombamento
+2018-09-29;2:30;Itapemirim;ES;BR 101;Laticínios;Cariacica;ES;Itapetininga;ES; R$ 352.500,00 ;Autônomo;Roubo
+2018-09-30;6:54;Itapeva;MG;Rua/Avenida;Calçados;Divinopólis;MG;Campinas;SP; R$ 263.261,48 ;Agregado;Furto em Depósito
+2018-09-30;11:30;Itaboraí;RJ;BR 493 Km  4;Defensivo Agrícola;Igarapava;SP;Aracruz;ES; R$ 206.300,01 ;S/Comprovação;Tombamento
+2018-09-30;9:30;Joaquim Gomes;AL;BR 101 Km 34;Confecção/Tecido/Fios;Três Rios;RJ;Cabo de Santo Agostinho;PE; R$ 215.878,17 ;S/Comprovação;Tombamento
+2018-10-01;12:30;São Gonçalo;RJ;Rua/Avenida;Geral;Duque de Caxias;RJ;São Gonçalo;RJ; R$ 187.832,67 ;Agregado;Roubo
+2018-10-01;14:00;São Paulo;SP;Rua/Avenida;Aço/Ferro;Barra Mansa;RJ;São Paulo;SP; R$ 109.667,74 ;Autônomo;Roubo
+2018-10-02;14:45;Faxinal;PR;BR 376 Km 305;Frigorífico;Mandaguari;PR;Navegantes;SC; R$ 202.272,78 ;S/Comprovação;Tombamento
+2018-10-02;21:30;Cubatão;SP;SP 248;Autopeças;Sorocaba;SP;Guarujá;SP; R$ 920.154,24 ;S/Comprovação;Roubo
+2018-10-02;20:45;Mairiporã;SP;BR 381;Específicas;Extrema;MG;Guarulhos;SP; R$ 1.314.907,17 ;S/Comprovação;Roubo
+2018-10-03;14:30;Ponte Alta do Sul;SC;BR 116 Km 211;Papel;Correia Pinto;SC;Mogi das Cruzes;SP; R$ 132.128,67 ;S/Comprovação;Tombamento
+2018-10-03;13:00;Guarulhos;SP;Rua/Avenida;Calçados;Nova Serrana;MG;São Paulo;SP; R$ 105.527,20 ;S/Comprovação;Roubo
+2018-10-04;2:00;Santo  Antonio de Padua;RJ;BR 393 Km 07;Específicas;Viana;ES;Curitiba;PR; R$ 731.672,82 ;S/Comprovação;Tombamento
+2018-10-04;11:20;Embú das Artes;SP;SP 234;Veículo;São Bernado do Campo;SP;São Jose dos Pinhais;PR; R$ 265.128,00 ;Agregado;Roubo
+2018-10-04;22:40;São Bernardo do Campo;SP;Rua/Avenida;Autopeças;São Bernardo do Campo;SP;Piracicaba;SP; R$ 151.842,88 ;Agregado;Roubo
+2018-10-04;22:00;Sapucaia;RJ;BR 393;Laticínios;Nova Venécia;ES;Araçariguama;SP; R$ 207.386,37 ;Funcionário;Roubo
+2018-10-04;23:00;Muriaé;MG;BR 116 Km 706;Confecção/Tecido/Fios;Rio de Janeiro;RJ;Maceio;AL; R$ 476.918,34 ;Funcionário;Roubo
+2018-10-05;6:00;Hidrolândia;GO;BR 153;Hig/Limp/Cosm;Louveira;SP;Belém;PA; R$ 230.715,43 ;Autônomo;Roubo
+2018-10-05;6:05;Rio de Janeiro;RJ;BR 101;Hig/Limp/Cosm;Jundiaí;SP;Rio de Janeiro;RJ; R$ 302.606,15 ;S/Comprovação;Roubo
+2018-10-05;4:15;São Paulo;SP;Rua/Avenida;Hig/Limp/Cosm;Louveira;SP;São Paulo;SP; R$ 434.500,00 ;Funcionário;Roubo
+2018-10-06;22:00;Esplanada;BA; ;Hig/Limp/Cosm;Simões Filho;BA;Aracaju;SE; R$ 185.463,11 ;S/Comprovação;Roubo
+2018-10-06;9:00;Manhuaçu;MG;BR 116 Km 594,5;Alumínio;Pindamonhangaba;SP;Cabo de Santo Agostinho;PE; R$ 622.777,54 ;S/Comprovação;Tombamento
+2018-10-07;15:51;São Paulo;SP;SP 015;Eletrônicos;Cajamar;SP;Serra;ES; R$ 491.569,95 ;S/Comprovação;Roubo
+2018-10-07;4:50;Miracatu;SP;BR 116 Km 326;Pneus;Itajaí;SC;Jaboatão dos Guararapes;PE; R$ 361.560,59 ;Autônomo;Roubo
+2018-10-07;12:00;Campo Alegre de Goiás;GO;Desvio;Sementes;Campo Alegre de Goias;GO;Bom Jesus de Goias;GO; R$ 263.936,00 ;Autônomo;Desvio de Carga
+2018-10-08;16:50;Dourados;SP;SP 215;Ração Animal;Toledo;PR;Dourados;MS; R$ 420.520,78 ;S/Comprovação;Molhadura
+2018-10-08;19:40;Carlos Chagas;MG;BR 418 Km 74;Café;Itabela;BA;Cornélio Procópio;PR; R$ 218.750,00 ;Funcionário;Roubo
+2018-10-08;9:15;Portelândia;GO;BR 364 Km 332,6;Tratores/Empilhadeiras;Sorocaba;SP;Lucas do Rio Verde;MT; R$ 687.340,79 ;S/Comprovação;Colisão
+2018-10-08;22:12;Catuji;MG;BR 116 KM 207;Confecção/Tecido/Fios;Rio de Janeiro;RJ;São Luiz;MA; R$ 663.882,15 ;S/Comprovação;Roubo
+2018-10-08;19:06;Japeri;RJ;BR 116;Eletrônicos;Rio de Janeiro;RJ;São Paulo;SP; R$ 413.824,46 ;S/Comprovação;Tombamento
+2018-10-09;8:00;Caraguatatuba;SP;Transporte;Alimentício;Taboão da Serra;SP;Caraguatatuba;SP; R$ 270.569,34 ;S/Comprovação;Variação de Temperatura
+2018-10-09;11:10;São João de Meriti;RJ;Estrada;Alimentício;Belford Roxo;RJ;São João de Meriti;RJ; R$ 102.051,30 ;S/Comprovação;Roubo
+2018-10-09;11:00;Gilbués;PI;PI 260;Defensivo Agrícola;Guararema;SP;Paragominas;PA; R$ 303.436,80 ;S/Comprovação;Tombamento
+2018-10-09;12:35;Manoel Vitorino;BA;BR 116 Km 717,5;Autopeças;Limeira;SP;Nova Goiana;PE; R$ 265.180,36 ;S/Comprovação;Incêndio
+2018-10-10;5:00;São Lourenço da Mata;PE;BR 408 Km 85;Tinta/Verniz;Jaboatão dos Guararapes;PE;Limoeiro;PE; R$ 141.607,33 ;S/Comprovação;Tombamento
+2018-10-10;4:00;Jacareí;SP;BR 116 Km 159;Geral;Cajamar;SP;São José dos Campos;SP; R$ 200.000,00 ;Autônomo;Roubo
+2018-10-10;11:15;Itapecerica da Serra;SP;BR 116 Km 294;Veículo;Curitiba;PR;Campinas;SP; R$ 693.000,00 ;Funcionário;Roubo
+2018-10-10;11:00;Araquari;SC;Desvio;Aço/Ferro;Cachoeirinha;RS;Ponta Grossa;PR; R$ 173.466,30 ;Autônomo;Desvio de Carga
+2018-10-10;9:00;Manhuaçu;MG;BR 262 Km 46,3;Frigorífico;Hidrolândia;GO;Vila Velha;ES; R$ 283.472,00 ;S/Comprovação;Tombamento
+2018-10-11;5:00;Leopoldina;MG;BR 116 Km 776,9;Geral;Vila Velha;ES;Jacarei;SP; R$ 250.000,00 ;S/Comprovação;Tombamento
+2018-10-11;18:15;Iguatama;MG;BR 354 KM 453;Café;Patrocínio;MG;Varginha;MG; R$ 234.050,00 ;Autônomo;Roubo
+2018-10-12;10:30;Pedra Branca do Araraquara;PR;BR 376 Km 674;Brinquedos;Embu das Artes;SP;Florianópolis;SC; R$ 113.376,40 ;S/Comprovação;Tombamento
+2018-10-15;0:30;Irionópolis;SC;SC 280;Alumínio;Itajaí;SC;Aberlado Luz;SC; R$ 263.775,32 ;Autônomo;Roubo
+2018-10-15;22:10;Porto Real do Colégio;AL;BR 101;Laticínios;Bragança Paulista;SP;Arapiraca;AL; R$ 392.158,49 ;Autônomo;Roubo
+2018-10-16;10:15;Taboão da Serra;SP;Transporte;Alimentício;Jaboatão dos Guararapes;PE;Taboão da Serra;SP; R$ 257.520,06 ;S/Comprovação;Variação de Temperatura
+2018-10-16;23:40;Vila Boa;GO;BR 020;Defensivo Agrícola;Sorocaba;SP;Luiz Eduardo Magalhães;BA; R$ 585.474,00 ;Agregado;Roubo
+2018-10-16;10:00;Teresina;PI;Rua/Avenida;Celulares;Manaus;AM;Teresina;PI; R$ 443.584,97 ;Funcionário;Roubo
+2018-10-16;14:00;Ponta Grossa;PR;Rua/Avenida;Tratores/Empilhadeiras;Curitiba;PR;Luis Eduardo Magalhães;BH; R$ 610.577,89 ;S/Comprovação;Queda
+2018-10-16;7:50;Nova Ponte;MG;MG 190 Km 98;Defensivo Agrícola;Uberaba;MG;Patos de Minas;MG; R$ 617.737,20 ;S/Comprovação;Tombamento
+2018-10-17;1:00;Atibaia;SP;BR 381 KM 28;Hig/Limp/Cosm;Vinhedo;SP;Cabo de Santo Agostinho;PE; R$ 379.536,04 ;Funcionário;Roubo
+2018-10-17;15:00;Rio dos Bois;TO;BR 153 Km 393;Específicas;Goiânia;GO;Imperatriz;MA; R$ 634.764,36 ;S/Comprovação;Incêndio
+2018-10-17;5:30;Juiz de Fora;MG;BR 267 Km 139;Específicas;Embu;SP;Juiz de Fora;MG; R$ 162.273,98 ;S/Comprovação;Colisão
+2018-10-17;23:30;Ibiá;MG;BR 262;Frigorífico;Ji-Paraná;RO;Ibirité;MG; R$ 294.818,00 ;Autônomo;Roubo
+2018-10-18;2:00;Guarulhos;SP;Rua/Avenida;Geral;São Paulo;SP;Guarulhos;SP; R$ 115.218,03 ;S/Comprovação;Furto em Depósito
+2018-10-18;1:00;São Simão;SP;SP 330 Km 264;Combustível;Paulínia;SP;Frutal;SP; R$ 134.685,00 ;Funcionário;Roubo
+2018-10-19;15:30;Bauru;SP;Desvio;Fraldas;Bauru;SP;Goiania;GO; R$ 117.952,79 ;Autônomo;Desvio de Carga
+2018-10-19;5:45;Conde;PB;BR 101;Específicas;Cabo de Santo Agostinho;PE;João Pessoa;PB; R$ 109.913,68 ;S/Comprovação;Roubo
+2018-10-19;20:22;Pindamonhangaba;SP;BR 116;Alumínio;Cabreuva;SP;Pindamonhangaba;SP; R$ 102.660,26 ;S/Comprovação;Roubo
+2018-10-20;1:20;São José dos Pinhais;PR;BR 376 KM 627;Hig/Limp/Cosm;Pouso Alegre;MG;Santa Cruz do Sul;RS; R$ 600.339,29 ;Agregado;Roubo
+2018-10-20;14:30;Arcoverde;PE;BR 232 KM 258;Alimentício;Garanhuns;PE;São Luiz;MA; R$ 202.430,48 ;S/Comprovação;Roubo
+2018-10-21;19:03;Wanderlândia;TO;BR 153 Km 100;Específicas;Sumaré;SP;Ananindeua;PA; R$ 755.111,29 ;S/Comprovação;Incêndio
+2018-10-21;17:00;Quadra;SP;SP 280;Frigorífico;Rondonópolis;MT;Valinhos;SP; R$ 238.351,67 ;Autônomo;Roubo
+2018-10-22;18:25;Guaratuba;PR;BR 376 KM 665;Hig/Limp/Cosm;Pouso Alegre;MG;Içara;SC; R$ 433.224,26 ;S/Comprovação;Tombamento
+2018-10-22;8:27;Cachoeira Paulista;SP; ;Eletrônicos;Cajamar;SP;Cariacica;ES; R$ 1.448.163,93 ;S/Comprovação;Roubo
+2018-10-22;23:00;São Paulo;SP;Rua/Avenida;Confecção/Tecido/Fios;São Paulo;SP;Diversos;SP; R$ 207.135,77 ;S/Comprovação;Furto em Depósito
+2018-10-23;9:00;Curitiba;PR;Rua/Avenida;Específicas;Curitiba;PR;Curitiba;PR; R$ 118.187,70 ;S/Comprovação;Roubo
+2018-10-23;6:00;Piraí;RJ;BR 116 Km 220;Óleo Lubrificante;Rio de Janeiro;RJ;Aparecida de Goiânia;GO; R$ 270.000,00 ;S/Comprovação;Tombamento
+2018-10-24;5:46;Rio de Janeiro;RJ;BR 101;Frigorífico;Araguaína;TO;Rio de Janeiro;RJ; R$ 307.420,89 ;Funcionário;Roubo
+2018-10-24;18:07;Uberaba;MG;BR 050 Km 141;Hig/Limp/Cosm;Catalão;GO;Ribeirão Preto;SP; R$ 527.162,50 ;S/Comprovação;Tombamento
+2018-10-24;9:30;Taperuabá;CE;BR 222 Km 215;Específicas;Sobral;CE;São Paulo;SP; R$ 273.442,56 ;S/Comprovação;Tombamento
+2018-10-25;14:00;Sete Lagoas;MG;Rua/Avenida;Alimentício;Sete Lagoas;MG;Contagem;MG; R$ 222.393,91 ;S/Comprovação;Roubo
+2018-10-25;12:00;Ravena;MG;BR 381;Específicas;Viana;ES;Goiania;GO; R$ 2.104.364,20 ;S/Comprovação;Incêndio
+2018-10-25;9:15;Miracatu;SP;BR 116 Km 387;Hig/Limp/Cosm;Amparo;SP;São José do Norte;RS; R$ 102.885,66 ;S/Comprovação;Colisão
+2018-10-26;4:16;Duque de Caxias;RJ;BR 040;Específicas;Duque de Caxias;RJ;Duque de Caxias;RJ; R$ 128.552,69 ;S/Comprovação;Roubo
+2018-10-26;6:00;Palmeira;PR;BR 376;Combustível;Araucária;PR;Campo Grande;MS; R$ 143.911,00 ;S/Comprovação;Roubo
+2018-10-26;1:00;Carmo da Cachoeira;MG;BR 381 Km 723;Específicas;Jundiaí;SP;Ribeirão das Neves;MG; R$ 412.568,24 ;S/Comprovação;Roubo
+2018-10-26;16:28;Rio de Janeiro;RJ;BR 101;Frigorífico;Araguaína;TO;Rio de Janeiro;RJ; R$ 432.149,63 ;Funcionário;Roubo
+2018-10-26;16:15;Uberlândia;MG;BR 365;Sementes;Uberlândia;MG;Brasília;DF; R$ 301.274,41 ;Autônomo;Roubo
+2018-10-27;4:30;Belford Roxo;RJ;Rua/Avenida;Hig/Limp/Cosm;Pouso Alegre;MG;Duque de Caxias;RJ; R$ 111.474,36 ;S/Comprovação;Roubo
+2018-10-28;20:00;Grajaú;MA;BR 226;Fraldas;Goiânia;GO;São Luís;MA; R$ 151.987,82 ;Autônomo;Roubo
+2018-10-29;23:57;Barra do Turvo;SP;BR 116;Alumínio;Araquari;SC;Pindamonhangaba;SP; R$ 372.118,03 ;Autônomo;Roubo
+2018-11-01;6:00;Ribeirão Preto;SP;SP 255 Km 12;Frigorífico;Sertãozinho;SP;São Carlos;SP; R$ 102.000,00 ;S/Comprovação;Roubo
+2018-11-01;1:00;Itajaí;SC;BR 101 ;Geral;Bento Gonçalves;RS;Manaus;AM; R$ 291.901,54 ;S/Comprovação;Furto
+2018-11-03;18:30;Pilar;AL;BR 101;Hig/Limp/Cosm;Louveira;SP;Cabo de Sto Agostinho;PE; R$ 400.285,71 ;Funcionário;Roubo
+2018-11-03;18:00;General Carneiro;PR;BR 153;Laticínios;Maravilha;SC;Vargem Grande Paulista;SP; R$ 155.925,00 ;S/Comprovação;Tombamento
+2018-11-04;21:30;Luís Eduardo Magalhães;BA;BR 020 Km 206;Defensivo Agrícola;Sorocaba;SP;Cuiabá;MT; R$ 1.408.560,00 ;Agregado;Roubo
+2018-11-05;20:00;Imbaú;PR;BR 376 Km 360;Combustível;Araucária;PR;Dourados;MS; R$ 123.182,10 ;S/Comprovação;Roubo
+2018-11-06;2:00;Matão;SP;BR 456 KM 295;Aço/Ferro;Jacareí;SP;Guajará-Mirim;RO; R$ 137.902,95 ;Autônomo;Roubo
+2018-11-06;18:30;Fundão;ES;BR 101 Km 225;Papel;Linhares;ES;Santana de Parnaiba;SP; R$ 284.771,94 ;S/Comprovação;Tombamento
+2018-11-07;10:00;Morrinhos;GO;BR 153;Material Escolar;Catanduva;SP;Anápolis;GO; R$ 169.933,80 ;Autônomo;Roubo
+2018-11-07;5:45;Rio de Janeiro;RJ;Rua/Avenida;Confecção/Tecido/Fios;Itaquaquecetuba;SP;Rio de Janeiro;RJ; R$ 601.243,68 ;S/Comprovação;Roubo
+2018-11-07;1:00;Porangatu;GO;BR 153;Alimentício;Morrinhos;GO;Palmas;TO; R$ 116.326,68 ;Autônomo;Roubo
+2018-11-07;6:30;São Paulo;SP;SP 280 KM 21;Laticínios;São Paulo;SP;Guarulhos;SP; R$ 140.558,50 ;Autônomo;Roubo
+2018-11-08;9:30;Rio de Janeiro;RJ;BR 101;Específicas;Rio de Janeiro;RJ;Rio de Janeiro;RJ; R$ 157.054,31 ;Agregado;Roubo
+2018-11-08;19:32;São Lourenço da Serra;SP;BR 116 Km 312;Utilidades Doméstica;Porto Ferreira;SP;Farropilha;RS; R$ 328.429,16 ;Autônomo;Roubo
+2018-11-09;19:34;Rialma;GO;BR 153 Km 307;Calçados;Sobral;CE;Aparecida de Goiânia;GO; R$ 406.146,87 ;S/Comprovação;Roubo
+2018-11-10;7:00;Diadema;SP;Rua/Avenida;Frigorífico;Janaúba;MG;Santos;SP; R$ 402.840,00 ;S/Comprovação;Roubo
+2018-11-12;3:26;Paracambi;RJ;BR 116 KM 215;Pescado;Navegantes;SC;Rio de Janeiro;RJ; R$ 311.575,98 ;S/Comprovação;Roubo
+2018-11-12;16:00;Rio de Janeiro;RJ;BR 101;Alimentício;Marituba;PA;Volta Redonda;RJ; R$ 129.200,00 ;Funcionário;Roubo
+2018-11-13;8:30;Cajati;SP;BR 116;Pescado;Laguna;SC;Maceio;AL; R$ 109.506,60 ;S/Comprovação;Tombamento
+2018-11-13;14:00;Cachoeira do Pajeú;MG;BR 251 Km 199;Específicas;Paulínia;SP;Ipojuca;PE; R$ 610.089,67 ;S/Comprovação;Tombamento
+2018-11-13;4:00;Guapimirim;RJ;BR 116 Km 99;Pneus;Feira de Santana;BA;Rio de Janeiro;RJ; R$ 158.569,59 ;S/Comprovação;Tombamento
+2018-11-14;9:30;Piracamjuba;GO;BR 60 Km 596;Defensivo Agrícola;Guararema;SP;Anápolis;GO; R$ 481.218,20 ;S/Comprovação;Roubo
+2018-11-14;5:00;São Paulo;SP;Rua/Avenida;Confecção/Tecido/Fios;Barueri;SP;São Paulo;SP; R$ 235.780,50 ;S/Comprovação;Roubo
+2018-11-14;4:30;Barueri;SP;BR 116 Km 385;Laticínios;Passo Fundo;RS;São Paulo;SP; R$ 205.732,80 ;S/Comprovação;Roubo
+2018-11-14;21:00;Irajuba;BA;BR 116 Km 599;Bebidas;Itajaí;SC;Jaboatão dos Guararapes;PE; R$ 400.270,00 ;S/Comprovação;Tombamento
+2018-11-15;12:00;Caceres;MT;BR 364 ;Frigorífico;Ji-Paraná;RO;Icara;SC; R$ 282.135,14 ;S/Comprovação;Tombamento
+2018-11-16;4:00;Jequié;BA; ;Brinquedos;Porto Feliz;SP;Cabo de Santo Agostinho;PE; R$ 113.691,60 ;S/Comprovação;Roubo
+2018-11-18;7:30;Goiânia;GO;BR 153 Km 490,40;Bebidas;Pirassununga;SP;Anápolis;GO; R$ 171.164,00 ;S/Comprovação;Tombamento
+2018-11-19;22:30;Goiatuba;GO;BR 153;Alimentício;Araras;SP;Brasília;DF; R$ 190.362,45 ;S/Comprovação;Roubo
+2018-11-20;22:55;Mascote;BA;BR 101 Km 639;Café;Teixeira de Freitas;BA;Itaporanga'd Ajuda;SE; R$ 224.375,00 ;S/Comprovação;Roubo
+2018-11-21;3:10;São Paulo;SP;SP 021 KM 27;Frigorífico;São Félix do Xingu;PA;Campo Limpo Paulista;SP; R$ 299.875,99 ;Autônomo;Roubo
+2018-11-21;20:30;Sapezal;MT;MT 235;Defensivo Agrícola;Cuiabá;MT;Sapezal;MT; R$ 1.151.713,35 ;S/Comprovação;Tombamento
+2018-11-21;10:50;Caucaia;CE;CE 085 Km 32;Eletrônicos;Fortaleza;CE;Caucaia;CE; R$ 225.199,86 ;S/Comprovação;Roubo
+2018-11-21;23:03;Francisco Santos;PI;BR 230  ;Frigorífico;Paraiso do Tocantins;TO;Macaíba;RN; R$ 111.789,62 ;S/Comprovação;Roubo
+2018-11-22;12:20;Rio de Janeiro;RJ;Rua/Avenida;Hig/Limp/Cosm;Pouso Alegre;MG;Rio de Janeiro;RJ; R$ 100.616,68 ;Funcionário;Roubo
+2018-11-22;1:21;Valinhos;SP;SP 065;Específicas;Campinas;SP;Betim;MG; R$ 848.157,25 ;S/Comprovação;Roubo
+2018-11-23;10:00;São José dos Campos;SP;Transporte;Específicas;Guarulhos;SP;Contagem;MG; R$ 634.086,96 ;S/Comprovação;Avarias
+2018-11-23;20:30;Feira de Santana;BA;BR 101;Específicas;Jundiaí;SP;Cabo de Santo Agostinho;PE; R$ 462.951,44 ;S/Comprovação;Roubo
+2018-11-24;21:00;Pirapora;MG;BR 365;Alumínio;Jaboatão dos Guararapes;PE;Paranaíba;MS; R$ 224.832,50 ;Autônomo;Roubo
+2018-11-24;17:00;Santo Antônio de Lisboa;PI;BR 020;Frigorífico;Araguaína;TO;Fortaleza;CE; R$ 169.108,96 ;S/Comprovação;Roubo
+2018-11-25;18:30;Campina Grande do Sul;PR;SP 230 Km 26;Polímeros;Navegantes;SC;São Paulo;SP; R$ 136.526,11 ;S/Comprovação;Tombamento
+2018-11-25;7:00;Barra do Turvo;SP;BR 116 Km 564;Frigorífico;Brasilia;DF;Itajaí;SC; R$ 116.213,41 ;S/Comprovação;Tombamento
+2018-11-26;9:30;Barra do Turvo;SP;BR 116 Km 563;Alimentício;Guarujá;SP;Pinhais;PR; R$ 239.292,53 ;S/Comprovação;Tombamento
+2018-11-26;4:30;Mauá;SP;Rua/Avenida;Brinquedos;Ribeiro Pires;SP;Campinas;SP; R$ 230.221,22 ;S/Comprovação;Roubo
+2018-11-26;20:00;Guarulhos;SP;BR 116;Específicas;Extrema;MG;Guarulhos;SP; R$ 542.818,74 ;S/Comprovação;Roubo
+2018-11-26;18:30;Rio de Janeiro;RJ;BR 101;Específicas;Duque de Caxias;RJ;Nova Iguaçú;RJ; R$ 388.152,95 ;S/Comprovação;Roubo
+2018-11-26;22:00;Carandari;MG;BR 040 Km 678;Polímeros;Três Rios;RJ;Montes Claros;MG; R$ 251.028,75 ;S/Comprovação;Tombamento
+2018-11-27;17:30;Rio de Janeiro;RJ;BR 040;Frigorífico;Betim;MG;São João de Meriti;RJ; R$ 160.650,00 ;S/Comprovação;Roubo
+2018-11-27;21:38;Rio de Janeiro;RJ;BR 116;Geral;Rio de Janeiro;RJ;São Paulo;SP; R$ 420.409,47 ;Autônomo;Roubo
+2018-11-27;11:30;São João de Meriti;RJ;Rua/Avenida;Eletrônicos;Campinas;SP;Rio de Janeiro;RJ; R$ 273.144,05 ;S/Comprovação;Roubo
+2018-11-28;9:25;Campinas;SP;SP 348 Km 98;Químico;Itajaí;SC;Hortolândia;SP; R$ 2.459.863,65 ;S/Comprovação;Roubo
+2018-11-29;12:40;Rio de Janeiro;RJ;BR 101;Hig/Limp/Cosm;Pouso Alegre;MG;Rio de Janeiro;RJ; R$ 105.983,16 ;S/Comprovação;Roubo
+2018-11-29;8:48; Rio de Janeiro;RJ;Rua/Avenida;Prod. Ópticos;Rio de Janeiro;RJ;Petrópolis;RJ; R$ 473.759,20 ;Agregado;Roubo
+2018-11-29;18:30;Campo Alegre;AL;BR 101 Km 168;Alimentício;Poço de Caldas;MG;Recife;PE; R$ 189.381,77 ;S/Comprovação;Tombamento
+2018-11-30;0:40;Itumbiara;GO;BR 153;Medicamento;Blumenau;SC;Aragoiania;GO; R$ 518.780,51 ;Autônomo;Roubo
+2018-11-30;0:01;Nova Lacerda;MT;BR 364 Km 70;Específicas;Guarulhos;SP;Porto Velho;RO; R$ 414.879,48 ;S/Comprovação;Tombamento
+2018-11-30;23:35;Botucatu;SP;SP 300;Doces/Chocolate;Marília;SP;Guarulhos;SP; R$ 139.593,00 ;Autônomo;Roubo
+2018-11-30;13:50;Miracatu;SP; ;Veículo;Duque de Caxias;RJ;Caxias do Sul;RS; R$ 373.000,00 ;S/Comprovação;Colisão
+2018-12-01;10:30;Araras;SP;BR 050;Defensivo Agrícola;São José dos Campos;SP;Teresina;PI; R$ 397.744,80 ;S/Comprovação;Roubo
+2018-12-02;23:48;Uberlândia;MG;BR 365 Km 640;Defensivo Agrícola;Mairinque;SP;Rondonópolis;MT; R$ 341.188,04 ;S/Comprovação;Roubo
+2018-12-02;23:47;São José dos Campos;SP;BR 116 Km 142;Pneus;Itajaí;SC;Vila Velha;ES; R$ 299.700,00 ;S/Comprovação;Roubo
+2018-12-03;23:50;Itatim;BA;BR 116 Km 515;Fraldas;Goiânia;GO;Fortaleza;CE; R$ 210.220,95 ;Autônomo;Roubo
+2018-12-04;14:55;Pien;PR;PR 420 Km 037;Aço/Ferro;São Bento do Sul;SC;Chapadão do Céu;GO; R$ 124.661,88 ;S/Comprovação;Adernamento
+2018-12-05;14:48;São Luis do Maranhão;MA;Transporte;Geral;São Paulo;SP;São Luis do Maranhão;MA; R$ 133.000,00 ;S/Comprovação;Avarias
+2018-12-06;16:47;Maringa;PR;Desvio;Ração Animal;Jaguari;SP;Cascavel;PR; R$ 190.711,76 ;S/Comprovação;Desvio de Carga
+2018-12-06;4:00;Caete;MG;BR 381 Km 430;Veículo;São Paulo;SP;Feira de Santana;BA; R$ 250.000,00 ;S/Comprovação;Tombamento
+2018-12-07;23:00;São Paulo;SP;Rua/Avenida;Específicas;São Paulo;SP;São Paulo;SP; R$ 149.766,82 ;S/Comprovação;Roubo
+2018-12-07;4:00;Jaguaribara;CE;BR 116 Km 286;Específicas;Osasco;SP;Caucaia;CE; R$ 257.121,63 ;S/Comprovação;Roubo
+2018-12-07;18:20;Extrema;MG;BR 381 Km 935;Químico;Guarulhos;SP;Fortaleza;CE; R$ 543.691,01 ;S/Comprovação;Tombamento
+2018-12-07;4:20;Piraquara;PR;BR 116 Km 78 ;Hig/Limp/Cosm;Itupeva;SP;Santos;SP; R$ 146.530,15 ;S/Comprovação;Tombamento
+2018-12-08;0:30;São José dos Pinhais;PR;BR 116 Km 104;Alimentício;Porto Belo;SC;Curitiba;PR; R$ 124.145,72 ;Funcionário;Roubo
+2018-12-09;21:00;Sapucaia;RJ; ;Café;Nova Venécia;ES;Jundiaí;SP; R$ 204.545,46 ;Funcionário;Roubo
+2018-12-09;20:30;Rio de Janeiro;RJ;BR 116;Alimentício;São Paulo;SP;Duque de Caxias;RJ; R$ 149.982,98 ;S/Comprovação;Roubo
+2018-12-09;15:19;Águas Vermelhas;MG;BR 251 ;Específicas;Osasco;SP;Teresina;PI; R$ 270.038,95 ;S/Comprovação;Colisão
+2018-12-10;16:00;Pirinópolis;GO;BR 153 Km 393;Defensivo Agrícola;Uberaba;MG;Pedro Afonso;TO; R$ 193.459,88 ;Funcionário;Roubo
+2018-12-10;23:00;Mirassol;SP;SP 310;Defensivo Agrícola;Sorocaba;SP;Cuiabá;MT; R$ 1.373.485,70 ;Funcionário;Roubo
+2018-12-10;0:01;Varginha;MG;BR 491 Km 234;Café;Varginha;MG;Poços de Caldas;MG; R$ 262.500,00 ;S/Comprovação;Tombamento
+2018-12-11;7:20;Garuva;SC;BR 101 Km 10;Hig/Limp/Cosm;Pouso Alegre;MG;Tijucas;SC; R$ 136.471,74 ;S/Comprovação;Roubo
+2018-12-11;2:00;Sorocaba;SP;SP 280 Km 167;Doces/Chocolate;Marília;SP;Guarulhos;SP; R$ 128.179,15 ;S/Comprovação;Incêndio
+2018-12-12;1:10;Rio de Janeiro;RJ;BR 101;Geral;Urussanga;SC;Vila Velha;ES; R$ 107.912,78 ;Autônomo;Roubo
+2018-12-12;21:00;Monte Santo de Minas;MG;BR 369 Km 100;Laticínios;Patrocínio;MG;Diversos;SP; R$ 237.600,00 ;Autônomo;Roubo
+2018-12-13;1:00;Campinas;SP;SP 065;Químico;Rio Claro;SP;Tremembé;SP; R$ 355.536,00 ;S/Comprovação;Roubo
+2018-12-13;19:10;Rio de Janeiro;RJ;BR 101;Bebidas;Rio de Janeiro;RJ;Poços de Caldas;MG; R$ 512.356,00 ;S/Comprovação;Roubo
+2018-12-13;16:40;Goiânia;GO;Transporte;Medicamento;Anápolis;GO;Duque de Caxias;RJ; R$ 879.658,81 ;S/Comprovação;Avarias
+2018-12-14;3:40;Tainhas;RS;RS 453 Km 237;Utilidades Doméstica;Caxias do Sul;RS;São Jose dos Pinhais;PR; R$ 654.406,48 ;S/Comprovação;Tombamento
+2018-12-14;16:00;Miguelopolis;SP;SP 425 Km 33;Pneus;Fazenda Rio Grande;PR;Belém;PA; R$ 223.684,99 ;S/Comprovação;Roubo
+2018-12-14;10:00;Duque de Caxias;RJ;BR 040;Específicas;Belford Roxo;RJ;Araruama;RJ; R$ 102.000,00 ;Funcionário;Roubo
+2018-12-15;11:25;Duque de Caxias;RJ;BR 040;Confecção/Tecido/Fios;Rio de Janeiro;RJ;Serra;ES; R$ 691.807,40 ;S/Comprovação;Roubo
+2018-12-15;8:30;Rio de Janeiro;RJ;BR 116 ;Específicas;Belford Roxo;RJ;Petrópolis;RJ; R$ 188.462,00 ;S/Comprovação;Roubo
+2018-12-15;10:00;Aliança do Tocantins;TO;BR 153 km 641;Calçados;Sobral;CE;Diversos;SP; R$ 242.619,04 ;S/Comprovação;Colisão
+2018-12-15;10:00;Aliança do Tocantins;TO;BR 153 Km 641;Calçados;Sobral;CE;São Paulo;SP; R$ 242.619,04 ;S/Comprovação;Tombamento
+2018-12-16;20:30;Porto Franco;MA;Rua/Avenida;Fraldas;Goiânia;GO;Belém;PA; R$ 127.474,30 ;Autônomo;Roubo
+2018-12-17;22:45;Rio de Janeiro;RJ;BR 116;Específicas;Rio de Janeiro;RJ;Guarulhos;SP; R$ 195.538,79 ;Funcionário;Roubo
+2018-12-17;16:20;Antonina;PR;BR 116;Bebidas;Jacareí;SP;Santa Cruz do Sul;RS; R$ 153.764,25 ;S/Comprovação;Roubo
+2018-12-17;0:01;Itaquaquecetuba;SP;Transporte;Maquinário;Barra Mansa;RJ;São Paulo;SP; R$ 259.532,95 ;-;Avarias
+2018-12-18;13:30;Paracatu;MG;MG 188 Km 186;Defensivo Agrícola;Boituva;SP;Paracatu;MG; R$ 227.376,00 ;Agregado;Roubo
+2018-12-19;3:50;São Miguel dos Campos;AL;BR 101;Bebidas;Jacareí;SP;São Jose de Mipibu;RN; R$ 142.593,46 ;S/Comprovação;Roubo
+2018-12-19;1:00;Governador Valadares;MG;BR 381 Km 212;Vidro;São Vicente;SP;Recife;PE; R$ 101.356,60 ;S/Comprovação;Tombamento
+2018-12-20;0:20;Ourinhos;SP;BR 153 Km 335;Confecção/Tecido/Fios;Curitiba;PR;Goiania;GO; R$ 654.428,78 ;Autônomo;Roubo
+2018-12-20;7:19; ;;Desvio;Aço/Ferro;Lorena;SP;Sertãozinho;SP; R$ 128.676,45 ;Autônomo;Desvio de Carga
+2018-12-20;18:30;Extrema;MG;BR 381 Km 936;Veículo;Juiz de Fora;MG;Guachos;SP; R$ 433.500,00 ;S/Comprovação;Tombamento
+2018-12-20;20:25;Betim;MG;BR 262 Km 362;Frigorífico;Araraquara;SP;Contagem;MG; R$ 216.677,18 ;S/Comprovação;Tombamento
+2018-12-21;23:00;Itapeva;MG;BR 381;Bebidas;Jacareí;SP;Betim;MG; R$ 119.000,00 ;Autônomo;Roubo
+2018-12-22;1:50;Rondonópolis;MT;BR 163 Km 119;Sementes;Cuiabá;MT;São Gabriel do Oeste;MS; R$ 710.000,00 ;Autônomo;Roubo
+2018-12-22;12:00;Rio Claro;SP; ;Aço/Ferro;Guarulhos;SP;Cuiabá;MT; R$ 103.358,85 ;S/Comprovação;Roubo
+2018-12-22;9:09;Rio de Janeiro;RJ;Transporte;Específicas;Ilhéus;BA;Rio de Janeiro;RJ; R$ 100.800,00 ;S/Comprovação;Extravio
+2018-12-23;12:00;Rio Claro;SP; ;Aço/Ferro;Guarulhos;SP;Cuiabá;MT; R$ 107.190,30 ;S/Comprovação;Roubo
+2018-12-24;6:00;Frutal;MG;BR 153 Km 207;Veículo;Catalão;GO;São Jose dos Pinhais;PR; R$ 455.000,00 ;S/Comprovação;Colisão
+2018-12-25;7:00;Guaratuba;PR;BR 376 KM 676;Hig/Limp/Cosm;Louveira;SP;Sapucaia do Sul;RS; R$ 140.140,17 ;S/Comprovação;Tombamento
+2018-12-26;13:50;Garuva;SC;BR 101 Km 676;Bebidas;Ponta Grossa;PR;Eldorado do Sul;RS; R$ 145.442,83 ;S/Comprovação;Incêndio
+2018-12-27;14:00;Petrolândia;PE;Desvio;Fertilizantes;São Paulo;SP;Icapui;CE; R$ 269.894,20 ;Autônomo;Desvio de Carga
+2018-12-28;14:30;Bragança Paulista;SP;BR 381;Hig/Limp/Cosm;Pouso Alegre;MG;Passo Fundo;RS; R$ 609.701,87 ;S/Comprovação;Roubo
+2018-12-28;7:30;Crixás;TO;BR 153;Frigorífico;Redenção;PA;Niterói;RJ; R$ 270.637,28 ;S/Comprovação;Tombamento
+2018-12-29;13:15;Atibaia;SP;SP 065 Km 66;Bebidas;Jacareí;SP;Brasília;DF; R$ 153.285,65 ;Autônomo;Roubo
+2018-12-29;17:00;Osório;RS;BR 101 Km 1155;Aço/Ferro;Gravatai;RS;Antônio Carlos;MG; R$ 495.000,00 ;S/Comprovação;Roubo
+2019-01-02;23:00;Lontras;SC;BR 470 Km 128;Frigorífico;Guatambu;SC;Navegantes;SC; R$ 178.670,12 ;Funcionário;Roubo
+2019-01-02;21:30;São José do Mipibu;RN;BR 101;Alimentício;João Pessoa;PB;Fortaleza;CE; R$ 139.414,17 ;S/Comprovação;Roubo
+2019-01-02;21:45;Nova Iguaçu;RJ;BR 116;Combustível;Rio de Janeiro;RJ;Guarulhos;SP; R$ 216.723,88 ;Agregado;Roubo
+2019-01-03;17:00;Itaobim;MG;BR 116 Km 98;Calçados;Sobral;CE;Belo Horizonte;MG; R$ 155.949,84 ;S/Comprovação;Colisão
+2019-01-04;20:30;Cabo de Santo Agostinho;PE;BR 101;Hig/Limp/Cosm;Ipojuca;PE;Cabo de Sto Agostinho;PE; R$ 102.102,53 ;S/Comprovação;Roubo
+2019-01-04;8:00;Rio de Janeiro;RJ;BR 101;Hig/Limp/Cosm;Pouso Alegre;MG;Rio de Janeiro;RJ; R$ 102.057,87 ;S/Comprovação;Roubo
+2019-01-06;18:18;Barra do Turvo;SP;BR 116 Km 561;Bebidas;Jacareí;SP;Foz do Iguaçu;PR; R$ 157.143,28 ;S/Comprovação;Roubo
+2019-01-08;8:00;Eldorado do Sul;RS;BR 290 Km 135;Tratores/Empilhadeiras;Eldorado do Sul;RS;Camaqua;RS; R$ 1.200.000,00 ;S/Comprovação;Colisão
+2019-01-08;9:40;Planura;MG;MG 455 Km 139;Fraldas;Goiânia;GO;Santo André;SP; R$ 129.368,31 ;S/Comprovação;Tombamento
+2019-01-10;11:11;Campo Largo;PR;BR 277;Frigorífico;Castro;PR;Itajaí;SC; R$ 173.736,48 ;Funcionário;Roubo
+2019-01-13;22:30;São Simão;SP;SP 330 Km 275;Aço/Ferro;Duque de Caxias;RJ;Araguari;MG; R$ 150.937,50 ;Autônomo;Roubo
+2019-01-15;17:00;Maracai;SP;SP 270 Km 474;Bebidas;Jacareí;SP;Paicandu;PR; R$ 130.670,12 ;S/Comprovação;Incêndio
+2019-01-15;12:30;Leme;SP;SP 330;Defensivo Agrícola;Barueri;SP;Ribeirão Preto;SP; R$ 259.000,00 ;S/Comprovação;Roubo
+2019-01-15;11:00;Rio de Janeiro;RJ;Estrada;Laticínios;Corumbaiba;GO;Rio de Janeiro;RJ; R$ 166.707,98 ;S/Comprovação;Roubo
+2019-01-15;23:00;Rio de Janeiro;RJ;Rua/Avenida;Eletrodoméstico;São Paulo;SP;Rio de Janeiro;RJ; R$ 137.592,50 ;S/Comprovação;Roubo
+2019-01-16;3:00;Onda Verde;SP;BR 153;Frigorífico;Água Azul do Norte;PA;Lençóis Paulista;SP; R$ 472.305,39 ;S/Comprovação;Roubo
+2019-01-17;18:30;Matão;SP;BR 364 KM 294;Defensivo Agrícola;Guararema;SP;Cuiabá;MT; R$ 190.425,60 ;S/Comprovação;Roubo
+2019-01-17;9:00;Pindamonhangaba;SP;BR 116 Km 92;Alumínio;Cariacica;ES;Pindamonhangaba;SP; R$ 441.564,71 ;Autônomo;Roubo
+2019-01-17;9:00;Pindamonhangaba;SP;BR 116 Km 92;Alumínio;Vitória;ES;Pindamonhangaba;SP; R$ 439.922,95 ;Autônomo;Roubo
+2019-01-18;6:30;Belford Roxo;RJ;BR 116;Pescado;Piracicaba;SP;Rio de Janeiro;RJ; R$ 146.702,26 ;S/Comprovação;Roubo
+2019-01-19;10:00;Saloá;PE;BR 423 Km 1;Bebidas;Itajaí;SC;Cabo de Santo Agostinho;PE; R$ 281.109,88 ;S/Comprovação;Roubo
+2019-01-19;17:00;Itapajé;CE;BR 222 Km 126;Hig/Limp/Cosm;Feira de Santana;BA;Belém;PA; R$ 923.937,31 ;S/Comprovação;Colisão
+2019-01-19;13:45;Leopoldina;MG;BR 116 Km 787,5;Alumínio;Pindamonhangaba;SP;Cabo de Santo Agostinho;PE; R$ 610.277,19 ;S/Comprovação;Tombamento
+2019-01-20;2:30;Seropédica;RJ;BR 116 KM 196;Confecção/Tecido/Fios;São José;SC;Rio de Janeiro;RJ; R$ 697.444,36 ;S/Comprovação;Roubo
+2019-01-20;20:00;Jundiaí;SP;SP 348 Km 64;Frigorífico;Ipora;GO;Cajamar;SP; R$ 179.206,20 ;Autônomo;Roubo
+2019-01-21;5:00;São José dos Pinhais;PR;BR 116 ;Pneus;Curitiba;PR;Paranagua;PR; R$ 153.548,09 ;S/Comprovação;Roubo
+2019-01-21;13:40;Rio de Janeiro;RJ;BR 101;Alimentício;Perdizes;MG;Rio de Janeiro;RJ; R$ 116.289,60 ;S/Comprovação;Roubo
+2019-01-21;7:00;Duque de Caxias;RJ;BR 040 KM 123;Geral;Cabreuva;SP;Rio de Janeiro;RJ; R$ 916.099,94 ;S/Comprovação;Roubo
+2019-01-22;10:50;Curitiba;PR;BR 116;Frigorífico;Presidente Prudente;SP;São João do Itaperiu;SC; R$ 216.287,64 ;S/Comprovação;Tombamento
+2019-01-23;2:30;Araquari;SC;BR 101 Km 56;Geral;Itubaram;SC;São Bernando do Campo;SP; R$ 137.592,00 ;S/Comprovação;Incêndio
+2019-01-24;17:30;Rio de Janeiro;RJ;Rua/Avenida;Frigorífico;Mandaguari;PR;Rio de Janeiro;RJ; R$ 212.565,06 ;Agregado;Roubo
+2019-01-24;10:00;Seropédica;RJ;BR 116;Alumínio;Cariacica;ES;Pindamonhangaba;SP; R$ 490.099,31 ;S/Comprovação;Roubo
+2019-01-24;22:30;São Paulo;SP;Rua/Avenida;Confecção/Tecido/Fios;São Paulo;SP;Passo Fundo;RS; R$ 462.615,25 ;S/Comprovação;Roubo
+2019-01-25;5:00;Poços da Caldas;MG;BR 359 Km 09;Hig/Limp/Cosm;Aguaí;SP;Pouso Alegre;MG; R$ 108.273,69 ;S/Comprovação;Tombamento
+2019-01-25;8:00;Matias Barbosa;MG;MG 353 Km 800;Confecção/Tecido/Fios;Rio de Janeiro;RJ;Pará;PA; R$ 532.516,31 ;S/Comprovação;Roubo
+2019-01-25;23:27;Juquiá;SP;BR 116 Km 412;Confecção/Tecido/Fios;Itaquaquecetuba;SP;Blumenau;SC; R$ 177.076,00 ;S/Comprovação;Tombamento
+2019-01-27;8:06;Vitória da Conquista;BA;BR 116 Km 891;Específicas;Guarulhos;SP;Recife;PE; R$ 651.887,98 ;S/Comprovação;Colisão
+2019-01-28;9:30;Queimados;RJ;Rua/Avenida;Eletrônicos;Cariacica;ES;Seropédica;RJ; R$ 479.598,00 ;S/Comprovação;Roubo
+2019-01-28;18:15;Capim Grasso;BA;BR 407 Km 02;Defensivo Agrícola;Sorocaba;SP;Bayeux;PB; R$ 1.439.322,72 ;Agregado;Roubo
+2019-01-29;4:00;São José dos Pinhais;PR;BR 116;Brinquedos;Itapoa;SC;São Paulo;SP; R$ 140.377,84 ;S/Comprovação;Roubo
+2019-01-30;4:30;Guará;SP;SP 330 Km 391;E-commerce;Barueri;SP;Brasília;DF; R$ 303.453,80 ;S/Comprovação;Roubo
+2019-01-30;18:00;Mauá da Serra;PR;BR 376 Km 307;Frigorífico;Rolândia;PR;Pranagua;PR; R$ 117.183,36 ;S/Comprovação;Tombamento
+2019-02-01;1:00;Atibaia;SP;SP 065;Alumínio;Pinheiral;RJ;São Joaquim de Bicas;MG; R$ 164.195,85 ;Autônomo;Roubo
+2019-02-01;12:40;Rio Verde;GO;BR 452 KM 164;Combustível;Quirinopolis;GO;Senador Canedo;GO; R$ 117.372,60 ;Agregado;Roubo
+2019-02-02;5:00;Posso;GO;GO 020 Km 195;Laticínios;Corumbaiba;GO;Picos;PI; R$ 122.966,37 ;Autônomo;Roubo
+2019-02-04;7:00;São José do Rio Preto;SP;BR 153 Km 66;Eletrodoméstico;Timbó;SC;Santa Isabel do Pará;PA; R$ 196.305,20 ;S/Comprovação;Incêndio
+2019-02-05;17:00;São Luis do Norte;GO;BR 153;Laticínios;Corumbaiba;GO;Fortaleza;CE; R$ 205.237,50 ;S/Comprovação;Roubo
+2019-02-05;14:30;Nova Gloria;GO;BR 153;Laticínios;Corumbaiba;GO;Belém;PA; R$ 236.170,00 ;S/Comprovação;Roubo
+2019-02-05;18:00;São Paulo;SP;Rua/Avenida;Confecção/Tecido/Fios;São Paulo;SP;Ilhota;SC; R$ 116.170,00 ;S/Comprovação;Roubo
+2019-02-05;19:30;Cachoeirinha;PE;BR 423;Bebidas;Itajaí;SC;Cabo de Santo Agostinho;PE; R$ 196.662,67 ;S/Comprovação;Roubo
+2019-02-05;19:30;Cachoeirinha;PE;BR 423;Bebidas;Itajaí;SC;Cabo de Santo Agostinho;PE; R$ 196.662,67 ;S/Comprovação;Roubo
+2019-02-06;23:00;Pouso Alegre;MG;BR 381;Defensivo Agrícola;Guararema;SP;Sete Lagoas;MG; R$ 113.880,00 ;S/Comprovação;Roubo
+2019-02-06;3:00;Itapeva;SP;SP 330;Medicamento;Itapevi;SP;Fortaleza;CE; R$ 1.300.000,00 ;S/Comprovação;Roubo
+2019-02-06;4:00;São Carlos;SP;SP 310 Km 238;Aço/Ferro;Osasco;SP;São José do Rio Preto;SP; R$ 118.388,02 ;Autônomo;Roubo
+2019-02-07;8:30;Nova Laranjeiras;PR;BR 277 Km 484;Autopeças;Curitiba;PR;Cascavel;PR; R$ 448.629,65 ;S/Comprovação;Tombamento
+2019-02-07;16:00;São Miguel dos Campos;AL;BR 101;E-Commerce;Recife;PE;Salvador;BA; R$ 437.760,00 ;S/Comprovação;Roubo
+2019-02-08;0:41;Santa Cruz de Salinas;MG;BR 251 Km 227;Específicas;Belo Horizonte;MG;Feira de Santana;BA; R$ 493.386,91 ;S/Comprovação;Roubo
+2019-02-09;23:00;Uberaba;MG;BR 050;Hig/Limp/Cosm;Louveira;SP;Aparecida de Goiânia;GO; R$ 595.987,89 ;S/Comprovação;Roubo
+2019-02-10;1:30;Brumadinho;MG;BR 381 Km 523;Específicas;Guarulhos;SP;Vitoria da Conquista;BA; R$ 553.280,17 ;S/Comprovação;Incêndio
+2019-02-11;23:00;Nova Veneza;SP;GO 222 ;Combustível;Primavera do Leste;MT;Candeias;BA; R$ 115.847,40 ;S/Comprovação;Tombamento
+2019-02-11;1:20;Barra do Turvo;SP;BR 116 Km 566;Diversos;São José dos Pinhais;PR;Guarulhos;SP; R$ 485.204,38 ;S/Comprovação;Colisão
+2019-02-12;11:30;Guará;SP;SP 330;E-Commerce;Barueri;SP;Brasília;DF; R$ 777.786,39 ;S/Comprovação;Roubo
+2019-02-12;10:50;Caçapava;SP;BR 116 Km 133;Aço/Ferro;Taubaté;SP;Diadema;SP; R$ 116.509,79 ;S/Comprovação;Roubo
+2019-02-12;6:00;Recife;PE;Rua/Avenida;Bebidas;Itapissuma;PE;Recife;PE; R$ 172.286,64 ;S/Comprovação;Roubo
+2019-02-12;10:36;Miracatu;SP;BR 116 Km 362;Bebidas;Itu;SP;Icara;SC; R$ 132.191,68 ;S/Comprovação;Tombamento
+2019-02-15;17:00;Içara;SC;SC 443 Km 21;Madeira;Criciúma;SC;Navegantes;SC; R$ 133.140,15 ;S/Comprovação;Tombamento
+2019-02-15;17:00;Içara;SC;SC 443;Geral;Criciúma;SC;Navegantes;SC; R$ 133.140,15 ;S/Comprovação;Tombamento
+2019-02-16;23:30;São Joaquim da Barra;SP;SP 330;Bebidas;Jacareí;SP;Trindade;GO; R$ 126.711,15 ;Autônomo;Roubo
+2019-02-17;7:20;Carmo da Cachoeira;MG;BR 381 Km 722;Frigorífico;Palmas;PR;Santa Luiza;MG; R$ 155.717,20 ;S/Comprovação;Tombamento
+2019-02-17;15:00;Rio de janeiro;RJ;Rua/Avenida;Veículo;São Bernado do Campo;SP;Rio de Janeiro;RJ; R$ 173.300,00 ;S/Comprovação;Tombamento
+2019-02-17;17:00;Irani;SC;BR 153 Km 80;Veículo;Curitiba;PR;Passo Fundo;RS; R$ 425.199,00 ;S/Comprovação;Colisão
+2019-02-18;1:30;Camanducaia;MG;BR 381 Km 921;Frigorífico;Ibiritê;MG;Santos;SP; R$ 508.366,91 ;S/Comprovação;Tombamento
+2019-02-18;16:20;Matão;SP;SP 330 Km 258;Óleo Comestível;Matão;SP;Guarujá;SP; R$ 649.991,61 ;S/Comprovação;Roubo
+2019-02-20;17:00;Vinhedo;SP;SP 330;Hig/Limp/Cosm;Vinhedo;SP;Louveira;SP; R$ 279.717,74 ;S/Comprovação;Roubo
+2019-02-20;1:30;Jacupiranga;SP;BR 116;Hig/Limp/Cosm;Itajaí;SC;Guarulhos;SP; R$ 215.000,00 ;S/Comprovação;Roubo
+2019-02-21;0:25;Prata;MG;BR 153 Km 131;Pneus;Itajaí;SC;Diversos;MG; R$ 309.799,03 ;S/Comprovação;Roubo
+2019-02-22;7:00;Pedra;PE;PE 424;Frigorífico;Itaboraí;RJ;Caruaru;PE; R$ 318.750,00 ;S/Comprovação;Roubo
+2019-02-23;20:20;Barbacena;MG;BR  040 Km 705;Frigorífico;Araguaiana;MT;Itaperuna;RJ; R$ 174.118,68 ;S/Comprovação;Roubo
+2019-02-26;19:10;Maracanau;CE;Rua/Avenida;Alumínio;Pindamonhangaba;SP;Maracanau;CE; R$ 518.814,35 ;S/Comprovação;Adernamento
+2019-02-27;20:00;Caxias;MA;BR 116 Km 372;Bebidas;Recife;PE;Benevides;PA; R$ 100.920,78 ;S/Comprovação;Tombamento
+2019-02-27;2:30;São Caetano;PE;BR 232;Bebidas;Cabo de Santo Agostinho;PE;Poços de Caldas;MG; R$ 351.696,67 ;Autônomo;Roubo
+2019-02-28;11:40;Lavras;MG;BR 381 Km 704;Alimentício;Osasco;SP;Caucaia;CE; R$ 241.820,81 ;S/Comprovação;Roubo
+2019-03-01;3:40;Jundiaí;SP;Rua/Avenida;Específicas;Jundiaí;SP;São José dos Campos;SP; R$ 304.506,21 ;S/Comprovação;Roubo
+2019-03-01;4:50;Belford Roxo;RJ;Rua/avenida;Alimentício;Jundiaí;SP;Rio de Janeiro;RJ; R$ 164.056,80 ;S/Comprovação;Roubo
+2019-03-01;8:20;Goiânia;GO;Rua/Avenida;Específicas;Goiânia;GO;Goiânia;GO; R$ 467.600,10 ;S/Comprovação;Tombamento
+2019-03-02;22:30;São Paulo;SP;SP 330 KM 99;Aço/Ferro;Itapecerica da Serra;SP;Neves Paulista;SP; R$ 141.412,63 ;Autônomo;Roubo
+2019-03-07;11:30;Recife;PE;Rua/avenida;Pescado;Laguna;SC;Recife;PE; R$ 144.144,00 ;S/Comprovação;Variação de Temperatura
+2019-03-07;10:00;Itapeva;MG;BR 381 918,6;Alimentício;Maceió;AL;Guarulhos;SP; R$ 386.887,23 ;S/Comprovação;Roubo
+2019-03-09;18:00;Nova Xavantina;MT;Rua/Avenida;Defensivo Agrícola;Cuiabá;MT;Querência;MT; R$ 501.945,60 ;S/Comprovação;Roubo
+2019-03-10;16:00;Nova Mutum;MT;MT 249;Combustível;Porto Velho;RO;Nova Mutum;MT; R$ 188.880,90 ;S/Comprovação;Roubo
+2019-03-11;12:00;Curitiba;PR;Rua/Avenida;Café;Curitiba;PR;São Paulo;SP; R$ 105.974,80 ;S/Comprovação;Roubo
+2019-03-12;23:30;São José dos Campos;SP;BR 116 KM 146;Hig/Limp/Cosm;Pouso Alegre;MG;Rio de Janeiro;RJ; R$ 531.148,52 ;S/Comprovação;Colisão
+2019-03-12;12:30;Quatro Barras;PR;BR 376;E-Commerce;Itapevi;SP;Itajaí;SC; R$ 928.287,00 ;S/Comprovação;Roubo
+2019-03-12;17:30;Irani;SC;BR 153 Km 39;Alimentício;Entre Rios;AR;São Paulo;SP; R$ 156.800,00 ;S/Comprovação;Tombamento
+2019-03-12;17:30;Rio de Janeiro;RJ;Rua/Avenida;Celulares;Serra;ES;Rio de Janeiro;RJ; R$ 133.814,67 ;S/Comprovação;Roubo
+2019-03-13;15:00;Rosário do Catete;SE;BR 101 Km 61;Doces/Chocolate;Mairiporã;SP;Jaboatão dos Guararapes;PE; R$ 538.172,77 ;S/Comprovação;Tombamento
+2019-03-14;3:40;São Gonçalo;RJ;Estrada;Específicas;Belford Roxo;RJ;Niterói;RJ; R$ 102.110,46 ;Funcionário;Roubo
+2019-03-14;0:01;Aracati;CE;BR 304;Bebidas;Cabo de Santo Agostinho;PE;Maracanau;CE; R$ 413.044,51 ;S/Comprovação;Roubo
+2019-03-14;21:00;Jundiaí;SP;Rua/Avenida;Alimentício;Jundiaí;SP;Arujá;SP; R$ 185.611,65 ;S/Comprovação;Roubo
+2019-03-14;15:00;Água Doce;SC;BR 153 Km 37;Laticínios;Pinhalzinho;SC;São José dos Pinhais;PR; R$ 313.448,93 ;S/Comprovação;Tombamento
+2019-03-17;10:30;Ibirapitanga;BA;BR 101 Km 388;Fibra Ótica;Salvador;BA;Ilhéus;BA; R$ 355.844,00 ;S/Comprovação;Tombamento
+2019-03-17;23:00;Matão;SP;SP 310;Frigorífico;Rolin de Moura;RO;Araraquara;SP; R$ 386.403,44 ;S/Comprovação;Roubo
+2019-03-18;0:40;Itaquaquecetuba;SP;SP 070 Km 42;Combustível;Rio de Janeiro;RJ;Guarulhos;SP; R$ 177.135,58 ;S/Comprovação;Roubo
+2019-03-18;12:30;Paulinia;SP;Rua/Avenida;Aço/Ferro;Caixas do Sul;RS;Curitiba;PR; R$ 103.850,00 ;S/Comprovação;Roubo
+2019-03-18;18:00;Itamaraty;BA;BR 101 Km 411;Alimentício;Gloria do Goitá;PE;Eunápolis;BA; R$ 138.180,98 ;S/Comprovação;Tombamento
+2019-03-18;3:00;Porto Ferreira;SP;SP 330;Laticínios;Corumbaiba;GO;Cajamar;SP; R$ 157.590,00 ;S/Comprovação;Roubo
+2019-03-19;4:35;Rio de Janeiro;RJ;BR 101;E-commerce;Vitória;ES;Rio de Janeiro;RJ; R$ 207.109,75 ;S/Comprovação;Roubo
+2019-03-19;13:00;São Paulo;SP;SP 270;Doces/Chocolate;Barueri;SP;São Paulo;SP; R$ 150.136,49 ;S/Comprovação;Roubo
+2019-03-19;23:50;Cravilhos;SP;SP 330 Km 301;Específicas;Batatais;SP;São Paulo;SP; R$ 495.857,00 ;S/Comprovação;Incêndio
+2019-03-19;8:00;Contenda;PR;BR 476 Km 180;Diversos;Chapecó;SC;Curitiba;PR; R$ 500.000,00 ;S/Comprovação;Tombamento
+2019-03-20;21:20;Nova Laranjeiras;PR;BR 277 Km 482;Frigorífico;Matelândia;PR;Porto de Paranaguá;PR; R$ 142.717,68 ;S/Comprovação;Tombamento
+2019-03-20;23:00;São Paulo;SP;SP 015;E-commerce;São Paulo;SP;Belo Horizonte;MG; R$ 879.966,55 ;S/Comprovação;Roubo
+2019-03-20;2:00;Tatuí;SP;SP 280 Km 138;Alimentício;Guarulhos;SP;Barra Bonita;SP; R$ 260.000,00 ;S/Comprovação;Tombamento
+2019-03-21;21:30;Junqueiro;AL;BR 101;Hig/Limp/Cosm;Cabo de Santo Agostinho;PE;Salvador;BA; R$ 143.385,34 ;S/Comprovação;Tombamento
+2019-03-23;20:19;Sertania;PE;BR 110;Algodão;São Desiderio;BA;Campina Grande;PA; R$ 207.692,54 ;S/Comprovação;Roubo
+2019-03-23;5:00;Jacareí;SP;BR 116 Km 169;Bebidas;Jacareí;SP;Trindade;GO; R$ 195.288,92 ;Autônomo;Roubo
+2019-03-23;0:01;Barueri;SP; ;Confecção/Tecido/Fios;São Paulo;SP;Serra;ES; R$ 353.496,00 ;S/Comprovação;Roubo
+2019-03-25;10:30;Teresina;PI; ;Eletrodoméstico;Teresina;PI;Terezina;PI; R$ 369.000,00 ;S/Comprovação;Roubo
+2019-03-26;2:41;Pindamonhangaba;SP; ;Polímeros;Três Rios;RJ;Cotia;SP; R$ 138.773,25 ;S/Comprovação;Roubo
+2019-03-29;22:00;Osório;RS;BR 101 Km 80;Veículo;Flores da Cunha;RS;Americana;SP; R$ 329.000,00 ;S/Comprovação;Avarias
+2019-03-30;19:00;Granada;SP;BR 153 ;Algodão;Mineiros;GO;Peruibe;SP; R$ 177.404,90 ;S/Comprovação;Roubo
+2019-03-31;17:44;Água Belas;PE;BR 423  ;Hig/Limp/Cosm;Goiânia;GO;Caruaru;PE; R$ 144.418,45 ;S/Comprovação;Roubo
