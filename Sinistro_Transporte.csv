@@ -1,1477 +1,1477 @@
-sinistro	data	horario	uf_ocorrencia	mercadoria	origem_uf	destino_uf	faixa_valor_carga	vinculo_motorista	local_ocorrencia
-Acidente	2017-08-01	Noite	SC	Específicas	SP	RS	1	Agregado	BR 153
-Acidente	2017-08-28	Manhã	MG	Hig/Limp/Cosm	MG	MG	2	Agregado	BR 381
-Acidente	2017-10-09	Manhã	RJ	Específicas	GO	RJ	2	Agregado	Rua/Avenida
-Acidente	2017-12-07	Tarde	MG	Específicas	GO	ES	3	Agregado	BR 262
-Acidente	2017-01-14	Madrugada	MG	Frigorífico	MG	SP	2	Autônomo	BR 135
-Acidente	2017-01-17	Madrugada	AL	Geral	SP	PR	3	Autônomo	BR 423
-Acidente	2017-03-17	Manhã	SP	Alimentício	PR	CE	1	Autônomo	SP 563
-Acidente	2017-05-04	Noite	MG	Rolamentos	SC	GO	1	Autônomo	BR 153
-Acidente	2017-05-12	Tarde	GO	Alimentício	BA	BA	1	Autônomo	BR 020
-Acidente	2017-07-15	Manhã	BA	Bebidas	BA	ES	1	Autônomo	BR 101
-Acidente	2017-07-16	Manhã	BA	Alimentício	ES	CE	1	Autônomo	BR 101
-Acidente	2017-09-02	Madrugada	SP	Geral	SP	PR	1	Autônomo	BR 116
-Acidente	2017-09-20	Tarde	MS	Frigorífico	RO	EX	3	Autônomo	BR 163
-Acidente	2017-09-21	Tarde	SP	Óleo Comestível	SP	MG	1	Autônomo	Rua/Avenida
-Acidente	2017-09-27	Tarde	MG	Laticínios	SP	ES	1	Autônomo	BR 267
-Acidente	2017-10-01	Noite	BA	Alimentício	PE	BA	2	Autônomo	BA 93
-Acidente	2017-11-14	Manhã	MG	Alimentício	SP	CE	1	Autônomo	BR 381
-Acidente	2017-11-29	Manhã	MA	Bebidas	BA	PA	1	Autônomo	BR 316
-Acidente	2017-11-29	Manhã	MG	Frigorífico	PR	CE	1	Autônomo	BR 153
-Acidente	2018-01-07	Tarde	RJ	Alumínio	SP	PE	3	Autônomo	BR 393
-Acidente	2018-01-10	Noite	PA	Frigorífico	PA	PA	2	Autônomo	BR 155
-Acidente	2018-02-09	Manhã	MG	Eletrônicos	SP	CE	4	Autônomo	BR 381
-Acidente	2018-08-21	Tarde	SP	Minério	SC	SP	1	Autônomo	BR 116
-Acidente	2017-01-12	Manhã	RS	Frigorífico	PR	RS	1	Funcionário	BR 386
-Acidente	2017-02-06	Noite	MG	Frigorífico	MG	BA	1	Funcionário	BR 251
-Acidente	2017-02-07	Manhã	MG	Aço/Ferro	SP	BA	1	Funcionário	BR 365
-Acidente	2017-05-24	Madrugada	MA	Frigorífico	SP	AP	3	Funcionário	BR 010
-Acidente	2017-06-03	Manhã	MG	Bebidas	RJ	MG	2	Funcionário	BR 040
-Acidente	2017-06-09	Manhã	BA	Calçados	SP	BA	2	Funcionário	BR 116
-Acidente	2017-06-26	Noite	PR	Hig/Limp/Cosm	MG	PR	3	Funcionário	BR 277
-Acidente	2017-06-27	Manhã	PR	Confecção/Tecido/Fios	SP	RS	1	Funcionário	BR 116
-Acidente	2017-08-27	Tarde	MA	Frigorífico	PA	MA	2	Funcionário	BR 222
-Acidente	2017-09-05	Noite	BA	Frigorífico	PR	AL	1	Funcionário	BR 101
-Acidente	2017-09-05	Noite	CE	Alimentício	PR	CE	1	Funcionário	BR 116
-Acidente	2017-09-09	Manhã	MG	Móveis	SC	BA	1	Funcionário	BR 381
-Acidente	2017-09-20	Madrugada	RJ	Confecção/Tecido/Fios	RJ	SP	3	Funcionário	BR 116
-Acidente	2017-09-25	Tarde	GO	Frigorífico	GO	GO	1	Funcionário	GO 206
-Acidente	2017-11-26	Tarde	SC	Específicas	SP	RS	3	Funcionário	BR 116
-Acidente	2017-11-27	Manhã	MG	Hig/Limp/Cosm	SP	ES	3	Funcionário	BR 116
-Acidente	2017-12-13	Madrugada	SP	Frigorífico	SP	SP	3	Funcionário	SP 330
-Acidente	2017-12-25	Noite	ES	Alimentício	ES	RJ	1	Funcionário	ES 165
-Acidente	2018-01-27	Tarde	BA	Químico	BA	SP	2	Funcionário	BR 116
-Acidente	2018-01-28	Noite	MG	Autopeças	SC	MG	2	Funcionário	BR 381
-Acidente	2018-02-11	Noite	SP	Geral	MS	SP	1	Funcionário	SP 280
-Acidente	2018-07-27	Noite	PI	Frigorífico	PA	PE	2	Funcionário	BR 230
-Acidente	2017-01-05	Madrugada	MG	Minério	MG	EX	2	S/Comprovação	BR 040
-Acidente	2017-01-10	Tarde	SP	Geral	RJ	RJ	2	S/Comprovação	BR 116
-Acidente	2017-01-12	Noite	PR	Matéria Prima	SP	RS	1	S/Comprovação	BR 376
-Acidente	2017-01-25	Madrugada	PE	Bebidas	PE	PB	1	S/Comprovação	BR 101
-Acidente	2017-01-26	Manhã	SP	Doces/Chocolate	SP	MG	2	S/Comprovação	SP 300
-Acidente	2017-02-14	Tarde	AL	Hig/Limp/Cosm	PE	BA	1	S/Comprovação	BR 101
-Acidente	2017-02-16	Manhã	SP	Eletrodoméstico	SP	PR	1	S/Comprovação	SP 280
-Acidente	2017-02-20	Noite	MG	Café	MG	SP	3	S/Comprovação	BR 381
-Acidente	2017-02-21	Madrugada	PR	Maquinário	RS	GO	5	S/Comprovação	PR 427
-Acidente	2017-02-22	Manhã	MG	Químico	BA	SP	2	S/Comprovação	BR 251
-Acidente	2017-02-24	Manhã	MG	Confecção/Tecido/Fios	SP	RN	2	S/Comprovação	BR 381
-Acidente	2017-03-02	Noite	PR	Específicas	SC	SP	1	S/Comprovação	BR 116
-Acidente	2017-03-15	Madrugada	MG	Geral	SP	MG	4	S/Comprovação	BR 381
-Acidente	2017-03-22	Manhã	SC	Alimentício	RS	GO	2	S/Comprovação	BR 116
-Acidente	2017-03-26	Madrugada	TO	Alimentício	MG	PA	2	S/Comprovação	BR 153
-Acidente	2017-04-20	Madrugada	SP	Polímeros	RJ	PR	1	S/Comprovação	BR 116
-Acidente	2017-04-25	Manhã	MA	Alimentício	MA	MT	1	S/Comprovação	BR 222
-Acidente	2017-04-25	Tarde	SP	Frigorífico	SP	RJ	1	S/Comprovação	SP 304
-Acidente	2017-04-26	Noite	MG	Hig/Limp/Cosm	MG	MG	4	S/Comprovação	BR 381
-Acidente	2017-04-30	Manhã	SP	Veículo	SP	RN	2	S/Comprovação	SP 150
-Acidente	2017-05-09	Manhã	AL	Laticínios	AL	GO	1	S/Comprovação	BR 101
-Acidente	2017-05-13	Tarde	PR	Frigorífico	RS	RJ	1	S/Comprovação	BR 116
-Acidente	2017-05-18	Manhã	MG	Específicas	BA	MG	4	S/Comprovação	BR 381
-Acidente	2017-05-22	Madrugada	RS	Bebidas	SP	SP	1	S/Comprovação	BR 392
-Acidente	2017-05-26	Manhã	MG	Geral	MG	SP	2	S/Comprovação	BR 381
-Acidente	2017-05-27	Manhã	BA	Matéria Prima	SP	PE	1	S/Comprovação	BR 116
-Acidente	2017-06-01	Tarde	BA	Fertilizantes	SE	SE	1	S/Comprovação	BR 110
-Acidente	2017-06-25	Madrugada	MA	Frigorífico	MA	PA	1	S/Comprovação	BR 222
-Acidente	2017-06-30	Madrugada	SE	Fios/Cabos	SP	PB	2	S/Comprovação	BR 101
-Acidente	2017-07-08	Noite	GO	Hig/Limp/Cosm	GO	RO	1	S/Comprovação	BR 070
-Acidente	2017-07-14	Noite	BA	Café	SP	SE	2	S/Comprovação	BR 116
-Acidente	2017-07-21	Manhã	SP	Hig/Limp/Cosm	SP	SP	2	S/Comprovação	SP 330
-Acidente	2017-07-24	Manhã	SP	Frigorífico	PR	RJ	1	S/Comprovação	BR 116
-Acidente	2017-07-31	Manhã	MG	Hig/Limp/Cosm	MG	MG	4	S/Comprovação	BR 381
-Acidente	2017-08-02	Tarde	ES	Fraldas	GO	ES	1	S/Comprovação	Rua/Avenida
-Acidente	2017-08-08	Madrugada	MT	Específicas	SP	MT	1	S/Comprovação	BR 364
-Acidente	2017-08-08	Noite	CE	Confecção/Tecido/Fios	SP	CE	2	S/Comprovação	BR 116
-Acidente	2017-08-10	Madrugada	PR	Frigorífico	PR	PR	2	S/Comprovação	BR 277
-Acidente	2017-08-15	Manhã	MG	Alumínio	SE	SP	3	S/Comprovação	BR 166
-Acidente	2017-08-23	Madrugada	PE	Bateria	PE	EX	2	S/Comprovação	BR 232
-Acidente	2017-08-24	Manhã	SP	Alimentício	SP	SP	1	S/Comprovação	Incerto
-Acidente	2017-08-26	Tarde	PR	Frigorífico	PR	EX	1	S/Comprovação	PR 566
-Acidente	2017-08-29	Manhã	DF	Alumínio	SP	DF	4	S/Comprovação	Rua/Avenida
-Acidente	2017-08-31	Madrugada	MG	Eletrodoméstico	SP	MG	2	S/Comprovação	BR 381
-Acidente	2017-09-13	Tarde	BA	Específicas	BA	MG	4	S/Comprovação	BR 116
-Acidente	2017-09-24	Noite	MG	Café	MG	RS	3	S/Comprovação	MG 482
-Acidente	2017-09-26	Manhã	PR	Bebidas	PR	RS	2	S/Comprovação	BR 376
-Acidente	2017-09-26	Noite	MG	Material Elétrico	SP	SC	1	S/Comprovação	MG 122
-Acidente	2017-09-28	Madrugada	SP	Confecção/Tecido/Fios	SP	EX	3	S/Comprovação	SP 160
-Acidente	2017-09-29	Madrugada	SP	Tinta/Verniz	SP	SC	2	S/Comprovação	SP 021
-Acidente	2017-09-29	Manhã	MG	Bebidas	SP	MG	1	S/Comprovação	BR 040
-Acidente	2017-09-30	Manhã	SP	Frigorífico	PR	PA	1	S/Comprovação	SP 563
-Acidente	2017-10-03	Noite	BA	Geral	BA	ES	1	S/Comprovação	BA 652
-Acidente	2017-10-07	Noite	SP	Polímeros	SP	RS	1	S/Comprovação	BR 116
-Acidente	2017-10-12	Manhã	MG	Veículo	RN	SP	4	S/Comprovação	BR 122
-Acidente	2017-10-12	Tarde	SP	Frigorífico	MG	SP	4	S/Comprovação	BR 381
-Acidente	2017-10-22	Manhã	MG	Hig/Limp/Cosm	MG	MG	2	S/Comprovação	BR 459
-Acidente	2017-10-26	Tarde	MT	Específicas	GO	RO	4	S/Comprovação	BR 174
-Acidente	2017-10-29	Manhã	SP	Bebidas	RS	SP	1	S/Comprovação	BR 116
-Acidente	2017-10-29	Noite	MG	Calçados	SP	CE	1	S/Comprovação	BR 116
-Acidente	2017-10-30	Madrugada	MG	Específicas	SP	PE	2	S/Comprovação	BR 251
-Acidente	2017-10-31	Madrugada	SP	Café	SP	SP	2	S/Comprovação	SP 150
-Acidente	2017-11-07	Manhã	PE	Alimentício	PE	PE	1	S/Comprovação	BR 101
-Acidente	2017-11-19	Manhã	TO	Hig/Limp/Cosm	MA	SP	1	S/Comprovação	BR 153
-Acidente	2017-11-24	Tarde	MT	Sementes	MT	MT	4	S/Comprovação	BR 163
-Acidente	2017-11-26	Manhã	MG	Alimentício	SP	ES	1	S/Comprovação	BR 393
-Acidente	2017-11-26	Noite	MG	Hig/Limp/Cosm	MG	SC	2	S/Comprovação	BR 135
-Acidente	2017-12-02	Madrugada	RS	Móveis	RS	SP	2	S/Comprovação	BR 290
-Acidente	2017-12-06	Manhã	SP	Óleo Comestível	MT	SP	1	S/Comprovação	SP 304
-Acidente	2017-12-07	Madrugada	SP	Veículo	SP	GO	4	S/Comprovação	SP 330
-Acidente	2017-12-08	Noite	MG	Alumínio	PI	SP	3	S/Comprovação	BR 116
-Acidente	2017-12-13	Tarde	GO	Autopeças	AM	SP	4	S/Comprovação	BR 153
-Acidente	2017-12-14	Noite	BA	Gerador	SP	SE	1	S/Comprovação	BR 235
-Acidente	2017-12-14	Noite	SP	Gerador	SP	EX	5	S/Comprovação	SP 021
-Acidente	2017-12-16	Madrugada	MT	Alimentício	DF	MT	1	S/Comprovação	BR 070
-Acidente	2017-12-17	Manhã	PR	Frigorífico	RS	PE	2	S/Comprovação	PR 092
-Acidente	2017-12-17	Tarde	MT	Frigorífico	RO	MG	2	S/Comprovação	BR 364
-Acidente	2017-12-19	Noite	MG	Vidro	SP	GO	1	S/Comprovação	BR 262
-Acidente	2017-12-22	Noite	BA	Específicas	ES	CE	3	S/Comprovação	BR 116
-Acidente	2017-12-22	Noite	ES	Café	ES	RN	3	S/Comprovação	ES 130
-Acidente	2017-12-24	Madrugada	PA	Gerador	SP	RR	3	S/Comprovação	Incerto
-Acidente	2018-01-01	Manhã	BA	Hig/Limp/Cosm	PE	MG	2	S/Comprovação	BR 116
-Acidente	2018-01-02	Manhã	RJ	Maquinário	MG	RJ	5	S/Comprovação	BR 116
-Acidente	2018-01-09	Tarde	RS	Bebidas	PR	RS	1	S/Comprovação	RS 030
-Acidente	2018-01-13	Madrugada	MG	Móveis	SP	BA	3	S/Comprovação	BR 251
-Acidente	2018-01-15	Madrugada	MG	Hig/Limp/Cosm	SP	GO	2	S/Comprovação	BR 365
-Acidente	2018-01-16	Madrugada	SP	Bebidas	SP	SP	1	S/Comprovação	SP 280
-Acidente	2018-01-18	Noite	SP	Geral	PR	MG	4	S/Comprovação	BR 116
-Acidente	2018-01-19	Noite	PE	Óleo Lubrificante	PE	PE	2	S/Comprovação	BR 101
-Acidente	2018-01-19	Tarde	MG	Químico	BA	SP	1	S/Comprovação	BR 116
-Acidente	2018-01-21	Tarde	MG	Alumínio	PI	SP	4	S/Comprovação	BR 116
-Acidente	2018-01-25	Tarde	SP	Geral	SP	EX	4	S/Comprovação	Incerto
-Acidente	2018-01-26	Madrugada	PR	Frigorífico	PR	SC	2	S/Comprovação	PR 280
-Acidente	2018-01-27	Madrugada	MG	Maquinário	MG	SC	4	S/Comprovação	Rua/Avenida
-Acidente	2018-01-27	Tarde	BA	Hig/Limp/Cosm	SP	BA	4	S/Comprovação	BR 122
-Acidente	2018-01-28	Tarde	GO	Frigorífico	MT	SP	3	S/Comprovação	BR 362
-Acidente	2018-01-31	Manhã	RJ	Laticínios	MG	RJ	3	S/Comprovação	BR 040
-Acidente	2018-02-01	Manhã	SP	Alumínio	SP	PR	1	S/Comprovação	BR 116
-Acidente	2018-02-01	Tarde	MG	Alumínio	SP	MT	3	S/Comprovação	BR 364
-Acidente	2018-02-02	Tarde	TO	Confecção/Tecido/Fios	PA	PR	2	S/Comprovação	BR 226
-Acidente	2018-02-03	Tarde	MS	Defensivo Agrícola	SP	MT	1	S/Comprovação	BR 163
-Acidente	2018-02-04	Tarde	MG	Autopeças	MG	PE	1	S/Comprovação	BR 381
-Acidente	2018-02-07	Manhã	GO	Frigorífico	RO	MG	2	S/Comprovação	BR 040
-Acidente	2018-02-07	Noite	MT	Bebidas	GO	PA	1	S/Comprovação	MT 326
-Acidente	2018-02-14	Noite	MA	Específicas	SP	PI	1	S/Comprovação	BR 316
-Acidente	2018-02-23	Madrugada	PR	Frigorífico	EX	EX	3	S/Comprovação	BR 116
-Acidente	2018-02-28	Tarde	PA	Alimentício	PB	PA	1	S/Comprovação	PA 160
-Acidente	2018-03-08	Madrugada	SP	Medicamento	SC	SP	5	S/Comprovação	SP 280
-Acidente	2018-03-10	Manhã	MG	Específicas	SP	BA	4	S/Comprovação	BR 135
-Acidente	2018-03-16	Tarde	PR	Específicas	SC	RJ	4	S/Comprovação	BR 116
-Acidente	2018-03-20	Tarde	RS	Autopeças	RS	RJ	3	S/Comprovação	RS 122
-Acidente	2018-03-22	Tarde	MG	Laticínios	SP	BA	1	S/Comprovação	BR 251
-Acidente	2018-03-25	Noite	MG	Hig/Limp/Cosm	MG	MG	3	S/Comprovação	BR 381
-Acidente	2018-03-26	Tarde	PR	Aves	PR	SC	1	S/Comprovação	PR 170
-Acidente	2018-03-27	Tarde	PE	Alumínio	SP	PE	4	S/Comprovação	BR 101
-Acidente	2018-04-01	Manhã	MG	Alimentício	PR	CE	1	S/Comprovação	BR 365
-Acidente	2018-04-07	Tarde	PA	Frigorífico	PA	PA	1	S/Comprovação	BR 222
-Acidente	2018-04-07	Tarde	SC	Bebidas	SP	RS	1	S/Comprovação	BR 376
-Acidente	2018-04-11	Madrugada	SP	Autopeças	SP	SP	3	S/Comprovação	SP 348
-Acidente	2018-04-18	Tarde	MG	Café	MG	MG	2	S/Comprovação	BR 491
-Acidente	2018-04-19	Manhã	MG	Específicas	SP	SE	3	S/Comprovação	BR 116
-Acidente	2018-04-24	Noite	SP	Específicas	SP	BA	1	S/Comprovação	BR 381
-Acidente	2018-04-25	Madrugada	AL	Específicas	SP	PE	1	S/Comprovação	BR 101
-Acidente	2018-04-28	Manhã	SP	Frigorífico	SP	SP	1	S/Comprovação	Rua/Avenida
-Acidente	2018-05-09	Noite	MG	Hig/Limp/Cosm	MG	MG	4	S/Comprovação	BR 381
-Acidente	2018-05-09	Noite	PR	Frigorífico	PR	PR	3	S/Comprovação	BR 376
-Acidente	2018-05-11	Noite	BA	Específicas	CE	ES	4	S/Comprovação	BR 116
-Acidente	2018-05-17	Madrugada	MG	Autopeças	SP	PR	4	S/Comprovação	BR 381
-Acidente	2018-05-31	Noite	PR	Veículo	PR	RS	3	S/Comprovação	BR 116
-Acidente	2018-05-31	Tarde	RS	Laticínios	RS	RJ	1	S/Comprovação	BR 386
-Acidente	2018-06-03	Tarde	SC	Específicas	SC	SP	3	S/Comprovação	SC 108
-Acidente	2018-06-10	Manhã	PR	Hig/Limp/Cosm	EX	SP	3	S/Comprovação	BR 476
-Acidente	2018-06-11	Tarde	MG	Hig/Limp/Cosm	MG	MG	2	S/Comprovação	BR 267
-Acidente	2018-06-12	Manhã	RS	Medicamento	GO	RS	4	S/Comprovação	BR 156
-Acidente	2018-06-14	Madrugada	BA	Alimentício	ES	BA	1	S/Comprovação	BR 101
-Acidente	2018-06-15	Tarde	PR	Frigorífico	PR	PE	1	S/Comprovação	BR 376
-Acidente	2018-06-17	Manhã	MS	Frigorífico	MT	EX	2	S/Comprovação	BR 163
-Acidente	2018-06-19	Noite	SP	Autopeças	SP	EX	3	S/Comprovação	SP 150
-Acidente	2018-06-21	Madrugada	TO	Frigorífico	PA	BA	2	S/Comprovação	TO 040
-Acidente	2018-06-25	Madrugada	MT	Bebidas	AL	MT	1	S/Comprovação	BR 070
-Acidente	2018-06-26	Manhã	MG	Computador/Tablet	RJ	MG	1	S/Comprovação	BR 040
-Acidente	2018-06-27	Noite	BA	Confecção/Tecido/Fios	RJ	PE	1	S/Comprovação	BR 116
-Acidente	2018-07-01	Tarde	BA	Hig/Limp/Cosm	PE	SP	1	S/Comprovação	BR 110
-Acidente	2018-07-02	Tarde	PE	Laticínios	RS	CE	2	S/Comprovação	BR 116
-Acidente	2018-07-04	Manhã	MG	Bebidas	SP	MG	1	S/Comprovação	BR 116
-Acidente	2018-07-05	Manhã	MG	Café	MG	MG	2	S/Comprovação	BR 265
-Acidente	2018-07-08	Manhã	SC	Hig/Limp/Cosm	EX	SP	3	S/Comprovação	BR 153
-Acidente	2018-07-09	Noite	SC	Alumínio	SC	SP	2	S/Comprovação	BR 116
-Acidente	2018-07-11	Noite	PR	Sementes	PR	SC	4	S/Comprovação	PR 445
-Acidente	2018-07-12	Manhã	SC	Frigorífico	PR	SC	3	S/Comprovação	SC 415
-Acidente	2018-07-13	Tarde	MG	Confecção/Tecido/Fios	RJ	PE	2	S/Comprovação	BR 116
-Acidente	2018-07-14	Manhã	MG	Alimentício	GO	SP	1	S/Comprovação	BR 153
-Acidente	2018-07-17	Tarde	RS	Alimentício	RS	SP	1	S/Comprovação	BR 287
-Acidente	2018-07-22	Manhã	MG	Frigorífico	SP	CE	1	S/Comprovação	BR 365
-Acidente	2018-07-22	Manhã	MT	Geral	PE	MT	1	S/Comprovação	BR 070
-Acidente	2018-07-25	Madrugada	SP	Autopeças	RS	SP	2	S/Comprovação	BR 116
-Acidente	2018-07-30	Manhã	MG	Hig/Limp/Cosm	MG	SP	2	S/Comprovação	BR 459
-Acidente	2018-08-02	Madrugada	BA	Específicas	CE	BA	3	S/Comprovação	BR 116
-Acidente	2018-08-06	Madrugada	GO	Específicas	SP	PA	3	S/Comprovação	BR 153
-Acidente	2018-08-06	Noite	MS	Frigorífico	AC	SP	2	S/Comprovação	MS 306
-Acidente	2018-08-09	Noite	SP	Bateria	SP	AP	4	S/Comprovação	BR 116
-Acidente	2018-08-10	Manhã	PR	Veículo	PR	MS	3	S/Comprovação	BR 153
-Acidente	2018-08-10	Tarde	MG	Autopeças	SP	MG	4	S/Comprovação	BR 381
-Acidente	2018-08-22	Manhã	PA	Específicas	GO	PA	4	S/Comprovação	BR 010
-Acidente	2018-08-24	Noite	PR	Veículo	SP	SC	2	S/Comprovação	BR 116
-Acidente	2018-08-26	Madrugada	PA	Geral	AM	SP	2	S/Comprovação	BR 010
-Acidente	2018-08-27	Tarde	BA	Laticínios	BA	BA	4	S/Comprovação	BR 101
-Acidente	2018-08-28	Noite	GO	Celulares	GO	PA	3	S/Comprovação	BR 153
-Acidente	2018-08-30	Tarde	RO	Defensivo Agrícola	MT	RO	3	S/Comprovação	BR 435
-Acidente	2018-09-03	Madrugada	PR	Frigorífico	MT	PR	2	S/Comprovação	PR 092
-Acidente	2018-09-04	Noite	SP	Específicas	SC	SP	4	S/Comprovação	BR 116
-Acidente	2018-09-05	Tarde	RJ	Aço/Ferro	SP	PE	2	S/Comprovação	BR 393
-Acidente	2018-09-14	Madrugada	MG	Hig/Limp/Cosm	MG	SP	1	S/Comprovação	BR 381
-Acidente	2018-09-15	Noite	MG	Laticínios	SP	PE	4	S/Comprovação	BR 381
-Acidente	2018-09-17	Tarde	ES	Específicas	ES	BA	3	S/Comprovação	BR 101
-Acidente	2018-09-21	Manhã	MG	Defensivo Agrícola	MG	MG	4	S/Comprovação	MR 400
-Acidente	2018-09-26	Madrugada	MT	Frigorífico	MT	EX	4	S/Comprovação	BR 364
-Acidente	2018-09-28	Madrugada	MT	Frigorífico	RO	SC	2	S/Comprovação	BR 174
-Acidente	2018-09-29	Manhã	MS	Frigorífico	SC	MS	2	S/Comprovação	BR 163
-Acidente	2018-09-30	Manhã	AL	Confecção/Tecido/Fios	RJ	PE	2	S/Comprovação	BR 101
-Acidente	2018-09-30	Manhã	RJ	Defensivo Agrícola	SP	ES	2	S/Comprovação	BR 493
-Acidente	2018-10-02	Tarde	PR	Frigorífico	PR	SC	2	S/Comprovação	BR 376
-Acidente	2018-10-03	Tarde	SC	Papel	SC	SP	1	S/Comprovação	BR 116
-Acidente	2018-10-04	Madrugada	RJ	Específicas	ES	PR	4	S/Comprovação	BR 393
-Acidente	2018-10-06	Manhã	MG	Alumínio	SP	PE	4	S/Comprovação	BR 116
-Acidente	2018-10-08	Manhã	GO	Tratores/Empilhadeiras	SP	MT	4	S/Comprovação	BR 364
-Acidente	2018-10-08	Noite	RJ	Eletrônicos	RJ	SP	3	S/Comprovação	BR 116
-Acidente	2018-10-09	Manhã	PI	Defensivo Agrícola	SP	PA	3	S/Comprovação	PI 260
-Acidente	2018-10-09	Tarde	BA	Autopeças	SP	PE	2	S/Comprovação	BR 116
-Acidente	2018-10-10	Madrugada	PE	Tinta/Verniz	PE	PE	1	S/Comprovação	BR 408
-Acidente	2018-10-10	Manhã	MG	Frigorífico	GO	ES	2	S/Comprovação	BR 262
-Acidente	2018-10-10	Tarde	MG	Frigorífico	MG	EX	3	S/Comprovação	BR 381
-Acidente	2018-10-11	Madrugada	MG	Geral	ES	SP	2	S/Comprovação	BR 116
-Acidente	2018-10-12	Manhã	PR	Brinquedos	SP	SC	1	S/Comprovação	BR 376
-Acidente	2018-10-16	Manhã	MG	Defensivo Agrícola	MG	MG	4	S/Comprovação	MG 190
-Acidente	2018-10-17	Madrugada	MG	Específicas	SP	MG	1	S/Comprovação	BR 267
-Acidente	2018-10-17	Tarde	TO	Específicas	GO	MA	4	S/Comprovação	BR 153
-Acidente	2018-10-21	Noite	TO	Específicas	SP	PA	4	S/Comprovação	BR 153
-Acidente	2018-10-22	Noite	PR	Hig/Limp/Cosm	MG	SC	3	S/Comprovação	BR 376
-Acidente	2018-10-23	Manhã	RJ	Óleo Lubrificante	RJ	GO	2	S/Comprovação	BR 116
-Acidente	2018-10-24	Manhã	CE	Específicas	CE	SP	2	S/Comprovação	BR 222
-Acidente	2018-10-24	Noite	MG	Hig/Limp/Cosm	GO	SP	4	S/Comprovação	BR 050
-Acidente	2018-10-25	Manhã	SP	Hig/Limp/Cosm	SP	RS	1	S/Comprovação	BR 116
-Acidente	2018-10-25	Tarde	MG	Específicas	ES	GO	5	S/Comprovação	BR 381
-Acidente	2018-11-03	Noite	PR	Laticínios	SC	SP	1	S/Comprovação	BR 153
-Acidente	2018-11-06	Noite	ES	Papel	ES	SP	2	S/Comprovação	BR 101
-Acidente	2018-11-08	Manhã	SP	Doces/Chocolate	EX	MG	3	S/Comprovação	BR 116
-Acidente	2018-11-13	Madrugada	RJ	Pneus	BA	RJ	1	S/Comprovação	BR 116
-Acidente	2018-11-13	Manhã	SP	Pescado	SC	AL	1	S/Comprovação	BR 116
-Acidente	2018-11-13	Tarde	MG	Específicas	SP	PE	4	S/Comprovação	BR 251
-Acidente	2018-11-14	Noite	BA	Bebidas	SC	PE	3	S/Comprovação	BR 116
-Acidente	2018-11-15	Tarde	MT	Frigorífico	RO	SC	2	S/Comprovação	BR 364
-Acidente	2018-11-18	Manhã	GO	Bebidas	SP	GO	1	S/Comprovação	BR 153
-Acidente	2018-11-21	Noite	MT	Defensivo Agrícola	MT	MT	5	S/Comprovação	MT 235
-Acidente	2018-11-25	Manhã	SP	Frigorífico	DF	SC	1	S/Comprovação	BR 116
-Acidente	2018-11-25	Noite	PR	Polímeros	SC	SP	1	S/Comprovação	SP 230
-Acidente	2018-11-26	Manhã	SP	Alimentício	SP	PR	2	S/Comprovação	BR 116
-Acidente	2018-11-26	Noite	MG	Polímeros	RJ	MG	2	S/Comprovação	BR 040
-Acidente	2018-11-29	Noite	AL	Alimentício	MG	PE	1	S/Comprovação	BR 101
-Acidente	2018-11-30	Madrugada	MT	Específicas	SP	RO	3	S/Comprovação	BR 364
-Acidente	2018-12-06	Madrugada	MG	Veículo	SP	BA	2	S/Comprovação	BR 381
-Acidente	2018-12-07	Madrugada	PR	Hig/Limp/Cosm	SP	SP	1	S/Comprovação	BR 116
-Acidente	2018-12-07	Noite	MG	Químico	SP	CE	4	S/Comprovação	BR 381
-Acidente	2018-12-09	Tarde	MG	Específicas	SP	PI	2	S/Comprovação	BR 251
-Acidente	2018-12-10	Madrugada	MG	Café	MG	MG	2	S/Comprovação	BR 491
-Acidente	2018-12-11	Madrugada	SP	Doces/Chocolate	SP	SP	1	S/Comprovação	SP 280
-Acidente	2018-12-14	Madrugada	RS	Utilidades Doméstica	RS	PR	4	S/Comprovação	RS 453
-Acidente	2018-12-14	Manhã	EX	Alimentício	EX	SP	1	S/Comprovação	Exterior
-Acidente	2018-12-15	Manhã	TO	Calçados	CE	SP	2	S/Comprovação	BR 153
-Acidente	2018-12-15	Manhã	TO	Calçados	CE	SP	2	S/Comprovação	BR 153
-Acidente	2018-12-17	Tarde	SP	Frigorífico	GO	EX	3	S/Comprovação	SP 150
-Acidente	2018-12-19	Madrugada	MG	Vidro	SP	PE	1	S/Comprovação	BR 381
-Acidente	2018-12-20	Noite	MG	Frigorífico	SP	MG	2	S/Comprovação	BR 262
-Acidente	2018-12-20	Noite	MG	Veículo	MG	SP	3	S/Comprovação	BR 381
-Acidente	2018-12-24	Manhã	MG	Veículo	GO	PR	3	S/Comprovação	BR 153
-Acidente	2018-12-25	Manhã	PR	Hig/Limp/Cosm	SP	RS	1	S/Comprovação	BR 376
-Acidente	2018-12-26	Tarde	SC	Bebidas	PR	RS	1	S/Comprovação	BR 101
-Acidente	2018-12-28	Manhã	TO	Frigorífico	PA	RJ	2	S/Comprovação	BR 153
-Acidente	2019-01-03	Tarde	MG	Calçados	CE	MG	1	S/Comprovação	BR 116
-Acidente	2019-01-08	Manhã	MG	Fraldas	GO	SP	1	S/Comprovação	MG 455
-Acidente	2019-01-08	Manhã	RS	Tratores/Empilhadeiras	RS	RS	5	S/Comprovação	BR 290
-Acidente	2019-01-15	Tarde	SP	Bebidas	SP	PR	1	S/Comprovação	SP 270
-Acidente	2019-01-19	Tarde	CE	Hig/Limp/Cosm	BA	PA	4	S/Comprovação	BR 222
-Acidente	2019-01-19	Tarde	MG	Alumínio	SP	PE	4	S/Comprovação	BR 116
-Acidente	2019-01-22	Manhã	PR	Frigorífico	SP	SC	2	S/Comprovação	BR 116
-Acidente	2019-01-23	Madrugada	SC	Geral	SC	SP	1	S/Comprovação	BR 101
-Acidente	2019-01-25	Madrugada	MG	Hig/Limp/Cosm	SP	MG	1	S/Comprovação	BR 359
-Acidente	2019-01-25	Noite	SP	Confecção/Tecido/Fios	SP	SC	1	S/Comprovação	BR 116
-Acidente	2019-01-27	Manhã	BA	Específicas	SP	PE	4	S/Comprovação	BR 116
-Acidente	2019-01-30	Noite	PR	Frigorífico	PR	PR	1	S/Comprovação	BR 376
-Acidente	2019-02-04	Manhã	SP	Eletrodoméstico	SC	PA	1	S/Comprovação	BR 153
-Acidente	2019-02-07	Manhã	PR	Autopeças	PR	PR	3	S/Comprovação	BR 277
-Acidente	2019-02-10	Madrugada	MG	Específicas	SP	BA	4	S/Comprovação	BR 381
-Acidente	2019-02-11	Madrugada	SP	Diversos	PR	SP	3	S/Comprovação	BR 116
-Acidente	2019-02-11	Sem Inf	SP	Combustível	MT	BA	1	S/Comprovação	GO 222
-Acidente	2019-02-12	Manhã	SP	Bebidas	SP	SC	1	S/Comprovação	BR 116
-Acidente	2019-02-15	Tarde	SC	Geral	SC	SC	1	S/Comprovação	SC 443
-Acidente	2019-02-15	Tarde	SC	Madeira	SC	SC	1	S/Comprovação	SC 443
-Acidente	2019-02-17	Manhã	MG	Frigorífico	PR	MG	1	S/Comprovação	BR 381
-Acidente	2019-02-17	Tarde	RJ	Veículo	SP	RJ	1	S/Comprovação	Rua/Avenida
-Acidente	2019-02-17	Tarde	SC	Veículo	PR	RS	3	S/Comprovação	BR 153
-Acidente	2019-02-18	Madrugada	MG	Frigorífico	MG	SP	4	S/Comprovação	BR 381
-Acidente	2019-02-27	Noite	MA	Bebidas	PE	PA	1	S/Comprovação	BR 116
-Acidente	2019-03-01	Manhã	GO	Específicas	GO	GO	3	S/Comprovação	Rua/Avenida
-Acidente	2019-03-12	Noite	SP	Hig/Limp/Cosm	MG	RJ	4	S/Comprovação	BR 116
-Acidente	2019-03-12	Tarde	SC	Alimentício	AR	SP	1	S/Comprovação	BR 153
-Acidente	2019-03-13	Tarde	SE	Doces/Chocolate	SP	PE	4	S/Comprovação	BR 101
-Acidente	2019-03-14	Tarde	SC	Laticínios	SC	PR	3	S/Comprovação	BR 153
-Acidente	2019-03-17	Manhã	BA	Fibra Ótica	BA	BA	3	S/Comprovação	BR 101
-Acidente	2019-03-18	Noite	BA	Alimentício	PE	BA	1	S/Comprovação	BR 101
-Acidente	2019-03-19	Manhã	PR	Diversos	SC	PR	3	S/Comprovação	BR 476
-Acidente	2019-03-19	Noite	SP	Específicas	SP	SP	3	S/Comprovação	SP 330
-Acidente	2019-03-20	Madrugada	SP	Alimentício	SP	SP	2	S/Comprovação	SP 280
-Acidente	2019-03-20	Noite	PR	Frigorífico	PR	PR	1	S/Comprovação	BR 277
-Acidente	2019-03-21	Noite	AL	Hig/Limp/Cosm	PE	BA	1	S/Comprovação	BR 101
-Fraude	2018-03-26	Noite	MG	Geral	SC	CE	3	Funcionário	BR 381
-Fraude	2018-03-26	Noite	MG	Geral	SC	CE	3	Funcionário	BR 381
-Fraude	2018-03-26	Noite	MG	Geral	SC	CE	3	Funcionário	BR 381
-Fraude	2018-03-28	Madrugada	MG	Geral	SC	BA	3	Funcionário	BR 381
-Fraude	2018-03-28	Madrugada	MG	Geral	SC	BA	3	Funcionário	BR 381
-Fraude	2018-04-01	Noite	PR	Geral	SC	MA	3	Funcionário	BR 116
-Fraude	2018-04-01	Noite	SP	Geral	SC	PA	3	Funcionário	BR 116
-Fraude	2018-04-01	Noite	SP	Geral	SC	MA	3	Funcionário	BR 116
-Fraude	2018-04-01	Tarde	PR	Geral	SC	SP	3	Funcionário	BR 116
-Fraude	2018-04-01	Tarde	SP	Geral	SC	SP	3	Funcionário	BR 116
-Outros	2017-01-30	Tarde	MG	Aço/Ferro	SP	MG	1	Funcionário	Incerto
-Outros	2017-01-06	Tarde	ES	Pneus	EX	MG	3	S/Comprovação	Incerto
-Outros	2017-03-23	Manhã	MG	Alumínio	SP	BA	3	S/Comprovação	BR 116
-Outros	2017-04-06	Manhã	SP	Maquinário	SP	EX	4	S/Comprovação	SP 310
-Outros	2017-04-14	Madrugada	AM	Aço/Ferro	SP	AM	3	S/Comprovação	Rua/Avenida
-Outros	2017-05-03	Madrugada	PE	Alumínio	PE	SP	3	S/Comprovação	PE 060
-Outros	2017-05-23	Noite	MG	Maquinário	SP	MG	5	S/Comprovação	Incerto
-Outros	2017-06-14	Tarde	SP	Alimentício	EX	MG	3	S/Comprovação	BR 116
-Outros	2017-07-31	Manhã	EX	Utilidades Doméstica	EX	EX	2	S/Comprovação	Incerto
-Outros	2017-08-11	Manhã	MG	Alumínio	PI	SP	4	S/Comprovação	BR 166
-Outros	2017-10-03	Madrugada	BA	Alumínio	PI	SP	3	S/Comprovação	BR 116
-Outros	2017-10-03	Manhã	SP	Alimentício	SP	SP	1	S/Comprovação	Rua/Avenida
-Outros	2017-10-15	Tarde	MG	Bebidas	ES	MG	1	S/Comprovação	BR 381
-Outros	2017-11-15	Madrugada	MG	Hig/Limp/Cosm	MG	MG	4	S/Comprovação	BR 381
-Outros	2017-12-26	Madrugada	SP	Laticínios	EX	SP	3	S/Comprovação	Incerto
-Outros	2017-12-28	Manhã	MG	Alumínio	SP	PE	4	S/Comprovação	BR 116
-Outros	2018-01-24	Manhã	SP	Químico	EX	SP	1	S/Comprovação	Rua/Avenida
-Outros	2018-02-15	Tarde	CE	Café	PR	CE	1	S/Comprovação	Rua/Avenida
-Outros	2018-03-03	Tarde	PA	Alumínio	SP	AM	3	S/Comprovação	BR 010
-Outros	2018-03-21	Madrugada	TO	Medicamento	GO	TO	2	S/Comprovação	Rua/Avenida
-Outros	2018-04-09	Noite	PR	Geral	SC	PR	2	S/Comprovação	BR 376
-Outros	2018-05-01	Manhã	PI	Alumínio	SP	PI	4	S/Comprovação	BR 316
-Outros	2018-05-07	Madrugada	SP	Laticínios	EX	GO	5	S/Comprovação	Incerto
-Outros	2018-05-11	Manhã	MG	Alimentício	SP	MG	1	S/Comprovação	Incerto
-Outros	2018-05-21	Madrugada	PE	Frigorífico	DF	MG	1	S/Comprovação	Incerto
-Outros	2018-05-22	Madrugada	PE	Frigorífico	DF	TO	1	S/Comprovação	Incerto
-Outros	2018-05-30	Manhã	SP	Frigorífico	EX	SP	4	S/Comprovação	Incerto
-Outros	2018-05-30	Manhã	SP	Frigorífico	EX	SP	4	S/Comprovação	Incerto
-Outros	2018-05-30	Manhã	SP	Frigorífico	EX	SP	4	S/Comprovação	Incerto
-Outros	2018-05-30	Tarde	SC	Frigorífico	SC	SC	1	S/Comprovação	Rua/Avenida
-Outros	2018-05-30	Tarde	SP	Laticínios	SP	SP	1	S/Comprovação	Incerto
-Outros	2018-06-04	Noite	SP	Medicamento	EX	SP	1	S/Comprovação	Incerto
-Outros	2018-06-08	Manhã	AM	Alumínio	SP	AM	3	S/Comprovação	Rua/Avenida
-Outros	2018-06-12	Tarde	SC	Tratores/Empilhadeiras	PR	RS	3	S/Comprovação	BR 153
-Outros	2018-07-23	Tarde	MG	Autopeças	MG	PE	4	S/Comprovação	BR 381
-Outros	2018-07-23	Tarde	MG	Autopeças	MG	PE	4	S/Comprovação	BR 251
-Outros	2018-08-12	Manhã	MG	Autopeças	MG	PE	4	S/Comprovação	BR 381
-Outros	2018-08-28	Tarde	MG	Café	MG	MG	3	S/Comprovação	BR 491
-Outros	2018-08-31	Manhã	RS	Alimentício	SP	RS	3	S/Comprovação	Incerto
-Outros	2018-09-16	Tarde	GO	Laticínios	GO	MS	2	S/Comprovação	BR 364
-Outros	2018-09-19	Noite	SP	Maquinário	SP	MG	2	S/Comprovação	Incerto
-Outros	2018-09-28	Manhã	CE	Frigorífico	CE	CE	2	S/Comprovação	BR 222
-Outros	2018-10-08	Tarde	SP	Ração Animal	PR	MS	3	S/Comprovação	SP 215
-Outros	2018-10-09	Manhã	SP	Alimentício	SP	SP	2	S/Comprovação	Incerto
-Outros	2018-10-16	Manhã	SP	Alimentício	PE	SP	2	S/Comprovação	Incerto
-Outros	2018-10-16	Tarde	PR	Tratores/Empilhadeiras	PR	BH	4	S/Comprovação	Rua/Avenida
-Outros	2018-11-23	Manhã	SP	Específicas	SP	MG	4	S/Comprovação	Incerto
-Outros	2018-12-04	Tarde	PR	Aço/Ferro	SC	GO	1	S/Comprovação	PR 420
-Outros	2018-12-05	Tarde	MA	Geral	SP	MA	1	S/Comprovação	Incerto
-Outros	2018-12-13	Tarde	GO	Medicamento	GO	RJ	4	S/Comprovação	Incerto
-Outros	2018-12-17	Madrugada	SP	Maquinário	RJ	SP	2	S/Comprovação	Incerto
-Outros	2018-12-22	Manhã	RJ	Específicas	BA	RJ	1	S/Comprovação	Incerto
-Outros	2019-02-26	Noite	CE	Alumínio	SP	CE	4	S/Comprovação	Rua/Avenida
-Outros	2019-03-07	Manhã	PE	Pescado	SC	PE	1	S/Comprovação	Rua/avenida
-Outros	2019-03-29	Noite	RS	Veículo	RS	SP	3	S/Comprovação	BR 101
-Roubo/Furto	2017-03-27	Noite	MG	Específicas	MG	BA	4	Agregado	BR 381
-Roubo/Furto	2017-03-29	Manhã	SP	Polímeros	RJ	SP	1	Agregado	Rua/Avenida
-Roubo/Furto	2017-04-03	Noite	SP	Alumínio	SC	SP	2	Agregado	BR 116
-Roubo/Furto	2017-04-30	Noite	PE	Frigorífico	SP	PB	4	Agregado	BR 116
-Roubo/Furto	2017-06-08	Manhã	PR	Eletrônicos	EX	PR	3	Agregado	Rua/Avenida
-Roubo/Furto	2017-06-16	Noite	BA	Frigorífico	SP	PB	4	Agregado	BA 210
-Roubo/Furto	2017-06-17	Tarde	RJ	Específicas	RJ	RJ	1	Agregado	BR 101
-Roubo/Furto	2017-06-25	Noite	PR	Frigorífico	SP	RS	3	Agregado	BR 116
-Roubo/Furto	2017-06-30	Noite	MG	Específicas	SP	BA	4	Agregado	BR 116
-Roubo/Furto	2017-06-30	Tarde	PE	Alimentício	PE	MA	2	Agregado	BR 424
-Roubo/Furto	2017-07-06	Tarde	SP	Alumínio	SP	PR	1	Agregado	Rua/Avenida
-Roubo/Furto	2017-08-22	Manhã	RJ	Específicas	PR	RJ	1	Agregado	Rua/Avenida
-Roubo/Furto	2017-09-06	Tarde	PE	Alimentício	PE	MG	1	Agregado	BR 423
-Roubo/Furto	2017-09-23	Manhã	RJ	Específicas	RJ	ES	3	Agregado	BR 040
-Roubo/Furto	2017-09-29	Madrugada	SP	Específicas	SP	SP	3	Agregado	SP 101
-Roubo/Furto	2017-10-02	Madrugada	RJ	Hig/Limp/Cosm	MG	RJ	1	Agregado	BR 116
-Roubo/Furto	2017-10-04	Madrugada	SP	Celulares	SP	SP	1	Agregado	Rua/Avenida
-Roubo/Furto	2017-10-20	Noite	PE	Eletrônicos	CE	PE	1	Agregado	BR 101
-Roubo/Furto	2017-10-24	Manhã	SP	E-Commerce	SP	SP	2	Agregado	SP 280
-Roubo/Furto	2017-10-24	Tarde	SP	Alumínio	SP	GO	2	Agregado	SP 065
-Roubo/Furto	2017-10-28	Tarde	RJ	Específicas	RJ	SP	4	Agregado	Rua/Avenida
-Roubo/Furto	2017-10-28	Tarde	RJ	Específicas	RJ	SP	2	Agregado	Rua/Avenida
-Roubo/Furto	2017-11-07	Madrugada	SP	Alimentício	AL	SP	3	Agregado	BR 381
-Roubo/Furto	2017-11-14	Madrugada	PR	Bicicleta	AM	SC	4	Agregado	BR 277
-Roubo/Furto	2017-11-17	Manhã	RJ	Específicas	SP	RJ	3	Agregado	Rua/Avenida
-Roubo/Furto	2017-11-17	Noite	SP	Específicas	PR	SP	3	Agregado	SP 280
-Roubo/Furto	2017-11-20	Noite	RJ	Frigorífico	RS	RJ	1	Agregado	BR 116
-Roubo/Furto	2017-11-26	Madrugada	SP	Frigorífico	MS	SP	1	Agregado	SP 160
-Roubo/Furto	2017-12-02	Manhã	EX	Pescado	EX	SP	2	Agregado	Rua/Avenida
-Roubo/Furto	2018-01-03	Madrugada	RJ	E-Commerce	RJ	RJ	1	Agregado	BR 101
-Roubo/Furto	2018-01-12	Manhã	PE	E-Commerce	PE	BA	4	Agregado	BR 101
-Roubo/Furto	2018-01-23	Manhã	SP	Calçados	SP	SP	1	Agregado	SP 330
-Roubo/Furto	2018-01-25	Madrugada	MG	Óleo Lubrificante	RJ	GO	3	Agregado	BR 354
-Roubo/Furto	2018-02-27	Noite	SP	Específicas	SP	MG	2	Agregado	Rua/Avenida
-Roubo/Furto	2018-03-01	Manhã	SP	Alumínio	RS	SP	1	Agregado	SP 021
-Roubo/Furto	2018-03-06	Noite	RJ	Alimentício	RJ	RJ	2	Agregado	Rua/Avenida
-Roubo/Furto	2018-03-09	Tarde	BA	Café	BA	CE	2	Agregado	BR 101
-Roubo/Furto	2018-03-15	Madrugada	MG	Eletrônicos	SP	MG	3	Agregado	BR 381
-Roubo/Furto	2018-03-19	Noite	GO	Confecção/Tecido/Fios	GO	TO	2	Agregado	BR 153
-Roubo/Furto	2018-03-21	Madrugada	PR	Pescado	GO	SC	2	Agregado	BR 376
-Roubo/Furto	2018-03-26	Tarde	MG	Eletrônicos	SP	GO	4	Agregado	MG 810
-Roubo/Furto	2018-04-01	Noite	MG	Celulares	SP	MG	4	Agregado	BR 262
-Roubo/Furto	2018-04-05	Noite	MG	Café	MG	SP	2	Agregado	BR 262
-Roubo/Furto	2018-04-08	Noite	RN	Hig/Limp/Cosm	PE	CE	3	Agregado	BR 304
-Roubo/Furto	2018-04-18	Madrugada	PR	Medicamento	SC	PR	2	Agregado	BR 376
-Roubo/Furto	2018-04-18	Madrugada	SP	Autopeças	SP	PR	4	Agregado	SP 348
-Roubo/Furto	2018-04-26	Madrugada	PE	Hig/Limp/Cosm	PE	BA	1	Agregado	BR 101
-Roubo/Furto	2018-05-01	Noite	SP	Específicas	SC	SP	3	Agregado	BR 116
-Roubo/Furto	2018-05-13	Manhã	CE	Confecção/Tecido/Fios	RJ	CE	3	Agregado	BR 116
-Roubo/Furto	2018-05-22	Noite	RN	Específicas	PE	CE	3	Agregado	BR 304
-Roubo/Furto	2018-06-05	Madrugada	SP	E-Commerce	SP	SP	1	Agregado	SP 280
-Roubo/Furto	2018-06-06	Manhã	SP	Veículo	SP	RJ	1	Agregado	BR 116
-Roubo/Furto	2018-06-11	Noite	SP	Tinta/Verniz	SP	RJ	1	Agregado	BR 116
-Roubo/Furto	2018-06-16	Noite	PB	Específicas	CE	PB	3	Agregado	BR 101
-Roubo/Furto	2018-06-19	Noite	GO	Hig/Limp/Cosm	GO	SP	3	Agregado	BR 153
-Roubo/Furto	2018-06-20	Madrugada	MA	Laticínios	SP	MA	3	Agregado	BR 010
-Roubo/Furto	2018-06-27	Tarde	RJ	Bebidas	RJ	MG	3	Agregado	BR 101
-Roubo/Furto	2018-07-03	Manhã	SP	Defensivo Agrícola	SP	MT	3	Agregado	SP 065
-Roubo/Furto	2018-07-10	Manhã	SP	E-Commerce	SP	SP	4	Agregado	SP 075
-Roubo/Furto	2018-07-21	Madrugada	RJ	E-Commerce	RJ	RJ	3	Agregado	Rua/Avenida
-Roubo/Furto	2018-07-26	Noite	SC	Frigorífico	SC	SC	2	Agregado	BR 101
-Roubo/Furto	2018-07-30	Manhã	RS	Eletrônicos	RS	RS	3	Agregado	Rua/Avenida
-Roubo/Furto	2018-07-31	Madrugada	SP	Bebidas	RJ	MG	3	Agregado	Rua/Avenida
-Roubo/Furto	2018-08-01	Noite	PE	Hig/Limp/Cosm	PE	BA	2	Agregado	BR 101
-Roubo/Furto	2018-08-08	Noite	RJ	Tinta/Verniz	SP	RJ	1	Agregado	BR 101
-Roubo/Furto	2018-09-03	Madrugada	GO	Defensivo Agrícola	SP	BA	5	Agregado	BR 020
-Roubo/Furto	2018-09-04	Noite	MG	Defensivo Agrícola	SP	BA	2	Agregado	BR 050
-Roubo/Furto	2018-09-10	Noite	RJ	Calçados	RJ	RJ	2	Agregado	BR 101
-Roubo/Furto	2018-09-21	Manhã	RJ	Celulares	RJ	RJ	1	Agregado	Rua/Avenida
-Roubo/Furto	2018-09-25	Noite	PR	Combustível	PR	MS	1	Agregado	BR 376
-Roubo/Furto	2018-09-30	Manhã	MG	Calçados	MG	SP	2	Agregado	Rua/Avenida
-Roubo/Furto	2018-10-01	Tarde	RJ	Geral	RJ	RJ	1	Agregado	Rua/Avenida
-Roubo/Furto	2018-10-04	Manhã	SP	Veículo	SP	PR	2	Agregado	SP 234
-Roubo/Furto	2018-10-04	Noite	SP	Autopeças	SP	SP	1	Agregado	Rua/Avenida
-Roubo/Furto	2018-10-16	Noite	GO	Defensivo Agrícola	SP	BA	4	Agregado	BR 020
-Roubo/Furto	2018-10-20	Madrugada	PR	Hig/Limp/Cosm	MG	RS	4	Agregado	BR 376
-Roubo/Furto	2018-11-04	Noite	BA	Defensivo Agrícola	SP	MT	5	Agregado	BR 020
-Roubo/Furto	2018-11-08	Manhã	RJ	Específicas	RJ	RJ	1	Agregado	BR 101
-Roubo/Furto	2018-11-29	Manhã	RJ	Prod. Ópticos	RJ	RJ	3	Agregado	Rua/Avenida
-Roubo/Furto	2018-12-18	Tarde	MG	Defensivo Agrícola	SP	MG	2	Agregado	MG 188
-Roubo/Furto	2019-01-02	Noite	RJ	Combustível	RJ	SP	2	Agregado	BR 116
-Roubo/Furto	2019-01-24	Tarde	RJ	Frigorífico	PR	RJ	2	Agregado	Rua/Avenida
-Roubo/Furto	2019-01-28	Noite	BA	Defensivo Agrícola	SP	PB	5	Agregado	BR 407
-Roubo/Furto	2019-02-01	Tarde	GO	Combustível	GO	GO	1	Agregado	BR 452
-Roubo/Furto	2017-01-08	Noite	SP	Tubos e Conexões	SP	SP	1	Autônomo	Rua/Avenida
-Roubo/Furto	2017-01-10	Madrugada	SP	Alumínio	SP	MT	3	Autônomo	SP 330
-Roubo/Furto	2017-01-10	Manhã	RJ	Óleo Lubrificante	RJ	GO	2	Autônomo	BR 040
-Roubo/Furto	2017-01-16	Tarde	GO	Sementes	GO	GO	4	Autônomo	BR 060
-Roubo/Furto	2017-01-18	Noite	SP	Químico	SP	PI	1	Autônomo	BR 381
-Roubo/Furto	2017-01-19	Madrugada	SP	Alumínio	SC	SP	2	Autônomo	BR 116
-Roubo/Furto	2017-01-25	Noite	SP	Alumínio	SP	SP	1	Autônomo	BR 116
-Roubo/Furto	2017-01-28	Madrugada	MG	Couro	GO	SP	2	Autônomo	BR 153
-Roubo/Furto	2017-01-29	Madrugada	SP	Geral	MG	SP	3	Autônomo	BR 381
-Roubo/Furto	2017-02-01	Manhã	SP	Alumínio	SP	SP	2	Autônomo	BR 116
-Roubo/Furto	2017-02-09	Noite	SP	Tratores/Empilhadeiras	MG	SP	1	Autônomo	Rua/Avenida
-Roubo/Furto	2017-02-14	Manhã	SP	Confecção/Tecido/Fios	SP	SP	1	Autônomo	Rua/Avenida
-Roubo/Furto	2017-02-16	Madrugada	SP	Alumínio	MG	SP	1	Autônomo	BR 116
-Roubo/Furto	2017-02-16	Manhã	MG	Hig/Limp/Cosm	MG	MG	3	Autônomo	BR 050
-Roubo/Furto	2017-02-17	Noite	SP	Geral	PR	PB	1	Autônomo	BR 381
-Roubo/Furto	2017-02-18	Tarde	PA	Laticínios	RS	PA	3	Autônomo	BR 316
-Roubo/Furto	2017-02-23	Noite	GO	Óleo Comestível	MT	MG	1	Autônomo	BR 452
-Roubo/Furto	2017-03-02	Noite	SP	Fios/Cabos	SP	DF	3	Autônomo	SP 330
-Roubo/Furto	2017-03-06	Madrugada	SP	Confecção/Tecido/Fios	BA	SP	4	Autônomo	BR 381
-Roubo/Furto	2017-03-15	Noite	SP	Polímeros	RJ	PR	1	Autônomo	BR 116
-Roubo/Furto	2017-03-18	Manhã	RJ	Tubos e Conexões	SP	RJ	2	Autônomo	BR 116
-Roubo/Furto	2017-03-18	Tarde	PE	E-commerce	PE	MA	2	Autônomo	BR 232
-Roubo/Furto	2017-03-20	Manhã	SP	Confecção/Tecido/Fios	SP	SP	2	Autônomo	SP 160
-Roubo/Furto	2017-03-21	Madrugada	MG	Específicas	MG	RJ	1	Autônomo	BR 040
-Roubo/Furto	2017-03-22	Manhã	RJ	Frigorífico	MT	RJ	3	Autônomo	Rua/Avenida
-Roubo/Furto	2017-03-23	Noite	SP	Aço/Ferro	SP	SP	2	Autônomo	Rua/Avenida
-Roubo/Furto	2017-03-25	Noite	SP	Calçados	SP	PE	4	Autônomo	BR 116
-Roubo/Furto	2017-03-26	Tarde	RJ	Polímeros	RJ	BA	1	Autônomo	BR 040
-Roubo/Furto	2017-03-27	Madrugada	SP	Aço/Ferro	MG	MS	1	Autônomo	SP 153
-Roubo/Furto	2017-03-30	Manhã	RJ	Fios/Cabos	SP	RJ	2	Autônomo	 Rua/Avenida
-Roubo/Furto	2017-03-30	Tarde	SP	Pescado	SC	PE	2	Autônomo	BR 381
-Roubo/Furto	2017-03-31	Madrugada	GO	E-Commerce	MG	GO	1	Autônomo	BR 153
-Roubo/Furto	2017-04-02	Madrugada	MA	Hig/Limp/Cosm	SP	MA	1	Autônomo	BR 226
-Roubo/Furto	2017-04-02	Tarde	PR	Hig/Limp/Cosm	EX	SP	5	Autônomo	BR 476
-Roubo/Furto	2017-04-04	Tarde	SP	Confecção/Tecido/Fios	SP	SP	1	Autônomo	Rua/Avenida
-Roubo/Furto	2017-04-07	Madrugada	RJ	Pescado	SP	RJ	2	Autônomo	 Rua/Avenida
-Roubo/Furto	2017-04-09	Manhã	SP	Laticínios	SP	MA	3	Autônomo	SP 330
-Roubo/Furto	2017-04-13	Madrugada	SP	Calçados	SP	SP	3	Autônomo	SP 330
-Roubo/Furto	2017-04-13	Noite	RJ	Medicamento	DF	RJ	4	Autônomo	Rua/Avenida
-Roubo/Furto	2017-04-18	Noite	PR	Confecção/Tecido/Fios	SC	SP	2	Autônomo	BR 376
-Roubo/Furto	2017-04-19	Madrugada	SP	Combustível	SP	SP	1	Autônomo	Rua/Avenida
-Roubo/Furto	2017-04-19	Manhã	SE	Específicas	SE	SE	1	Autônomo	BR 235
-Roubo/Furto	2017-04-20	Madrugada	RJ	Alimentício	SP	RJ	2	Autônomo	BR 101
-Roubo/Furto	2017-04-25	Madrugada	PR	Polímeros	RS	PR	1	Autônomo	BR 376
-Roubo/Furto	2017-04-25	Madrugada	SP	Laticínios	SC	MG	2	Autônomo	BR 381
-Roubo/Furto	2017-04-26	Tarde	SP	Polímeros	SP	ES	1	Autônomo	BR 116
-Roubo/Furto	2017-05-02	Noite	PE	E-commerce	PE	AL	2	Autônomo	Rua/Avenida
-Roubo/Furto	2017-05-03	Madrugada	SP	Medicamento	SP	RS	4	Autônomo	BR 381
-Roubo/Furto	2017-05-06	Noite	ES	Laticínios	BA	ES	1	Autônomo	BR 101
-Roubo/Furto	2017-05-09	Madrugada	SC	Café	MG	SC	3	Autônomo	BR 101
-Roubo/Furto	2017-05-09	Madrugada	SP	Geral	PR	SP	1	Autônomo	Rua/Avenida
-Roubo/Furto	2017-05-11	Noite	PE	Fraldas	GO	RJ	1	Autônomo	Desvio
-Roubo/Furto	2017-05-12	Tarde	SP	Confecção/Tecido/Fios	SP	SP	1	Autônomo	Rua/Avenida
-Roubo/Furto	2017-05-19	Tarde	RJ	Específicas	RJ	RJ	1	Autônomo	BR 040
-Roubo/Furto	2017-05-21	Madrugada	SP	Frigorífico	GO	SP	2	Autônomo	SP 330
-Roubo/Furto	2017-05-21	Tarde	PE	Pescado	CE	PE	2	Autônomo	BR 232
-Roubo/Furto	2017-05-24	Manhã	SP	Minério	SP	PR	1	Autônomo	BR 116
-Roubo/Furto	2017-05-24	Tarde	MG	Calçados	MG	MS	1	Autônomo	BR 262
-Roubo/Furto	2017-05-26	Noite	MG	Confecção/Tecido/Fios	BA	SP	4	Autônomo	BR 116
-Roubo/Furto	2017-05-30	Madrugada	SP	Confecção/Tecido/Fios	SP	SP	4	Autônomo	BR 116
-Roubo/Furto	2017-05-31	Madrugada	GO	Papel	MS	DF	1	Autônomo	BR 050
-Roubo/Furto	2017-05-31	Noite	MG	Defensivo Agrícola	SP	MT	3	Autônomo	BR 364
-Roubo/Furto	2017-06-04	Madrugada	MG	Fios/Cabos	SP	PE	2	Autônomo	BR 381
-Roubo/Furto	2017-06-04	Madrugada	MG	Fios/Cabos	SP	PE	4	Autônomo	BR 381
-Roubo/Furto	2017-06-04	Noite	RN	Alimentício	PE	CE	2	Autônomo	BR 101
-Roubo/Furto	2017-06-07	Noite	RJ	Específicas	RJ	SP	1	Autônomo	BR 116
-Roubo/Furto	2017-06-08	Noite	SP	Químico	SP	GO	1	Autônomo	SP 310
-Roubo/Furto	2017-06-11	Manhã	RJ	Frigorífico	TO	RJ	2	Autônomo	BR 101
-Roubo/Furto	2017-06-21	Noite	ES	Hig/Limp/Cosm	SP	ES	1	Autônomo	BR 101
-Roubo/Furto	2017-06-21	Noite	SP	Hig/Limp/Cosm	GO	SP	4	Autônomo	SP 065
-Roubo/Furto	2017-06-22	Madrugada	MT	Frigorífico	MT	SP	2	Autônomo	Rua/Avenida
-Roubo/Furto	2017-06-22	Noite	GO	Combustível	PR	MT	1	Autônomo	BR 364
-Roubo/Furto	2017-06-26	Madrugada	SP	Polímeros	SC	SP	1	Autônomo	SP 021
-Roubo/Furto	2017-06-26	Noite	SP	Frigorífico	MT	SP	2	Autônomo	SP 330
-Roubo/Furto	2017-06-26	Tarde	SP	Frigorífico	MT	SP	3	Autônomo	SP 021
-Roubo/Furto	2017-06-27	Manhã	PB	Hig/Limp/Cosm	PE	CE	1	Autônomo	Desvio
-Roubo/Furto	2017-06-27	Tarde	MG	Eletrônicos	MG	SP	2	Autônomo	BR 381
-Roubo/Furto	2017-06-29	Noite	SP	Polímeros	SP	MG	1	Autônomo	Rua/Avenida
-Roubo/Furto	2017-07-01	Noite	SP	Óleo Lubrificante	RJ	MT	2	Autônomo	SP 330
-Roubo/Furto	2017-07-03	Manhã	SP	Óleo Lubrificante	RJ	MT	1	Autônomo	SP 280
-Roubo/Furto	2017-07-08	Madrugada	MG	Café	MG	SP	2	Autônomo	BR 262
-Roubo/Furto	2017-07-09	Tarde	RJ	Pescado	SP	RJ	1	Autônomo	Rua/Avenida
-Roubo/Furto	2017-07-12	Manhã	RJ	Confecção/Tecido/Fios	RJ	RJ	1	Autônomo	BR 101
-Roubo/Furto	2017-07-13	Noite	BA	Laticínios	RJ	PB	1	Autônomo	BR 101
-Roubo/Furto	2017-07-13	Tarde	MG	Eletrodoméstico	SP	PE	3	Autônomo	BR 381
-Roubo/Furto	2017-07-18	Madrugada	RJ	Calçados	SP	RJ	2	Autônomo	BR 040
-Roubo/Furto	2017-07-20	Manhã	RJ	Frigorífico	TO	RJ	2	Autônomo	BR 116
-Roubo/Furto	2017-07-23	Madrugada	SP	Café	SP	SE	2	Autônomo	SP 330
-Roubo/Furto	2017-07-26	Madrugada	SP	Alumínio	SC	SP	2	Autônomo	BR 116
-Roubo/Furto	2017-07-31	Noite	SP	Alumínio	PR	SP	1	Autônomo	Rua/Avenida
-Roubo/Furto	2017-08-01	Noite	BA	Bebidas	RJ	BA	1	Autônomo	BR 101
-Roubo/Furto	2017-08-01	Noite	SP	Específicas	SP	SP	1	Autônomo	Rua/Avenida
-Roubo/Furto	2017-08-07	Manhã	PR	Sementes	MT	PR	3	Autônomo	BR 277
-Roubo/Furto	2017-08-07	Noite	SP	Frigorífico	SP	SP	3	Autônomo	SP 330
-Roubo/Furto	2017-08-09	Noite	MG	Café	MG	MG	3	Autônomo	BR 354
-Roubo/Furto	2017-08-11	Manhã	SP	Combustível	SP	SP	1	Autônomo	SP 364
-Roubo/Furto	2017-08-11	Noite	SP	Frigorífico	SP	SP	1	Autônomo	Rua/Avenida
-Roubo/Furto	2017-08-15	Madrugada	SP	Químico	SP	SP	2	Autônomo	Rua/Avenida
-Roubo/Furto	2017-08-15	Noite	MG	Confecção/Tecido/Fios	RJ	MA	4	Autônomo	BR 116
-Roubo/Furto	2017-08-16	Tarde	SP	Alumínio	SP	PR	3	Autônomo	BR 116
-Roubo/Furto	2017-08-21	Noite	PR	Combustível	PR	MT	1	Autônomo	PR 151
-Roubo/Furto	2017-08-23	Manhã	SC	Bebidas	PR	SC	1	Autônomo	SC 407
-Roubo/Furto	2017-08-23	Noite	BA	Óleo Lubrificante	SP	SE	1	Autônomo	BR 101
-Roubo/Furto	2017-08-23	Noite	SP	Alumínio	SP	SP	1	Autônomo	BR 116
-Roubo/Furto	2017-08-27	Tarde	BA	Bebidas	DF	BA	1	Autônomo	BR 020
-Roubo/Furto	2017-08-31	Madrugada	PR	Frigorífico	SP	SC	2	Autônomo	BR 116
-Roubo/Furto	2017-09-03	Noite	SP	Bebidas	SP	PA	1	Autônomo	Desvio
-Roubo/Furto	2017-09-03	Tarde	SP	Alumínio	PA	SP	2	Autônomo	SP 253
-Roubo/Furto	2017-09-05	Noite	GO	Bebidas	SP	PA	1	Autônomo	BR 153
-Roubo/Furto	2017-09-06	Noite	SP	Alumínio	SP	PR	3	Autônomo	BR 116
-Roubo/Furto	2017-09-07	Madrugada	SP	Alumínio	SP	SP	1	Autônomo	SP 022
-Roubo/Furto	2017-09-07	Manhã	SP	Alimentício	SP	SP	4	Autônomo	Rua/Avenida
-Roubo/Furto	2017-09-08	Madrugada	MG	Café	ES	SP	2	Autônomo	BR 050
-Roubo/Furto	2017-09-12	Madrugada	PR	Autopeças	SP	PR	3	Autônomo	BR 116
-Roubo/Furto	2017-09-12	Madrugada	SP	E-Commerce	SP	SP	1	Autônomo	BR 374
-Roubo/Furto	2017-09-12	Manhã	SP	Alumínio	SP	PR	4	Autônomo	BR 116
-Roubo/Furto	2017-09-17	Tarde	SP	Frigorífico	RO	SP	2	Autônomo	SP 310
-Roubo/Furto	2017-09-21	Madrugada	SP	Alumínio	SC	SP	1	Autônomo	BR 116
-Roubo/Furto	2017-09-28	Madrugada	SP	Bebidas	SP	MS	1	Autônomo	SP 280
-Roubo/Furto	2017-09-29	Noite	RJ	Laticínios	RJ	RJ	1	Autônomo	BR 116
-Roubo/Furto	2017-09-30	Tarde	PE	Doces/Chocolate	SP	PE	3	Autônomo	BR 101
-Roubo/Furto	2017-10-02	Noite	SP	Alumínio	SP	SP	2	Autônomo	Rua/Avenida
-Roubo/Furto	2017-10-03	Noite	SP	Pneus	SC	SP	2	Autônomo	BR 116
-Roubo/Furto	2017-10-04	Noite	RJ	Pneus	SC	RJ	2	Autônomo	BR 116
-Roubo/Furto	2017-10-04	Tarde	SP	Alimentício	SP	ES	2	Autônomo	BR 116
-Roubo/Furto	2017-10-05	Noite	SP	Alumínio	SP	PA	2	Autônomo	BR 381
-Roubo/Furto	2017-10-06	Madrugada	PR	Polímeros	SC	SP	1	Autônomo	BR 116
-Roubo/Furto	2017-10-06	Madrugada	SP	Geral	SC	SP	3	Autônomo	Rua/Avenida
-Roubo/Furto	2017-10-06	Tarde	SP	Alumínio	SP	RS	4	Autônomo	BR 116
-Roubo/Furto	2017-10-07	Tarde	PR	Alumínio	SP	PR	4	Autônomo	BR 227
-Roubo/Furto	2017-10-08	Noite	MT	Defensivo Agrícola	MT	MT	1	Autônomo	BR 070
-Roubo/Furto	2017-10-09	Tarde	SP	Fios/Cabos	SP	MG	1	Autônomo	Rua/Avenida
-Roubo/Furto	2017-10-16	Noite	RN	Alimentício	PE	RN	1	Autônomo	BR 304
-Roubo/Furto	2017-10-17	Noite	SP	Alumínio	SP	SP	2	Autônomo	SP 270
-Roubo/Furto	2017-10-19	Tarde	BA	Eletrônicos	SP	PI	2	Autônomo	Desvio
-Roubo/Furto	2017-10-20	Manhã	SP	Polímeros	SP	SP	1	Autônomo	Desvio
-Roubo/Furto	2017-10-23	Noite	PB	Hig/Limp/Cosm	PE	PB	1	Autônomo	BR 101
-Roubo/Furto	2017-10-26	Madrugada	SP	Alumínio	GO	SP	1	Autônomo	SP 065
-Roubo/Furto	2017-10-30	Madrugada	SP	Polímeros	BA	SP	1	Autônomo	SP 381
-Roubo/Furto	2017-10-31	Noite	SP	Alumínio	SP	RS	3	Autônomo	SP 021
-Roubo/Furto	2017-10-31	Tarde	SC	Calçados	SP	RS	5	Autônomo	BR 101
-Roubo/Furto	2017-11-04	Madrugada	BA	Laticínios	RS	PE	2	Autônomo	Desvio
-Roubo/Furto	2017-11-05	Noite	BA	Alumínio	MA	RJ	1	Autônomo	BR 116
-Roubo/Furto	2017-11-08	Noite	SP	Alumínio	SP	RS	2	Autônomo	BR 116
-Roubo/Furto	2017-11-13	Madrugada	SP	Alimentício	SC	GO	3	Autônomo	BR 116
-Roubo/Furto	2017-11-16	Manhã	PE	Hig/Limp/Cosm	PE	PA	1	Autônomo	Desvio
-Roubo/Furto	2017-11-20	Madrugada	MG	Café	ES	SP	2	Autônomo	BR 381
-Roubo/Furto	2017-11-21	Noite	RJ	Específicas	PR	ES	3	Autônomo	BR 116
-Roubo/Furto	2017-11-23	Madrugada	SP	Cobre	SP	SP	1	Autônomo	BR 381
-Roubo/Furto	2017-11-23	Manhã	BA	Bebidas	BA	ES	1	Autônomo	BR 101
-Roubo/Furto	2017-11-24	Madrugada	SP	Polímeros	RJ	SP	1	Autônomo	SP 065
-Roubo/Furto	2017-11-26	Madrugada	MG	Alimentício	GO	MG	1	Autônomo	BR 050
-Roubo/Furto	2017-11-26	Noite	PE	Frigorífico	GO	PE	3	Autônomo	BR 101
-Roubo/Furto	2017-11-27	Madrugada	SP	Bebidas	RS	SP	2	Autônomo	Desvio
-Roubo/Furto	2017-11-27	Noite	GO	Aço/Ferro	CE	DF	1	Autônomo	BR 020
-Roubo/Furto	2017-11-28	Noite	SP	Liga Metálica	SP	SP	3	Autônomo	SP 150
-Roubo/Furto	2017-11-29	Madrugada	ES	Material Elétrico	ES	MG	3	Autônomo	BR 262
-Roubo/Furto	2017-12-01	Noite	BA	Brinquedos	PR	PE	1	Autônomo	Desvio
-Roubo/Furto	2017-12-01	Tarde	SP	Veículo	SP	SP	1	Autônomo	BR 381
-Roubo/Furto	2017-12-02	Noite	SP	Algodão	GO	SP	1	Autônomo	BR 364
-Roubo/Furto	2017-12-06	Madrugada	MG	Material Elétrico	PR	BA	1	Autônomo	BR 381
-Roubo/Furto	2017-12-06	Noite	BA	Alumínio	MG	TO	2	Autônomo	BR 316
-Roubo/Furto	2017-12-06	Tarde	MT	Combustível	PR	MT	1	Autônomo	BR 263
-Roubo/Furto	2017-12-07	Madrugada	GO	Algodão	MT	MG	1	Autônomo	BR 364
-Roubo/Furto	2017-12-07	Madrugada	GO	Defensivo Agrícola	SP	PA	1	Autônomo	BR 153
-Roubo/Furto	2017-12-09	Noite	PR	Algodão	GO	SC	1	Autônomo	BR 277
-Roubo/Furto	2017-12-10	Noite	RJ	Alimentício	SP	RJ	1	Autônomo	BR 116
-Roubo/Furto	2017-12-14	Noite	RJ	Alimentício	RJ	RJ	1	Autônomo	BR 101
-Roubo/Furto	2017-12-15	Noite	SP	Defensivo Agrícola	SP	PA	2	Autônomo	SP 330
-Roubo/Furto	2017-12-15	Noite	SP	Óleo Comestível	MT	SP	1	Autônomo	SP 280
-Roubo/Furto	2017-12-17	Manhã	SP	Alumínio	SP	PE	2	Autônomo	Rua/Avenida
-Roubo/Furto	2017-12-17	Noite	PR	Frigorífico	RO	SC	2	Autônomo	BR 116
-Roubo/Furto	2017-12-17	Noite	RJ	Frigorífico	PR	RJ	1	Autônomo	BR 040
-Roubo/Furto	2017-12-19	Manhã	RJ	Frigorífico	PR	RJ	1	Autônomo	BR 116
-Roubo/Furto	2017-12-20	Madrugada	PE	Frigorífico	TO	PE	1	Autônomo	BR 232
-Roubo/Furto	2017-12-20	Noite	SP	Bebidas	PR	SP	1	Autônomo	BR 116
-Roubo/Furto	2017-12-22	Madrugada	SP	Óleo Comestível	MT	SP	1	Autônomo	SP 280
-Roubo/Furto	2017-12-22	Tarde	SP	Alumínio	RJ	SP	2	Autônomo	Rua/Avenida
-Roubo/Furto	2017-12-26	Manhã	SP	Pneus	SP	SP	2	Autônomo	SP 308
-Roubo/Furto	2017-12-26	Tarde	MA	Bebidas	PE	MA	1	Autônomo	BR 116
-Roubo/Furto	2017-12-29	Madrugada	BA	Fraldas	GO	BA	1	Autônomo	BA 349
-Roubo/Furto	2017-12-29	Madrugada	SP	Frigorífico	MS	SP	3	Autônomo	SP 015
-Roubo/Furto	2018-01-06	Tarde	SP	Alumínio	SP	SP	2	Autônomo	Rua/Avenida
-Roubo/Furto	2018-01-08	Madrugada	RJ	Alumínio	ES	SP	1	Autônomo	BR 393
-Roubo/Furto	2018-01-10	Tarde	RJ	Hig/Limp/Cosm	GO	RJ	1	Autônomo	BR 101
-Roubo/Furto	2018-01-12	Madrugada	SP	Pneus	RJ	RO	3	Autônomo	SP 280
-Roubo/Furto	2018-01-13	Noite	SP	Café	PR	RJ	1	Autônomo	Desvio
-Roubo/Furto	2018-01-14	Manhã	RJ	Hig/Limp/Cosm	MG	RJ	2	Autônomo	BR 116
-Roubo/Furto	2018-01-14	Noite	SC	Polímeros	SC	SP	1	Autônomo	BR 101
-Roubo/Furto	2018-01-17	Noite	MG	Café	MG	MG	2	Autônomo	MG 230
-Roubo/Furto	2018-01-21	Madrugada	SP	Alumínio	SP	SP	1	Autônomo	SP 065
-Roubo/Furto	2018-01-22	Manhã	SP	Doces/Chocolate	ES	SP	1	Autônomo	BR 116
-Roubo/Furto	2018-01-22	Manhã	SP	Doces/Chocolate	ES	SP	1	Autônomo	BR 116
-Roubo/Furto	2018-01-24	Madrugada	PR	Sementes	PR	PR	1	Autônomo	BR 445
-Roubo/Furto	2018-01-25	Madrugada	MG	Doces/Chocolate	SP	RN	1	Autônomo	BR 381
-Roubo/Furto	2018-01-27	Tarde	PR	Frigorífico	SC	RJ	2	Autônomo	BR 116
-Roubo/Furto	2018-01-28	Madrugada	MG	Fraldas	SP	CE	2	Autônomo	BR 251
-Roubo/Furto	2018-01-29	Madrugada	SP	Combustível	SP	SP	1	Autônomo	SP 133
-Roubo/Furto	2018-01-30	Noite	RJ	Calçados	RJ	RJ	2	Autônomo	Rua/Avenida
-Roubo/Furto	2018-01-31	Noite	RJ	Frigorífico	MG	EX	3	Autônomo	BR 101
-Roubo/Furto	2018-01-31	Tarde	PE	Eletrodoméstico	PR	PE	1	Autônomo	BR 101
-Roubo/Furto	2018-02-02	Madrugada	SP	Aço/Ferro	RS	MG	1	Autônomo	SP 065
-Roubo/Furto	2018-02-03	Madrugada	SP	Bebidas	SP	GO	1	Autônomo	SP 065
-Roubo/Furto	2018-02-04	Noite	RJ	Frigorífico	TO	RJ	2	Autônomo	BR 040
-Roubo/Furto	2018-02-07	Noite	MG	Café	MG	MG	2	Autônomo	BR 354
-Roubo/Furto	2018-02-08	Manhã	RJ	Confecção/Tecido/Fios	RJ	RJ	1	Autônomo	Rua/Avenida
-Roubo/Furto	2018-02-14	Noite	SP	Alimentício	SC	RJ	3	Autônomo	BR 116
-Roubo/Furto	2018-02-19	Tarde	SP	Tratores/Empilhadeiras	SP	PR	3	Autônomo	BR 116
-Roubo/Furto	2018-02-23	Noite	SP	Autopeças	SP	MG	1	Autônomo	BR 381
-Roubo/Furto	2018-02-24	Tarde	SP	Laticínios	SP	MA	3	Autônomo	BR 340
-Roubo/Furto	2018-03-01	Noite	MG	Combustível	BA	MG	1	Autônomo	BR 251
-Roubo/Furto	2018-03-01	Tarde	SP	Aço/Ferro	SC	MT	1	Autônomo	SP 284
-Roubo/Furto	2018-03-03	Noite	BA	Veículo	BA	RO	1	Autônomo	BR 324
-Roubo/Furto	2018-03-07	Madrugada	SP	Minério	GO	RS	4	Autônomo	SP 065
-Roubo/Furto	2018-03-08	Madrugada	SP	Combustível	SP	SP	1	Autônomo	Rua/Avenida
-Roubo/Furto	2018-03-09	Tarde	ES	Café	ES	SP	1	Autônomo	Desvio
-Roubo/Furto	2018-03-10	Madrugada	PE	Alimentício	CE	AL	1	Autônomo	BR 101
-Roubo/Furto	2018-03-12	Madrugada	RS	Eletrônicos	RS	RS	3	Autônomo	BR 116
-Roubo/Furto	2018-03-14	Tarde	SP	Alumínio	GO	SP	1	Autônomo	BR 116
-Roubo/Furto	2018-03-16	Madrugada	SP	Autopeças	RS	ES	2	Autônomo	BR 116
-Roubo/Furto	2018-03-16	Noite	MG	Laticínios	SP	MA	3	Autônomo	BR 153
-Roubo/Furto	2018-03-19	Madrugada	SP	Alumínio	SP	AM	3	Autônomo	SP 330
-Roubo/Furto	2018-03-22	Noite	SP	Combustível	SP	SP	1	Autônomo	SP 330
-Roubo/Furto	2018-03-23	Madrugada	MG	Específicas	SP	PB	3	Autônomo	BR 251
-Roubo/Furto	2018-03-26	Madrugada	SP	Alimentício	SC	MG	3	Autônomo	BR 116
-Roubo/Furto	2018-03-26	Manhã	PR	Combustível	PR	PR	1	Autônomo	BR 376
-Roubo/Furto	2018-03-29	Noite	SP	Laticínios	RS	SP	2	Autônomo	SP 230
-Roubo/Furto	2018-03-31	Tarde	SP	Bebidas	SP	SP	1	Autônomo	BR 116
-Roubo/Furto	2018-04-03	Manhã	SP	Laticínios	MT	SP	2	Autônomo	Rua/Avenida
-Roubo/Furto	2018-04-04	Noite	RJ	Confecção/Tecido/Fios	RJ	RJ	1	Autônomo	BR 101
-Roubo/Furto	2018-04-05	Madrugada	RJ	Específicas	SP	ES	1	Autônomo	BR 101
-Roubo/Furto	2018-04-05	Noite	SP	Alumínio	SP	MG	2	Autônomo	BR 381
-Roubo/Furto	2018-04-06	Noite	SP	Frigorífico	MG	SP	4	Autônomo	SP 021
-Roubo/Furto	2018-04-07	Madrugada	RS	Alimentício	RS	DF	1	Autônomo	RS 453
-Roubo/Furto	2018-04-07	Manhã	SP	Alumínio	SP	GO	2	Autônomo	SP 330
-Roubo/Furto	2018-04-07	Noite	SP	Hig/Limp/Cosm	ES	SP	1	Autônomo	BR 116
-Roubo/Furto	2018-04-10	Noite	SP	Doces/Chocolate	SP	SP	3	Autônomo	BR 116
-Roubo/Furto	2018-04-13	Madrugada	SP	Alimentício	MG	SP	2	Autônomo	SP 330
-Roubo/Furto	2018-04-16	Noite	SP	Laticínios	MG	RS	2	Autônomo	BR 381
-Roubo/Furto	2018-04-24	Noite	PE	Alimentício	PE	PE	1	Autônomo	BR 232
-Roubo/Furto	2018-04-25	Madrugada	SP	Específicas	SP	MA	4	Autônomo	SP 330
-Roubo/Furto	2018-04-26	Madrugada	RJ	Confecção/Tecido/Fios	RJ	RJ	1	Autônomo	BR 116
-Roubo/Furto	2018-04-29	Noite	BA	Específicas	SP	BA	2	Autônomo	BR 116
-Roubo/Furto	2018-05-06	Noite	MA	Laticínios	GO	MA	1	Autônomo	BR 010
-Roubo/Furto	2018-05-08	Noite	PR	Laticínios	PR	SP	2	Autônomo	BR 116
-Roubo/Furto	2018-05-09	Noite	SP	Café	ES	SP	1	Autônomo	BR 381
-Roubo/Furto	2018-05-09	Noite	SP	Frigorífico	PA	SP	1	Autônomo	Rua/Avenida
-Roubo/Furto	2018-05-13	Tarde	SP	Laticínios	RS	SP	1	Autônomo	BR 116
-Roubo/Furto	2018-05-16	Noite	SP	Material Construção	SP	MG	1	Autônomo	SP 360
-Roubo/Furto	2018-05-17	Madrugada	SP	Café	MG	RS	2	Autônomo	SP 330
-Roubo/Furto	2018-05-18	Noite	MA	Café	PR	AM	2	Autônomo	BR 010
-Roubo/Furto	2018-05-20	Noite	SP	Café	MG	SP	3	Autônomo	BR 116
-Roubo/Furto	2018-05-30	Madrugada	SP	Alumínio	SP	RJ	1	Autônomo	Rua/Avenida
-Roubo/Furto	2018-06-02	Noite	MT	Geral	MT	MT	1	Autônomo	BR 163
-Roubo/Furto	2018-06-04	Noite	GO	Frigorífico	GO	RJ	2	Autônomo	BR 452
-Roubo/Furto	2018-06-04	Noite	PR	Alumínio	SP	SC	3	Autônomo	Desvio
-Roubo/Furto	2018-06-05	Manhã	GO	Frigorífico	PA	RJ	2	Autônomo	BR 414
-Roubo/Furto	2018-06-05	Noite	PE	Alimentício	PE	PI	1	Autônomo	BR 232
-Roubo/Furto	2018-06-05	Noite	SP	Frigorífico	MT	ES	3	Autônomo	SP 330
-Roubo/Furto	2018-06-06	Madrugada	RJ	E-Commerce	RJ	RJ	3	Autônomo	BR 101
-Roubo/Furto	2018-06-06	Madrugada	SP	Alumínio	SP	GO	2	Autônomo	SP 348
-Roubo/Furto	2018-06-07	Tarde	MG	Café	MG	MG	3	Autônomo	BR 354
-Roubo/Furto	2018-06-08	Madrugada	SP	Aço/Ferro	RJ	MT	1	Autônomo	SP 065
-Roubo/Furto	2018-06-08	Noite	BA	Doces/Chocolate	SP	PE	2	Autônomo	BR 116
-Roubo/Furto	2018-06-09	Manhã	BA	Doces/Chocolate	SP	PE	1	Autônomo	Incerto
-Roubo/Furto	2018-06-10	Tarde	SP	Frigorífico	MT	SP	2	Autônomo	SP 310
-Roubo/Furto	2018-06-12	Noite	RN	Eletrodoméstico	PE	CE	2	Autônomo	BR 304
-Roubo/Furto	2018-06-13	Tarde	SP	Polímeros	SC	SP	1	Autônomo	BR 116
-Roubo/Furto	2018-06-15	Noite	SP	Alumínio	SP	MT	3	Autônomo	Incerto
-Roubo/Furto	2018-06-16	Madrugada	CE	Alimentício	PE	CE	1	Autônomo	BR 304
-Roubo/Furto	2018-06-18	Noite	SP	Alumínio	BA	SP	1	Autônomo	BR 116
-Roubo/Furto	2018-06-19	Noite	SP	Combustível	SP	SP	1	Autônomo	SP 340
-Roubo/Furto	2018-06-24	Noite	CE	Específicas	PE	CE	2	Autônomo	BR 304
-Roubo/Furto	2018-06-24	Noite	SP	Laticínios	ES	SP	3	Autônomo	SP 065
-Roubo/Furto	2018-06-26	Manhã	SP	Alumínio	SP	MG	2	Autônomo	SP 348
-Roubo/Furto	2018-06-28	Tarde	SP	Alumínio	SP	PI	3	Autônomo	BR 116
-Roubo/Furto	2018-06-29	Noite	PR	Combustível	PR	MS	1	Autônomo	BR 376
-Roubo/Furto	2018-06-29	Noite	SP	Doces/Chocolate	SP	MG	1	Autônomo	Desvio
-Roubo/Furto	2018-06-30	Noite	MG	Específicas	MG	ES	2	Autônomo	BR 365
-Roubo/Furto	2018-07-01	Tarde	SP	Polímeros	BA	SP	1	Autônomo	BR 381
-Roubo/Furto	2018-07-04	Noite	BA	Laticínios	SP	SE	3	Autônomo	BR 101
-Roubo/Furto	2018-07-06	Madrugada	SP	Frigorífico	SP	SP	3	Autônomo	SP 280
-Roubo/Furto	2018-07-06	Noite	SP	Autopeças	SP	PR	5	Autônomo	SP 330
-Roubo/Furto	2018-07-09	Noite	SP	Frigorífico	MT	MG	1	Autônomo	SP 310
-Roubo/Furto	2018-07-11	Noite	BA	Geral	PE	PB	1	Autônomo	BR 116
-Roubo/Furto	2018-07-12	Noite	SP	Defensivo Agrícola	SP	GO	2	Autônomo	SP 340
-Roubo/Furto	2018-07-13	Madrugada	SP	Doces/Chocolate	SP	RS	1	Autônomo	BR 116
-Roubo/Furto	2018-07-19	Noite	SP	Defensivo Agrícola	SP	DF	2	Autônomo	SP 340
-Roubo/Furto	2018-07-22	Noite	MG	Alimentício	SC	MG	3	Autônomo	BR 381
-Roubo/Furto	2018-07-23	Noite	BA	Fraldas	GO	CE	1	Autônomo	BR 116
-Roubo/Furto	2018-07-25	Noite	BA	Fios/Cabos	ES	MA	2	Autônomo	BR 101
-Roubo/Furto	2018-07-26	Madrugada	SP	Alumínio	MS	SP	1	Autônomo	SP 330
-Roubo/Furto	2018-07-29	Noite	SC	Aço/Ferro	SC	RS	1	Autônomo	BR 101
-Roubo/Furto	2018-07-30	Noite	MG	Laticínios	MG	BA	2	Autônomo	BR 365
-Roubo/Furto	2018-07-31	Madrugada	MG	Laticínios	MG	BA	2	Autônomo	BR 040
-Roubo/Furto	2018-08-01	Tarde	SP	Alumínio	SP	DF	4	Autônomo	SP 345
-Roubo/Furto	2018-08-02	Manhã	SP	Aço/Ferro	SP	RS	1	Autônomo	SP 332
-Roubo/Furto	2018-08-03	Tarde	SP	Alimentício	SC	SP	3	Autônomo	BR 116
-Roubo/Furto	2018-08-06	Madrugada	RJ	Hig/Limp/Cosm	MG	RJ	2	Autônomo	BR 116
-Roubo/Furto	2018-08-07	Noite	MA	Alimentício	MG	CE	1	Autônomo	BR 010
-Roubo/Furto	2018-08-12	Noite	BA	Pneus	RJ	BA	3	Autônomo	BR 116
-Roubo/Furto	2018-08-12	Noite	SP	Frigorífico	MT	SP	2	Autônomo	SP 280
-Roubo/Furto	2018-08-15	Noite	RJ	Geral	MG	RJ	1	Autônomo	BR 101
-Roubo/Furto	2018-08-16	Madrugada	MG	Hig/Limp/Cosm	MG	PR	4	Autônomo	BR 381
-Roubo/Furto	2018-08-19	Madrugada	SP	Alumínio	SP	DF	4	Autônomo	SP 330
-Roubo/Furto	2018-08-19	Manhã	BA	Geral	SP	PB	1	Autônomo	BR 110
-Roubo/Furto	2018-08-21	Noite	SP	Específicas	SP	BA	3	Autônomo	BR 381
-Roubo/Furto	2018-08-30	Manhã	SP	Alimentício	SC	MG	3	Autônomo	BR 116
-Roubo/Furto	2018-08-31	Madrugada	GO	Laticínios	GO	BA	1	Autônomo	BR 352
-Roubo/Furto	2018-08-31	Tarde	PE	Geral	SP	CE	1	Autônomo	Desvio
-Roubo/Furto	2018-09-04	Noite	SP	Combustível	RJ	SP	2	Autônomo	BR 116
-Roubo/Furto	2018-09-05	Noite	SP	Alumínio	ES	SP	4	Autônomo	BR 116
-Roubo/Furto	2018-09-06	Noite	SC	Alimentício	SC	SC	3	Autônomo	BR 101
-Roubo/Furto	2018-09-07	Madrugada	SP	Frigorífico	MT	SP	1	Autônomo	BR 116
-Roubo/Furto	2018-09-12	Tarde	SC	Aço/Ferro	SC	SC	1	Autônomo	Desvio
-Roubo/Furto	2018-09-13	Noite	SP	Defensivo Agrícola	MG	MS	4	Autônomo	BR 153
-Roubo/Furto	2018-09-13	Tarde	MG	Defensivo Agrícola	SP	PI	3	Autônomo	BR 050
-Roubo/Furto	2018-09-15	Noite	MG	Sementes	MG	MG	2	Autônomo	MG 452
-Roubo/Furto	2018-09-16	Madrugada	SP	Específicas	MG	PR	3	Autônomo	BR 153
-Roubo/Furto	2018-09-17	Madrugada	RJ	Laticínios	RS	RJ	3	Autônomo	BR 116
-Roubo/Furto	2018-09-17	Tarde	EX	Autopeças	EX	SP	1	Autônomo	Desvio
-Roubo/Furto	2018-09-23	Madrugada	SP	Sementes	MG	SP	1	Autônomo	SP 065
-Roubo/Furto	2018-09-24	Noite	SP	Frigorífico	MT	SP	2	Autônomo	SP 300
-Roubo/Furto	2018-09-26	Noite	SP	Alumínio	GO	SP	1	Autônomo	SP 330
-Roubo/Furto	2018-09-28	Manhã	SP	Aço/Ferro	SP	SC	1	Autônomo	BR 116
-Roubo/Furto	2018-09-29	Madrugada	ES	Laticínios	ES	ES	3	Autônomo	BR 101
-Roubo/Furto	2018-10-01	Tarde	SP	Aço/Ferro	RJ	SP	1	Autônomo	Rua/Avenida
-Roubo/Furto	2018-10-05	Manhã	GO	Hig/Limp/Cosm	SP	PA	2	Autônomo	BR 153
-Roubo/Furto	2018-10-07	Madrugada	SP	Pneus	SC	PE	3	Autônomo	BR 116
-Roubo/Furto	2018-10-07	Tarde	GO	Sementes	GO	GO	2	Autônomo	Desvio
-Roubo/Furto	2018-10-10	Madrugada	SP	Geral	SP	SP	1	Autônomo	BR 116
-Roubo/Furto	2018-10-10	Manhã	SC	Aço/Ferro	RS	PR	1	Autônomo	Desvio
-Roubo/Furto	2018-10-11	Noite	MG	Café	MG	MG	2	Autônomo	BR 354
-Roubo/Furto	2018-10-15	Madrugada	SC	Alumínio	SC	SC	2	Autônomo	SC 280
-Roubo/Furto	2018-10-15	Noite	AL	Laticínios	SP	AL	3	Autônomo	BR 101
-Roubo/Furto	2018-10-17	Noite	MG	Frigorífico	RO	MG	2	Autônomo	BR 262
-Roubo/Furto	2018-10-19	Tarde	SP	Fraldas	SP	GO	1	Autônomo	Desvio
-Roubo/Furto	2018-10-21	Tarde	SP	Frigorífico	MT	SP	2	Autônomo	SP 280
-Roubo/Furto	2018-10-26	Tarde	MG	Sementes	MG	DF	3	Autônomo	BR 365
-Roubo/Furto	2018-10-28	Noite	MA	Fraldas	GO	MA	1	Autônomo	BR 226
-Roubo/Furto	2018-10-29	Noite	SP	Alumínio	SC	SP	3	Autônomo	BR 116
-Roubo/Furto	2018-11-06	Madrugada	SP	Aço/Ferro	SP	RO	1	Autônomo	BR 456
-Roubo/Furto	2018-11-07	Madrugada	GO	Alimentício	GO	TO	1	Autônomo	BR 153
-Roubo/Furto	2018-11-07	Manhã	GO	Material Escolar	SP	GO	1	Autônomo	BR 153
-Roubo/Furto	2018-11-07	Manhã	SP	Laticínios	SP	SP	1	Autônomo	SP 280
-Roubo/Furto	2018-11-08	Noite	SP	Utilidades Doméstica	SP	RS	3	Autônomo	BR 116
-Roubo/Furto	2018-11-21	Madrugada	SP	Frigorífico	PA	SP	2	Autônomo	SP 021
-Roubo/Furto	2018-11-24	Noite	MG	Alumínio	PE	MS	2	Autônomo	BR 365
-Roubo/Furto	2018-11-27	Noite	RJ	Geral	RJ	SP	3	Autônomo	BR 116
-Roubo/Furto	2018-11-30	Madrugada	GO	Medicamento	SC	GO	4	Autônomo	BR 153
-Roubo/Furto	2018-11-30	Noite	SP	Doces/Chocolate	SP	SP	1	Autônomo	SP 300
-Roubo/Furto	2018-12-03	Noite	BA	Fraldas	GO	CE	2	Autônomo	BR 116
-Roubo/Furto	2018-12-12	Madrugada	RJ	Geral	SC	ES	1	Autônomo	BR 101
-Roubo/Furto	2018-12-12	Noite	MG	Laticínios	MG	SP	2	Autônomo	BR 369
-Roubo/Furto	2018-12-16	Noite	MA	Fraldas	GO	PA	1	Autônomo	Rua/Avenida
-Roubo/Furto	2018-12-20	Madrugada	SP	Confecção/Tecido/Fios	PR	GO	4	Autônomo	BR 153
-Roubo/Furto	2018-12-21	Noite	MG	Bebidas	SP	MG	1	Autônomo	BR 381
-Roubo/Furto	2018-12-22	Madrugada	MT	Sementes	MT	MS	4	Autônomo	BR 163
-Roubo/Furto	2018-12-27	Tarde	PE	Fertilizantes	SP	CE	2	Autônomo	Desvio
-Roubo/Furto	2018-12-29	Tarde	SP	Bebidas	SP	DF	1	Autônomo	SP 065
-Roubo/Furto	2019-01-13	Noite	SP	Aço/Ferro	RJ	MG	1	Autônomo	SP 330
-Roubo/Furto	2019-01-17	Manhã	SP	Alumínio	ES	SP	3	Autônomo	BR 116
-Roubo/Furto	2019-01-17	Manhã	SP	Alumínio	ES	SP	3	Autônomo	BR 116
-Roubo/Furto	2019-01-20	Noite	SP	Frigorífico	GO	SP	1	Autônomo	SP 348
-Roubo/Furto	2019-02-01	Madrugada	SP	Alumínio	RJ	MG	1	Autônomo	SP 065
-Roubo/Furto	2019-02-02	Madrugada	GO	Laticínios	GO	PI	1	Autônomo	GO 020
-Roubo/Furto	2019-02-06	Madrugada	SP	Aço/Ferro	SP	SP	1	Autônomo	SP 310
-Roubo/Furto	2019-02-16	Noite	SP	Bebidas	SP	GO	1	Autônomo	SP 330
-Roubo/Furto	2019-02-27	Madrugada	PE	Bebidas	PE	MG	3	Autônomo	BR 232
-Roubo/Furto	2019-03-02	Noite	SP	Aço/Ferro	SP	SP	1	Autônomo	SP 330
-Roubo/Furto	2019-03-23	Madrugada	SP	Bebidas	SP	GO	1	Autônomo	BR 116
-Roubo/Furto	2017-01-12	Manhã	MG	Hig/Limp/Cosm	SP	PB	4	Funcionário	BR 381
-Roubo/Furto	2017-01-16	Noite	AL	Hig/Limp/Cosm	SP	RN	4	Funcionário	BR 423
-Roubo/Furto	2017-01-18	Tarde	PE	Hig/Limp/Cosm	SP	PB	4	Funcionário	BR 423
-Roubo/Furto	2017-01-20	Manhã	PB	Hig/Limp/Cosm	SP	RN	4	Funcionário	BR 101
-Roubo/Furto	2017-01-21	Noite	SP	Químico	BA	SP	2	Funcionário	SP 065
-Roubo/Furto	2017-01-22	Madrugada	MG	Hig/Limp/Cosm	SP	BA	1	Funcionário	BR 116
-Roubo/Furto	2017-01-22	Tarde	PB	Hig/Limp/Cosm	PE	RN	1	Funcionário	BR 101
-Roubo/Furto	2017-01-25	Madrugada	MG	Hig/Limp/Cosm	SP	PA	3	Funcionário	BR 153
-Roubo/Furto	2017-01-28	Tarde	BA	Hig/Limp/Cosm	SP	PE	5	Funcionário	BR 423
-Roubo/Furto	2017-01-29	Noite	RJ	Específicas	RS	RJ	3	Funcionário	Rua/Avenida
-Roubo/Furto	2017-01-30	Madrugada	MG	Alimentício	SP	CE	1	Funcionário	BR 116
-Roubo/Furto	2017-01-30	Madrugada	RJ	Alimentício	SP	RJ	1	Funcionário	BR 116
-Roubo/Furto	2017-02-02	Noite	PE	Hig/Limp/Cosm	SP	PE	2	Funcionário	BR 101
-Roubo/Furto	2017-02-04	Tarde	PE	Hig/Limp/Cosm	SP	PI	4	Funcionário	BR 407
-Roubo/Furto	2017-02-05	Madrugada	PR	Calçados	MG	RS	1	Funcionário	BR 116
-Roubo/Furto	2017-02-06	Manhã	MG	E-Commerce	MG	MG	2	Funcionário	BR 040
-Roubo/Furto	2017-02-07	Noite	BA	Café	ES	SE	3	Funcionário	BR 101
-Roubo/Furto	2017-02-15	Manhã	PE	Hig/Limp/Cosm	PE	CE	1	Funcionário	BR 101
-Roubo/Furto	2017-02-20	Tarde	PE	Hig/Limp/Cosm	SP	PE	5	Funcionário	BR 423
-Roubo/Furto	2017-02-21	Madrugada	SP	Confecção/Tecido/Fios	RJ	SP	3	Funcionário	BR 116
-Roubo/Furto	2017-02-23	Madrugada	RJ	Geral	RJ	SP	3	Funcionário	BR 116
-Roubo/Furto	2017-03-03	Madrugada	RJ	Hig/Limp/Cosm	SP	ES	1	Funcionário	BR 101
-Roubo/Furto	2017-03-07	Noite	AL	Hig/Limp/Cosm	SP	PE	3	Funcionário	BR 101
-Roubo/Furto	2017-03-12	Tarde	RJ	Pescado	RJ	RJ	2	Funcionário	BR 116
-Roubo/Furto	2017-03-13	Noite	PA	Alimentício	PA	PA	1	Funcionário	Rua/Avenida
-Roubo/Furto	2017-03-15	Noite	RJ	Confecção/Tecido/Fios	RJ	SP	3	Funcionário	BR 116
-Roubo/Furto	2017-03-15	Noite	RJ	Específicas	RS	RJ	2	Funcionário	BR 116
-Roubo/Furto	2017-03-15	Noite	SP	Alumínio	SP	SP	1	Funcionário	BR 116
-Roubo/Furto	2017-03-18	Madrugada	SC	Aço/Ferro	SC	SC	1	Funcionário	BR 280
-Roubo/Furto	2017-03-19	Tarde	PE	Hig/Limp/Cosm	SP	PB	4	Funcionário	BR 423
-Roubo/Furto	2017-03-22	Madrugada	GO	Bebidas	SP	DF	1	Funcionário	BR 040
-Roubo/Furto	2017-03-26	Noite	SC	Doces/Chocolate	EX	MG	4	Funcionário	BR 101
-Roubo/Furto	2017-03-28	Noite	SP	Frigorífico	MG	SP	3	Funcionário	SP 381
-Roubo/Furto	2017-03-31	Noite	BA	Combustível	BA	GO	1	Funcionário	BR 242
-Roubo/Furto	2017-03-31	Tarde	RJ	Hig/Limp/Cosm	SP	RJ	1	Funcionário	BR 101
-Roubo/Furto	2017-04-01	Tarde	RJ	Hig/Limp/Cosm	MG	RJ	1	Funcionário	BR 101
-Roubo/Furto	2017-04-06	Madrugada	SE	Hig/Limp/Cosm	SP	PE	4	Funcionário	BR 101
-Roubo/Furto	2017-04-06	Madrugada	SE	Hig/Limp/Cosm	SP	PE	4	Funcionário	BR 101
-Roubo/Furto	2017-04-10	Manhã	SP	Polímeros	SC	SP	1	Funcionário	Rua/Avenida
-Roubo/Furto	2017-04-11	Noite	SP	Alumínio	MG	SP	1	Funcionário	BR 116
-Roubo/Furto	2017-04-13	Noite	RJ	Frigorífico	GO	RJ	3	Funcionário	BR 116
-Roubo/Furto	2017-04-15	Noite	PR	Pescado	EX	SP	4	Funcionário	BR 376
-Roubo/Furto	2017-04-19	Manhã	RJ	Pescado	RJ	RJ	2	Funcionário	BR 101
-Roubo/Furto	2017-04-19	Noite	SP	Pescado	CE	SP	3	Funcionário	 Rua/Avenida
-Roubo/Furto	2017-04-27	Noite	GO	Alimentício	MG	GO	3	Funcionário	BR 153
-Roubo/Furto	2017-04-27	Noite	SP	Frigorífico	EX	SP	2	Funcionário	SP 425
-Roubo/Furto	2017-04-29	Madrugada	RJ	Confecção/Tecido/Fios	RJ	RJ	1	Funcionário	BR 101
-Roubo/Furto	2017-05-02	Noite	BA	Específicas	SP	BA	1	Funcionário	BR 324
-Roubo/Furto	2017-05-10	Noite	GO	Hig/Limp/Cosm	SP	GO	1	Funcionário	BR 153
-Roubo/Furto	2017-05-10	Noite	RJ	Alimentício	SP	RJ	1	Funcionário	BR 116
-Roubo/Furto	2017-05-10	Noite	RJ	Alimentício	SP	RJ	1	Funcionário	BR 116
-Roubo/Furto	2017-05-10	Tarde	PE	Hig/Limp/Cosm	SP	PE	3	Funcionário	BR 101
-Roubo/Furto	2017-05-10	Tarde	RJ	Alimentício	SP	PE	2	Funcionário	BR 101
-Roubo/Furto	2017-05-10	Tarde	SP	Veículo	PR	BA	3	Funcionário	BR 381
-Roubo/Furto	2017-05-11	Manhã	SP	Calçados	SP	SP	3	Funcionário	SP 330
-Roubo/Furto	2017-05-14	Madrugada	AL	Hig/Limp/Cosm	SP	PE	3	Funcionário	BR 101
-Roubo/Furto	2017-05-14	Madrugada	AL	Hig/Limp/Cosm	SP	PE	3	Funcionário	BR 101
-Roubo/Furto	2017-05-15	Noite	ES	Hig/Limp/Cosm	SP	ES	3	Funcionário	BR 259
-Roubo/Furto	2017-05-18	Tarde	SP	Alumínio	ES	SP	3	Funcionário	BR 116
-Roubo/Furto	2017-05-20	Manhã	MG	Pneus	BA	SP	3	Funcionário	BR 116
-Roubo/Furto	2017-05-23	Madrugada	PA	Geral	MA	PA	1	Funcionário	BR 010
-Roubo/Furto	2017-05-24	Noite	RJ	Pescado	RN	RJ	1	Funcionário	BR 101
-Roubo/Furto	2017-05-26	Madrugada	GO	Hig/Limp/Cosm	SP	GO	1	Funcionário	BR 153
-Roubo/Furto	2017-05-30	Tarde	AL	Hig/Limp/Cosm	SP	RN	4	Funcionário	BR 101
-Roubo/Furto	2017-05-31	Noite	GO	Hig/Limp/Cosm	SP	PA	3	Funcionário	BR 153
-Roubo/Furto	2017-06-01	Noite	BA	Hig/Limp/Cosm	SP	PB	4	Funcionário	BR 101
-Roubo/Furto	2017-06-01	Noite	RJ	Alimentício	SP	RJ	1	Funcionário	BR 116
-Roubo/Furto	2017-06-02	Manhã	SP	Polímeros	SC	SP	1	Funcionário	Rua/Avenida
-Roubo/Furto	2017-06-05	Noite	RJ	Medicamento	RJ	RJ	1	Funcionário	BR 101
-Roubo/Furto	2017-06-06	Noite	RJ	Papel	MS	RJ	3	Funcionário	BR 116
-Roubo/Furto	2017-06-09	Noite	RJ	Frigorífico	RO	RJ	2	Funcionário	BR 116
-Roubo/Furto	2017-06-11	Noite	MG	Aço/Ferro	MG	RJ	3	Funcionário	BR 040
-Roubo/Furto	2017-06-15	Madrugada	RJ	Pescado	SP	RJ	1	Funcionário	BR 116
-Roubo/Furto	2017-06-15	Tarde	BA	Hig/Limp/Cosm	SP	BA	4	Funcionário	BR 116
-Roubo/Furto	2017-06-18	Noite	RJ	Hig/Limp/Cosm	SP	PE	3	Funcionário	BR 493
-Roubo/Furto	2017-06-21	Noite	RJ	Eletrodoméstico	SP	RJ	2	Funcionário	BR 116
-Roubo/Furto	2017-06-29	Tarde	RJ	Pescado	SP	RJ	1	Funcionário	BR 101
-Roubo/Furto	2017-06-30	Madrugada	RJ	Alimentício	SP	RJ	1	Funcionário	BR 101
-Roubo/Furto	2017-07-02	Manhã	RJ	Frigorífico	RO	RJ	2	Funcionário	Rua/Avenida
-Roubo/Furto	2017-07-02	Tarde	RJ	Bebidas	RS	RJ	1	Funcionário	BR 116
-Roubo/Furto	2017-07-03	Tarde	GO	Defensivo Agrícola	GO	GO	3	Funcionário	GO 410
-Roubo/Furto	2017-07-06	Madrugada	RS	Doces/Chocolate	EX	MG	4	Funcionário	BR 285
-Roubo/Furto	2017-07-13	Tarde	RJ	Eletrodoméstico	SP	RJ	2	Funcionário	BR 101
-Roubo/Furto	2017-07-24	Madrugada	MG	Eletrodoméstico	MG	MG	2	Funcionário	BR 381
-Roubo/Furto	2017-07-26	Madrugada	MG	Laticínios	GO	SP	1	Funcionário	BR 364
-Roubo/Furto	2017-07-26	Noite	SP	Café	MG	SP	1	Funcionário	Rua/Avenida
-Roubo/Furto	2017-07-27	Noite	RJ	Frigorífico	RS	RJ	2	Funcionário	Rua/Avenida
-Roubo/Furto	2017-07-29	Madrugada	AL	Hig/Limp/Cosm	SP	PB	3	Funcionário	BR 423
-Roubo/Furto	2017-08-06	Noite	PE	Químico	PA	PE	4	Funcionário	BR 232
-Roubo/Furto	2017-08-08	Noite	SP	Específicas	SP	SP	1	Funcionário	Rua/Avenida
-Roubo/Furto	2017-08-13	Madrugada	SP	Frigorífico	GO	SP	4	Funcionário	SP 021
-Roubo/Furto	2017-08-21	Manhã	MG	Café	GO	SP	3	Funcionário	Incerto
-Roubo/Furto	2017-08-21	Manhã	SP	Material Elétrico	SP	SP	1	Funcionário	Rua/Avenida
-Roubo/Furto	2017-08-23	Madrugada	MG	Específicas	MG	SP	2	Funcionário	BR 381
-Roubo/Furto	2017-08-27	Tarde	PE	Químico	PA	PE	4	Funcionário	BR 232
-Roubo/Furto	2017-08-28	Noite	SP	Defensivo Agrícola	SP	SP	2	Funcionário	BR 116
-Roubo/Furto	2017-08-29	Noite	GO	Específicas	SP	RO	3	Funcionário	BR 364
-Roubo/Furto	2017-09-02	Tarde	PI	Hig/Limp/Cosm	SP	PI	5	Funcionário	PI 141
-Roubo/Furto	2017-09-06	Madrugada	SP	Geral	SP	SP	1	Funcionário	SP 332
-Roubo/Furto	2017-09-09	Noite	GO	Bateria	SP	GO	4	Funcionário	BR 153
-Roubo/Furto	2017-09-09	Tarde	PE	Hig/Limp/Cosm	SP	PB	4	Funcionário	BR 101
-Roubo/Furto	2017-09-10	Noite	MG	Calçados	SP	PE	2	Funcionário	BR 251
-Roubo/Furto	2017-09-17	Madrugada	PE	Hig/Limp/Cosm	SP	PE	3	Funcionário	BR 101
-Roubo/Furto	2017-09-17	Manhã	RJ	Frigorífico	PR	RJ	1	Funcionário	BR 116
-Roubo/Furto	2017-09-17	Noite	MT	Laticínios	SC	MT	1	Funcionário	BR 364
-Roubo/Furto	2017-09-18	Noite	SP	Eletrônicos	SP	SP	5	Funcionário	SP 330
-Roubo/Furto	2017-09-27	Noite	BA	Celulares	BA	BA	2	Funcionário	BR 324
-Roubo/Furto	2017-10-01	Noite	BA	Alimentício	CE	PR	2	Funcionário	BR 116
-Roubo/Furto	2017-10-03	Tarde	SP	Alumínio	SP	MG	3	Funcionário	SP 065
-Roubo/Furto	2017-10-06	Manhã	MG	Material Elétrico	SP	PA	4	Funcionário	BR 423
-Roubo/Furto	2017-10-11	Noite	RJ	Alimentício	SP	RJ	1	Funcionário	Rua/Avenida
-Roubo/Furto	2017-10-18	Madrugada	SC	Bebidas	MG	RS	1	Funcionário	BR 101
-Roubo/Furto	2017-10-24	Noite	GO	Óleo Comestível	MG	GO	1	Funcionário	BR 050
-Roubo/Furto	2017-10-27	Manhã	MG	Hig/Limp/Cosm	SP	PE	3	Funcionário	BR 251
-Roubo/Furto	2017-10-28	Noite	MG	Eletrônicos	SP	DF	4	Funcionário	BR 153
-Roubo/Furto	2017-11-07	Manhã	SP	Alumínio	SP	DF	4	Funcionário	SP 065
-Roubo/Furto	2017-11-09	Manhã	SP	Pneus	SP	PA	2	Funcionário	Rua/Avenida
-Roubo/Furto	2017-11-10	Noite	AL	Hig/Limp/Cosm	PE	SP	4	Funcionário	BR 101
-Roubo/Furto	2017-11-11	Tarde	RJ	Calçados	RS	ES	4	Funcionário	BR 116
-Roubo/Furto	2017-11-12	Madrugada	PE	Hig/Limp/Cosm	SP	RN	3	Funcionário	BR 232
-Roubo/Furto	2017-11-15	Noite	RJ	Material Elétrico	SP	RJ	2	Funcionário	BR 116
-Roubo/Furto	2017-11-16	Tarde	SP	Confecção/Tecido/Fios	SP	SP	1	Funcionário	BR 116
-Roubo/Furto	2017-11-17	Tarde	RJ	Alimentício	RJ	RJ	1	Funcionário	BR 040
-Roubo/Furto	2017-11-20	Noite	PI	Hig/Limp/Cosm	SP	PI	4	Funcionário	BR 135
-Roubo/Furto	2017-11-23	Madrugada	MG	Hig/Limp/Cosm	MG	SP	3	Funcionário	BR 381
-Roubo/Furto	2017-11-24	Madrugada	SP	Eletrônicos	SP	SP	2	Funcionário	Rua/Avenida
-Roubo/Furto	2017-11-24	Madrugada	SP	Frigorífico	GO	SP	3	Funcionário	SP 065
-Roubo/Furto	2017-11-24	Manhã	MG	Hig/Limp/Cosm	SP	PE	3	Funcionário	BR 381
-Roubo/Furto	2017-11-27	Madrugada	MG	Específicas	MG	MG	2	Funcionário	BR 262
-Roubo/Furto	2017-11-27	Tarde	RJ	Hig/Limp/Cosm	SP	RJ	3	Funcionário	Rua/Avenida
-Roubo/Furto	2017-11-28	Noite	AL	Hig/Limp/Cosm	PE	BA	3	Funcionário	BR 101
-Roubo/Furto	2017-12-04	Noite	MA	Hig/Limp/Cosm	SP	PI	4	Funcionário	BR 316
-Roubo/Furto	2017-12-04	Tarde	SP	Alumínio	SP	DF	3	Funcionário	Rua/Avenida
-Roubo/Furto	2017-12-05	Madrugada	MG	Alimentício	SP	BA	1	Funcionário	BR 251
-Roubo/Furto	2017-12-08	Manhã	SP	Hig/Limp/Cosm	SP	SP	2	Funcionário	BR 116
-Roubo/Furto	2017-12-08	Noite	RJ	Específicas	RJ	SP	2	Funcionário	BR 101
-Roubo/Furto	2017-12-11	Manhã	RJ	Alimentício	RJ	RJ	2	Funcionário	Incerto
-Roubo/Furto	2017-12-13	Manhã	RJ	Frigorífico	PR	RJ	1	Funcionário	BR 116
-Roubo/Furto	2017-12-25	Noite	BA	Alimentício	SP	PB	3	Funcionário	BR 101
-Roubo/Furto	2018-01-04	Noite	BA	Laticínios	GO	BA	2	Funcionário	BR 242
-Roubo/Furto	2018-01-11	Noite	PR	Combustível	RS	PR	1	Funcionário	BR 376
-Roubo/Furto	2018-01-14	Manhã	TO	Tratores/Empilhadeiras	ES	PA	1	Funcionário	BR 153
-Roubo/Furto	2018-01-17	Tarde	SP	Alumínio	SP	SP	1	Funcionário	BR 116
-Roubo/Furto	2018-01-19	Manhã	SP	Alimentício	SP	PR	2	Funcionário	BR 116
-Roubo/Furto	2018-01-20	Madrugada	TO	Laticínios	GO	PA	3	Funcionário	BR 153
-Roubo/Furto	2018-01-24	Manhã	SP	Alumínio	SP	SP	4	Funcionário	BR 116
-Roubo/Furto	2018-01-30	Tarde	SP	Frigorífico	SC	RJ	1	Funcionário	SP 021
-Roubo/Furto	2018-01-30	Tarde	SP	Frigorífico	SC	RJ	1	Funcionário	SP 021
-Roubo/Furto	2018-02-04	Manhã	GO	Alimentício	GO	BA	1	Funcionário	BR 060
-Roubo/Furto	2018-02-14	Tarde	SP	Combustível	SP	MS	1	Funcionário	SP 332
-Roubo/Furto	2018-02-15	Noite	SP	Combustível	SP	SP	1	Funcionário	BR 116
-Roubo/Furto	2018-02-21	Manhã	SP	Confecção/Tecido/Fios	SP	SP	5	Funcionário	SP 083
-Roubo/Furto	2018-03-14	Tarde	MG	Frigorífico	GO	SC	2	Funcionário	BR 153
-Roubo/Furto	2018-03-26	Noite	RJ	Hig/Limp/Cosm	MG	RJ	1	Funcionário	BR 101
-Roubo/Furto	2018-03-28	Madrugada	RJ	Específicas	RJ	RJ	2	Funcionário	BR 101
-Roubo/Furto	2018-04-05	Madrugada	MG	Combustível	SP	MG	2	Funcionário	BR 381
-Roubo/Furto	2018-04-05	Manhã	SP	Doces/Chocolate	EX	MG	5	Funcionário	SP 332
-Roubo/Furto	2018-04-05	Manhã	SP	Eletrônicos	SP	SP	5	Funcionário	SP 330
-Roubo/Furto	2018-04-06	Madrugada	SP	Eletrônicos	SP	SP	4	Funcionário	SP 330
-Roubo/Furto	2018-04-08	Noite	SC	Frigorífico	SC	SC	1	Funcionário	SC 470
-Roubo/Furto	2018-04-10	Madrugada	PR	Confecção/Tecido/Fios	SC	SP	2	Funcionário	BR 277
-Roubo/Furto	2018-04-10	Tarde	PE	Hig/Limp/Cosm	SP	CE	4	Funcionário	BR 116
-Roubo/Furto	2018-04-11	Madrugada	SP	Polímeros	SP	PA	1	Funcionário	SP 348
-Roubo/Furto	2018-04-11	Noite	SP	Ofalmologicos	SP	SP	4	Funcionário	Rua/Avenida
-Roubo/Furto	2018-04-14	Tarde	MG	Calçados	SP	PE	4	Funcionário	BR 116
-Roubo/Furto	2018-04-15	Tarde	SP	Pneus	PE	SP	3	Funcionário	BR 116
-Roubo/Furto	2018-04-17	Madrugada	SP	Confecção/Tecido/Fios	SP	SP	1	Funcionário	SP 008
-Roubo/Furto	2018-04-18	Tarde	SP	Específicas	SP	SP	3	Funcionário	SP 330
-Roubo/Furto	2018-04-20	Noite	SP	Frigorífico	SP	SP	4	Funcionário	SP 330
-Roubo/Furto	2018-04-24	Manhã	PE	Frigorífico	RJ	PE	2	Funcionário	BR 423
-Roubo/Furto	2018-05-10	Noite	MG	Café	MG	MG	1	Funcionário	MG 223
-Roubo/Furto	2018-05-23	Noite	RJ	Computador/Tablet	RJ	SP	2	Funcionário	BR 101
-Roubo/Furto	2018-06-07	Noite	PR	Bebidas	PR	SC	1	Funcionário	BR 101
-Roubo/Furto	2018-06-11	Noite	MG	Defensivo Agrícola	SP	PE	5	Funcionário	BR 251
-Roubo/Furto	2018-06-13	Noite	SP	Específicas	SP	SP	5	Funcionário	SP 348
-Roubo/Furto	2018-06-15	Manhã	SP	Defensivo Agrícola	SP	SP	1	Funcionário	SP 332
-Roubo/Furto	2018-06-17	Tarde	SP	Eletrodoméstico	SP	SC	1	Funcionário	BR 101
-Roubo/Furto	2018-06-19	Manhã	MG	Café	MG	MG	3	Funcionário	BR 365
-Roubo/Furto	2018-07-11	Madrugada	SP	Calçados	SP	MG	4	Funcionário	BR 381
-Roubo/Furto	2018-07-19	Madrugada	MG	Frigorífico	MG	RJ	2	Funcionário	BR 116
-Roubo/Furto	2018-07-21	Madrugada	MG	Confecção/Tecido/Fios	RJ	PI	4	Funcionário	BR 116
-Roubo/Furto	2018-07-21	Madrugada	MG	Confecção/Tecido/Fios	RJ	MA	3	Funcionário	BR 116
-Roubo/Furto	2018-07-22	Tarde	SP	Hig/Limp/Cosm	SP	MT	3	Funcionário	SP 330
-Roubo/Furto	2018-07-23	Tarde	RJ	Alumínio	ES	SP	4	Funcionário	BR 101
-Roubo/Furto	2018-07-24	Tarde	RJ	Óleo Lubrificante	RJ	SC	3	Funcionário	BR 101
-Roubo/Furto	2018-08-09	Noite	SP	Químico	BA	SP	3	Funcionário	BR 116
-Roubo/Furto	2018-08-22	Madrugada	PR	Hig/Limp/Cosm	MG	RS	2	Funcionário	BR 376
-Roubo/Furto	2018-08-30	Noite	RJ	Geral	RJ	SP	2	Funcionário	BR 116
-Roubo/Furto	2018-08-31	Noite	GO	Defensivo Agrícola	SP	GO	4	Funcionário	BR 153
-Roubo/Furto	2018-09-03	Noite	PR	Frigorífico	PR	SC	1	Funcionário	BR 376
-Roubo/Furto	2018-09-11	Noite	PR	Combustível	PR	MS	1	Funcionário	BR 376
-Roubo/Furto	2018-09-14	Tarde	RJ	Laticínios	RJ	RJ	2	Funcionário	Incerto
-Roubo/Furto	2018-09-14	Tarde	RJ	Laticínios	RJ	RJ	2	Funcionário	Incerto
-Roubo/Furto	2018-09-15	Noite	SP	Hospitalar	GO	SP	4	Funcionário	SP 280
-Roubo/Furto	2018-09-20	Manhã	RJ	Laticínios	RS	RJ	1	Funcionário	Rua/Avenida
-Roubo/Furto	2018-10-04	Noite	MG	Confecção/Tecido/Fios	RJ	AL	3	Funcionário	BR 116
-Roubo/Furto	2018-10-04	Noite	RJ	Laticínios	ES	SP	2	Funcionário	BR 393
-Roubo/Furto	2018-10-05	Madrugada	SP	Hig/Limp/Cosm	SP	SP	3	Funcionário	Rua/Avenida
-Roubo/Furto	2018-10-08	Noite	MG	Café	BA	PR	2	Funcionário	BR 418
-Roubo/Furto	2018-10-10	Manhã	SP	Veículo	PR	SP	4	Funcionário	BR 116
-Roubo/Furto	2018-10-16	Manhã	PI	Celulares	AM	PI	3	Funcionário	Rua/Avenida
-Roubo/Furto	2018-10-17	Madrugada	SP	Hig/Limp/Cosm	SP	PE	3	Funcionário	BR 381
-Roubo/Furto	2018-10-18	Madrugada	SP	Combustível	SP	SP	1	Funcionário	SP 330
-Roubo/Furto	2018-10-24	Madrugada	RJ	Frigorífico	TO	RJ	3	Funcionário	BR 101
-Roubo/Furto	2018-10-25	Noite	ES	Frigorífico	ES	EX	3	Funcionário	BR 101
-Roubo/Furto	2018-10-26	Tarde	RJ	Frigorífico	TO	RJ	3	Funcionário	BR 101
-Roubo/Furto	2018-11-03	Noite	AL	Hig/Limp/Cosm	SP	PE	3	Funcionário	BR 101
-Roubo/Furto	2018-11-12	Tarde	RJ	Alimentício	PA	RJ	1	Funcionário	BR 101
-Roubo/Furto	2018-11-22	Tarde	RJ	Hig/Limp/Cosm	MG	RJ	1	Funcionário	Rua/Avenida
-Roubo/Furto	2018-12-08	Madrugada	PR	Alimentício	SC	PR	1	Funcionário	BR 116
-Roubo/Furto	2018-12-10	Noite	SP	Defensivo Agrícola	SP	MT	5	Funcionário	SP 310
-Roubo/Furto	2018-12-10	Tarde	GO	Defensivo Agrícola	MG	TO	1	Funcionário	BR 153
-Roubo/Furto	2018-12-14	Manhã	RJ	Específicas	RJ	RJ	1	Funcionário	BR 040
-Roubo/Furto	2018-12-17	Noite	RJ	Específicas	RJ	SP	1	Funcionário	BR 116
-Roubo/Furto	2019-01-02	Noite	SC	Frigorífico	SC	SC	1	Funcionário	BR 470
-Roubo/Furto	2019-01-10	Manhã	PR	Frigorífico	PR	SC	1	Funcionário	BR 277
-Roubo/Furto	2019-03-14	Madrugada	RJ	Específicas	RJ	RJ	1	Funcionário	Incerto
-Roubo/Furto	2017-01-06	Madrugada	SP	E-Commerce	MG	SP	1	S/Comprovação	SP 330
-Roubo/Furto	2017-01-08	Noite	SP	Tubos e Conexões	SP	SP	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-01-14	Madrugada	SP	E-Commerce	SP	SP	1	S/Comprovação	SP 070
-Roubo/Furto	2017-01-19	Madrugada	GO	E-Commerce	MG	GO	1	S/Comprovação	BR 153
-Roubo/Furto	2017-01-29	Noite	PE	Hig/Limp/Cosm	SP	RN	4	S/Comprovação	BR 423
-Roubo/Furto	2017-01-31	Noite	SP	Eletrodoméstico	SP	ES	3	S/Comprovação	BR 116
-Roubo/Furto	2017-01-31	Tarde	SP	Eletrodoméstico	SP	ES	3	S/Comprovação	BR 116
-Roubo/Furto	2017-02-06	Manhã	GO	Defensivo Agrícola	GO	GO	3	S/Comprovação	BR 060
-Roubo/Furto	2017-02-08	Madrugada	RN	Óleo Comestível	SP	RN	1	S/Comprovação	BR 101
-Roubo/Furto	2017-02-08	Manhã	RJ	Alimentício	SP	RJ	1	S/Comprovação	BR 116
-Roubo/Furto	2017-02-08	Noite	TO	Alimentício	PA	ES	2	S/Comprovação	BR 153
-Roubo/Furto	2017-02-09	Manhã	PR	Alumínio	SC	SP	2	S/Comprovação	BR 116
-Roubo/Furto	2017-02-12	Noite	PE	Hig/Limp/Cosm	SP	PE	3	S/Comprovação	BR 101
-Roubo/Furto	2017-02-15	Noite	RJ	Hig/Limp/Cosm	MG	RJ	1	S/Comprovação	BR 116
-Roubo/Furto	2017-02-15	Noite	SP	E-Commerce	SP	SP	4	S/Comprovação	SP 348
-Roubo/Furto	2017-02-16	Manhã	SC	E-Commerce	SC	SC	3	S/Comprovação	BR 470
-Roubo/Furto	2017-02-17	Madrugada	SP	Laticínios	MG	SP	3	S/Comprovação	SP 330
-Roubo/Furto	2017-02-22	Madrugada	SP	Alumínio	MG	SP	1	S/Comprovação	BR 116
-Roubo/Furto	2017-02-22	Noite	GO	Laticínios	MT	SP	3	S/Comprovação	BR 158
-Roubo/Furto	2017-03-02	Manhã	SP	Polímeros	RJ	PR	1	S/Comprovação	BR 116
-Roubo/Furto	2017-03-03	Madrugada	MG	Combustível	SP	GO	1	S/Comprovação	BR 153
-Roubo/Furto	2017-03-06	Madrugada	SP	E-Commerce	SP	SP	1	S/Comprovação	SP 348
-Roubo/Furto	2017-03-06	Tarde	SP	Polímeros	SP	MG	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-03-07	Manhã	SP	Confecção/Tecido/Fios	SP	EX	2	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-03-08	Madrugada	SP	E-Commerce	SP	SP	2	S/Comprovação	SP 280
-Roubo/Furto	2017-03-09	Tarde	SP	E-Commerce	SP	SP	2	S/Comprovação	SP 270
-Roubo/Furto	2017-03-13	Noite	RJ	Específicas	SP	RJ	1	S/Comprovação	BR 101
-Roubo/Furto	2017-03-17	Madrugada	SP	E-Commerce	SP	SP	3	S/Comprovação	BR 116
-Roubo/Furto	2017-03-24	Madrugada	SP	E-Commerce	SP	SP	2	S/Comprovação	SP 348
-Roubo/Furto	2017-03-29	Tarde	SP	Polímeros	RJ	SP	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-03-31	Noite	MG	Alimentício	SP	PE	1	S/Comprovação	BR 116
-Roubo/Furto	2017-04-04	Madrugada	EX	Utilidades Doméstica	RS	EX	3	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-04-05	Madrugada	SP	Pescado	SC	SP	2	S/Comprovação	BR 116
-Roubo/Furto	2017-04-09	Noite	SP	Celulares	SP	MS	5	S/Comprovação	SP 280
-Roubo/Furto	2017-04-11	Noite	MT	Combustível	SP	MT	1	S/Comprovação	BR 364
-Roubo/Furto	2017-04-14	Madrugada	SP	Combustível	SP	MG	1	S/Comprovação	BR 381
-Roubo/Furto	2017-04-14	Madrugada	SP	Eletrônicos	SP	RJ	2	S/Comprovação	SP 332
-Roubo/Furto	2017-04-15	Noite	PR	Pescado	EX	SP	4	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-04-21	Tarde	EX	Laticínios	EX	SC	3	S/Comprovação	RN 09
-Roubo/Furto	2017-04-23	Manhã	SP	Celulares	SP	RS	4	S/Comprovação	BR 116
-Roubo/Furto	2017-04-24	Madrugada	SP	Hig/Limp/Cosm	MG	SP	3	S/Comprovação	SP 065
-Roubo/Furto	2017-04-25	Madrugada	SP	E-Commerce	SP	SP	3	S/Comprovação	BR 116
-Roubo/Furto	2017-04-26	Tarde	RJ	Celulares	SP	RJ	3	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-04-27	Madrugada	BA	Alimentício	DF	BA	1	S/Comprovação	BR 020
-Roubo/Furto	2017-04-27	Noite	RJ	Alimentício	SP	RJ	1	S/Comprovação	BR 116
-Roubo/Furto	2017-04-29	Manhã	AL	Alimentício	PE	BA	1	S/Comprovação	BR 101
-Roubo/Furto	2017-05-02	Madrugada	RJ	Alimentício	SP	RJ	2	S/Comprovação	BR 116
-Roubo/Furto	2017-05-02	Manhã	RJ	Autopeças	SP	RJ	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-05-05	Madrugada	RJ	Específicas	SP	RJ	2	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-05-06	Noite	AL	Hig/Limp/Cosm	PE	BA	1	S/Comprovação	BR 101
-Roubo/Furto	2017-05-08	Noite	PR	Específicas	SP	SC	1	S/Comprovação	BR 116
-Roubo/Furto	2017-05-09	Manhã	RJ	Confecção/Tecido/Fios	SP	RJ	2	S/Comprovação	BR 116
-Roubo/Furto	2017-05-09	Manhã	SP	Papel	SP	SP	1	S/Comprovação	BR 381
-Roubo/Furto	2017-05-14	Manhã	BA	Bebidas	PE	RJ	3	S/Comprovação	BR 116
-Roubo/Furto	2017-05-18	Madrugada	SP	Alumínio	SC	SP	2	S/Comprovação	BR 116
-Roubo/Furto	2017-05-18	Noite	MG	Hig/Limp/Cosm	MG	SP	1	S/Comprovação	BR 381
-Roubo/Furto	2017-05-20	Noite	MG	Químico	MG	SP	2	S/Comprovação	BR 381
-Roubo/Furto	2017-05-22	Madrugada	SP	Artigo Esportivo	SP	SP	5	S/Comprovação	SP 017
-Roubo/Furto	2017-05-24	Madrugada	GO	Hig/Limp/Cosm	SP	GO	1	S/Comprovação	BR 153
-Roubo/Furto	2017-05-24	Manhã	SP	Calçados	SP	SP	4	S/Comprovação	SP 330
-Roubo/Furto	2017-05-24	Manhã	SP	Eletrônicos	SP	SP	3	S/Comprovação	SP 330
-Roubo/Furto	2017-05-24	Noite	RJ	Frigorífico	GO	RJ	2	S/Comprovação	BR 116
-Roubo/Furto	2017-05-25	Manhã	SP	Combustível	SP	SP	1	S/Comprovação	SP 225
-Roubo/Furto	2017-05-26	Manhã	RJ	Frigorífico	MT	RJ	3	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-05-28	Madrugada	PB	Hig/Limp/Cosm	PE	CE	1	S/Comprovação	BR 230
-Roubo/Furto	2017-05-29	Tarde	RJ	Minério	MG	RJ	2	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-05-30	Madrugada	BA	Papel	MS	BA	2	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-05-30	Manhã	RJ	Confecção/Tecido/Fios	RJ	RJ	3	S/Comprovação	BR 101
-Roubo/Furto	2017-05-30	Manhã	SP	E-Commerce	SP	SP	3	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-05-30	Noite	MG	Aço/Ferro	SP	MG	1	S/Comprovação	BR 381
-Roubo/Furto	2017-05-31	Madrugada	SP	E-Commerce	SP	SP	1	S/Comprovação	BR 116
-Roubo/Furto	2017-05-31	Manhã	SP	Pneus	SC	SP	3	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-06-02	Madrugada	MG	Tinta/Verniz	SP	MG	1	S/Comprovação	BR 381
-Roubo/Furto	2017-06-02	Tarde	AM	Calçados	SP	PA	2	S/Comprovação	Incerto
-Roubo/Furto	2017-06-04	Manhã	RJ	Hig/Limp/Cosm	SP	RJ	2	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-06-05	Madrugada	GO	Alimentício	SP	PA	1	S/Comprovação	BR 153
-Roubo/Furto	2017-06-05	Tarde	RJ	Minério	MG	RJ	2	S/Comprovação	SP 310
-Roubo/Furto	2017-06-09	Noite	MG	Combustível	SP	GO	1	S/Comprovação	BR 153
-Roubo/Furto	2017-06-12	Madrugada	SP	Confecção/Tecido/Fios	SC	SP	1	S/Comprovação	Incerto
-Roubo/Furto	2017-06-19	Manhã	RJ	Confecção/Tecido/Fios	RJ	RJ	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-06-20	Manhã	SP	Celulares	SP	SP	2	S/Comprovação	BR 116
-Roubo/Furto	2017-06-21	Noite	PB	Hig/Limp/Cosm	PE	CE	1	S/Comprovação	BR 101
-Roubo/Furto	2017-06-23	Manhã	MG	Eletrônicos	SP	MG	4	S/Comprovação	BR 381
-Roubo/Furto	2017-06-26	Manhã	GO	Hig/Limp/Cosm	SP	GO	2	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-06-26	Manhã	SP	Celulares	SP	SP	3	S/Comprovação	SP 070
-Roubo/Furto	2017-06-28	Madrugada	SE	Hig/Limp/Cosm	SP	PE	3	S/Comprovação	BR 101
-Roubo/Furto	2017-06-29	Noite	RJ	Frigorífico	MG	RJ	2	S/Comprovação	BR 040
-Roubo/Furto	2017-06-29	Tarde	RJ	Confecção/Tecido/Fios	SP	RJ	3	S/Comprovação	BR 116
-Roubo/Furto	2017-06-30	Noite	SP	E-Commerce	SP	SP	2	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-07-03	Manhã	SP	Celulares	SP	SP	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-07-11	Madrugada	RJ	Geral	SP	RJ	1	S/Comprovação	BR 116
-Roubo/Furto	2017-07-11	Noite	AL	Hig/Limp/Cosm	SP	PE	3	S/Comprovação	BR 101
-Roubo/Furto	2017-07-12	Madrugada	SP	Calçados	SP	SP	2	S/Comprovação	SP 330
-Roubo/Furto	2017-07-14	Noite	MG	Eletrônicos	SP	MG	4	S/Comprovação	BR 050
-Roubo/Furto	2017-07-16	Madrugada	TO	Hig/Limp/Cosm	SP	MA	4	S/Comprovação	BR 153
-Roubo/Furto	2017-07-18	Manhã	RJ	Celulares	RJ	RJ	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-07-19	Manhã	GO	Combustível	GO	DF	1	S/Comprovação	BR 153
-Roubo/Furto	2017-07-21	Madrugada	MG	Hig/Limp/Cosm	SP	GO	5	S/Comprovação	BR 153
-Roubo/Furto	2017-07-22	Noite	MG	Eletrônicos	PA	SP	5	S/Comprovação	BR 153
-Roubo/Furto	2017-07-22	Tarde	GO	Defensivo Agrícola	SP	MT	2	S/Comprovação	GO 320
-Roubo/Furto	2017-07-26	Madrugada	RJ	Geral	SP	RJ	4	S/Comprovação	BR 116
-Roubo/Furto	2017-07-26	Noite	GO	Combustível	SP	GO	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-07-26	Noite	GO	Hig/Limp/Cosm	SP	GO	5	S/Comprovação	BR 153
-Roubo/Furto	2017-07-28	Manhã	SP	Eletrônicos	SP	SP	4	S/Comprovação	SP 065
-Roubo/Furto	2017-07-29	Madrugada	AL	Químico	PE	SE	1	S/Comprovação	BR 101
-Roubo/Furto	2017-07-31	Madrugada	BA	Hig/Limp/Cosm	SP	PE	1	S/Comprovação	BR 116
-Roubo/Furto	2017-08-02	Tarde	PI	Hig/Limp/Cosm	SP	PI	3	S/Comprovação	BR 343
-Roubo/Furto	2017-08-02	Tarde	PI	Hig/Limp/Cosm	SP	PI	4	S/Comprovação	BR 343
-Roubo/Furto	2017-08-05	Tarde	SP	Combustível	SP	GO	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-08-16	Noite	MG	Hig/Limp/Cosm	SP	RN	3	S/Comprovação	BR 050
-Roubo/Furto	2017-08-18	Manhã	SP	Aço/Ferro	SC	MT	1	S/Comprovação	BR 153
-Roubo/Furto	2017-08-18	Noite	BA	Hig/Limp/Cosm	SP	PE	1	S/Comprovação	BR 101
-Roubo/Furto	2017-08-18	Noite	SP	E-Commerce	SP	SP	1	S/Comprovação	SP 015
-Roubo/Furto	2017-08-19	Manhã	SP	Alumínio	PR	SP	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-08-19	Manhã	SP	Combustível	SP	MT	1	S/Comprovação	SP 332
-Roubo/Furto	2017-08-22	Noite	SP	Hig/Limp/Cosm	SP	SP	4	S/Comprovação	SP 065
-Roubo/Furto	2017-08-29	Tarde	SP	Hig/Limp/Cosm	SP	SP	3	S/Comprovação	SP 330
-Roubo/Furto	2017-09-03	Tarde	RJ	Frigorífico	MT	RJ	2	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-09-09	Tarde	RS	Frigorífico	RS	SP	2	S/Comprovação	BR 287
-Roubo/Furto	2017-09-10	Tarde	RJ	Frigorífico	RO	RJ	3	S/Comprovação	BR 116
-Roubo/Furto	2017-09-13	Tarde	SP	Específicas	SP	PR	3	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-09-14	Manhã	RN	Hig/Limp/Cosm	PE	RN	1	S/Comprovação	BR 101
-Roubo/Furto	2017-09-14	Tarde	SP	Alumínio	SP	PR	3	S/Comprovação	BR 116
-Roubo/Furto	2017-09-17	Tarde	BA	Doces/Chocolate	RS	PE	2	S/Comprovação	BR 116
-Roubo/Furto	2017-09-18	Noite	CE	Alimentício	CE	AL	1	S/Comprovação	BR 304
-Roubo/Furto	2017-09-27	Noite	GO	Hig/Limp/Cosm	SP	GO	3	S/Comprovação	BR 153
-Roubo/Furto	2017-09-28	Noite	EX	Laticínios	EX	SP	3	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-09-28	Tarde	MG	Eletrônicos	SP	GO	3	S/Comprovação	BR 050
-Roubo/Furto	2017-09-29	Noite	SP	Eletrônicos	SP	SP	5	S/Comprovação	SP 065
-Roubo/Furto	2017-09-29	Noite	TO	Eletrônicos	PA	MG	5	S/Comprovação	BR 153
-Roubo/Furto	2017-09-29	Tarde	SP	Alumínio	SC	SP	3	S/Comprovação	BR 116
-Roubo/Furto	2017-10-01	Noite	PI	Hig/Limp/Cosm	SP	PI	4	S/Comprovação	BR 230
-Roubo/Furto	2017-10-03	Noite	SP	Veículo	SP	PE	2	S/Comprovação	BR 381
-Roubo/Furto	2017-10-05	Noite	MG	Combustível	GO	MG	1	S/Comprovação	BR 040
-Roubo/Furto	2017-10-07	Madrugada	MG	Defensivo Agrícola	SP	BA	4	S/Comprovação	BR 050
-Roubo/Furto	2017-10-09	Madrugada	MG	Específicas	MG	MG	1	S/Comprovação	BR 262
-Roubo/Furto	2017-10-09	Manhã	MG	Específicas	MG	MG	3	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-10-18	Noite	MG	Calçados	MG	PE	4	S/Comprovação	MG 135
-Roubo/Furto	2017-10-19	Manhã	MT	Algodão	MT	SP	2	S/Comprovação	BR 364
-Roubo/Furto	2017-10-23	Tarde	RJ	Alimentício	PA	RJ	1	S/Comprovação	BR 101
-Roubo/Furto	2017-10-24	Noite	PE	Hig/Limp/Cosm	PE	AL	1	S/Comprovação	BR 101
-Roubo/Furto	2017-10-24	Noite	RJ	Óleo Lubrificante	RJ	SP	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-10-27	Madrugada	RJ	Eletrônicos	PA	SP	5	S/Comprovação	BR 101
-Roubo/Furto	2017-10-30	Noite	SP	Celulares	SP	SP	5	S/Comprovação	SP 065
-Roubo/Furto	2017-11-01	Noite	MG	Específicas	MG	MG	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-11-05	Manhã	RJ	Frigorífico	MT	RJ	2	S/Comprovação	BR 116
-Roubo/Furto	2017-11-05	Manhã	RJ	Frigorífico	SP	RJ	2	S/Comprovação	BR 116
-Roubo/Furto	2017-11-12	Manhã	RJ	Específicas	SP	RJ	4	S/Comprovação	BR 040
-Roubo/Furto	2017-11-14	Madrugada	PR	Hig/Limp/Cosm	MG	SC	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-11-14	Madrugada	PR	Hig/Limp/Cosm	MG	PR	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-11-16	Noite	RJ	Material Elétrico	SP	RJ	1	S/Comprovação	BR 116
-Roubo/Furto	2017-11-17	Manhã	MG	E-Commerce	MG	MG	2	S/Comprovação	BR 262
-Roubo/Furto	2017-11-17	Manhã	SP	Combustível	SP	SP	1	S/Comprovação	SP 330
-Roubo/Furto	2017-11-20	Manhã	MG	Específicas	MG	MG	3	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-11-20	Noite	SP	E-Commerce	SP	SP	2	S/Comprovação	SP 300
-Roubo/Furto	2017-11-20	Tarde	MG	Eletrônicos	SP	MG	3	S/Comprovação	BR 050
-Roubo/Furto	2017-11-22	Tarde	RJ	Hig/Limp/Cosm	MG	RJ	2	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-11-23	Manhã	PB	Hig/Limp/Cosm	SP	RN	4	S/Comprovação	BR 101
-Roubo/Furto	2017-11-23	Manhã	PB	Hig/Limp/Cosm	SP	RN	3	S/Comprovação	BR 101
-Roubo/Furto	2017-11-29	Madrugada	RJ	Bebidas	ES	RJ	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-12-02	Madrugada	SP	E-Commerce	SP	RS	4	S/Comprovação	Incerto
-Roubo/Furto	2017-12-05	Madrugada	SP	Hig/Limp/Cosm	SP	MG	1	S/Comprovação	SP 330
-Roubo/Furto	2017-12-05	Tarde	MG	Frigorífico	TO	SP	1	S/Comprovação	BR 153
-Roubo/Furto	2017-12-06	Manhã	PE	E-Commerce	PE	BA	3	S/Comprovação	BR 101
-Roubo/Furto	2017-12-06	Noite	RJ	Confecção/Tecido/Fios	RJ	SP	3	S/Comprovação	BR 116
-Roubo/Furto	2017-12-06	Noite	TO	Hig/Limp/Cosm	GO	PA	4	S/Comprovação	BR 153
-Roubo/Furto	2017-12-13	Madrugada	SP	Polímeros	SP	MG	1	S/Comprovação	BR 381
-Roubo/Furto	2017-12-13	Noite	SP	Hig/Limp/Cosm	MG	PR	3	S/Comprovação	SP 354
-Roubo/Furto	2017-12-14	Madrugada	PA	Eletrônicos	AM	MG	5	S/Comprovação	Incerto
-Roubo/Furto	2017-12-14	Manhã	SP	Celulares	SP	SP	1	S/Comprovação	SP 065
-Roubo/Furto	2017-12-18	Noite	SP	Químico	MG	SP	1	S/Comprovação	SP 065
-Roubo/Furto	2017-12-19	Madrugada	SP	Eletrônicos	SP	SP	5	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-12-25	Noite	PB	Hig/Limp/Cosm	PE	CE	2	S/Comprovação	BR 101
-Roubo/Furto	2017-12-27	Noite	MA	Óleo Comestível	GO	PI	1	S/Comprovação	BR 226
-Roubo/Furto	2017-12-27	Tarde	RJ	Maquinário	SP	ES	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2017-12-29	Noite	PE	Hig/Limp/Cosm	PE	PE	1	S/Comprovação	BR 101
-Roubo/Furto	2018-01-18	Madrugada	MG	Aço/Ferro	SC	MG	3	S/Comprovação	BR 381
-Roubo/Furto	2018-01-19	Manhã	SP	Eletrônicos	SP	SP	3	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-01-19	Manhã	SP	Eletrônicos	SP	SP	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-01-21	Manhã	PE	Hig/Limp/Cosm	PE	RN	1	S/Comprovação	BR 101
-Roubo/Furto	2018-01-25	Noite	BA	Combustível	PE	MG	1	S/Comprovação	BR 116
-Roubo/Furto	2018-01-26	Noite	RJ	Específicas	RJ	RJ	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-01-30	Tarde	SP	Laticínios	PR	RJ	2	S/Comprovação	SP 021
-Roubo/Furto	2018-01-31	Madrugada	RJ	Confecção/Tecido/Fios	RJ	RJ	1	S/Comprovação	BR 101
-Roubo/Furto	2018-02-05	Madrugada	BA	Hig/Limp/Cosm	SP	PE	3	S/Comprovação	BR 116
-Roubo/Furto	2018-02-06	Manhã	SP	Polímeros	SC	SP	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-02-08	Noite	SP	Polímeros	SP	MG	1	S/Comprovação	SP 021
-Roubo/Furto	2018-02-09	Manhã	SP	Veículo	MG	SC	3	S/Comprovação	BR 116
-Roubo/Furto	2018-02-10	Manhã	RJ	Frigorífico	SP	RJ	3	S/Comprovação	BR 116
-Roubo/Furto	2018-02-13	Madrugada	SP	Autopeças	SP	SP	3	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-02-15	Noite	PE	Eletrônicos	SP	PE	4	S/Comprovação	BR 101
-Roubo/Furto	2018-02-15	Noite	SP	Autopeças	SP	PR	5	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-02-18	Noite	AL	Hig/Limp/Cosm	PE	SE	3	S/Comprovação	BR 101
-Roubo/Furto	2018-02-18	Noite	RJ	Eletrônicos	SC	RJ	4	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-02-19	Madrugada	SP	Polímeros	RJ	SP	1	S/Comprovação	SP 065
-Roubo/Furto	2018-02-20	Manhã	RJ	Celulares	RJ	RJ	1	S/Comprovação	BR 101
-Roubo/Furto	2018-02-20	Tarde	SP	Fios/Cabos	SC	MS	1	S/Comprovação	SP 015
-Roubo/Furto	2018-02-21	Madrugada	SP	Aço/Ferro	RJ	SP	1	S/Comprovação	BR 116
-Roubo/Furto	2018-02-21	Noite	MG	Café	ES	SP	2	S/Comprovação	BR 381
-Roubo/Furto	2018-02-28	Tarde	SP	Geral	SP	SP	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-03-02	Madrugada	PR	Pescado	SC	CE	2	S/Comprovação	BR 376
-Roubo/Furto	2018-03-02	Madrugada	RN	Hig/Limp/Cosm	PE	CE	1	S/Comprovação	BR 304
-Roubo/Furto	2018-03-02	Madrugada	SP	Combustível	PR	ES	1	S/Comprovação	BR 116
-Roubo/Furto	2018-03-07	Manhã	SP	Combustível	SP	GO	1	S/Comprovação	SP 332
-Roubo/Furto	2018-03-08	Noite	SP	Polímeros	SP	BA	1	S/Comprovação	SP 065
-Roubo/Furto	2018-03-15	Madrugada	MG	Aço/Ferro	MG	MG	1	S/Comprovação	BR 381
-Roubo/Furto	2018-03-21	Madrugada	SP	Combustível	SP	SP	1	S/Comprovação	SP 348
-Roubo/Furto	2018-03-21	Tarde	MG	Eletrônicos	SP	MG	2	S/Comprovação	BR 381
-Roubo/Furto	2018-03-22	Manhã	SP	Polímeros	SP	SP	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-03-26	Noite	SP	Específicas	SP	SP	1	S/Comprovação	SP 015
-Roubo/Furto	2018-03-27	Madrugada	PR	Aço/Ferro	MG	SC	1	S/Comprovação	BR 116
-Roubo/Furto	2018-03-27	Madrugada	SP	Polímeros	AL	SP	1	S/Comprovação	BR 381
-Roubo/Furto	2018-03-28	Noite	PB	Hig/Limp/Cosm	PE	RN	1	S/Comprovação	BR 101
-Roubo/Furto	2018-04-02	Noite	PB	Hig/Limp/Cosm	PE	PB	1	S/Comprovação	BR 101
-Roubo/Furto	2018-04-02	Tarde	RJ	Alimentício	MG	RJ	2	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-04-03	Tarde	SP	Químico	SP	SP	5	S/Comprovação	SP 310
-Roubo/Furto	2018-04-05	Manhã	PE	Alimentício	PE	PE	1	S/Comprovação	BR 101
-Roubo/Furto	2018-04-06	Noite	SP	Papel	SP	PE	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-04-09	Madrugada	SC	Confecção/Tecido/Fios	SC	SC	3	S/Comprovação	SC 415
-Roubo/Furto	2018-04-09	Manhã	SP	Frigorífico	MS	SP	1	S/Comprovação	SP 021
-Roubo/Furto	2018-04-10	Tarde	PE	Alimentício	SP	CE	1	S/Comprovação	BR 116
-Roubo/Furto	2018-04-12	Madrugada	GO	Medicamento	GO	GO	4	S/Comprovação	GO 020
-Roubo/Furto	2018-04-12	Madrugada	GO	Medicamento	GO	GO	1	S/Comprovação	GO 020
-Roubo/Furto	2018-04-12	Madrugada	SP	Cobre	SC	SP	5	S/Comprovação	BR 116
-Roubo/Furto	2018-04-19	Tarde	SP	Confecção/Tecido/Fios	SP	SP	3	S/Comprovação	SP 021
-Roubo/Furto	2018-04-23	Noite	SP	Hig/Limp/Cosm	SP	SP	3	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-04-24	Noite	SP	Hig/Limp/Cosm	SP	SP	3	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-04-25	Noite	MG	Hig/Limp/Cosm	SP	PE	4	S/Comprovação	BR 251
-Roubo/Furto	2018-04-27	Manhã	RJ	Específicas	RJ	RJ	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-04-27	Manhã	SP	Celulares	SP	SP	3	S/Comprovação	SP 065
-Roubo/Furto	2018-05-05	Tarde	SP	Veículo	PR	ES	2	S/Comprovação	BR 116
-Roubo/Furto	2018-05-07	Noite	BA	Confecção/Tecido/Fios	RJ	AL	4	S/Comprovação	BR 101
-Roubo/Furto	2018-05-09	Noite	MG	Polímeros	SP	MG	1	S/Comprovação	BR 381
-Roubo/Furto	2018-05-10	Noite	SP	Combustível	SP	SP	1	S/Comprovação	BR 348
-Roubo/Furto	2018-05-11	Manhã	SP	Confecção/Tecido/Fios	SP	SP	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-05-14	Manhã	SP	Medicamento	SP	SP	3	S/Comprovação	SP 021
-Roubo/Furto	2018-05-15	Manhã	MT	Tratores/Empilhadeiras	SP	MT	3	S/Comprovação	BR 364
-Roubo/Furto	2018-05-17	Manhã	SP	Veículo	SP	PR	3	S/Comprovação	SP 021
-Roubo/Furto	2018-05-18	Noite	SP	Polímeros	RJ	PR	1	S/Comprovação	BR 116
-Roubo/Furto	2018-05-19	Manhã	EX	Frigorífico	RO	EX	3	S/Comprovação	Exterior
-Roubo/Furto	2018-05-20	Tarde	SC	Pescado	SC	RJ	3	S/Comprovação	BR 101
-Roubo/Furto	2018-05-22	Tarde	SP	Confecção/Tecido/Fios	SP	SP	3	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-05-29	Manhã	EX	Frigorífico	GO	EX	3	S/Comprovação	Exterior
-Roubo/Furto	2018-05-31	Tarde	PE	Hig/Limp/Cosm	PE	SE	3	S/Comprovação	BR 101
-Roubo/Furto	2018-06-04	Madrugada	SP	Medicamento	SP	SP	3	S/Comprovação	SP 280
-Roubo/Furto	2018-06-09	Manhã	TO	Tratores/Empilhadeiras	MG	AM	4	S/Comprovação	BR 153
-Roubo/Furto	2018-06-11	Madrugada	SC	Hig/Limp/Cosm	EX	SP	4	S/Comprovação	BR 101
-Roubo/Furto	2018-06-11	Noite	AL	Hig/Limp/Cosm	PE	BA	1	S/Comprovação	BR 101
-Roubo/Furto	2018-06-16	Madrugada	RJ	Eletrônicos	ES	RJ	2	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-06-20	Tarde	EX	Frigorífico	SP	EX	3	S/Comprovação	Exterior
-Roubo/Furto	2018-06-26	Manhã	SP	Veículo	SP	MG	2	S/Comprovação	BR 381
-Roubo/Furto	2018-06-26	Tarde	RJ	Óleo Lubrificante	RJ	RJ	1	S/Comprovação	Incerto
-Roubo/Furto	2018-06-28	Noite	SP	Laticínios	SC	SP	1	S/Comprovação	BR 116
-Roubo/Furto	2018-07-05	Noite	RJ	Específicas	SP	RJ	4	S/Comprovação	BR 116
-Roubo/Furto	2018-07-05	Noite	SC	Específicas	SC	SP	2	S/Comprovação	BR 470
-Roubo/Furto	2018-07-07	Madrugada	RJ	E-Commerce	RJ	RJ	3	S/Comprovação	BR 101
-Roubo/Furto	2018-07-13	Madrugada	EX	Calçados	EX	BA	1	S/Comprovação	Exterior
-Roubo/Furto	2018-07-24	Manhã	RS	Específicas	RS	RS	1	S/Comprovação	BR 290
-Roubo/Furto	2018-07-28	Manhã	SP	Específicas	SP	SP	2	S/Comprovação	SP 330
-Roubo/Furto	2018-07-31	Noite	CE	Bebidas	SP	CE	2	S/Comprovação	BR 116
-Roubo/Furto	2018-08-01	Tarde	PE	Específicas	PE	BA	2	S/Comprovação	BR 332
-Roubo/Furto	2018-08-02	Madrugada	RJ	Específicas	RS	RJ	2	S/Comprovação	BR 101
-Roubo/Furto	2018-08-05	Noite	PE	Hig/Limp/Cosm	PE	CE	2	S/Comprovação	PE 062
-Roubo/Furto	2018-08-06	Madrugada	RJ	Hig/Limp/Cosm	SP	ES	1	S/Comprovação	BR 393
-Roubo/Furto	2018-08-07	Tarde	SP	Veículo	MG	PR	3	S/Comprovação	BR 381
-Roubo/Furto	2018-08-09	Madrugada	PR	Frigorífico	MS	RS	1	S/Comprovação	BR 116
-Roubo/Furto	2018-08-10	Tarde	GO	Calçados	SP	GO	3	S/Comprovação	BR 153
-Roubo/Furto	2018-08-13	Madrugada	MG	Autopeças	SP	MG	5	S/Comprovação	BR 381
-Roubo/Furto	2018-08-16	Madrugada	PE	Hig/Limp/Cosm	PE	SE	1	S/Comprovação	BR 101
-Roubo/Furto	2018-08-16	Tarde	SP	Frigorífico	TO	RJ	3	S/Comprovação	SP 065
-Roubo/Furto	2018-08-22	Manhã	RJ	Hig/Limp/Cosm	MG	RJ	2	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-08-22	Noite	BA	Café	BA	CE	2	S/Comprovação	BR 116
-Roubo/Furto	2018-08-22	Noite	SP	Combustível	SP	SP	1	S/Comprovação	SP 225
-Roubo/Furto	2018-08-23	Madrugada	SP	Veículo	SP	MG	2	S/Comprovação	BR 116
-Roubo/Furto	2018-08-23	Manhã	RJ	Confecção/Tecido/Fios	RJ	RJ	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-08-24	Madrugada	RJ	Confecção/Tecido/Fios	RJ	RJ	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-08-24	Madrugada	SP	Veículo	SP	MG	3	S/Comprovação	BR 381
-Roubo/Furto	2018-08-27	Madrugada	SP	Brinquedos	SP	PR	1	S/Comprovação	SP 021
-Roubo/Furto	2018-08-28	Tarde	SP	Veículo	SP	PR	2	S/Comprovação	BR 116
-Roubo/Furto	2018-08-30	Manhã	PR	Específicas	PR	PR	1	S/Comprovação	BR 376
-Roubo/Furto	2018-08-30	Noite	PE	Alimentício	PE	RJ	1	S/Comprovação	BR 232
-Roubo/Furto	2018-08-31	Noite	SP	Específicas	SP	SP	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-09-04	Manhã	SP	Específicas	SP	RN	2	S/Comprovação	BR 381
-Roubo/Furto	2018-09-10	Madrugada	SP	Frigorífico	GO	SP	4	S/Comprovação	SP 270
-Roubo/Furto	2018-09-10	Noite	BA	Específicas	CE	GO	4	S/Comprovação	BR 020
-Roubo/Furto	2018-09-12	Madrugada	SP	Café	MG	SP	2	S/Comprovação	BR 116
-Roubo/Furto	2018-09-17	Madrugada	SP	Específicas	SP	PR	4	S/Comprovação	BR 374
-Roubo/Furto	2018-09-18	Madrugada	SP	Laticínios	GO	SP	1	S/Comprovação	SP 330
-Roubo/Furto	2018-09-19	Manhã	SP	Veículo	PR	SP	3	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-09-22	Noite	DF	Defensivo Agrícola	SP	BA	5	S/Comprovação	BR 020
-Roubo/Furto	2018-09-24	Madrugada	SP	Frigorífico	GO	SP	1	S/Comprovação	SP 348
-Roubo/Furto	2018-09-24	Manhã	GO	Confecção/Tecido/Fios	SP	GO	3	S/Comprovação	BR 452
-Roubo/Furto	2018-09-24	Noite	CE	Calçados	CE	CE	3	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-09-25	Manhã	CE	Celulares	CE	CE	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-09-26	Madrugada	SP	Específicas	GO	RJ	1	S/Comprovação	SP 065
-Roubo/Furto	2018-09-26	Manhã	PR	Bebidas	SC	RJ	1	S/Comprovação	BR 376
-Roubo/Furto	2018-09-29	Tarde	GO	Frigorífico	GO	EX	3	S/Comprovação	BR 452
-Roubo/Furto	2018-10-02	Noite	SP	Autopeças	SP	SP	4	S/Comprovação	SP 248
-Roubo/Furto	2018-10-02	Noite	SP	Específicas	MG	SP	5	S/Comprovação	BR 381
-Roubo/Furto	2018-10-03	Tarde	SP	Calçados	MG	SP	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-10-05	Manhã	RJ	Hig/Limp/Cosm	SP	RJ	3	S/Comprovação	BR 101
-Roubo/Furto	2018-10-07	Tarde	SP	Eletrônicos	SP	ES	3	S/Comprovação	SP 015
-Roubo/Furto	2018-10-08	Noite	MG	Confecção/Tecido/Fios	RJ	MA	4	S/Comprovação	BR 116
-Roubo/Furto	2018-10-09	Manhã	RJ	Alimentício	RJ	RJ	1	S/Comprovação	Incerto
-Roubo/Furto	2018-10-18	Madrugada	SP	Geral	SP	SP	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-10-19	Madrugada	PB	Específicas	PE	PB	1	S/Comprovação	BR 101
-Roubo/Furto	2018-10-19	Noite	SP	Alumínio	SP	SP	1	S/Comprovação	BR 116
-Roubo/Furto	2018-10-20	Tarde	PE	Alimentício	PE	MA	2	S/Comprovação	BR 232
-Roubo/Furto	2018-10-22	Noite	SP	Confecção/Tecido/Fios	SP	SP	2	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-10-23	Manhã	PR	Específicas	PR	PR	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-10-25	Tarde	MG	Alimentício	MG	MG	2	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-10-26	Madrugada	MG	Específicas	SP	MG	3	S/Comprovação	BR 381
-Roubo/Furto	2018-10-26	Madrugada	RJ	Específicas	RJ	RJ	1	S/Comprovação	BR 040
-Roubo/Furto	2018-10-26	Manhã	PR	Combustível	PR	MS	1	S/Comprovação	BR 376
-Roubo/Furto	2018-10-27	Madrugada	RJ	Hig/Limp/Cosm	MG	RJ	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-11-01	Madrugada	SC	Geral	RS	AM	2	S/Comprovação	BR 101
-Roubo/Furto	2018-11-01	Manhã	SP	Frigorífico	SP	SP	1	S/Comprovação	SP 255
-Roubo/Furto	2018-11-05	Noite	PR	Combustível	PR	MS	1	S/Comprovação	BR 376
-Roubo/Furto	2018-11-07	Madrugada	RJ	Confecção/Tecido/Fios	SP	RJ	4	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-11-09	Noite	GO	Calçados	CE	GO	3	S/Comprovação	BR 153
-Roubo/Furto	2018-11-10	Manhã	SP	Frigorífico	MG	SP	3	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-11-12	Madrugada	RJ	Pescado	SC	RJ	3	S/Comprovação	BR 116
-Roubo/Furto	2018-11-14	Madrugada	SP	Confecção/Tecido/Fios	SP	SP	2	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-11-14	Madrugada	SP	Laticínios	RS	SP	2	S/Comprovação	BR 116
-Roubo/Furto	2018-11-14	Manhã	GO	Defensivo Agrícola	SP	GO	3	S/Comprovação	BR 60
-Roubo/Furto	2018-11-19	Noite	GO	Alimentício	SP	DF	1	S/Comprovação	BR 153
-Roubo/Furto	2018-11-20	Noite	BA	Café	BA	SE	2	S/Comprovação	BR 101
-Roubo/Furto	2018-11-21	Manhã	CE	Eletrônicos	CE	CE	2	S/Comprovação	CE 085
-Roubo/Furto	2018-11-21	Noite	PI	Frigorífico	TO	RN	1	S/Comprovação	BR 230
-Roubo/Furto	2018-11-22	Madrugada	SP	Específicas	SP	MG	4	S/Comprovação	SP 065
-Roubo/Furto	2018-11-23	Noite	BA	Específicas	SP	PE	3	S/Comprovação	BR 101
-Roubo/Furto	2018-11-24	Tarde	PI	Frigorífico	TO	CE	1	S/Comprovação	BR 020
-Roubo/Furto	2018-11-26	Madrugada	SP	Brinquedos	SP	SP	2	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-11-26	Noite	RJ	Específicas	RJ	RJ	3	S/Comprovação	BR 101
-Roubo/Furto	2018-11-26	Noite	SP	Específicas	MG	SP	4	S/Comprovação	BR 116
-Roubo/Furto	2018-11-27	Manhã	RJ	Eletrônicos	SP	RJ	2	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-11-27	Tarde	RJ	Frigorífico	MG	RJ	1	S/Comprovação	BR 040
-Roubo/Furto	2018-11-28	Manhã	SP	Químico	SC	SP	5	S/Comprovação	SP 348
-Roubo/Furto	2018-11-29	Tarde	RJ	Hig/Limp/Cosm	MG	RJ	1	S/Comprovação	BR 101
-Roubo/Furto	2018-12-01	Manhã	SP	Defensivo Agrícola	SP	PI	3	S/Comprovação	BR 050
-Roubo/Furto	2018-12-02	Noite	MG	Defensivo Agrícola	SP	MT	3	S/Comprovação	BR 365
-Roubo/Furto	2018-12-02	Noite	SP	Pneus	SC	ES	2	S/Comprovação	BR 116
-Roubo/Furto	2018-12-06	Tarde	PR	Ração Animal	SP	PR	1	S/Comprovação	Desvio
-Roubo/Furto	2018-12-07	Madrugada	CE	Específicas	SP	CE	2	S/Comprovação	BR 116
-Roubo/Furto	2018-12-07	Noite	SP	Específicas	SP	SP	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2018-12-09	Noite	RJ	Alimentício	SP	RJ	1	S/Comprovação	BR 116
-Roubo/Furto	2018-12-11	Manhã	SC	Hig/Limp/Cosm	MG	SC	1	S/Comprovação	BR 101
-Roubo/Furto	2018-12-13	Madrugada	SP	Químico	SP	SP	3	S/Comprovação	SP 065
-Roubo/Furto	2018-12-13	Noite	RJ	Bebidas	RJ	MG	4	S/Comprovação	BR 101
-Roubo/Furto	2018-12-14	Tarde	SP	Pneus	PR	PA	2	S/Comprovação	SP 425
-Roubo/Furto	2018-12-15	Manhã	RJ	Confecção/Tecido/Fios	RJ	ES	4	S/Comprovação	BR 040
-Roubo/Furto	2018-12-15	Manhã	RJ	Específicas	RJ	RJ	1	S/Comprovação	BR 116
-Roubo/Furto	2018-12-17	Tarde	PR	Bebidas	SP	RS	1	S/Comprovação	BR 116
-Roubo/Furto	2018-12-19	Madrugada	AL	Bebidas	SP	RN	1	S/Comprovação	BR 101
-Roubo/Furto	2018-12-28	Tarde	SP	Hig/Limp/Cosm	MG	RS	4	S/Comprovação	BR 381
-Roubo/Furto	2018-12-29	Tarde	RS	Aço/Ferro	RS	MG	3	S/Comprovação	BR 101
-Roubo/Furto	2019-01-02	Noite	RN	Alimentício	PB	CE	1	S/Comprovação	BR 101
-Roubo/Furto	2019-01-04	Manhã	RJ	Hig/Limp/Cosm	MG	RJ	1	S/Comprovação	BR 101
-Roubo/Furto	2019-01-04	Noite	PE	Hig/Limp/Cosm	PE	PE	1	S/Comprovação	BR 101
-Roubo/Furto	2019-01-06	Noite	SP	Bebidas	SP	PR	1	S/Comprovação	BR 116
-Roubo/Furto	2019-01-15	Manhã	RJ	Laticínios	GO	RJ	1	S/Comprovação	Incerto
-Roubo/Furto	2019-01-15	Noite	RJ	Eletrodoméstico	SP	RJ	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2019-01-15	Tarde	SP	Defensivo Agrícola	SP	SP	2	S/Comprovação	SP 330
-Roubo/Furto	2019-01-16	Madrugada	SP	Frigorífico	PA	SP	3	S/Comprovação	BR 153
-Roubo/Furto	2019-01-17	Noite	SP	Defensivo Agrícola	SP	MT	1	S/Comprovação	BR 364
-Roubo/Furto	2019-01-18	Manhã	RJ	Pescado	SP	RJ	1	S/Comprovação	BR 116
-Roubo/Furto	2019-01-19	Manhã	PE	Bebidas	SC	PE	2	S/Comprovação	BR 423
-Roubo/Furto	2019-01-20	Madrugada	RJ	Confecção/Tecido/Fios	SC	RJ	4	S/Comprovação	BR 116
-Roubo/Furto	2019-01-21	Madrugada	PR	Pneus	PR	PR	1	S/Comprovação	BR 116
-Roubo/Furto	2019-01-21	Manhã	RJ	Geral	SP	RJ	4	S/Comprovação	BR 040
-Roubo/Furto	2019-01-21	Tarde	RJ	Alimentício	MG	RJ	1	S/Comprovação	BR 101
-Roubo/Furto	2019-01-24	Manhã	RJ	Alumínio	ES	SP	3	S/Comprovação	BR 116
-Roubo/Furto	2019-01-24	Noite	SP	Confecção/Tecido/Fios	SP	RS	3	S/Comprovação	Rua/Avenida
-Roubo/Furto	2019-01-25	Manhã	MG	Confecção/Tecido/Fios	RJ	PA	4	S/Comprovação	MG 353
-Roubo/Furto	2019-01-28	Manhã	RJ	Eletrônicos	ES	RJ	3	S/Comprovação	Rua/Avenida
-Roubo/Furto	2019-01-29	Madrugada	PR	Brinquedos	SC	SP	1	S/Comprovação	BR 116
-Roubo/Furto	2019-01-30	Madrugada	SP	E-commerce	SP	DF	3	S/Comprovação	SP 330
-Roubo/Furto	2019-02-05	Noite	PE	Bebidas	SC	PE	1	S/Comprovação	BR 423
-Roubo/Furto	2019-02-05	Noite	PE	Bebidas	SC	PE	1	S/Comprovação	BR 423
-Roubo/Furto	2019-02-05	Noite	SP	Confecção/Tecido/Fios	SP	SC	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2019-02-05	Tarde	GO	Laticínios	GO	CE	2	S/Comprovação	BR 153
-Roubo/Furto	2019-02-05	Tarde	GO	Laticínios	GO	PA	2	S/Comprovação	BR 153
-Roubo/Furto	2019-02-06	Madrugada	SP	Medicamento	SP	CE	5	S/Comprovação	SP 330
-Roubo/Furto	2019-02-06	Noite	MG	Defensivo Agrícola	SP	MG	1	S/Comprovação	BR 381
-Roubo/Furto	2019-02-07	Tarde	AL	E-Commerce	PE	BA	3	S/Comprovação	BR 101
-Roubo/Furto	2019-02-08	Madrugada	MG	Específicas	MG	BA	3	S/Comprovação	BR 251
-Roubo/Furto	2019-02-09	Noite	MG	Hig/Limp/Cosm	SP	GO	4	S/Comprovação	BR 050
-Roubo/Furto	2019-02-12	Manhã	PE	Bebidas	PE	PE	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2019-02-12	Manhã	SP	Aço/Ferro	SP	SP	1	S/Comprovação	BR 116
-Roubo/Furto	2019-02-12	Manhã	SP	E-Commerce	SP	DF	4	S/Comprovação	SP 330
-Roubo/Furto	2019-02-18	Tarde	SP	Óleo Comestível	SP	SP	4	S/Comprovação	SP 330
-Roubo/Furto	2019-02-20	Madrugada	SP	Hig/Limp/Cosm	SC	SP	2	S/Comprovação	BR 116
-Roubo/Furto	2019-02-20	Sem Inf	SC	Pescado	EX	SP	4	S/Comprovação	BR 116
-Roubo/Furto	2019-02-20	Tarde	SP	Hig/Limp/Cosm	SP	SP	2	S/Comprovação	SP 330
-Roubo/Furto	2019-02-21	Madrugada	MG	Pneus	SC	MG	3	S/Comprovação	BR 153
-Roubo/Furto	2019-02-22	Manhã	PE	Frigorífico	RJ	PE	3	S/Comprovação	PE 424
-Roubo/Furto	2019-02-23	Noite	MG	Frigorífico	MT	RJ	1	S/Comprovação	Incerto
-Roubo/Furto	2019-02-28	Manhã	MG	Alimentício	SP	CE	2	S/Comprovação	BR 381
-Roubo/Furto	2019-03-01	Madrugada	RJ	Alimentício	SP	RJ	1	S/Comprovação	Rua/avenida
-Roubo/Furto	2019-03-01	Madrugada	SP	Específicas	SP	SP	3	S/Comprovação	Rua/Avenida
-Roubo/Furto	2019-03-04	Manhã	EX	Pescado	EX	SP	3	S/Comprovação	Rua/Avenida
-Roubo/Furto	2019-03-07	Manhã	MG	Alimentício	AL	SP	3	S/Comprovação	BR 381
-Roubo/Furto	2019-03-09	Noite	MT	Defensivo Agrícola	MT	MT	4	S/Comprovação	Rua/Avenida
-Roubo/Furto	2019-03-10	Tarde	MT	Combustível	RO	MT	1	S/Comprovação	MT 249
-Roubo/Furto	2019-03-11	Tarde	PR	Café	PR	SP	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2019-03-12	Tarde	PR	E-Commerce	SP	SC	4	S/Comprovação	BR 376
-Roubo/Furto	2019-03-12	Tarde	RJ	Celulares	ES	RJ	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2019-03-14	Madrugada	CE	Bebidas	PE	CE	3	S/Comprovação	BR 304
-Roubo/Furto	2019-03-14	Noite	SP	Alimentício	SP	SP	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2019-03-17	Noite	SP	Frigorífico	RO	SP	3	S/Comprovação	SP 310
-Roubo/Furto	2019-03-18	Madrugada	SP	Combustível	RJ	SP	1	S/Comprovação	SP 070
-Roubo/Furto	2019-03-18	Madrugada	SP	Laticínios	GO	SP	1	S/Comprovação	SP 330
-Roubo/Furto	2019-03-18	Tarde	SP	Aço/Ferro	RS	PR	1	S/Comprovação	Rua/Avenida
-Roubo/Furto	2019-03-19	Madrugada	RJ	E-commerce	ES	RJ	2	S/Comprovação	BR 101
-Roubo/Furto	2019-03-19	Tarde	SP	Doces/Chocolate	SP	SP	1	S/Comprovação	SP 270
-Roubo/Furto	2019-03-20	Noite	SP	E-commerce	SP	MG	4	S/Comprovação	SP 015
-Roubo/Furto	2019-03-23	Sem Inf	PE	Algodão	BA	PA	2	S/Comprovação	BR 110
-Roubo/Furto	2019-03-30	Noite	SP	Algodão	GO	SP	1	S/Comprovação	BR 153
-Roubo/Furto	2019-03-31	Tarde	PE	Hig/Limp/Cosm	GO	PE	1	S/Comprovação	BR 423
+sinistro	horario_saida	mercadoria	origem_uf	destino_uf	faixa_valor_carga	vinculo_motorista	dia_semana
+Acidente	Manhã	Específicas	GO	RJ	2	Agregado	segunda-feira
+Acidente	Tarde	Específicas	GO	ES	3	Agregado	quinta-feira
+Acidente	Manhã	Hig/Limp/Cosm	MG	MG	2	Agregado	segunda-feira
+Acidente	Noite	Específicas	SP	RS	1	Agregado	terça-feira
+Acidente	Manhã	Frigorífico	PR	CE	1	Autônomo	quarta-feira
+Acidente	Manhã	Bebidas	BA	PA	1	Autônomo	quarta-feira
+Acidente	Tarde	Laticínios	SP	ES	1	Autônomo	quarta-feira
+Acidente	Tarde	Óleo Comestível	SP	MG	1	Autônomo	quinta-feira
+Acidente	Tarde	Frigorífico	RO	EX	3	Autônomo	quarta-feira
+Acidente	Noite	Alimentício	PE	BA	2	Autônomo	domingo
+Acidente	Madrugada	Geral	SP	PR	1	Autônomo	sábado
+Acidente	Manhã	Alimentício	SP	CE	1	Autônomo	terça-feira
+Acidente	Tarde	Minério	SC	SP	1	Autônomo	terça-feira
+Acidente	Manhã	Eletrônicos	SP	CE	4	Autônomo	sexta-feira
+Acidente	Noite	Frigorífico	PA	PA	2	Autônomo	quarta-feira
+Acidente	Tarde	Alumínio	SP	PE	3	Autônomo	domingo
+Acidente	Manhã	Alimentício	ES	CE	1	Autônomo	domingo
+Acidente	Manhã	Bebidas	BA	ES	1	Autônomo	sábado
+Acidente	Madrugada	Geral	SP	PR	3	Autônomo	terça-feira
+Acidente	Tarde	Alimentício	BA	BA	1	Autônomo	sexta-feira
+Acidente	Manhã	Alimentício	PR	CE	1	Autônomo	sexta-feira
+Acidente	Madrugada	Frigorífico	MG	SP	2	Autônomo	sábado
+Acidente	Noite	Rolamentos	SC	GO	1	Autônomo	quinta-feira
+Acidente	Madrugada	Frigorífico	SP	AP	3	Funcionário	quarta-feira
+Acidente	Manhã	Hig/Limp/Cosm	SP	ES	3	Funcionário	segunda-feira
+Acidente	Madrugada	Frigorífico	SP	SP	3	Funcionário	quarta-feira
+Acidente	Tarde	Químico	BA	SP	2	Funcionário	sábado
+Acidente	Noite	Autopeças	SC	MG	2	Funcionário	domingo
+Acidente	Noite	Geral	MS	SP	1	Funcionário	domingo
+Acidente	Noite	Alimentício	ES	RJ	1	Funcionário	segunda-feira
+Acidente	Tarde	Frigorífico	GO	GO	1	Funcionário	segunda-feira
+Acidente	Madrugada	Confecção/Tecido/Fios	RJ	SP	3	Funcionário	quarta-feira
+Acidente	Manhã	Móveis	SC	BA	1	Funcionário	sábado
+Acidente	Noite	Alimentício	PR	CE	1	Funcionário	terça-feira
+Acidente	Noite	Frigorífico	PR	AL	1	Funcionário	terça-feira
+Acidente	Tarde	Frigorífico	PA	MA	2	Funcionário	domingo
+Acidente	Noite	Frigorífico	PA	PE	2	Funcionário	sexta-feira
+Acidente	Manhã	Frigorífico	PR	RS	1	Funcionário	quinta-feira
+Acidente	Manhã	Aço/Ferro	SP	BA	1	Funcionário	terça-feira
+Acidente	Manhã	Bebidas	RJ	MG	2	Funcionário	sábado
+Acidente	Tarde	Específicas	SP	RS	3	Funcionário	domingo
+Acidente	Manhã	Calçados	SP	BA	2	Funcionário	sexta-feira
+Acidente	Noite	Frigorífico	MG	BA	1	Funcionário	segunda-feira
+Acidente	Manhã	Confecção/Tecido/Fios	SP	RS	1	Funcionário	terça-feira
+Acidente	Noite	Hig/Limp/Cosm	MG	PR	3	Funcionário	segunda-feira
+Acidente	Tarde	Aço/Ferro	SP	PE	2	S/Comprovação	quarta-feira
+Acidente	Madrugada	Hig/Limp/Cosm	MG	SP	1	S/Comprovação	sexta-feira
+Acidente	Noite	Bateria	SP	AP	4	S/Comprovação	quinta-feira
+Acidente	Manhã	Veículo	PR	MS	3	S/Comprovação	sexta-feira
+Acidente	Noite	Alimentício	PE	BA	1	S/Comprovação	segunda-feira
+Acidente	Madrugada	Específicas	SP	PA	3	S/Comprovação	segunda-feira
+Acidente	Noite	Frigorífico	AC	SP	2	S/Comprovação	segunda-feira
+Acidente	Tarde	Laticínios	SC	PR	3	S/Comprovação	quinta-feira
+Acidente	Tarde	Doces/Chocolate	SP	PE	4	S/Comprovação	quarta-feira
+Acidente	Tarde	Autopeças	SP	MG	4	S/Comprovação	sexta-feira
+Acidente	Manhã	Fibra Ótica	BA	BA	3	S/Comprovação	domingo
+Acidente	Noite	Hig/Limp/Cosm	PE	BA	1	S/Comprovação	quinta-feira
+Acidente	Madrugada	Alimentício	SP	SP	2	S/Comprovação	quarta-feira
+Acidente	Manhã	Hig/Limp/Cosm	MG	SP	2	S/Comprovação	segunda-feira
+Acidente	Madrugada	Autopeças	RS	SP	2	S/Comprovação	quarta-feira
+Acidente	Madrugada	Específicas	CE	BA	3	S/Comprovação	quinta-feira
+Acidente	Noite	Específicas	SP	SP	3	S/Comprovação	terça-feira
+Acidente	Noite	Frigorífico	PR	PR	1	S/Comprovação	quarta-feira
+Acidente	Manhã	Diversos	SC	PR	3	S/Comprovação	terça-feira
+Acidente	Manhã	Específicas	GO	GO	3	S/Comprovação	sexta-feira
+Acidente	Tarde	Defensivo Agrícola	MT	RO	3	S/Comprovação	quinta-feira
+Acidente	Tarde	Laticínios	BA	BA	4	S/Comprovação	segunda-feira
+Acidente	Noite	Celulares	GO	PA	3	S/Comprovação	terça-feira
+Acidente	Noite	Bebidas	PE	PA	1	S/Comprovação	quarta-feira
+Acidente	Madrugada	Frigorífico	MT	PR	2	S/Comprovação	segunda-feira
+Acidente	Noite	Específicas	SC	SP	4	S/Comprovação	terça-feira
+Acidente	Noite	Hig/Limp/Cosm	MG	RJ	4	S/Comprovação	terça-feira
+Acidente	Manhã	Específicas	GO	PA	4	S/Comprovação	quarta-feira
+Acidente	Tarde	Alimentício	AR	SP	1	S/Comprovação	terça-feira
+Acidente	Noite	Veículo	SP	SC	2	S/Comprovação	sexta-feira
+Acidente	Madrugada	Geral	AM	SP	2	S/Comprovação	domingo
+Acidente	Tarde	Específicas	SP	PE	4	S/Comprovação	terça-feira
+Acidente	Manhã	Pescado	SC	AL	1	S/Comprovação	terça-feira
+Acidente	Madrugada	Pneus	BA	RJ	1	S/Comprovação	terça-feira
+Acidente	Manhã	Doces/Chocolate	EX	MG	3	S/Comprovação	quinta-feira
+Acidente	Tarde	Calçados	CE	MG	1	S/Comprovação	quinta-feira
+Acidente	Manhã	Frigorífico	PA	RJ	2	S/Comprovação	sexta-feira
+Acidente	Noite	Defensivo Agrícola	MT	MT	5	S/Comprovação	quarta-feira
+Acidente	Manhã	Bebidas	SP	GO	1	S/Comprovação	domingo
+Acidente	Tarde	Frigorífico	RO	SC	2	S/Comprovação	quinta-feira
+Acidente	Noite	Bebidas	SC	PE	3	S/Comprovação	quarta-feira
+Acidente	Manhã	Específicas	CE	SP	2	S/Comprovação	quarta-feira
+Acidente	Manhã	Hig/Limp/Cosm	SP	RS	1	S/Comprovação	quinta-feira
+Acidente	Tarde	Específicas	ES	GO	5	S/Comprovação	quinta-feira
+Acidente	Manhã	Fraldas	GO	SP	1	S/Comprovação	terça-feira
+Acidente	Noite	Papel	ES	SP	2	S/Comprovação	terça-feira
+Acidente	Manhã	Tratores/Empilhadeiras	RS	RS	5	S/Comprovação	terça-feira
+Acidente	Tarde	Bebidas	SP	PR	1	S/Comprovação	terça-feira
+Acidente	Noite	Laticínios	SC	SP	1	S/Comprovação	sábado
+Acidente	Manhã	Calçados	CE	SP	2	S/Comprovação	sábado
+Acidente	Madrugada	Veículo	SP	BA	2	S/Comprovação	quinta-feira
+Acidente	Madrugada	Hig/Limp/Cosm	SP	SP	1	S/Comprovação	sexta-feira
+Acidente	Noite	Químico	SP	CE	4	S/Comprovação	sexta-feira
+Acidente	Tarde	Frigorífico	GO	EX	3	S/Comprovação	segunda-feira
+Acidente	Manhã	Calçados	CE	SP	2	S/Comprovação	sábado
+Acidente	Madrugada	Utilidades Doméstica	RS	PR	4	S/Comprovação	sexta-feira
+Acidente	Madrugada	Doces/Chocolate	SP	SP	1	S/Comprovação	terça-feira
+Acidente	Manhã	Alimentício	EX	SP	1	S/Comprovação	sexta-feira
+Acidente	Madrugada	Café	MG	MG	2	S/Comprovação	segunda-feira
+Acidente	Tarde	Específicas	SP	PI	2	S/Comprovação	domingo
+Acidente	Manhã	Alimentício	SP	PR	2	S/Comprovação	segunda-feira
+Acidente	Manhã	Frigorífico	DF	SC	1	S/Comprovação	domingo
+Acidente	Tarde	Bebidas	PR	RS	1	S/Comprovação	quarta-feira
+Acidente	Manhã	Veículo	GO	PR	3	S/Comprovação	segunda-feira
+Acidente	Noite	Polímeros	SC	SP	1	S/Comprovação	domingo
+Acidente	Manhã	Hig/Limp/Cosm	SP	RS	1	S/Comprovação	terça-feira
+Acidente	Noite	Polímeros	RJ	MG	2	S/Comprovação	segunda-feira
+Acidente	Madrugada	Específicas	SP	RO	3	S/Comprovação	sexta-feira
+Acidente	Noite	Veículo	MG	SP	3	S/Comprovação	quinta-feira
+Acidente	Madrugada	Vidro	SP	PE	1	S/Comprovação	quarta-feira
+Acidente	Noite	Frigorífico	SP	MG	2	S/Comprovação	quinta-feira
+Acidente	Noite	Alimentício	MG	PE	1	S/Comprovação	quinta-feira
+Acidente	Noite	Hig/Limp/Cosm	GO	SP	4	S/Comprovação	quarta-feira
+Acidente	Manhã	Frigorífico	SC	MS	2	S/Comprovação	sábado
+Acidente	Madrugada	Específicas	SP	BA	4	S/Comprovação	domingo
+Acidente	Manhã	Confecção/Tecido/Fios	RJ	PE	2	S/Comprovação	domingo
+Acidente	Manhã	Defensivo Agrícola	SP	ES	2	S/Comprovação	domingo
+Acidente	Madrugada	Frigorífico	MT	EX	4	S/Comprovação	quarta-feira
+Acidente	Madrugada	Diversos	PR	SP	3	S/Comprovação	segunda-feira
+Acidente	Madrugada	Frigorífico	RO	SC	2	S/Comprovação	sexta-feira
+Acidente	Sem Inf	Combustível	MT	BA	1	S/Comprovação	segunda-feira
+Acidente	Manhã	Autopeças	PR	PR	3	S/Comprovação	quinta-feira
+Acidente	Madrugada	Específicas	ES	PR	4	S/Comprovação	quinta-feira
+Acidente	Tarde	Frigorífico	PR	SC	2	S/Comprovação	terça-feira
+Acidente	Tarde	Papel	SC	SP	1	S/Comprovação	quarta-feira
+Acidente	Madrugada	Frigorífico	MG	SP	4	S/Comprovação	segunda-feira
+Acidente	Tarde	Veículo	SP	RJ	1	S/Comprovação	domingo
+Acidente	Tarde	Veículo	PR	RS	3	S/Comprovação	domingo
+Acidente	Noite	Laticínios	SP	PE	4	S/Comprovação	sábado
+Acidente	Tarde	Específicas	ES	BA	3	S/Comprovação	segunda-feira
+Acidente	Manhã	Frigorífico	PR	MG	1	S/Comprovação	domingo
+Acidente	Manhã	Bebidas	SP	SC	1	S/Comprovação	terça-feira
+Acidente	Tarde	Geral	SC	SC	1	S/Comprovação	sexta-feira
+Acidente	Manhã	Defensivo Agrícola	MG	MG	4	S/Comprovação	sexta-feira
+Acidente	Tarde	Madeira	SC	SC	1	S/Comprovação	sexta-feira
+Acidente	Manhã	Alumínio	SP	PE	4	S/Comprovação	sábado
+Acidente	Madrugada	Específicas	SP	MG	1	S/Comprovação	quarta-feira
+Acidente	Manhã	Frigorífico	SP	SC	2	S/Comprovação	terça-feira
+Acidente	Madrugada	Geral	SC	SP	1	S/Comprovação	quarta-feira
+Acidente	Manhã	Defensivo Agrícola	MG	MG	4	S/Comprovação	terça-feira
+Acidente	Madrugada	Hig/Limp/Cosm	SP	MG	1	S/Comprovação	sexta-feira
+Acidente	Tarde	Específicas	GO	MA	4	S/Comprovação	quarta-feira
+Acidente	Tarde	Hig/Limp/Cosm	BA	PA	4	S/Comprovação	sábado
+Acidente	Manhã	Óleo Lubrificante	RJ	GO	2	S/Comprovação	terça-feira
+Acidente	Tarde	Alumínio	SP	PE	4	S/Comprovação	sábado
+Acidente	Noite	Hig/Limp/Cosm	MG	SC	3	S/Comprovação	segunda-feira
+Acidente	Noite	Específicas	SP	PA	4	S/Comprovação	domingo
+Acidente	Noite	Confecção/Tecido/Fios	SP	SC	1	S/Comprovação	sexta-feira
+Acidente	Noite	Eletrônicos	RJ	SP	3	S/Comprovação	segunda-feira
+Acidente	Manhã	Tratores/Empilhadeiras	SP	MT	4	S/Comprovação	segunda-feira
+Acidente	Manhã	Eletrodoméstico	SC	PA	1	S/Comprovação	segunda-feira
+Acidente	Manhã	Defensivo Agrícola	SP	PA	3	S/Comprovação	terça-feira
+Acidente	Manhã	Específicas	SP	PE	4	S/Comprovação	domingo
+Acidente	Manhã	Brinquedos	SP	SC	1	S/Comprovação	sexta-feira
+Acidente	Tarde	Frigorífico	MG	EX	3	S/Comprovação	quarta-feira
+Acidente	Madrugada	Tinta/Verniz	PE	PE	1	S/Comprovação	quarta-feira
+Acidente	Tarde	Autopeças	SP	PE	2	S/Comprovação	terça-feira
+Acidente	Madrugada	Geral	ES	SP	2	S/Comprovação	quinta-feira
+Acidente	Noite	Frigorífico	PR	PR	1	S/Comprovação	quarta-feira
+Acidente	Manhã	Frigorífico	GO	ES	2	S/Comprovação	quarta-feira
+Acidente	Manhã	Hig/Limp/Cosm	MG	MG	4	S/Comprovação	segunda-feira
+Acidente	Tarde	Fraldas	GO	ES	1	S/Comprovação	quarta-feira
+Acidente	Manhã	Frigorífico	PR	RJ	1	S/Comprovação	segunda-feira
+Acidente	Noite	Confecção/Tecido/Fios	SP	CE	2	S/Comprovação	terça-feira
+Acidente	Manhã	Alimentício	SP	SP	1	S/Comprovação	quinta-feira
+Acidente	Madrugada	Bateria	PE	EX	2	S/Comprovação	quarta-feira
+Acidente	Madrugada	Frigorífico	PR	PR	2	S/Comprovação	quinta-feira
+Acidente	Madrugada	Específicas	SP	MT	1	S/Comprovação	terça-feira
+Acidente	Manhã	Alumínio	SE	SP	3	S/Comprovação	terça-feira
+Acidente	Madrugada	Fios/Cabos	SP	PB	2	S/Comprovação	sexta-feira
+Acidente	Madrugada	Frigorífico	MA	PA	1	S/Comprovação	domingo
+Acidente	Manhã	Hig/Limp/Cosm	SP	SP	2	S/Comprovação	sexta-feira
+Acidente	Noite	Café	SP	SE	2	S/Comprovação	sexta-feira
+Acidente	Noite	Hig/Limp/Cosm	GO	RO	1	S/Comprovação	sábado
+Acidente	Tarde	Frigorífico	MG	SP	4	S/Comprovação	quinta-feira
+Acidente	Manhã	Veículo	RN	SP	4	S/Comprovação	quinta-feira
+Acidente	Noite	Geral	BA	ES	1	S/Comprovação	terça-feira
+Acidente	Noite	Polímeros	SP	RS	1	S/Comprovação	sábado
+Acidente	Manhã	Hig/Limp/Cosm	MG	MG	2	S/Comprovação	domingo
+Acidente	Madrugada	Café	SP	SP	2	S/Comprovação	terça-feira
+Acidente	Madrugada	Específicas	SP	PE	2	S/Comprovação	segunda-feira
+Acidente	Manhã	Bebidas	RS	SP	1	S/Comprovação	domingo
+Acidente	Noite	Calçados	SP	CE	1	S/Comprovação	domingo
+Acidente	Tarde	Específicas	GO	RO	4	S/Comprovação	quinta-feira
+Acidente	Tarde	Específicas	BA	MG	4	S/Comprovação	quarta-feira
+Acidente	Manhã	Alumínio	SP	DF	4	S/Comprovação	terça-feira
+Acidente	Tarde	Frigorífico	PR	EX	1	S/Comprovação	sábado
+Acidente	Madrugada	Eletrodoméstico	SP	MG	2	S/Comprovação	quinta-feira
+Acidente	Noite	Café	MG	RS	3	S/Comprovação	domingo
+Acidente	Manhã	Bebidas	SP	MG	1	S/Comprovação	sexta-feira
+Acidente	Manhã	Frigorífico	PR	PA	1	S/Comprovação	sábado
+Acidente	Madrugada	Tinta/Verniz	SP	SC	2	S/Comprovação	sexta-feira
+Acidente	Noite	Material Elétrico	SP	SC	1	S/Comprovação	terça-feira
+Acidente	Manhã	Bebidas	PR	RS	2	S/Comprovação	terça-feira
+Acidente	Madrugada	Confecção/Tecido/Fios	SP	EX	3	S/Comprovação	quinta-feira
+Acidente	Madrugada	Geral	SP	MG	4	S/Comprovação	quarta-feira
+Acidente	Manhã	Confecção/Tecido/Fios	SP	RN	2	S/Comprovação	sexta-feira
+Acidente	Manhã	Químico	BA	SP	2	S/Comprovação	quarta-feira
+Acidente	Noite	Específicas	SC	SP	1	S/Comprovação	quinta-feira
+Acidente	Manhã	Alimentício	RS	GO	2	S/Comprovação	quarta-feira
+Acidente	Madrugada	Alimentício	MG	PA	2	S/Comprovação	domingo
+Acidente	Manhã	Doces/Chocolate	SP	MG	2	S/Comprovação	quinta-feira
+Acidente	Madrugada	Bebidas	PE	PB	1	S/Comprovação	quarta-feira
+Acidente	Madrugada	Minério	MG	EX	2	S/Comprovação	quinta-feira
+Acidente	Noite	Matéria Prima	SP	RS	1	S/Comprovação	quinta-feira
+Acidente	Tarde	Geral	RJ	RJ	2	S/Comprovação	terça-feira
+Acidente	Manhã	Eletrodoméstico	SP	PR	1	S/Comprovação	quinta-feira
+Acidente	Madrugada	Maquinário	RS	GO	5	S/Comprovação	terça-feira
+Acidente	Noite	Café	MG	SP	3	S/Comprovação	segunda-feira
+Acidente	Tarde	Hig/Limp/Cosm	PE	BA	1	S/Comprovação	terça-feira
+Acidente	Manhã	Matéria Prima	SP	PE	1	S/Comprovação	sábado
+Acidente	Manhã	Geral	MG	SP	2	S/Comprovação	sexta-feira
+Acidente	Manhã	Específicas	BA	MG	4	S/Comprovação	quinta-feira
+Acidente	Madrugada	Bebidas	SP	SP	1	S/Comprovação	segunda-feira
+Acidente	Tarde	Fertilizantes	SE	SE	1	S/Comprovação	quinta-feira
+Acidente	Tarde	Frigorífico	SP	RJ	1	S/Comprovação	terça-feira
+Acidente	Manhã	Alimentício	MA	MT	1	S/Comprovação	terça-feira
+Acidente	Noite	Hig/Limp/Cosm	MG	MG	4	S/Comprovação	quarta-feira
+Acidente	Madrugada	Polímeros	RJ	PR	1	S/Comprovação	quinta-feira
+Acidente	Manhã	Laticínios	AL	GO	1	S/Comprovação	terça-feira
+Acidente	Tarde	Frigorífico	RS	RJ	1	S/Comprovação	sábado
+Acidente	Manhã	Veículo	SP	RN	2	S/Comprovação	domingo
+Acidente	Madrugada	Específicas	SP	PE	1	S/Comprovação	quarta-feira
+Acidente	Manhã	Frigorífico	SP	SP	1	S/Comprovação	sábado
+Acidente	Manhã	Específicas	SP	SE	3	S/Comprovação	quinta-feira
+Acidente	Tarde	Café	MG	MG	2	S/Comprovação	quarta-feira
+Acidente	Noite	Específicas	SP	BA	1	S/Comprovação	terça-feira
+Acidente	Madrugada	Autopeças	SP	PR	4	S/Comprovação	quinta-feira
+Acidente	Noite	Específicas	CE	ES	4	S/Comprovação	sexta-feira
+Acidente	Noite	Frigorífico	PR	PR	3	S/Comprovação	quarta-feira
+Acidente	Noite	Hig/Limp/Cosm	MG	MG	4	S/Comprovação	quarta-feira
+Acidente	Tarde	Aves	PR	SC	1	S/Comprovação	segunda-feira
+Acidente	Tarde	Alumínio	SP	PE	4	S/Comprovação	terça-feira
+Acidente	Noite	Hig/Limp/Cosm	MG	MG	3	S/Comprovação	domingo
+Acidente	Tarde	Autopeças	RS	RJ	3	S/Comprovação	terça-feira
+Acidente	Tarde	Laticínios	SP	BA	1	S/Comprovação	quinta-feira
+Acidente	Manhã	Alimentício	PR	CE	1	S/Comprovação	domingo
+Acidente	Madrugada	Autopeças	SP	SP	3	S/Comprovação	quarta-feira
+Acidente	Tarde	Frigorífico	PA	PA	1	S/Comprovação	sábado
+Acidente	Tarde	Bebidas	SP	RS	1	S/Comprovação	sábado
+Acidente	Noite	Confecção/Tecido/Fios	RJ	PE	1	S/Comprovação	quarta-feira
+Acidente	Manhã	Computador/Tablet	RJ	MG	1	S/Comprovação	terça-feira
+Acidente	Manhã	Bebidas	SP	MG	1	S/Comprovação	quarta-feira
+Acidente	Tarde	Laticínios	RS	CE	2	S/Comprovação	segunda-feira
+Acidente	Tarde	Hig/Limp/Cosm	PE	SP	1	S/Comprovação	domingo
+Acidente	Noite	Autopeças	SP	EX	3	S/Comprovação	terça-feira
+Acidente	Manhã	Frigorífico	MT	EX	2	S/Comprovação	domingo
+Acidente	Madrugada	Bebidas	AL	MT	1	S/Comprovação	segunda-feira
+Acidente	Madrugada	Frigorífico	PA	BA	2	S/Comprovação	quinta-feira
+Acidente	Manhã	Alimentício	GO	SP	1	S/Comprovação	sábado
+Acidente	Tarde	Confecção/Tecido/Fios	RJ	PE	2	S/Comprovação	sexta-feira
+Acidente	Manhã	Frigorífico	SP	CE	1	S/Comprovação	domingo
+Acidente	Manhã	Geral	PE	MT	1	S/Comprovação	domingo
+Acidente	Tarde	Alimentício	RS	SP	1	S/Comprovação	terça-feira
+Acidente	Manhã	Frigorífico	PR	SC	3	S/Comprovação	quinta-feira
+Acidente	Manhã	Café	MG	MG	2	S/Comprovação	quinta-feira
+Acidente	Noite	Sementes	PR	SC	4	S/Comprovação	quarta-feira
+Acidente	Noite	Alumínio	SC	SP	2	S/Comprovação	segunda-feira
+Acidente	Manhã	Hig/Limp/Cosm	EX	SP	3	S/Comprovação	domingo
+Acidente	Tarde	Laticínios	RS	RJ	1	S/Comprovação	quinta-feira
+Acidente	Noite	Veículo	PR	RS	3	S/Comprovação	quinta-feira
+Acidente	Manhã	Medicamento	GO	RS	4	S/Comprovação	terça-feira
+Acidente	Tarde	Hig/Limp/Cosm	MG	MG	2	S/Comprovação	segunda-feira
+Acidente	Tarde	Frigorífico	PR	PE	1	S/Comprovação	sexta-feira
+Acidente	Madrugada	Alimentício	ES	BA	1	S/Comprovação	quinta-feira
+Acidente	Tarde	Específicas	SC	SP	3	S/Comprovação	domingo
+Acidente	Manhã	Hig/Limp/Cosm	EX	SP	3	S/Comprovação	domingo
+Acidente	Tarde	Específicas	SC	RJ	4	S/Comprovação	sexta-feira
+Acidente	Tarde	Frigorífico	RO	MG	2	S/Comprovação	domingo
+Acidente	Madrugada	Alimentício	DF	MT	1	S/Comprovação	sábado
+Acidente	Manhã	Frigorífico	RS	PE	2	S/Comprovação	domingo
+Acidente	Noite	Gerador	SP	SE	1	S/Comprovação	quinta-feira
+Acidente	Noite	Alumínio	PI	SP	3	S/Comprovação	sexta-feira
+Acidente	Noite	Gerador	SP	EX	5	S/Comprovação	quinta-feira
+Acidente	Tarde	Autopeças	AM	SP	4	S/Comprovação	quarta-feira
+Acidente	Noite	Vidro	SP	GO	1	S/Comprovação	terça-feira
+Acidente	Manhã	Hig/Limp/Cosm	PE	MG	2	S/Comprovação	segunda-feira
+Acidente	Madrugada	Móveis	SP	BA	3	S/Comprovação	sábado
+Acidente	Tarde	Bebidas	PR	RS	1	S/Comprovação	terça-feira
+Acidente	Manhã	Maquinário	MG	RJ	5	S/Comprovação	terça-feira
+Acidente	Madrugada	Gerador	SP	RR	3	S/Comprovação	domingo
+Acidente	Noite	Específicas	ES	CE	3	S/Comprovação	sexta-feira
+Acidente	Noite	Café	ES	RN	3	S/Comprovação	sexta-feira
+Acidente	Madrugada	Veículo	SP	GO	4	S/Comprovação	quinta-feira
+Acidente	Manhã	Hig/Limp/Cosm	MA	SP	1	S/Comprovação	domingo
+Acidente	Manhã	Alimentício	PE	PE	1	S/Comprovação	terça-feira
+Acidente	Manhã	Óleo Comestível	MT	SP	1	S/Comprovação	quarta-feira
+Acidente	Madrugada	Móveis	RS	SP	2	S/Comprovação	sábado
+Acidente	Noite	Hig/Limp/Cosm	MG	SC	2	S/Comprovação	domingo
+Acidente	Tarde	Sementes	MT	MT	4	S/Comprovação	sexta-feira
+Acidente	Manhã	Alimentício	SP	ES	1	S/Comprovação	domingo
+Acidente	Noite	Específicas	SP	PI	1	S/Comprovação	quarta-feira
+Acidente	Manhã	Específicas	SP	BA	4	S/Comprovação	sábado
+Acidente	Madrugada	Medicamento	SC	SP	5	S/Comprovação	quinta-feira
+Acidente	Madrugada	Frigorífico	EX	EX	3	S/Comprovação	sexta-feira
+Acidente	Tarde	Alimentício	PB	PA	1	S/Comprovação	quarta-feira
+Acidente	Manhã	Frigorífico	RO	MG	2	S/Comprovação	quarta-feira
+Acidente	Tarde	Alumínio	PI	SP	4	S/Comprovação	domingo
+Acidente	Madrugada	Frigorífico	PR	SC	2	S/Comprovação	sexta-feira
+Acidente	Tarde	Geral	SP	EX	4	S/Comprovação	quinta-feira
+Acidente	Madrugada	Bebidas	SP	SP	1	S/Comprovação	terça-feira
+Acidente	Madrugada	Hig/Limp/Cosm	SP	GO	2	S/Comprovação	segunda-feira
+Acidente	Tarde	Químico	BA	SP	1	S/Comprovação	sexta-feira
+Acidente	Noite	Óleo Lubrificante	PE	PE	2	S/Comprovação	sexta-feira
+Acidente	Noite	Geral	PR	MG	4	S/Comprovação	quinta-feira
+Acidente	Tarde	Hig/Limp/Cosm	SP	BA	4	S/Comprovação	sábado
+Acidente	Tarde	Autopeças	MG	PE	1	S/Comprovação	domingo
+Acidente	Tarde	Defensivo Agrícola	SP	MT	1	S/Comprovação	sábado
+Acidente	Tarde	Confecção/Tecido/Fios	PA	PR	2	S/Comprovação	sexta-feira
+Acidente	Noite	Bebidas	GO	PA	1	S/Comprovação	quarta-feira
+Acidente	Tarde	Alumínio	SP	MT	3	S/Comprovação	quinta-feira
+Acidente	Tarde	Frigorífico	MT	SP	3	S/Comprovação	domingo
+Acidente	Madrugada	Maquinário	MG	SC	4	S/Comprovação	sábado
+Acidente	Manhã	Alumínio	SP	PR	1	S/Comprovação	quinta-feira
+Acidente	Manhã	Laticínios	MG	RJ	3	S/Comprovação	quarta-feira
+Fraude	Madrugada	Geral	SC	BA	3	Funcionário	quarta-feira
+Fraude	Madrugada	Geral	SC	BA	3	Funcionário	quarta-feira
+Fraude	Noite	Geral	SC	CE	3	Funcionário	segunda-feira
+Fraude	Noite	Geral	SC	CE	3	Funcionário	segunda-feira
+Fraude	Noite	Geral	SC	CE	3	Funcionário	segunda-feira
+Fraude	Tarde	Geral	SC	SP	3	Funcionário	domingo
+Fraude	Noite	Geral	SC	PA	3	Funcionário	domingo
+Fraude	Noite	Geral	SC	MA	3	Funcionário	domingo
+Fraude	Tarde	Geral	SC	SP	3	Funcionário	domingo
+Fraude	Noite	Geral	SC	MA	3	Funcionário	domingo
+Outros	Madrugada	Maquinário	RJ	SP	2	S/Comprovação	segunda-feira
+Outros	Tarde	Aço/Ferro	SP	MG	1	Funcionário	segunda-feira
+Outros	Manhã	Autopeças	MG	PE	4	S/Comprovação	domingo
+Outros	Tarde	Autopeças	MG	PE	4	S/Comprovação	segunda-feira
+Outros	Noite	Veículo	RS	SP	3	S/Comprovação	sexta-feira
+Outros	Tarde	Café	MG	MG	3	S/Comprovação	terça-feira
+Outros	Noite	Alumínio	SP	CE	4	S/Comprovação	terça-feira
+Outros	Manhã	Alimentício	SP	RS	3	S/Comprovação	sexta-feira
+Outros	Manhã	Pescado	SC	PE	1	S/Comprovação	quinta-feira
+Outros	Manhã	Específicas	SP	MG	4	S/Comprovação	sexta-feira
+Outros	Tarde	Aço/Ferro	SC	GO	1	S/Comprovação	terça-feira
+Outros	Tarde	Geral	SP	MA	1	S/Comprovação	quarta-feira
+Outros	Tarde	Medicamento	GO	RJ	4	S/Comprovação	quinta-feira
+Outros	Manhã	Específicas	BA	RJ	1	S/Comprovação	sábado
+Outros	Manhã	Frigorífico	CE	CE	2	S/Comprovação	sexta-feira
+Outros	Noite	Maquinário	SP	MG	2	S/Comprovação	quarta-feira
+Outros	Tarde	Laticínios	GO	MS	2	S/Comprovação	domingo
+Outros	Tarde	Tratores/Empilhadeiras	PR	BH	4	S/Comprovação	terça-feira
+Outros	Manhã	Alimentício	SP	SP	2	S/Comprovação	terça-feira
+Outros	Tarde	Ração Animal	PR	MS	3	S/Comprovação	segunda-feira
+Outros	Manhã	Alimentício	PE	SP	2	S/Comprovação	terça-feira
+Outros	Tarde	Autopeças	MG	PE	4	S/Comprovação	segunda-feira
+Outros	Manhã	Utilidades Doméstica	EX	EX	2	S/Comprovação	segunda-feira
+Outros	Manhã	Alumínio	PI	SP	4	S/Comprovação	sexta-feira
+Outros	Tarde	Alimentício	EX	MG	3	S/Comprovação	quarta-feira
+Outros	Tarde	Bebidas	ES	MG	1	S/Comprovação	domingo
+Outros	Madrugada	Alumínio	PI	SP	3	S/Comprovação	terça-feira
+Outros	Manhã	Alimentício	SP	SP	1	S/Comprovação	terça-feira
+Outros	Manhã	Maquinário	SP	EX	4	S/Comprovação	quinta-feira
+Outros	Manhã	Alumínio	SP	BA	3	S/Comprovação	quinta-feira
+Outros	Tarde	Pneus	EX	MG	3	S/Comprovação	sexta-feira
+Outros	Noite	Maquinário	SP	MG	5	S/Comprovação	terça-feira
+Outros	Madrugada	Aço/Ferro	SP	AM	3	S/Comprovação	sexta-feira
+Outros	Madrugada	Alumínio	PE	SP	3	S/Comprovação	quarta-feira
+Outros	Manhã	Alumínio	SP	PI	4	S/Comprovação	terça-feira
+Outros	Madrugada	Laticínios	EX	GO	5	S/Comprovação	segunda-feira
+Outros	Manhã	Alimentício	SP	MG	1	S/Comprovação	sexta-feira
+Outros	Madrugada	Medicamento	GO	TO	2	S/Comprovação	quarta-feira
+Outros	Noite	Geral	SC	PR	2	S/Comprovação	segunda-feira
+Outros	Manhã	Frigorífico	EX	SP	4	S/Comprovação	quarta-feira
+Outros	Manhã	Frigorífico	EX	SP	4	S/Comprovação	quarta-feira
+Outros	Tarde	Frigorífico	SC	SC	1	S/Comprovação	quarta-feira
+Outros	Manhã	Frigorífico	EX	SP	4	S/Comprovação	quarta-feira
+Outros	Tarde	Laticínios	SP	SP	1	S/Comprovação	quarta-feira
+Outros	Madrugada	Frigorífico	DF	MG	1	S/Comprovação	segunda-feira
+Outros	Madrugada	Frigorífico	DF	TO	1	S/Comprovação	terça-feira
+Outros	Tarde	Tratores/Empilhadeiras	PR	RS	3	S/Comprovação	terça-feira
+Outros	Noite	Medicamento	EX	SP	1	S/Comprovação	segunda-feira
+Outros	Manhã	Alumínio	SP	AM	3	S/Comprovação	sexta-feira
+Outros	Manhã	Alumínio	SP	PE	4	S/Comprovação	quinta-feira
+Outros	Madrugada	Laticínios	EX	SP	3	S/Comprovação	terça-feira
+Outros	Madrugada	Hig/Limp/Cosm	MG	MG	4	S/Comprovação	quarta-feira
+Outros	Tarde	Café	PR	CE	1	S/Comprovação	quinta-feira
+Outros	Tarde	Alumínio	SP	AM	3	S/Comprovação	sábado
+Outros	Manhã	Químico	EX	SP	1	S/Comprovação	quarta-feira
+Roubo/Furto	Manhã	Eletrônicos	SP	SP	3	S/Comprovação	sexta-feira
+Roubo/Furto	Manhã	Eletrônicos	SP	SP	1	S/Comprovação	sexta-feira
+Roubo/Furto	Noite	Papel	SP	PE	1	S/Comprovação	sexta-feira
+Roubo/Furto	Noite	Café	MG	SP	2	Agregado	quinta-feira
+Roubo/Furto	Noite	Combustível	RJ	SP	2	Agregado	quarta-feira
+Roubo/Furto	Tarde	Específicas	RJ	SP	4	Agregado	sábado
+Roubo/Furto	Noite	Calçados	RJ	RJ	2	Agregado	segunda-feira
+Roubo/Furto	Noite	Frigorífico	SP	RS	3	Agregado	domingo
+Roubo/Furto	Noite	Hig/Limp/Cosm	PE	CE	3	Agregado	domingo
+Roubo/Furto	Manhã	Específicas	RJ	RJ	1	Agregado	quinta-feira
+Roubo/Furto	Tarde	Específicas	RJ	RJ	1	Agregado	sábado
+Roubo/Furto	Noite	Frigorífico	SP	PB	4	Agregado	sexta-feira
+Roubo/Furto	Tarde	Eletrônicos	SP	GO	4	Agregado	segunda-feira
+Roubo/Furto	Noite	Celulares	SP	MG	4	Agregado	domingo
+Roubo/Furto	Noite	Específicas	MG	BA	4	Agregado	segunda-feira
+Roubo/Furto	Madrugada	Alimentício	AL	SP	3	Agregado	terça-feira
+Roubo/Furto	Manhã	Polímeros	RJ	SP	1	Agregado	quarta-feira
+Roubo/Furto	Tarde	Alimentício	PE	MA	2	Agregado	sexta-feira
+Roubo/Furto	Noite	Específicas	SP	BA	4	Agregado	sexta-feira
+Roubo/Furto	Noite	Específicas	SC	SP	3	Agregado	terça-feira
+Roubo/Furto	Madrugada	Celulares	SP	SP	1	Agregado	quarta-feira
+Roubo/Furto	Tarde	Alumínio	SP	PR	1	Agregado	quinta-feira
+Roubo/Furto	Manhã	Confecção/Tecido/Fios	RJ	CE	3	Agregado	domingo
+Roubo/Furto	Noite	Específicas	PE	CE	3	Agregado	terça-feira
+Roubo/Furto	Madrugada	Medicamento	SC	PR	2	Agregado	quarta-feira
+Roubo/Furto	Madrugada	Autopeças	SP	PR	4	Agregado	quarta-feira
+Roubo/Furto	Tarde	Alumínio	SP	GO	2	Agregado	terça-feira
+Roubo/Furto	Manhã	E-Commerce	SP	SP	2	Agregado	terça-feira
+Roubo/Furto	Madrugada	Defensivo Agrícola	SP	BA	5	Agregado	segunda-feira
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	PE	BA	1	Agregado	quinta-feira
+Roubo/Furto	Noite	Defensivo Agrícola	SP	BA	2	Agregado	terça-feira
+Roubo/Furto	Noite	Eletrônicos	CE	PE	1	Agregado	sexta-feira
+Roubo/Furto	Noite	Alumínio	SC	SP	2	Agregado	segunda-feira
+Roubo/Furto	Noite	Frigorífico	SP	PB	4	Agregado	domingo
+Roubo/Furto	Noite	Autopeças	SP	SP	1	Agregado	quinta-feira
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	MG	RS	4	Agregado	sábado
+Roubo/Furto	Tarde	Geral	RJ	RJ	1	Agregado	segunda-feira
+Roubo/Furto	Manhã	Calçados	MG	SP	2	Agregado	domingo
+Roubo/Furto	Manhã	Veículo	SP	PR	2	Agregado	quinta-feira
+Roubo/Furto	Manhã	Pescado	EX	SP	2	Agregado	sábado
+Roubo/Furto	Noite	Defensivo Agrícola	SP	BA	4	Agregado	terça-feira
+Roubo/Furto	Manhã	E-Commerce	PE	BA	4	Agregado	sexta-feira
+Roubo/Furto	Noite	Defensivo Agrícola	SP	PB	5	Agregado	segunda-feira
+Roubo/Furto	Madrugada	E-Commerce	RJ	RJ	1	Agregado	quarta-feira
+Roubo/Furto	Manhã	Calçados	SP	SP	1	Agregado	terça-feira
+Roubo/Furto	Madrugada	Óleo Lubrificante	RJ	GO	3	Agregado	quinta-feira
+Roubo/Furto	Tarde	Frigorífico	PR	RJ	2	Agregado	quinta-feira
+Roubo/Furto	Tarde	Combustível	GO	GO	1	Agregado	sexta-feira
+Roubo/Furto	Manhã	Específicas	SP	RJ	3	Agregado	sexta-feira
+Roubo/Furto	Noite	Específicas	PR	SP	3	Agregado	sexta-feira
+Roubo/Furto	Manhã	Eletrônicos	EX	PR	3	Agregado	quinta-feira
+Roubo/Furto	Manhã	Celulares	RJ	RJ	1	Agregado	sexta-feira
+Roubo/Furto	Noite	Defensivo Agrícola	SP	MT	5	Agregado	domingo
+Roubo/Furto	Madrugada	Bicicleta	AM	SC	4	Agregado	terça-feira
+Roubo/Furto	Noite	Confecção/Tecido/Fios	GO	TO	2	Agregado	segunda-feira
+Roubo/Furto	Madrugada	Pescado	GO	SC	2	Agregado	quarta-feira
+Roubo/Furto	Madrugada	Frigorífico	MS	SP	1	Agregado	domingo
+Roubo/Furto	Noite	Combustível	PR	MS	1	Agregado	terça-feira
+Roubo/Furto	Noite	Específicas	SP	MG	2	Agregado	terça-feira
+Roubo/Furto	Manhã	Alumínio	RS	SP	1	Agregado	quinta-feira
+Roubo/Furto	Noite	Frigorífico	RS	RJ	1	Agregado	segunda-feira
+Roubo/Furto	Madrugada	Eletrônicos	SP	MG	3	Agregado	quinta-feira
+Roubo/Furto	Noite	Alimentício	RJ	RJ	2	Agregado	terça-feira
+Roubo/Furto	Tarde	Café	BA	CE	2	Agregado	sexta-feira
+Roubo/Furto	Manhã	E-Commerce	SP	SP	4	Agregado	terça-feira
+Roubo/Furto	Manhã	Eletrônicos	RS	RS	3	Agregado	segunda-feira
+Roubo/Furto	Madrugada	Específicas	SP	SP	3	Agregado	sexta-feira
+Roubo/Furto	Noite	Tinta/Verniz	SP	RJ	1	Agregado	segunda-feira
+Roubo/Furto	Tarde	Alimentício	PE	MG	1	Agregado	quarta-feira
+Roubo/Furto	Madrugada	E-Commerce	SP	SP	1	Agregado	terça-feira
+Roubo/Furto	Noite	Frigorífico	SC	SC	2	Agregado	quinta-feira
+Roubo/Furto	Madrugada	Laticínios	SP	MA	3	Agregado	quarta-feira
+Roubo/Furto	Manhã	Prod. Ópticos	RJ	RJ	3	Agregado	quinta-feira
+Roubo/Furto	Manhã	Específicas	RJ	ES	3	Agregado	sábado
+Roubo/Furto	Noite	Hig/Limp/Cosm	GO	SP	3	Agregado	terça-feira
+Roubo/Furto	Madrugada	Bebidas	RJ	MG	3	Agregado	terça-feira
+Roubo/Furto	Manhã	Veículo	SP	RJ	1	Agregado	quarta-feira
+Roubo/Furto	Tarde	Bebidas	RJ	MG	3	Agregado	quarta-feira
+Roubo/Furto	Noite	Tinta/Verniz	SP	RJ	1	Agregado	quarta-feira
+Roubo/Furto	Madrugada	E-Commerce	RJ	RJ	3	Agregado	sábado
+Roubo/Furto	Tarde	Defensivo Agrícola	SP	MG	2	Agregado	terça-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	PE	BA	2	Agregado	quarta-feira
+Roubo/Furto	Tarde	Específicas	RJ	SP	2	Agregado	sábado
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	MG	RJ	1	Agregado	segunda-feira
+Roubo/Furto	Manhã	Defensivo Agrícola	SP	MT	3	Agregado	terça-feira
+Roubo/Furto	Manhã	Específicas	PR	RJ	1	Agregado	terça-feira
+Roubo/Furto	Noite	Específicas	CE	PB	3	Agregado	sábado
+Roubo/Furto	Noite	Brinquedos	PR	PE	1	Autônomo	sexta-feira
+Roubo/Furto	Tarde	Combustível	PR	MT	1	Autônomo	quarta-feira
+Roubo/Furto	Madrugada	Material Elétrico	PR	BA	1	Autônomo	quarta-feira
+Roubo/Furto	Tarde	Veículo	SP	SP	1	Autônomo	sexta-feira
+Roubo/Furto	Noite	Algodão	GO	SP	1	Autônomo	sábado
+Roubo/Furto	Madrugada	Alimentício	GO	MG	1	Autônomo	domingo
+Roubo/Furto	Manhã	Bebidas	PR	SC	1	Autônomo	quarta-feira
+Roubo/Furto	Noite	Frigorífico	GO	PE	3	Autônomo	domingo
+Roubo/Furto	Tarde	Bebidas	DF	BA	1	Autônomo	domingo
+Roubo/Furto	Manhã	Bebidas	BA	ES	1	Autônomo	quinta-feira
+Roubo/Furto	Madrugada	Polímeros	RJ	SP	1	Autônomo	sexta-feira
+Roubo/Furto	Tarde	Sementes	MG	DF	3	Autônomo	sexta-feira
+Roubo/Furto	Noite	Alumínio	SP	SP	1	Autônomo	quarta-feira
+Roubo/Furto	Madrugada	Material Elétrico	ES	MG	3	Autônomo	quarta-feira
+Roubo/Furto	Noite	Óleo Lubrificante	SP	SE	1	Autônomo	quarta-feira
+Roubo/Furto	Madrugada	Bebidas	RS	SP	2	Autônomo	segunda-feira
+Roubo/Furto	Noite	Aço/Ferro	CE	DF	1	Autônomo	segunda-feira
+Roubo/Furto	Noite	Liga Metálica	SP	SP	3	Autônomo	terça-feira
+Roubo/Furto	Noite	Alumínio	MG	TO	2	Autônomo	quarta-feira
+Roubo/Furto	Madrugada	Frigorífico	TO	PE	1	Autônomo	quarta-feira
+Roubo/Furto	Noite	Frigorífico	RO	MG	2	Autônomo	quarta-feira
+Roubo/Furto	Madrugada	Óleo Comestível	MT	SP	1	Autônomo	sexta-feira
+Roubo/Furto	Noite	Bebidas	PR	SP	1	Autônomo	quarta-feira
+Roubo/Furto	Manhã	Combustível	SP	SP	1	Autônomo	sexta-feira
+Roubo/Furto	Manhã	Alumínio	SP	PE	2	Autônomo	domingo
+Roubo/Furto	Manhã	Frigorífico	PR	RJ	1	Autônomo	terça-feira
+Roubo/Furto	Noite	Frigorífico	SP	SP	1	Autônomo	sexta-feira
+Roubo/Furto	Madrugada	Alumínio	SC	SC	2	Autônomo	segunda-feira
+Roubo/Furto	Noite	Laticínios	SP	AL	3	Autônomo	segunda-feira
+Roubo/Furto	Madrugada	Frigorífico	MS	SP	3	Autônomo	sexta-feira
+Roubo/Furto	Noite	Café	MG	MG	3	Autônomo	quarta-feira
+Roubo/Furto	Noite	Laticínios	MG	SP	2	Autônomo	quarta-feira
+Roubo/Furto	Tarde	Alumínio	RJ	SP	2	Autônomo	sexta-feira
+Roubo/Furto	Tarde	Bebidas	PE	MA	1	Autônomo	terça-feira
+Roubo/Furto	Manhã	Pneus	SP	SP	2	Autônomo	terça-feira
+Roubo/Furto	Noite	Alimentício	SP	RJ	1	Autônomo	domingo
+Roubo/Furto	Noite	Algodão	GO	SC	1	Autônomo	sábado
+Roubo/Furto	Noite	Alimentício	RJ	RJ	1	Autônomo	quinta-feira
+Roubo/Furto	Tarde	Frigorífico	MT	SP	2	Autônomo	domingo
+Roubo/Furto	Madrugada	Defensivo Agrícola	SP	PA	1	Autônomo	quinta-feira
+Roubo/Furto	Noite	Combustível	PR	MT	1	Autônomo	segunda-feira
+Roubo/Furto	Tarde	Alumínio	SP	PR	3	Autônomo	quarta-feira
+Roubo/Furto	Madrugada	Algodão	MT	MG	1	Autônomo	quinta-feira
+Roubo/Furto	Noite	Frigorífico	PR	RJ	1	Autônomo	domingo
+Roubo/Furto	Noite	Confecção/Tecido/Fios	RJ	MA	4	Autônomo	terça-feira
+Roubo/Furto	Noite	Frigorífico	RO	SC	2	Autônomo	domingo
+Roubo/Furto	Madrugada	Geral	SC	ES	1	Autônomo	quarta-feira
+Roubo/Furto	Noite	Defensivo Agrícola	SP	PA	2	Autônomo	sexta-feira
+Roubo/Furto	Noite	Óleo Comestível	MT	SP	1	Autônomo	sexta-feira
+Roubo/Furto	Tarde	Fraldas	SP	GO	1	Autônomo	sexta-feira
+Roubo/Furto	Madrugada	Químico	SP	SP	2	Autônomo	terça-feira
+Roubo/Furto	Noite	Fraldas	GO	MA	1	Autônomo	domingo
+Roubo/Furto	Manhã	Polímeros	SP	SP	1	Autônomo	sexta-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	PE	PB	1	Autônomo	segunda-feira
+Roubo/Furto	Madrugada	Bebidas	SP	MS	1	Autônomo	quinta-feira
+Roubo/Furto	Noite	Alumínio	SP	SP	2	Autônomo	terça-feira
+Roubo/Furto	Tarde	Eletrônicos	SP	PI	2	Autônomo	quinta-feira
+Roubo/Furto	Noite	Geral	RJ	SP	3	Autônomo	terça-feira
+Roubo/Furto	Madrugada	Medicamento	SC	GO	4	Autônomo	sexta-feira
+Roubo/Furto	Tarde	Frigorífico	RO	SP	2	Autônomo	domingo
+Roubo/Furto	Madrugada	Polímeros	BA	SP	1	Autônomo	segunda-feira
+Roubo/Furto	Noite	Fraldas	GO	CE	1	Autônomo	segunda-feira
+Roubo/Furto	Madrugada	Alumínio	GO	SP	1	Autônomo	quinta-feira
+Roubo/Furto	Madrugada	Alumínio	SC	SP	1	Autônomo	quinta-feira
+Roubo/Furto	Noite	Alimentício	PE	RN	1	Autônomo	segunda-feira
+Roubo/Furto	Noite	Alumínio	SP	PA	2	Autônomo	quinta-feira
+Roubo/Furto	Madrugada	Polímeros	SC	SP	1	Autônomo	sexta-feira
+Roubo/Furto	Madrugada	Geral	SC	SP	3	Autônomo	sexta-feira
+Roubo/Furto	Noite	Alumínio	SP	SP	2	Autônomo	segunda-feira
+Roubo/Furto	Tarde	Alimentício	SP	ES	2	Autônomo	quarta-feira
+Roubo/Furto	Noite	Pneus	SC	SP	2	Autônomo	terça-feira
+Roubo/Furto	Noite	Pneus	SC	RJ	2	Autônomo	quarta-feira
+Roubo/Furto	Tarde	Alumínio	SP	RS	4	Autônomo	sexta-feira
+Roubo/Furto	Tarde	Doces/Chocolate	SP	PE	3	Autônomo	sábado
+Roubo/Furto	Noite	Laticínios	RJ	RJ	1	Autônomo	sexta-feira
+Roubo/Furto	Madrugada	Frigorífico	PA	SP	2	Autônomo	quarta-feira
+Roubo/Furto	Tarde	Fios/Cabos	SP	MG	1	Autônomo	segunda-feira
+Roubo/Furto	Tarde	Alumínio	SP	PR	4	Autônomo	sábado
+Roubo/Furto	Noite	Defensivo Agrícola	MT	MT	1	Autônomo	domingo
+Roubo/Furto	Tarde	Calçados	SP	RS	5	Autônomo	terça-feira
+Roubo/Furto	Noite	Alumínio	SP	PR	3	Autônomo	quarta-feira
+Roubo/Furto	Noite	Bebidas	SP	PA	1	Autônomo	terça-feira
+Roubo/Furto	Noite	Bebidas	SP	PA	1	Autônomo	domingo
+Roubo/Furto	Madrugada	Alumínio	SP	SP	1	Autônomo	quinta-feira
+Roubo/Furto	Manhã	Alimentício	SP	SP	4	Autônomo	quinta-feira
+Roubo/Furto	Madrugada	Aço/Ferro	SP	RO	1	Autônomo	terça-feira
+Roubo/Furto	Manhã	Hig/Limp/Cosm	PE	PA	1	Autônomo	quinta-feira
+Roubo/Furto	Noite	Alumínio	PE	MS	2	Autônomo	sábado
+Roubo/Furto	Noite	Alumínio	SC	SP	3	Autônomo	segunda-feira
+Roubo/Furto	Madrugada	Frigorífico	SP	SC	2	Autônomo	quinta-feira
+Roubo/Furto	Madrugada	Cobre	SP	SP	1	Autônomo	quinta-feira
+Roubo/Furto	Noite	Específicas	PR	ES	3	Autônomo	terça-feira
+Roubo/Furto	Tarde	Alumínio	PA	SP	2	Autônomo	domingo
+Roubo/Furto	Madrugada	Café	ES	SP	2	Autônomo	segunda-feira
+Roubo/Furto	Madrugada	Café	ES	SP	2	Autônomo	sexta-feira
+Roubo/Furto	Noite	Alumínio	MA	RJ	1	Autônomo	domingo
+Roubo/Furto	Manhã	Alumínio	SP	PR	4	Autônomo	terça-feira
+Roubo/Furto	Madrugada	E-Commerce	SP	SP	1	Autônomo	terça-feira
+Roubo/Furto	Madrugada	Laticínios	RS	PE	2	Autônomo	sábado
+Roubo/Furto	Noite	Alumínio	SP	RS	3	Autônomo	terça-feira
+Roubo/Furto	Noite	Doces/Chocolate	SP	SP	1	Autônomo	sexta-feira
+Roubo/Furto	Noite	Utilidades Doméstica	SP	RS	3	Autônomo	quinta-feira
+Roubo/Furto	Manhã	Laticínios	SP	SP	1	Autônomo	quarta-feira
+Roubo/Furto	Madrugada	Alimentício	SC	GO	3	Autônomo	segunda-feira
+Roubo/Furto	Manhã	Material Escolar	SP	GO	1	Autônomo	quarta-feira
+Roubo/Furto	Noite	Fraldas	GO	CE	2	Autônomo	segunda-feira
+Roubo/Furto	Noite	Alumínio	SP	RS	2	Autônomo	quarta-feira
+Roubo/Furto	Madrugada	Autopeças	SP	PR	3	Autônomo	terça-feira
+Roubo/Furto	Madrugada	Alimentício	GO	TO	1	Autônomo	quarta-feira
+Roubo/Furto	Madrugada	Fraldas	GO	BA	1	Autônomo	sexta-feira
+Roubo/Furto	Manhã	Geral	SP	PB	1	Autônomo	domingo
+Roubo/Furto	Noite	Específicas	SP	BA	3	Autônomo	terça-feira
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	MG	PR	4	Autônomo	quinta-feira
+Roubo/Furto	Madrugada	Alumínio	SP	DF	4	Autônomo	domingo
+Roubo/Furto	Madrugada	Alumínio	SP	RJ	1	Autônomo	quarta-feira
+Roubo/Furto	Noite	Café	PR	AM	2	Autônomo	sexta-feira
+Roubo/Furto	Madrugada	Café	MG	RS	2	Autônomo	quinta-feira
+Roubo/Furto	Noite	Café	MG	SP	3	Autônomo	domingo
+Roubo/Furto	Noite	Geral	MG	RJ	1	Autônomo	quarta-feira
+Roubo/Furto	Noite	Frigorífico	MT	ES	3	Autônomo	terça-feira
+Roubo/Furto	Noite	Alimentício	PE	PI	1	Autônomo	terça-feira
+Roubo/Furto	Madrugada	Alumínio	SP	GO	2	Autônomo	quarta-feira
+Roubo/Furto	Madrugada	E-Commerce	RJ	RJ	3	Autônomo	quarta-feira
+Roubo/Furto	Manhã	Frigorífico	PA	RJ	2	Autônomo	terça-feira
+Roubo/Furto	Noite	Frigorífico	GO	RJ	2	Autônomo	segunda-feira
+Roubo/Furto	Noite	Geral	MT	MT	1	Autônomo	sábado
+Roubo/Furto	Noite	Pneus	RJ	BA	3	Autônomo	domingo
+Roubo/Furto	Noite	Alumínio	SP	SC	3	Autônomo	segunda-feira
+Roubo/Furto	Noite	Alimentício	PE	PE	1	Autônomo	terça-feira
+Roubo/Furto	Noite	Combustível	RJ	SP	2	Autônomo	terça-feira
+Roubo/Furto	Madrugada	Confecção/Tecido/Fios	RJ	RJ	1	Autônomo	quinta-feira
+Roubo/Furto	Madrugada	Específicas	SP	MA	4	Autônomo	quarta-feira
+Roubo/Furto	Noite	Laticínios	MG	RS	2	Autônomo	segunda-feira
+Roubo/Furto	Noite	Alimentício	SC	SC	3	Autônomo	quinta-feira
+Roubo/Furto	Madrugada	Frigorífico	MT	SP	1	Autônomo	sexta-feira
+Roubo/Furto	Madrugada	Alimentício	MG	SP	2	Autônomo	sexta-feira
+Roubo/Furto	Noite	Alumínio	ES	SP	4	Autônomo	quarta-feira
+Roubo/Furto	Tarde	Geral	SP	CE	1	Autônomo	sexta-feira
+Roubo/Furto	Manhã	Alimentício	SC	MG	3	Autônomo	quinta-feira
+Roubo/Furto	Noite	Café	ES	SP	1	Autônomo	quarta-feira
+Roubo/Furto	Noite	Material Construção	SP	MG	1	Autônomo	quarta-feira
+Roubo/Furto	Tarde	Laticínios	RS	SP	1	Autônomo	domingo
+Roubo/Furto	Noite	Frigorífico	PA	SP	1	Autônomo	quarta-feira
+Roubo/Furto	Madrugada	Laticínios	GO	BA	1	Autônomo	sexta-feira
+Roubo/Furto	Noite	Específicas	SP	BA	2	Autônomo	domingo
+Roubo/Furto	Noite	Laticínios	PR	SP	2	Autônomo	terça-feira
+Roubo/Furto	Noite	Laticínios	GO	MA	1	Autônomo	domingo
+Roubo/Furto	Tarde	Café	MG	MG	3	Autônomo	quinta-feira
+Roubo/Furto	Noite	Laticínios	SP	SE	3	Autônomo	quarta-feira
+Roubo/Furto	Madrugada	Laticínios	MG	BA	2	Autônomo	terça-feira
+Roubo/Furto	Madrugada	Frigorífico	SP	SP	3	Autônomo	sexta-feira
+Roubo/Furto	Noite	Laticínios	MG	BA	2	Autônomo	segunda-feira
+Roubo/Furto	Tarde	Polímeros	BA	SP	1	Autônomo	domingo
+Roubo/Furto	Noite	Doces/Chocolate	SP	MG	1	Autônomo	sexta-feira
+Roubo/Furto	Noite	Combustível	PR	MS	1	Autônomo	sexta-feira
+Roubo/Furto	Tarde	Alumínio	SP	DF	4	Autônomo	quarta-feira
+Roubo/Furto	Noite	Específicas	MG	ES	2	Autônomo	sábado
+Roubo/Furto	Noite	Autopeças	SP	PR	5	Autônomo	sexta-feira
+Roubo/Furto	Noite	Fios/Cabos	ES	MA	2	Autônomo	quarta-feira
+Roubo/Furto	Madrugada	Doces/Chocolate	SP	RS	1	Autônomo	sexta-feira
+Roubo/Furto	Noite	Alimentício	SC	MG	3	Autônomo	domingo
+Roubo/Furto	Noite	Defensivo Agrícola	SP	DF	2	Autônomo	quinta-feira
+Roubo/Furto	Madrugada	Alumínio	MS	SP	1	Autônomo	quinta-feira
+Roubo/Furto	Noite	Frigorífico	MT	MG	1	Autônomo	segunda-feira
+Roubo/Furto	Noite	Aço/Ferro	SC	RS	1	Autônomo	domingo
+Roubo/Furto	Noite	Defensivo Agrícola	SP	GO	2	Autônomo	quinta-feira
+Roubo/Furto	Noite	Geral	PE	PB	1	Autônomo	quarta-feira
+Roubo/Furto	Tarde	Polímeros	SC	SP	1	Autônomo	quarta-feira
+Roubo/Furto	Noite	Eletrodoméstico	PE	CE	2	Autônomo	terça-feira
+Roubo/Furto	Noite	Alimentício	MG	CE	1	Autônomo	terça-feira
+Roubo/Furto	Noite	Alumínio	SP	MT	3	Autônomo	sexta-feira
+Roubo/Furto	Tarde	Frigorífico	MT	SP	2	Autônomo	domingo
+Roubo/Furto	Noite	Doces/Chocolate	SP	PE	2	Autônomo	sexta-feira
+Roubo/Furto	Noite	Frigorífico	MT	SP	2	Autônomo	domingo
+Roubo/Furto	Manhã	Doces/Chocolate	SP	PE	1	Autônomo	sábado
+Roubo/Furto	Madrugada	Aço/Ferro	RJ	MT	1	Autônomo	sexta-feira
+Roubo/Furto	Madrugada	Alimentício	PE	CE	1	Autônomo	sábado
+Roubo/Furto	Manhã	Alumínio	SP	MG	2	Autônomo	terça-feira
+Roubo/Furto	Tarde	Alimentício	SC	SP	3	Autônomo	sexta-feira
+Roubo/Furto	Tarde	Alumínio	SP	PI	3	Autônomo	quinta-feira
+Roubo/Furto	Manhã	Aço/Ferro	SP	RS	1	Autônomo	quinta-feira
+Roubo/Furto	Noite	Específicas	PE	CE	2	Autônomo	domingo
+Roubo/Furto	Noite	Combustível	SP	SP	1	Autônomo	terça-feira
+Roubo/Furto	Noite	Alumínio	BA	SP	1	Autônomo	segunda-feira
+Roubo/Furto	Noite	Laticínios	ES	SP	3	Autônomo	domingo
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	MG	RJ	2	Autônomo	segunda-feira
+Roubo/Furto	Noite	Frigorífico	MG	EX	3	Autônomo	quarta-feira
+Roubo/Furto	Tarde	Eletrodoméstico	PR	PE	1	Autônomo	quarta-feira
+Roubo/Furto	Madrugada	Aço/Ferro	RS	MG	1	Autônomo	sexta-feira
+Roubo/Furto	Manhã	Hig/Limp/Cosm	SP	PA	2	Autônomo	sexta-feira
+Roubo/Furto	Noite	Calçados	RJ	RJ	2	Autônomo	terça-feira
+Roubo/Furto	Madrugada	Fraldas	SP	CE	2	Autônomo	domingo
+Roubo/Furto	Tarde	Sementes	GO	GO	2	Autônomo	domingo
+Roubo/Furto	Madrugada	Combustível	SP	SP	1	Autônomo	segunda-feira
+Roubo/Furto	Madrugada	Pneus	SC	PE	3	Autônomo	domingo
+Roubo/Furto	Madrugada	Bebidas	SP	GO	1	Autônomo	sábado
+Roubo/Furto	Madrugada	Laticínios	ES	ES	3	Autônomo	sábado
+Roubo/Furto	Noite	Alimentício	SC	RJ	3	Autônomo	quarta-feira
+Roubo/Furto	Manhã	Aço/Ferro	SP	SC	1	Autônomo	sexta-feira
+Roubo/Furto	Tarde	Tratores/Empilhadeiras	SP	PR	3	Autônomo	segunda-feira
+Roubo/Furto	Tarde	Aço/Ferro	RJ	SP	1	Autônomo	segunda-feira
+Roubo/Furto	Noite	Café	MG	MG	2	Autônomo	quarta-feira
+Roubo/Furto	Noite	Frigorífico	TO	RJ	2	Autônomo	domingo
+Roubo/Furto	Manhã	Confecção/Tecido/Fios	RJ	RJ	1	Autônomo	quinta-feira
+Roubo/Furto	Madrugada	Pneus	RJ	RO	3	Autônomo	sexta-feira
+Roubo/Furto	Manhã	Hig/Limp/Cosm	MG	RJ	2	Autônomo	domingo
+Roubo/Furto	Noite	Café	PR	RJ	1	Autônomo	sábado
+Roubo/Furto	Tarde	Hig/Limp/Cosm	GO	RJ	1	Autônomo	quarta-feira
+Roubo/Furto	Tarde	Alumínio	SP	SP	2	Autônomo	sábado
+Roubo/Furto	Noite	Café	MG	MG	2	Autônomo	quinta-feira
+Roubo/Furto	Madrugada	Alumínio	ES	SP	1	Autônomo	segunda-feira
+Roubo/Furto	Noite	Polímeros	SC	SP	1	Autônomo	domingo
+Roubo/Furto	Madrugada	Sementes	PR	PR	1	Autônomo	quarta-feira
+Roubo/Furto	Manhã	Doces/Chocolate	ES	SP	1	Autônomo	segunda-feira
+Roubo/Furto	Tarde	Frigorífico	SC	RJ	2	Autônomo	sábado
+Roubo/Furto	Madrugada	Doces/Chocolate	SP	RN	1	Autônomo	quinta-feira
+Roubo/Furto	Manhã	Doces/Chocolate	ES	SP	1	Autônomo	segunda-feira
+Roubo/Furto	Noite	Café	MG	MG	2	Autônomo	quarta-feira
+Roubo/Furto	Manhã	Aço/Ferro	RS	PR	1	Autônomo	quarta-feira
+Roubo/Furto	Madrugada	Alumínio	SP	SP	1	Autônomo	domingo
+Roubo/Furto	Madrugada	Geral	SP	SP	1	Autônomo	quarta-feira
+Roubo/Furto	Noite	Autopeças	SP	MG	1	Autônomo	sexta-feira
+Roubo/Furto	Tarde	Bebidas	SP	SP	1	Autônomo	sábado
+Roubo/Furto	Noite	Laticínios	RS	SP	2	Autônomo	quinta-feira
+Roubo/Furto	Manhã	Laticínios	MT	SP	2	Autônomo	terça-feira
+Roubo/Furto	Noite	Defensivo Agrícola	MG	MS	4	Autônomo	quinta-feira
+Roubo/Furto	Noite	Sementes	MG	MG	2	Autônomo	sábado
+Roubo/Furto	Manhã	Combustível	PR	PR	1	Autônomo	segunda-feira
+Roubo/Furto	Madrugada	Específicas	SP	PB	3	Autônomo	sexta-feira
+Roubo/Furto	Madrugada	Específicas	MG	PR	3	Autônomo	domingo
+Roubo/Furto	Madrugada	Alimentício	SC	MG	3	Autônomo	segunda-feira
+Roubo/Furto	Noite	Confecção/Tecido/Fios	RJ	RJ	1	Autônomo	quarta-feira
+Roubo/Furto	Tarde	Aço/Ferro	SC	SC	1	Autônomo	quarta-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	ES	SP	1	Autônomo	sábado
+Roubo/Furto	Noite	Doces/Chocolate	SP	SP	3	Autônomo	terça-feira
+Roubo/Furto	Manhã	Alumínio	SP	GO	2	Autônomo	sábado
+Roubo/Furto	Madrugada	Alimentício	RS	DF	1	Autônomo	sábado
+Roubo/Furto	Tarde	Defensivo Agrícola	SP	PI	3	Autônomo	quinta-feira
+Roubo/Furto	Madrugada	Específicas	SP	ES	1	Autônomo	quinta-feira
+Roubo/Furto	Noite	Frigorífico	MG	SP	4	Autônomo	sexta-feira
+Roubo/Furto	Noite	Alumínio	SP	MG	2	Autônomo	quinta-feira
+Roubo/Furto	Madrugada	Minério	GO	RS	4	Autônomo	quarta-feira
+Roubo/Furto	Noite	Frigorífico	MT	SP	2	Autônomo	segunda-feira
+Roubo/Furto	Madrugada	Combustível	SP	SP	1	Autônomo	quinta-feira
+Roubo/Furto	Madrugada	Sementes	MG	SP	1	Autônomo	domingo
+Roubo/Furto	Noite	Veículo	BA	RO	1	Autônomo	sábado
+Roubo/Furto	Noite	Alumínio	GO	SP	1	Autônomo	quarta-feira
+Roubo/Furto	Tarde	Laticínios	SP	MA	3	Autônomo	sábado
+Roubo/Furto	Noite	Combustível	BA	MG	1	Autônomo	quinta-feira
+Roubo/Furto	Tarde	Aço/Ferro	SC	MT	1	Autônomo	quinta-feira
+Roubo/Furto	Tarde	Café	ES	SP	1	Autônomo	sexta-feira
+Roubo/Furto	Tarde	Autopeças	EX	SP	1	Autônomo	segunda-feira
+Roubo/Furto	Madrugada	Alumínio	SP	AM	3	Autônomo	segunda-feira
+Roubo/Furto	Madrugada	Laticínios	RS	RJ	3	Autônomo	segunda-feira
+Roubo/Furto	Noite	Combustível	SP	SP	1	Autônomo	quinta-feira
+Roubo/Furto	Madrugada	Autopeças	RS	ES	2	Autônomo	sexta-feira
+Roubo/Furto	Madrugada	Eletrônicos	RS	RS	3	Autônomo	segunda-feira
+Roubo/Furto	Madrugada	Alimentício	CE	AL	1	Autônomo	sábado
+Roubo/Furto	Noite	Laticínios	SP	MA	3	Autônomo	sexta-feira
+Roubo/Furto	Tarde	Alumínio	GO	SP	1	Autônomo	quarta-feira
+Roubo/Furto	Madrugada	Confecção/Tecido/Fios	SP	SP	4	Autônomo	terça-feira
+Roubo/Furto	Noite	Bebidas	SP	MG	1	Autônomo	sexta-feira
+Roubo/Furto	Tarde	Confecção/Tecido/Fios	SP	SP	1	Autônomo	terça-feira
+Roubo/Furto	Madrugada	Alumínio	SC	SP	2	Autônomo	quinta-feira
+Roubo/Furto	Noite	Fios/Cabos	SP	DF	3	Autônomo	quinta-feira
+Roubo/Furto	Noite	Confecção/Tecido/Fios	SC	SP	2	Autônomo	terça-feira
+Roubo/Furto	Noite	Laticínios	RJ	PB	1	Autônomo	quinta-feira
+Roubo/Furto	Noite	Frigorífico	GO	SP	1	Autônomo	domingo
+Roubo/Furto	Manhã	Alumínio	SP	SP	2	Autônomo	quarta-feira
+Roubo/Furto	Noite	Bebidas	SP	GO	1	Autônomo	sábado
+Roubo/Furto	Noite	Polímeros	SP	MG	1	Autônomo	quinta-feira
+Roubo/Furto	Madrugada	Sementes	MT	MS	4	Autônomo	sábado
+Roubo/Furto	Tarde	Hig/Limp/Cosm	EX	SP	5	Autônomo	domingo
+Roubo/Furto	Noite	Medicamento	DF	RJ	4	Autônomo	quinta-feira
+Roubo/Furto	Manhã	Frigorífico	TO	RJ	2	Autônomo	quinta-feira
+Roubo/Furto	Tarde	Sementes	GO	GO	4	Autônomo	segunda-feira
+Roubo/Furto	Madrugada	Café	SP	SE	2	Autônomo	domingo
+Roubo/Furto	Madrugada	Café	MG	SC	3	Autônomo	terça-feira
+Roubo/Furto	Madrugada	Alumínio	RJ	MG	1	Autônomo	sexta-feira
+Roubo/Furto	Tarde	Polímeros	RJ	BA	1	Autônomo	domingo
+Roubo/Furto	Noite	Químico	SP	PI	1	Autônomo	quarta-feira
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	SP	MA	1	Autônomo	domingo
+Roubo/Furto	Madrugada	Calçados	SP	RJ	2	Autônomo	terça-feira
+Roubo/Furto	Madrugada	Confecção/Tecido/Fios	PR	GO	4	Autônomo	quinta-feira
+Roubo/Furto	Noite	Calçados	SP	PE	4	Autônomo	sábado
+Roubo/Furto	Madrugada	Calçados	SP	SP	3	Autônomo	quinta-feira
+Roubo/Furto	Manhã	Frigorífico	TO	RJ	2	Autônomo	domingo
+Roubo/Furto	Manhã	Óleo Lubrificante	RJ	MT	1	Autônomo	segunda-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	SP	ES	1	Autônomo	quarta-feira
+Roubo/Furto	Tarde	Fertilizantes	SP	CE	2	Autônomo	quinta-feira
+Roubo/Furto	Tarde	Pescado	SC	PE	2	Autônomo	quinta-feira
+Roubo/Furto	Madrugada	Café	MG	SP	2	Autônomo	sábado
+Roubo/Furto	Madrugada	Confecção/Tecido/Fios	BA	SP	4	Autônomo	segunda-feira
+Roubo/Furto	Noite	Aço/Ferro	SP	SP	2	Autônomo	quinta-feira
+Roubo/Furto	Noite	Confecção/Tecido/Fios	BA	SP	4	Autônomo	sexta-feira
+Roubo/Furto	Tarde	Específicas	RJ	RJ	1	Autônomo	sexta-feira
+Roubo/Furto	Madrugada	Específicas	MG	RJ	1	Autônomo	terça-feira
+Roubo/Furto	Madrugada	Frigorífico	GO	SP	2	Autônomo	domingo
+Roubo/Furto	Noite	Óleo Lubrificante	RJ	MT	2	Autônomo	sábado
+Roubo/Furto	Madrugada	Frigorífico	MT	SP	2	Autônomo	quinta-feira
+Roubo/Furto	Noite	Combustível	PR	MT	1	Autônomo	quinta-feira
+Roubo/Furto	Tarde	Pescado	CE	PE	2	Autônomo	domingo
+Roubo/Furto	Madrugada	E-Commerce	MG	GO	1	Autônomo	sexta-feira
+Roubo/Furto	Tarde	Bebidas	SP	DF	1	Autônomo	sábado
+Roubo/Furto	Madrugada	Couro	GO	SP	2	Autônomo	sábado
+Roubo/Furto	Manhã	Confecção/Tecido/Fios	RJ	RJ	1	Autônomo	quarta-feira
+Roubo/Furto	Tarde	Eletrodoméstico	SP	PE	3	Autônomo	quinta-feira
+Roubo/Furto	Noite	Fraldas	GO	RJ	1	Autônomo	quinta-feira
+Roubo/Furto	Noite	Alumínio	SP	SP	1	Autônomo	quarta-feira
+Roubo/Furto	Noite	Aço/Ferro	SP	SP	1	Autônomo	sábado
+Roubo/Furto	Tarde	Pescado	SP	RJ	1	Autônomo	domingo
+Roubo/Furto	Manhã	Frigorífico	MT	RJ	3	Autônomo	quarta-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	GO	SP	4	Autônomo	quarta-feira
+Roubo/Furto	Madrugada	Geral	MG	SP	3	Autônomo	domingo
+Roubo/Furto	Tarde	Confecção/Tecido/Fios	SP	SP	1	Autônomo	sexta-feira
+Roubo/Furto	Madrugada	Aço/Ferro	MG	MS	1	Autônomo	segunda-feira
+Roubo/Furto	Madrugada	Fios/Cabos	SP	PE	2	Autônomo	domingo
+Roubo/Furto	Noite	Específicas	SP	SP	1	Autônomo	terça-feira
+Roubo/Furto	Tarde	Frigorífico	MT	SP	3	Autônomo	segunda-feira
+Roubo/Furto	Manhã	Alumínio	ES	SP	3	Autônomo	quinta-feira
+Roubo/Furto	Madrugada	Papel	MS	DF	1	Autônomo	quarta-feira
+Roubo/Furto	Noite	Alimentício	PE	CE	2	Autônomo	domingo
+Roubo/Furto	Noite	Bebidas	RJ	BA	1	Autônomo	terça-feira
+Roubo/Furto	Manhã	Óleo Lubrificante	RJ	GO	2	Autônomo	terça-feira
+Roubo/Furto	Manhã	Fios/Cabos	SP	RJ	2	Autônomo	quinta-feira
+Roubo/Furto	Manhã	Laticínios	SP	MA	3	Autônomo	domingo
+Roubo/Furto	Manhã	Tubos e Conexões	SP	RJ	2	Autônomo	sábado
+Roubo/Furto	Madrugada	Bebidas	SP	GO	1	Autônomo	sábado
+Roubo/Furto	Madrugada	Polímeros	SC	SP	1	Autônomo	segunda-feira
+Roubo/Furto	Noite	Tubos e Conexões	SP	SP	1	Autônomo	domingo
+Roubo/Furto	Madrugada	Aço/Ferro	SP	SP	1	Autônomo	quarta-feira
+Roubo/Furto	Noite	Óleo Comestível	MT	MG	1	Autônomo	quinta-feira
+Roubo/Furto	Manhã	Minério	SP	PR	1	Autônomo	quarta-feira
+Roubo/Furto	Madrugada	Polímeros	RS	PR	1	Autônomo	terça-feira
+Roubo/Furto	Manhã	Sementes	MT	PR	3	Autônomo	segunda-feira
+Roubo/Furto	Manhã	Confecção/Tecido/Fios	SP	SP	2	Autônomo	segunda-feira
+Roubo/Furto	Tarde	Polímeros	SP	ES	1	Autônomo	quarta-feira
+Roubo/Furto	Noite	Frigorífico	SP	SP	3	Autônomo	segunda-feira
+Roubo/Furto	Manhã	Específicas	SE	SE	1	Autônomo	quarta-feira
+Roubo/Furto	Madrugada	Alumínio	MG	SP	1	Autônomo	quinta-feira
+Roubo/Furto	Noite	Defensivo Agrícola	SP	MT	3	Autônomo	quarta-feira
+Roubo/Furto	Noite	Polímeros	RJ	PR	1	Autônomo	quarta-feira
+Roubo/Furto	Manhã	Hig/Limp/Cosm	MG	MG	3	Autônomo	quinta-feira
+Roubo/Furto	Tarde	Calçados	MG	MS	1	Autônomo	quarta-feira
+Roubo/Furto	Madrugada	Fios/Cabos	SP	PE	4	Autônomo	domingo
+Roubo/Furto	Tarde	Eletrônicos	MG	SP	2	Autônomo	terça-feira
+Roubo/Furto	Noite	Tratores/Empilhadeiras	MG	SP	1	Autônomo	quinta-feira
+Roubo/Furto	Madrugada	Laticínios	SC	MG	2	Autônomo	terça-feira
+Roubo/Furto	Madrugada	Bebidas	PE	MG	3	Autônomo	quarta-feira
+Roubo/Furto	Madrugada	Geral	PR	SP	1	Autônomo	terça-feira
+Roubo/Furto	Noite	Químico	SP	GO	1	Autônomo	quinta-feira
+Roubo/Furto	Madrugada	Pescado	SP	RJ	2	Autônomo	sexta-feira
+Roubo/Furto	Madrugada	Laticínios	GO	PI	1	Autônomo	sábado
+Roubo/Furto	Noite	Aço/Ferro	RJ	MG	1	Autônomo	domingo
+Roubo/Furto	Tarde	Laticínios	RS	PA	3	Autônomo	sábado
+Roubo/Furto	Noite	Geral	PR	PB	1	Autônomo	sexta-feira
+Roubo/Furto	Noite	Laticínios	BA	ES	1	Autônomo	sábado
+Roubo/Furto	Tarde	E-commerce	PE	MA	2	Autônomo	sábado
+Roubo/Furto	Noite	Fraldas	GO	PA	1	Autônomo	domingo
+Roubo/Furto	Noite	E-commerce	PE	AL	2	Autônomo	terça-feira
+Roubo/Furto	Madrugada	Combustível	SP	SP	1	Autônomo	quarta-feira
+Roubo/Furto	Noite	Frigorífico	MT	SP	2	Autônomo	segunda-feira
+Roubo/Furto	Manhã	Alumínio	ES	SP	3	Autônomo	quinta-feira
+Roubo/Furto	Noite	Alumínio	PR	SP	1	Autônomo	segunda-feira
+Roubo/Furto	Madrugada	Alumínio	SP	MT	3	Autônomo	terça-feira
+Roubo/Furto	Manhã	Confecção/Tecido/Fios	SP	SP	1	Autônomo	terça-feira
+Roubo/Furto	Madrugada	Alimentício	SP	RJ	2	Autônomo	quinta-feira
+Roubo/Furto	Manhã	Hig/Limp/Cosm	PE	CE	1	Autônomo	terça-feira
+Roubo/Furto	Madrugada	Alumínio	SC	SP	2	Autônomo	quarta-feira
+Roubo/Furto	Madrugada	Medicamento	SP	RS	4	Autônomo	quarta-feira
+Roubo/Furto	Noite	Específicas	RJ	SP	1	Autônomo	quarta-feira
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	SP	GO	1	Funcionário	sexta-feira
+Roubo/Furto	Noite	Pescado	RN	RJ	1	Funcionário	quarta-feira
+Roubo/Furto	Manhã	Pescado	RJ	RJ	2	Funcionário	quarta-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	SP	PI	4	Funcionário	segunda-feira
+Roubo/Furto	Tarde	Alumínio	SP	DF	3	Funcionário	segunda-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	SP	PA	3	Funcionário	quarta-feira
+Roubo/Furto	Tarde	Frigorífico	GO	SC	2	Funcionário	quarta-feira
+Roubo/Furto	Tarde	Hig/Limp/Cosm	SP	PE	5	Funcionário	segunda-feira
+Roubo/Furto	Madrugada	Alimentício	SP	BA	1	Funcionário	terça-feira
+Roubo/Furto	Noite	Frigorífico	ES	EX	3	Funcionário	quinta-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	PE	BA	3	Funcionário	terça-feira
+Roubo/Furto	Madrugada	Específicas	RJ	RJ	1	Funcionário	quinta-feira
+Roubo/Furto	Noite	Alimentício	SP	RJ	1	Funcionário	quinta-feira
+Roubo/Furto	Noite	Alumínio	MG	SP	1	Funcionário	terça-feira
+Roubo/Furto	Madrugada	Eletrônicos	SP	SP	4	Funcionário	sexta-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	SP	PB	4	Funcionário	quinta-feira
+Roubo/Furto	Noite	Computador/Tablet	RJ	SP	2	Funcionário	quarta-feira
+Roubo/Furto	Manhã	Frigorífico	PR	RJ	1	Funcionário	quarta-feira
+Roubo/Furto	Madrugada	Bebidas	SP	DF	1	Funcionário	quarta-feira
+Roubo/Furto	Madrugada	Geral	RJ	SP	3	Funcionário	quinta-feira
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	MG	RS	2	Funcionário	quarta-feira
+Roubo/Furto	Noite	Pescado	EX	SP	4	Funcionário	sábado
+Roubo/Furto	Noite	Frigorífico	GO	RJ	3	Funcionário	quinta-feira
+Roubo/Furto	Tarde	Hig/Limp/Cosm	SP	RN	4	Funcionário	terça-feira
+Roubo/Furto	Madrugada	Frigorífico	TO	RJ	3	Funcionário	quarta-feira
+Roubo/Furto	Madrugada	Confecção/Tecido/Fios	RJ	SP	3	Funcionário	terça-feira
+Roubo/Furto	Manhã	Alimentício	RJ	RJ	2	Funcionário	segunda-feira
+Roubo/Furto	Manhã	Hig/Limp/Cosm	SP	SP	2	Funcionário	sexta-feira
+Roubo/Furto	Noite	Específicas	RJ	SP	2	Funcionário	sexta-feira
+Roubo/Furto	Noite	Alimentício	PA	PA	1	Funcionário	segunda-feira
+Roubo/Furto	Tarde	Frigorífico	SC	RJ	1	Funcionário	terça-feira
+Roubo/Furto	Noite	Combustível	SP	SP	1	Funcionário	quinta-feira
+Roubo/Furto	Noite	Frigorífico	PR	SC	1	Funcionário	segunda-feira
+Roubo/Furto	Tarde	Frigorífico	SC	RJ	1	Funcionário	terça-feira
+Roubo/Furto	Noite	Específicas	RS	RJ	2	Funcionário	quarta-feira
+Roubo/Furto	Noite	Defensivo Agrícola	SP	GO	4	Funcionário	sexta-feira
+Roubo/Furto	Tarde	Hig/Limp/Cosm	SP	PB	4	Funcionário	domingo
+Roubo/Furto	Manhã	Alumínio	SP	SP	4	Funcionário	quarta-feira
+Roubo/Furto	Tarde	Alimentício	SP	PE	2	Funcionário	quarta-feira
+Roubo/Furto	Noite	Geral	RJ	SP	2	Funcionário	quinta-feira
+Roubo/Furto	Noite	Café	BA	PR	2	Funcionário	segunda-feira
+Roubo/Furto	Tarde	Pescado	RJ	RJ	2	Funcionário	domingo
+Roubo/Furto	Noite	Hig/Limp/Cosm	SP	PE	3	Funcionário	terça-feira
+Roubo/Furto	Madrugada	Aço/Ferro	SC	SC	1	Funcionário	sábado
+Roubo/Furto	Noite	Frigorífico	EX	SP	2	Funcionário	quinta-feira
+Roubo/Furto	Tarde	Específicas	SP	SP	3	Funcionário	quarta-feira
+Roubo/Furto	Noite	Confecção/Tecido/Fios	RJ	SP	3	Funcionário	quarta-feira
+Roubo/Furto	Tarde	Calçados	SP	PE	4	Funcionário	sábado
+Roubo/Furto	Tarde	Pneus	PE	SP	3	Funcionário	domingo
+Roubo/Furto	Noite	Alimentício	MG	GO	3	Funcionário	quinta-feira
+Roubo/Furto	Madrugada	Confecção/Tecido/Fios	SP	SP	1	Funcionário	terça-feira
+Roubo/Furto	Manhã	Alimentício	GO	BA	1	Funcionário	domingo
+Roubo/Furto	Manhã	Frigorífico	RJ	PE	2	Funcionário	terça-feira
+Roubo/Furto	Noite	Confecção/Tecido/Fios	RJ	AL	3	Funcionário	quinta-feira
+Roubo/Furto	Noite	Específicas	SP	BA	1	Funcionário	terça-feira
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	SP	SP	3	Funcionário	sexta-feira
+Roubo/Furto	Noite	Frigorífico	SP	SP	4	Funcionário	sexta-feira
+Roubo/Furto	Madrugada	Confecção/Tecido/Fios	RJ	RJ	1	Funcionário	sábado
+Roubo/Furto	Noite	Alumínio	SP	SP	1	Funcionário	quarta-feira
+Roubo/Furto	Noite	Laticínios	ES	SP	2	Funcionário	quinta-feira
+Roubo/Furto	Madrugada	Laticínios	GO	PA	3	Funcionário	sábado
+Roubo/Furto	Madrugada	Confecção/Tecido/Fios	SC	SP	2	Funcionário	terça-feira
+Roubo/Furto	Tarde	Alumínio	ES	SP	3	Funcionário	quinta-feira
+Roubo/Furto	Manhã	Pneus	BA	SP	3	Funcionário	sábado
+Roubo/Furto	Noite	Café	MG	MG	1	Funcionário	quinta-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	SP	ES	3	Funcionário	segunda-feira
+Roubo/Furto	Tarde	Combustível	SP	MS	1	Funcionário	quarta-feira
+Roubo/Furto	Noite	Laticínios	GO	BA	2	Funcionário	quinta-feira
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	SP	ES	1	Funcionário	sexta-feira
+Roubo/Furto	Manhã	Celulares	AM	PI	3	Funcionário	terça-feira
+Roubo/Furto	Madrugada	Geral	MA	PA	1	Funcionário	terça-feira
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	SP	PE	3	Funcionário	quarta-feira
+Roubo/Furto	Madrugada	Combustível	SP	SP	1	Funcionário	quinta-feira
+Roubo/Furto	Noite	Pescado	CE	SP	3	Funcionário	quarta-feira
+Roubo/Furto	Noite	Frigorífico	SC	SC	1	Funcionário	domingo
+Roubo/Furto	Noite	Combustível	PR	MS	1	Funcionário	terça-feira
+Roubo/Furto	Noite	Alimentício	SP	PB	3	Funcionário	segunda-feira
+Roubo/Furto	Noite	Alimentício	SP	RJ	1	Funcionário	quarta-feira
+Roubo/Furto	Manhã	Alimentício	SP	PR	2	Funcionário	sexta-feira
+Roubo/Furto	Tarde	Alumínio	SP	SP	1	Funcionário	quarta-feira
+Roubo/Furto	Manhã	Veículo	PR	SP	4	Funcionário	quarta-feira
+Roubo/Furto	Madrugada	Polímeros	SP	PA	1	Funcionário	quarta-feira
+Roubo/Furto	Noite	Ofalmologicos	SP	SP	4	Funcionário	quarta-feira
+Roubo/Furto	Tarde	Veículo	PR	BA	3	Funcionário	quarta-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	SP	GO	1	Funcionário	quarta-feira
+Roubo/Furto	Noite	Alimentício	SP	RJ	1	Funcionário	quarta-feira
+Roubo/Furto	Noite	Combustível	RS	PR	1	Funcionário	quinta-feira
+Roubo/Furto	Manhã	Confecção/Tecido/Fios	SP	SP	5	Funcionário	quarta-feira
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	SP	PE	3	Funcionário	domingo
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	SP	PE	3	Funcionário	domingo
+Roubo/Furto	Tarde	Hig/Limp/Cosm	SP	PE	3	Funcionário	quarta-feira
+Roubo/Furto	Tarde	Hig/Limp/Cosm	SP	CE	4	Funcionário	terça-feira
+Roubo/Furto	Manhã	Tratores/Empilhadeiras	ES	PA	1	Funcionário	domingo
+Roubo/Furto	Manhã	Calçados	SP	SP	3	Funcionário	quinta-feira
+Roubo/Furto	Noite	Laticínios	SC	MT	1	Funcionário	domingo
+Roubo/Furto	Madrugada	Específicas	RJ	RJ	2	Funcionário	quarta-feira
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	SP	PE	3	Funcionário	domingo
+Roubo/Furto	Manhã	Frigorífico	PR	RJ	1	Funcionário	domingo
+Roubo/Furto	Noite	Eletrônicos	SP	SP	5	Funcionário	segunda-feira
+Roubo/Furto	Manhã	Hig/Limp/Cosm	SP	RN	4	Funcionário	sexta-feira
+Roubo/Furto	Noite	Hospitalar	GO	SP	4	Funcionário	sábado
+Roubo/Furto	Tarde	Hig/Limp/Cosm	SP	PB	4	Funcionário	quarta-feira
+Roubo/Furto	Tarde	Hig/Limp/Cosm	SP	PB	4	Funcionário	sábado
+Roubo/Furto	Noite	Bateria	SP	GO	4	Funcionário	sábado
+Roubo/Furto	Tarde	Hig/Limp/Cosm	SP	RJ	1	Funcionário	sexta-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	SP	RN	4	Funcionário	segunda-feira
+Roubo/Furto	Noite	Calçados	SP	PE	2	Funcionário	domingo
+Roubo/Furto	Madrugada	Eletrodoméstico	MG	MG	2	Funcionário	segunda-feira
+Roubo/Furto	Noite	Químico	BA	SP	2	Funcionário	sábado
+Roubo/Furto	Noite	Específicas	RS	RJ	3	Funcionário	domingo
+Roubo/Furto	Madrugada	Alimentício	SP	CE	1	Funcionário	segunda-feira
+Roubo/Furto	Tarde	Alumínio	SP	MG	3	Funcionário	terça-feira
+Roubo/Furto	Madrugada	Alimentício	SP	RJ	1	Funcionário	segunda-feira
+Roubo/Furto	Manhã	Frigorífico	RO	RJ	2	Funcionário	domingo
+Roubo/Furto	Madrugada	Doces/Chocolate	EX	MG	4	Funcionário	quinta-feira
+Roubo/Furto	Tarde	Defensivo Agrícola	GO	GO	3	Funcionário	segunda-feira
+Roubo/Furto	Tarde	Hig/Limp/Cosm	SP	PE	5	Funcionário	sábado
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	SP	BA	1	Funcionário	domingo
+Roubo/Furto	Tarde	Hig/Limp/Cosm	PE	RN	1	Funcionário	domingo
+Roubo/Furto	Noite	Celulares	BA	BA	2	Funcionário	quarta-feira
+Roubo/Furto	Tarde	Eletrodoméstico	SP	RJ	2	Funcionário	quinta-feira
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	SP	PA	3	Funcionário	quarta-feira
+Roubo/Furto	Noite	Alimentício	CE	PR	2	Funcionário	domingo
+Roubo/Furto	Tarde	Laticínios	RJ	RJ	2	Funcionário	sexta-feira
+Roubo/Furto	Noite	Combustível	BA	GO	1	Funcionário	sexta-feira
+Roubo/Furto	Tarde	Defensivo Agrícola	MG	TO	1	Funcionário	segunda-feira
+Roubo/Furto	Madrugada	Confecção/Tecido/Fios	RJ	PI	4	Funcionário	sábado
+Roubo/Furto	Noite	Defensivo Agrícola	SP	MT	5	Funcionário	segunda-feira
+Roubo/Furto	Madrugada	Frigorífico	MG	RJ	2	Funcionário	quinta-feira
+Roubo/Furto	Madrugada	Alimentício	SC	PR	1	Funcionário	sábado
+Roubo/Furto	Madrugada	Específicas	MG	SP	2	Funcionário	quarta-feira
+Roubo/Furto	Manhã	Café	GO	SP	3	Funcionário	segunda-feira
+Roubo/Furto	Manhã	Material Elétrico	SP	SP	1	Funcionário	segunda-feira
+Roubo/Furto	Manhã	Específicas	RJ	RJ	1	Funcionário	sexta-feira
+Roubo/Furto	Noite	Específicas	SP	SP	1	Funcionário	terça-feira
+Roubo/Furto	Noite	Químico	PA	PE	4	Funcionário	domingo
+Roubo/Furto	Tarde	Alumínio	ES	SP	4	Funcionário	segunda-feira
+Roubo/Furto	Madrugada	Frigorífico	GO	SP	4	Funcionário	domingo
+Roubo/Furto	Madrugada	Confecção/Tecido/Fios	RJ	MA	3	Funcionário	sábado
+Roubo/Furto	Tarde	Hig/Limp/Cosm	SP	MT	3	Funcionário	domingo
+Roubo/Furto	Tarde	Óleo Lubrificante	RJ	SC	3	Funcionário	terça-feira
+Roubo/Furto	Madrugada	Calçados	SP	MG	4	Funcionário	quarta-feira
+Roubo/Furto	Noite	Frigorífico	RS	RJ	2	Funcionário	quinta-feira
+Roubo/Furto	Noite	Específicas	RJ	SP	1	Funcionário	segunda-feira
+Roubo/Furto	Madrugada	Laticínios	GO	SP	1	Funcionário	quarta-feira
+Roubo/Furto	Noite	Café	MG	SP	1	Funcionário	quarta-feira
+Roubo/Furto	Madrugada	Geral	SP	SP	1	Funcionário	quarta-feira
+Roubo/Furto	Tarde	Hig/Limp/Cosm	SP	PI	5	Funcionário	sábado
+Roubo/Furto	Tarde	Químico	PA	PE	4	Funcionário	domingo
+Roubo/Furto	Noite	Defensivo Agrícola	SP	SP	2	Funcionário	segunda-feira
+Roubo/Furto	Tarde	Laticínios	RJ	RJ	2	Funcionário	sexta-feira
+Roubo/Furto	Manhã	Hig/Limp/Cosm	SP	PB	4	Funcionário	quinta-feira
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	SP	PB	3	Funcionário	sábado
+Roubo/Furto	Noite	Específicas	SP	RO	3	Funcionário	terça-feira
+Roubo/Furto	Tarde	Bebidas	RS	RJ	1	Funcionário	domingo
+Roubo/Furto	Manhã	Frigorífico	PR	SC	1	Funcionário	quinta-feira
+Roubo/Furto	Manhã	Laticínios	RS	RJ	1	Funcionário	quinta-feira
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	SP	PE	4	Funcionário	quinta-feira
+Roubo/Furto	Noite	Doces/Chocolate	EX	MG	4	Funcionário	domingo
+Roubo/Furto	Noite	Material Elétrico	SP	RJ	2	Funcionário	quarta-feira
+Roubo/Furto	Noite	Frigorífico	RO	RJ	2	Funcionário	sexta-feira
+Roubo/Furto	Tarde	Alimentício	RJ	RJ	1	Funcionário	sexta-feira
+Roubo/Furto	Tarde	Confecção/Tecido/Fios	SP	SP	1	Funcionário	quinta-feira
+Roubo/Furto	Noite	Aço/Ferro	MG	RJ	3	Funcionário	domingo
+Roubo/Furto	Tarde	Hig/Limp/Cosm	SP	BA	4	Funcionário	quinta-feira
+Roubo/Furto	Madrugada	Combustível	SP	MG	2	Funcionário	quinta-feira
+Roubo/Furto	Manhã	Pneus	SP	PA	2	Funcionário	quinta-feira
+Roubo/Furto	Manhã	Alumínio	SP	DF	4	Funcionário	terça-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	PE	SP	4	Funcionário	sexta-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	SP	PE	3	Funcionário	domingo
+Roubo/Furto	Madrugada	Pescado	SP	RJ	1	Funcionário	quinta-feira
+Roubo/Furto	Tarde	Calçados	RS	ES	4	Funcionário	sábado
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	SP	RN	3	Funcionário	domingo
+Roubo/Furto	Manhã	Polímeros	SC	SP	1	Funcionário	segunda-feira
+Roubo/Furto	Madrugada	Frigorífico	GO	SP	3	Funcionário	sexta-feira
+Roubo/Furto	Manhã	Hig/Limp/Cosm	PE	CE	1	Funcionário	quarta-feira
+Roubo/Furto	Tarde	Frigorífico	TO	RJ	3	Funcionário	sexta-feira
+Roubo/Furto	Manhã	Polímeros	SC	SP	1	Funcionário	sexta-feira
+Roubo/Furto	Madrugada	Específicas	MG	MG	2	Funcionário	segunda-feira
+Roubo/Furto	Tarde	Hig/Limp/Cosm	SP	RJ	3	Funcionário	segunda-feira
+Roubo/Furto	Madrugada	Eletrônicos	SP	SP	2	Funcionário	sexta-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	SP	PI	4	Funcionário	segunda-feira
+Roubo/Furto	Noite	Bebidas	PR	SC	1	Funcionário	quinta-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	SP	PE	3	Funcionário	sábado
+Roubo/Furto	Noite	Papel	MS	RJ	3	Funcionário	terça-feira
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	MG	SP	3	Funcionário	quinta-feira
+Roubo/Furto	Manhã	Hig/Limp/Cosm	SP	PE	3	Funcionário	sexta-feira
+Roubo/Furto	Noite	Medicamento	RJ	RJ	1	Funcionário	segunda-feira
+Roubo/Furto	Manhã	Doces/Chocolate	EX	MG	5	Funcionário	quinta-feira
+Roubo/Furto	Madrugada	Bebidas	MG	RS	1	Funcionário	quarta-feira
+Roubo/Furto	Noite	Frigorífico	SC	SC	1	Funcionário	quarta-feira
+Roubo/Furto	Tarde	Eletrodoméstico	SP	SC	1	Funcionário	domingo
+Roubo/Furto	Noite	Hig/Limp/Cosm	SP	PE	2	Funcionário	quinta-feira
+Roubo/Furto	Tarde	Hig/Limp/Cosm	SP	PI	4	Funcionário	sábado
+Roubo/Furto	Noite	Óleo Comestível	MG	GO	1	Funcionário	terça-feira
+Roubo/Furto	Madrugada	Calçados	MG	RS	1	Funcionário	domingo
+Roubo/Furto	Tarde	Hig/Limp/Cosm	MG	RJ	1	Funcionário	quinta-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	MG	RJ	1	Funcionário	segunda-feira
+Roubo/Furto	Manhã	Material Elétrico	SP	PA	4	Funcionário	sexta-feira
+Roubo/Furto	Madrugada	Alimentício	SP	RJ	1	Funcionário	sexta-feira
+Roubo/Furto	Tarde	Pescado	SP	RJ	1	Funcionário	quinta-feira
+Roubo/Furto	Noite	Alimentício	SP	RJ	1	Funcionário	quarta-feira
+Roubo/Furto	Manhã	Café	MG	MG	3	Funcionário	terça-feira
+Roubo/Furto	Tarde	Hig/Limp/Cosm	MG	RJ	1	Funcionário	sábado
+Roubo/Furto	Manhã	Defensivo Agrícola	SP	SP	1	Funcionário	sexta-feira
+Roubo/Furto	Noite	Eletrodoméstico	SP	RJ	2	Funcionário	quarta-feira
+Roubo/Furto	Noite	Frigorífico	MG	SP	3	Funcionário	terça-feira
+Roubo/Furto	Tarde	Alimentício	PA	RJ	1	Funcionário	segunda-feira
+Roubo/Furto	Noite	Café	ES	SE	3	Funcionário	terça-feira
+Roubo/Furto	Noite	Químico	BA	SP	3	Funcionário	quinta-feira
+Roubo/Furto	Noite	Defensivo Agrícola	SP	PE	5	Funcionário	segunda-feira
+Roubo/Furto	Manhã	Eletrônicos	SP	SP	5	Funcionário	quinta-feira
+Roubo/Furto	Noite	Eletrônicos	SP	DF	4	Funcionário	sábado
+Roubo/Furto	Manhã	Hig/Limp/Cosm	SP	PE	3	Funcionário	sexta-feira
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	SP	PE	4	Funcionário	quinta-feira
+Roubo/Furto	Noite	Específicas	SP	SP	5	Funcionário	quarta-feira
+Roubo/Furto	Manhã	E-Commerce	MG	MG	2	Funcionário	segunda-feira
+Roubo/Furto	Sem Inf	Pescado	EX	SP	4	S/Comprovação	quarta-feira
+Roubo/Furto	Noite	Frigorífico	MT	RJ	1	S/Comprovação	sábado
+Roubo/Furto	Tarde	Hig/Limp/Cosm	GO	PE	1	S/Comprovação	domingo
+Roubo/Furto	Noite	Específicas	CE	GO	4	S/Comprovação	segunda-feira
+Roubo/Furto	Madrugada	Café	MG	SP	2	S/Comprovação	quarta-feira
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	SC	SP	2	S/Comprovação	quarta-feira
+Roubo/Furto	Manhã	Frigorífico	RJ	PE	3	S/Comprovação	sexta-feira
+Roubo/Furto	Madrugada	Frigorífico	GO	SP	4	S/Comprovação	segunda-feira
+Roubo/Furto	Madrugada	Pneus	SC	MG	3	S/Comprovação	quinta-feira
+Roubo/Furto	Madrugada	Frigorífico	MS	RS	1	S/Comprovação	quinta-feira
+Roubo/Furto	Tarde	Calçados	SP	GO	3	S/Comprovação	sexta-feira
+Roubo/Furto	Madrugada	E-commerce	ES	RJ	2	S/Comprovação	terça-feira
+Roubo/Furto	Madrugada	Laticínios	GO	SP	1	S/Comprovação	segunda-feira
+Roubo/Furto	Tarde	Veículo	MG	PR	3	S/Comprovação	terça-feira
+Roubo/Furto	Noite	Alimentício	SP	SP	1	S/Comprovação	quinta-feira
+Roubo/Furto	Madrugada	Bebidas	PE	CE	3	S/Comprovação	quinta-feira
+Roubo/Furto	Tarde	Aço/Ferro	RS	PR	1	S/Comprovação	segunda-feira
+Roubo/Furto	Madrugada	Combustível	RJ	SP	1	S/Comprovação	segunda-feira
+Roubo/Furto	Noite	Frigorífico	RO	SP	3	S/Comprovação	domingo
+Roubo/Furto	Tarde	Doces/Chocolate	SP	SP	1	S/Comprovação	terça-feira
+Roubo/Furto	Sem Inf	Algodão	BA	PA	2	S/Comprovação	sábado
+Roubo/Furto	Manhã	Específicas	SP	SP	2	S/Comprovação	sábado
+Roubo/Furto	Noite	Algodão	GO	SP	1	S/Comprovação	sábado
+Roubo/Furto	Manhã	Específicas	RS	RS	1	S/Comprovação	terça-feira
+Roubo/Furto	Madrugada	Específicas	RS	RJ	2	S/Comprovação	quinta-feira
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	SP	ES	1	S/Comprovação	segunda-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	PE	CE	2	S/Comprovação	domingo
+Roubo/Furto	Noite	E-commerce	SP	MG	4	S/Comprovação	quarta-feira
+Roubo/Furto	Noite	Bebidas	SP	CE	2	S/Comprovação	terça-feira
+Roubo/Furto	Tarde	Específicas	PE	BA	2	S/Comprovação	quarta-feira
+Roubo/Furto	Tarde	Celulares	ES	RJ	1	S/Comprovação	terça-feira
+Roubo/Furto	Manhã	Específicas	PR	PR	1	S/Comprovação	quinta-feira
+Roubo/Furto	Manhã	Pescado	EX	SP	3	S/Comprovação	segunda-feira
+Roubo/Furto	Noite	Alimentício	PE	RJ	1	S/Comprovação	quinta-feira
+Roubo/Furto	Madrugada	Brinquedos	SP	PR	1	S/Comprovação	segunda-feira
+Roubo/Furto	Tarde	Veículo	SP	PR	2	S/Comprovação	terça-feira
+Roubo/Furto	Manhã	Específicas	SP	RN	2	S/Comprovação	terça-feira
+Roubo/Furto	Madrugada	Específicas	SP	SP	3	S/Comprovação	sexta-feira
+Roubo/Furto	Madrugada	Alimentício	SP	RJ	1	S/Comprovação	sexta-feira
+Roubo/Furto	Noite	Específicas	SP	SP	1	S/Comprovação	sexta-feira
+Roubo/Furto	Manhã	Alimentício	SP	CE	2	S/Comprovação	quinta-feira
+Roubo/Furto	Tarde	Café	PR	SP	1	S/Comprovação	segunda-feira
+Roubo/Furto	Tarde	Combustível	RO	MT	1	S/Comprovação	domingo
+Roubo/Furto	Manhã	Hig/Limp/Cosm	MG	RJ	2	S/Comprovação	quarta-feira
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	PE	SE	1	S/Comprovação	quinta-feira
+Roubo/Furto	Madrugada	Autopeças	SP	MG	5	S/Comprovação	segunda-feira
+Roubo/Furto	Tarde	E-Commerce	SP	SC	4	S/Comprovação	terça-feira
+Roubo/Furto	Tarde	Frigorífico	TO	RJ	3	S/Comprovação	quinta-feira
+Roubo/Furto	Noite	Defensivo Agrícola	MT	MT	4	S/Comprovação	sábado
+Roubo/Furto	Manhã	Alimentício	AL	SP	3	S/Comprovação	quinta-feira
+Roubo/Furto	Madrugada	Veículo	SP	MG	3	S/Comprovação	sexta-feira
+Roubo/Furto	Noite	Café	BA	CE	2	S/Comprovação	quarta-feira
+Roubo/Furto	Noite	Combustível	SP	SP	1	S/Comprovação	quarta-feira
+Roubo/Furto	Manhã	Confecção/Tecido/Fios	RJ	RJ	1	S/Comprovação	quinta-feira
+Roubo/Furto	Madrugada	Confecção/Tecido/Fios	RJ	RJ	1	S/Comprovação	sexta-feira
+Roubo/Furto	Madrugada	Veículo	SP	MG	2	S/Comprovação	quinta-feira
+Roubo/Furto	Noite	Alimentício	PB	CE	1	S/Comprovação	quarta-feira
+Roubo/Furto	Madrugada	Confecção/Tecido/Fios	SP	SP	2	S/Comprovação	quarta-feira
+Roubo/Furto	Manhã	Defensivo Agrícola	SP	GO	3	S/Comprovação	quarta-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	PE	PE	1	S/Comprovação	sexta-feira
+Roubo/Furto	Noite	Calçados	CE	GO	3	S/Comprovação	sexta-feira
+Roubo/Furto	Madrugada	Pescado	SC	RJ	3	S/Comprovação	segunda-feira
+Roubo/Furto	Manhã	Frigorífico	MG	SP	3	S/Comprovação	sábado
+Roubo/Furto	Madrugada	Laticínios	RS	SP	2	S/Comprovação	quarta-feira
+Roubo/Furto	Manhã	Eletrônicos	CE	CE	2	S/Comprovação	quarta-feira
+Roubo/Furto	Madrugada	Específicas	SP	MG	4	S/Comprovação	quinta-feira
+Roubo/Furto	Tarde	Hig/Limp/Cosm	MG	RS	4	S/Comprovação	sexta-feira
+Roubo/Furto	Noite	Frigorífico	TO	RN	1	S/Comprovação	quarta-feira
+Roubo/Furto	Noite	Café	BA	SE	2	S/Comprovação	terça-feira
+Roubo/Furto	Noite	Alimentício	SP	DF	1	S/Comprovação	segunda-feira
+Roubo/Furto	Tarde	Aço/Ferro	RS	MG	3	S/Comprovação	sábado
+Roubo/Furto	Manhã	Hig/Limp/Cosm	MG	RJ	1	S/Comprovação	sexta-feira
+Roubo/Furto	Noite	Defensivo Agrícola	SP	MT	1	S/Comprovação	quinta-feira
+Roubo/Furto	Manhã	Combustível	PR	MS	1	S/Comprovação	sexta-feira
+Roubo/Furto	Madrugada	Específicas	RJ	RJ	1	S/Comprovação	sexta-feira
+Roubo/Furto	Noite	Eletrodoméstico	SP	RJ	1	S/Comprovação	terça-feira
+Roubo/Furto	Madrugada	Específicas	SP	MG	3	S/Comprovação	sexta-feira
+Roubo/Furto	Madrugada	Frigorífico	PA	SP	3	S/Comprovação	quarta-feira
+Roubo/Furto	Manhã	Pescado	SP	RJ	1	S/Comprovação	sexta-feira
+Roubo/Furto	Manhã	Bebidas	SC	PE	2	S/Comprovação	sábado
+Roubo/Furto	Tarde	Alimentício	MG	MG	2	S/Comprovação	quinta-feira
+Roubo/Furto	Manhã	Laticínios	GO	RJ	1	S/Comprovação	terça-feira
+Roubo/Furto	Noite	Combustível	PR	MS	1	S/Comprovação	segunda-feira
+Roubo/Furto	Noite	Bebidas	SP	PR	1	S/Comprovação	domingo
+Roubo/Furto	Madrugada	Confecção/Tecido/Fios	SP	RJ	4	S/Comprovação	quarta-feira
+Roubo/Furto	Tarde	Defensivo Agrícola	SP	SP	2	S/Comprovação	terça-feira
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	MG	RJ	1	S/Comprovação	sábado
+Roubo/Furto	Madrugada	Geral	RS	AM	2	S/Comprovação	quinta-feira
+Roubo/Furto	Manhã	Frigorífico	SP	SP	1	S/Comprovação	quinta-feira
+Roubo/Furto	Noite	Específicas	SP	SP	1	S/Comprovação	sexta-feira
+Roubo/Furto	Madrugada	Específicas	SP	CE	2	S/Comprovação	sexta-feira
+Roubo/Furto	Tarde	Bebidas	SP	RS	1	S/Comprovação	segunda-feira
+Roubo/Furto	Tarde	Ração Animal	SP	PR	1	S/Comprovação	quinta-feira
+Roubo/Furto	Manhã	Específicas	RJ	RJ	1	S/Comprovação	sábado
+Roubo/Furto	Tarde	Pneus	PR	PA	2	S/Comprovação	sexta-feira
+Roubo/Furto	Noite	Bebidas	RJ	MG	4	S/Comprovação	quinta-feira
+Roubo/Furto	Madrugada	Químico	SP	SP	3	S/Comprovação	quinta-feira
+Roubo/Furto	Noite	Alimentício	SP	RJ	1	S/Comprovação	domingo
+Roubo/Furto	Manhã	Confecção/Tecido/Fios	RJ	ES	4	S/Comprovação	sábado
+Roubo/Furto	Manhã	Hig/Limp/Cosm	MG	SC	1	S/Comprovação	terça-feira
+Roubo/Furto	Madrugada	Bebidas	SP	RN	1	S/Comprovação	quarta-feira
+Roubo/Furto	Noite	Específicas	RJ	RJ	3	S/Comprovação	segunda-feira
+Roubo/Furto	Noite	Específicas	MG	SP	4	S/Comprovação	segunda-feira
+Roubo/Furto	Madrugada	Brinquedos	SP	SP	2	S/Comprovação	segunda-feira
+Roubo/Furto	Tarde	Frigorífico	TO	CE	1	S/Comprovação	sábado
+Roubo/Furto	Noite	Específicas	SP	PE	3	S/Comprovação	sexta-feira
+Roubo/Furto	Manhã	Defensivo Agrícola	SP	PI	3	S/Comprovação	sábado
+Roubo/Furto	Noite	Pneus	SC	ES	2	S/Comprovação	domingo
+Roubo/Furto	Noite	Defensivo Agrícola	SP	MT	3	S/Comprovação	domingo
+Roubo/Furto	Manhã	Químico	SC	SP	5	S/Comprovação	quarta-feira
+Roubo/Furto	Manhã	Eletrônicos	SP	RJ	2	S/Comprovação	terça-feira
+Roubo/Furto	Tarde	Frigorífico	MG	RJ	1	S/Comprovação	terça-feira
+Roubo/Furto	Tarde	Hig/Limp/Cosm	MG	RJ	1	S/Comprovação	quinta-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	SP	GO	4	S/Comprovação	sábado
+Roubo/Furto	Tarde	Frigorífico	GO	EX	3	S/Comprovação	sábado
+Roubo/Furto	Manhã	Bebidas	SC	RJ	1	S/Comprovação	quarta-feira
+Roubo/Furto	Madrugada	Específicas	MG	BA	3	S/Comprovação	sexta-feira
+Roubo/Furto	Madrugada	Medicamento	SP	CE	5	S/Comprovação	quarta-feira
+Roubo/Furto	Manhã	Hig/Limp/Cosm	SP	RJ	3	S/Comprovação	sexta-feira
+Roubo/Furto	Noite	Bebidas	SC	PE	1	S/Comprovação	terça-feira
+Roubo/Furto	Noite	Defensivo Agrícola	SP	MG	1	S/Comprovação	quarta-feira
+Roubo/Furto	Noite	Autopeças	SP	SP	4	S/Comprovação	terça-feira
+Roubo/Furto	Tarde	E-Commerce	PE	BA	3	S/Comprovação	quinta-feira
+Roubo/Furto	Tarde	Calçados	MG	SP	1	S/Comprovação	quarta-feira
+Roubo/Furto	Noite	Específicas	MG	SP	5	S/Comprovação	terça-feira
+Roubo/Furto	Manhã	E-Commerce	SP	DF	4	S/Comprovação	terça-feira
+Roubo/Furto	Manhã	Veículo	PR	SP	3	S/Comprovação	quarta-feira
+Roubo/Furto	Madrugada	Laticínios	GO	SP	1	S/Comprovação	terça-feira
+Roubo/Furto	Tarde	Hig/Limp/Cosm	SP	SP	2	S/Comprovação	quarta-feira
+Roubo/Furto	Tarde	Óleo Comestível	SP	SP	4	S/Comprovação	segunda-feira
+Roubo/Furto	Madrugada	Específicas	SP	PR	4	S/Comprovação	segunda-feira
+Roubo/Furto	Manhã	Celulares	CE	CE	1	S/Comprovação	terça-feira
+Roubo/Furto	Noite	Calçados	CE	CE	3	S/Comprovação	segunda-feira
+Roubo/Furto	Manhã	Aço/Ferro	SP	SP	1	S/Comprovação	terça-feira
+Roubo/Furto	Madrugada	Específicas	GO	RJ	1	S/Comprovação	quarta-feira
+Roubo/Furto	Manhã	Bebidas	PE	PE	1	S/Comprovação	terça-feira
+Roubo/Furto	Noite	Defensivo Agrícola	SP	BA	5	S/Comprovação	sábado
+Roubo/Furto	Madrugada	Frigorífico	GO	SP	1	S/Comprovação	segunda-feira
+Roubo/Furto	Manhã	Confecção/Tecido/Fios	SP	GO	3	S/Comprovação	segunda-feira
+Roubo/Furto	Madrugada	Geral	SP	SP	1	S/Comprovação	quinta-feira
+Roubo/Furto	Manhã	Alumínio	ES	SP	3	S/Comprovação	quinta-feira
+Roubo/Furto	Madrugada	Específicas	PE	PB	1	S/Comprovação	sexta-feira
+Roubo/Furto	Manhã	Confecção/Tecido/Fios	RJ	PA	4	S/Comprovação	sexta-feira
+Roubo/Furto	Noite	Confecção/Tecido/Fios	SP	RS	3	S/Comprovação	quinta-feira
+Roubo/Furto	Manhã	Geral	SP	RJ	4	S/Comprovação	segunda-feira
+Roubo/Furto	Manhã	Específicas	PR	PR	1	S/Comprovação	terça-feira
+Roubo/Furto	Madrugada	Confecção/Tecido/Fios	SC	RJ	4	S/Comprovação	domingo
+Roubo/Furto	Noite	Confecção/Tecido/Fios	SP	SP	2	S/Comprovação	segunda-feira
+Roubo/Furto	Tarde	Alimentício	PE	MA	2	S/Comprovação	sábado
+Roubo/Furto	Tarde	Alimentício	MG	RJ	1	S/Comprovação	segunda-feira
+Roubo/Furto	Noite	Alumínio	SP	SP	1	S/Comprovação	sexta-feira
+Roubo/Furto	Madrugada	Pneus	PR	PR	1	S/Comprovação	segunda-feira
+Roubo/Furto	Noite	Confecção/Tecido/Fios	RJ	MA	4	S/Comprovação	segunda-feira
+Roubo/Furto	Manhã	Alimentício	RJ	RJ	1	S/Comprovação	terça-feira
+Roubo/Furto	Noite	Confecção/Tecido/Fios	SP	SC	1	S/Comprovação	terça-feira
+Roubo/Furto	Tarde	Eletrônicos	SP	ES	3	S/Comprovação	domingo
+Roubo/Furto	Noite	Bebidas	SC	PE	1	S/Comprovação	terça-feira
+Roubo/Furto	Tarde	Laticínios	GO	CE	2	S/Comprovação	terça-feira
+Roubo/Furto	Tarde	Laticínios	GO	PA	2	S/Comprovação	terça-feira
+Roubo/Furto	Manhã	Eletrônicos	ES	RJ	3	S/Comprovação	segunda-feira
+Roubo/Furto	Madrugada	Brinquedos	SC	SP	1	S/Comprovação	terça-feira
+Roubo/Furto	Madrugada	E-commerce	SP	DF	3	S/Comprovação	quarta-feira
+Roubo/Furto	Tarde	Hig/Limp/Cosm	SP	PI	3	S/Comprovação	quarta-feira
+Roubo/Furto	Tarde	Combustível	SP	GO	1	S/Comprovação	sábado
+Roubo/Furto	Tarde	Hig/Limp/Cosm	SP	PI	4	S/Comprovação	quarta-feira
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	SP	PE	1	S/Comprovação	segunda-feira
+Roubo/Furto	Madrugada	Geral	SP	RJ	4	S/Comprovação	quarta-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	SP	GO	5	S/Comprovação	quarta-feira
+Roubo/Furto	Madrugada	Químico	PE	SE	1	S/Comprovação	sábado
+Roubo/Furto	Manhã	Eletrônicos	SP	SP	4	S/Comprovação	sexta-feira
+Roubo/Furto	Noite	Combustível	SP	GO	1	S/Comprovação	quarta-feira
+Roubo/Furto	Manhã	Alumínio	PR	SP	1	S/Comprovação	sábado
+Roubo/Furto	Manhã	Combustível	SP	MT	1	S/Comprovação	sábado
+Roubo/Furto	Manhã	Aço/Ferro	SC	MT	1	S/Comprovação	sexta-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	SP	SP	4	S/Comprovação	terça-feira
+Roubo/Furto	Noite	E-Commerce	SP	SP	1	S/Comprovação	sexta-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	SP	PE	1	S/Comprovação	sexta-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	SP	RN	3	S/Comprovação	quarta-feira
+Roubo/Furto	Noite	Eletrônicos	PA	SP	5	S/Comprovação	sábado
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	SP	PE	3	S/Comprovação	quarta-feira
+Roubo/Furto	Manhã	Celulares	SP	SP	3	S/Comprovação	segunda-feira
+Roubo/Furto	Manhã	Hig/Limp/Cosm	SP	GO	2	S/Comprovação	segunda-feira
+Roubo/Furto	Tarde	Confecção/Tecido/Fios	SP	RJ	3	S/Comprovação	quinta-feira
+Roubo/Furto	Noite	Frigorífico	MG	RJ	2	S/Comprovação	quinta-feira
+Roubo/Furto	Manhã	Confecção/Tecido/Fios	RJ	RJ	1	S/Comprovação	segunda-feira
+Roubo/Furto	Madrugada	Confecção/Tecido/Fios	SC	SP	1	S/Comprovação	segunda-feira
+Roubo/Furto	Manhã	Eletrônicos	SP	MG	4	S/Comprovação	sexta-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	PE	CE	1	S/Comprovação	quarta-feira
+Roubo/Furto	Manhã	Celulares	SP	SP	2	S/Comprovação	terça-feira
+Roubo/Furto	Noite	E-Commerce	SP	SP	2	S/Comprovação	sexta-feira
+Roubo/Furto	Manhã	Combustível	GO	DF	1	S/Comprovação	quarta-feira
+Roubo/Furto	Manhã	Celulares	RJ	RJ	1	S/Comprovação	terça-feira
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	SP	MA	4	S/Comprovação	domingo
+Roubo/Furto	Tarde	Defensivo Agrícola	SP	MT	2	S/Comprovação	sábado
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	SP	GO	5	S/Comprovação	sexta-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	SP	PE	3	S/Comprovação	terça-feira
+Roubo/Furto	Manhã	Celulares	SP	SP	1	S/Comprovação	segunda-feira
+Roubo/Furto	Noite	Eletrônicos	SP	MG	4	S/Comprovação	sexta-feira
+Roubo/Furto	Madrugada	Calçados	SP	SP	2	S/Comprovação	quarta-feira
+Roubo/Furto	Madrugada	Geral	SP	RJ	1	S/Comprovação	terça-feira
+Roubo/Furto	Madrugada	Específicas	MG	MG	1	S/Comprovação	segunda-feira
+Roubo/Furto	Manhã	Algodão	MT	SP	2	S/Comprovação	quinta-feira
+Roubo/Furto	Noite	Calçados	MG	PE	4	S/Comprovação	quarta-feira
+Roubo/Furto	Manhã	Específicas	MG	MG	3	S/Comprovação	segunda-feira
+Roubo/Furto	Madrugada	Defensivo Agrícola	SP	BA	4	S/Comprovação	sábado
+Roubo/Furto	Noite	Combustível	GO	MG	1	S/Comprovação	quinta-feira
+Roubo/Furto	Noite	Celulares	SP	SP	5	S/Comprovação	segunda-feira
+Roubo/Furto	Manhã	Frigorífico	MT	RJ	2	S/Comprovação	domingo
+Roubo/Furto	Manhã	Frigorífico	SP	RJ	2	S/Comprovação	domingo
+Roubo/Furto	Noite	Específicas	MG	MG	1	S/Comprovação	quarta-feira
+Roubo/Furto	Noite	Óleo Lubrificante	RJ	SP	1	S/Comprovação	terça-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	PE	AL	1	S/Comprovação	terça-feira
+Roubo/Furto	Tarde	Alimentício	PA	RJ	1	S/Comprovação	segunda-feira
+Roubo/Furto	Madrugada	Eletrônicos	PA	SP	5	S/Comprovação	sexta-feira
+Roubo/Furto	Noite	Veículo	SP	PE	2	S/Comprovação	terça-feira
+Roubo/Furto	Manhã	Hig/Limp/Cosm	PE	RN	1	S/Comprovação	quinta-feira
+Roubo/Furto	Tarde	Específicas	SP	PR	3	S/Comprovação	quarta-feira
+Roubo/Furto	Noite	Alimentício	CE	AL	1	S/Comprovação	segunda-feira
+Roubo/Furto	Tarde	Doces/Chocolate	RS	PE	2	S/Comprovação	domingo
+Roubo/Furto	Tarde	Alumínio	SP	PR	3	S/Comprovação	quinta-feira
+Roubo/Furto	Tarde	Frigorífico	RO	RJ	3	S/Comprovação	domingo
+Roubo/Furto	Tarde	Hig/Limp/Cosm	SP	SP	3	S/Comprovação	terça-feira
+Roubo/Furto	Tarde	Frigorífico	RS	SP	2	S/Comprovação	sábado
+Roubo/Furto	Tarde	Frigorífico	MT	RJ	2	S/Comprovação	domingo
+Roubo/Furto	Noite	Eletrônicos	SP	SP	5	S/Comprovação	sexta-feira
+Roubo/Furto	Noite	Eletrônicos	PA	MG	5	S/Comprovação	sexta-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	SP	PI	4	S/Comprovação	domingo
+Roubo/Furto	Tarde	Alumínio	SC	SP	3	S/Comprovação	sexta-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	SP	GO	3	S/Comprovação	quarta-feira
+Roubo/Furto	Noite	Laticínios	EX	SP	3	S/Comprovação	quinta-feira
+Roubo/Furto	Tarde	Eletrônicos	SP	GO	3	S/Comprovação	quinta-feira
+Roubo/Furto	Noite	Combustível	SP	GO	1	S/Comprovação	sexta-feira
+Roubo/Furto	Madrugada	E-Commerce	SP	SP	2	S/Comprovação	quarta-feira
+Roubo/Furto	Manhã	Confecção/Tecido/Fios	SP	EX	2	S/Comprovação	terça-feira
+Roubo/Furto	Tarde	Polímeros	SP	MG	1	S/Comprovação	segunda-feira
+Roubo/Furto	Noite	Específicas	SP	RJ	1	S/Comprovação	segunda-feira
+Roubo/Furto	Tarde	E-Commerce	SP	SP	2	S/Comprovação	quinta-feira
+Roubo/Furto	Madrugada	E-Commerce	SP	SP	1	S/Comprovação	segunda-feira
+Roubo/Furto	Madrugada	Alumínio	MG	SP	1	S/Comprovação	quarta-feira
+Roubo/Furto	Madrugada	Combustível	SP	GO	1	S/Comprovação	sexta-feira
+Roubo/Furto	Manhã	Polímeros	RJ	PR	1	S/Comprovação	quinta-feira
+Roubo/Furto	Madrugada	E-Commerce	SP	SP	3	S/Comprovação	sexta-feira
+Roubo/Furto	Noite	Celulares	SP	MS	5	S/Comprovação	domingo
+Roubo/Furto	Madrugada	Pescado	SC	SP	2	S/Comprovação	quarta-feira
+Roubo/Furto	Madrugada	Combustível	SP	MG	1	S/Comprovação	sexta-feira
+Roubo/Furto	Madrugada	Eletrônicos	SP	RJ	2	S/Comprovação	sexta-feira
+Roubo/Furto	Noite	Combustível	SP	MT	1	S/Comprovação	terça-feira
+Roubo/Furto	Madrugada	Utilidades Doméstica	RS	EX	3	S/Comprovação	terça-feira
+Roubo/Furto	Madrugada	E-Commerce	SP	SP	2	S/Comprovação	sexta-feira
+Roubo/Furto	Noite	Alimentício	SP	PE	1	S/Comprovação	sexta-feira
+Roubo/Furto	Tarde	Polímeros	RJ	SP	1	S/Comprovação	quarta-feira
+Roubo/Furto	Noite	Laticínios	MT	SP	3	S/Comprovação	quarta-feira
+Roubo/Furto	Madrugada	E-Commerce	MG	GO	1	S/Comprovação	quinta-feira
+Roubo/Furto	Noite	Eletrodoméstico	SP	ES	3	S/Comprovação	terça-feira
+Roubo/Furto	Tarde	Eletrodoméstico	SP	ES	3	S/Comprovação	terça-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	SP	RN	4	S/Comprovação	domingo
+Roubo/Furto	Madrugada	E-Commerce	SP	SP	1	S/Comprovação	sábado
+Roubo/Furto	Madrugada	E-Commerce	MG	SP	1	S/Comprovação	sexta-feira
+Roubo/Furto	Noite	Tubos e Conexões	SP	SP	1	S/Comprovação	domingo
+Roubo/Furto	Manhã	Defensivo Agrícola	GO	GO	3	S/Comprovação	segunda-feira
+Roubo/Furto	Manhã	E-Commerce	SC	SC	3	S/Comprovação	quinta-feira
+Roubo/Furto	Noite	E-Commerce	SP	SP	4	S/Comprovação	quarta-feira
+Roubo/Furto	Madrugada	Laticínios	MG	SP	3	S/Comprovação	sexta-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	MG	RJ	1	S/Comprovação	quarta-feira
+Roubo/Furto	Madrugada	Óleo Comestível	SP	RN	1	S/Comprovação	quarta-feira
+Roubo/Furto	Noite	Alimentício	PA	ES	2	S/Comprovação	quarta-feira
+Roubo/Furto	Manhã	Alimentício	SP	RJ	1	S/Comprovação	quarta-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	SP	PE	3	S/Comprovação	domingo
+Roubo/Furto	Manhã	Alumínio	SC	SP	2	S/Comprovação	quinta-feira
+Roubo/Furto	Manhã	Combustível	SP	SP	1	S/Comprovação	quinta-feira
+Roubo/Furto	Manhã	Calçados	SP	SP	4	S/Comprovação	quarta-feira
+Roubo/Furto	Noite	Frigorífico	GO	RJ	2	S/Comprovação	quarta-feira
+Roubo/Furto	Manhã	Frigorífico	MT	RJ	3	S/Comprovação	sexta-feira
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	SP	GO	1	S/Comprovação	quarta-feira
+Roubo/Furto	Madrugada	Artigo Esportivo	SP	SP	5	S/Comprovação	segunda-feira
+Roubo/Furto	Noite	Químico	MG	SP	2	S/Comprovação	sábado
+Roubo/Furto	Manhã	Eletrônicos	SP	SP	3	S/Comprovação	quarta-feira
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	PE	CE	1	S/Comprovação	domingo
+Roubo/Furto	Tarde	Calçados	SP	PA	2	S/Comprovação	sexta-feira
+Roubo/Furto	Madrugada	Tinta/Verniz	SP	MG	1	S/Comprovação	sexta-feira
+Roubo/Furto	Madrugada	Alimentício	SP	PA	1	S/Comprovação	segunda-feira
+Roubo/Furto	Tarde	Minério	MG	RJ	2	S/Comprovação	segunda-feira
+Roubo/Furto	Manhã	Hig/Limp/Cosm	SP	RJ	2	S/Comprovação	domingo
+Roubo/Furto	Manhã	Pneus	SC	SP	3	S/Comprovação	quarta-feira
+Roubo/Furto	Manhã	E-Commerce	SP	SP	3	S/Comprovação	terça-feira
+Roubo/Furto	Madrugada	Papel	MS	BA	2	S/Comprovação	terça-feira
+Roubo/Furto	Tarde	Minério	MG	RJ	2	S/Comprovação	segunda-feira
+Roubo/Furto	Madrugada	E-Commerce	SP	SP	1	S/Comprovação	quarta-feira
+Roubo/Furto	Manhã	Confecção/Tecido/Fios	RJ	RJ	3	S/Comprovação	terça-feira
+Roubo/Furto	Noite	Aço/Ferro	SP	MG	1	S/Comprovação	terça-feira
+Roubo/Furto	Madrugada	Alumínio	SC	SP	2	S/Comprovação	quinta-feira
+Roubo/Furto	Tarde	Celulares	SP	RJ	3	S/Comprovação	quarta-feira
+Roubo/Furto	Noite	Alimentício	SP	RJ	1	S/Comprovação	quinta-feira
+Roubo/Furto	Madrugada	Alimentício	DF	BA	1	S/Comprovação	quinta-feira
+Roubo/Furto	Madrugada	E-Commerce	SP	SP	3	S/Comprovação	terça-feira
+Roubo/Furto	Noite	Pescado	EX	SP	4	S/Comprovação	sábado
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	MG	SP	3	S/Comprovação	segunda-feira
+Roubo/Furto	Manhã	Celulares	SP	RS	4	S/Comprovação	domingo
+Roubo/Furto	Tarde	Laticínios	EX	SC	3	S/Comprovação	sexta-feira
+Roubo/Furto	Manhã	Alimentício	PE	BA	1	S/Comprovação	sábado
+Roubo/Furto	Manhã	Papel	SP	SP	1	S/Comprovação	terça-feira
+Roubo/Furto	Manhã	Confecção/Tecido/Fios	SP	RJ	2	S/Comprovação	terça-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	MG	SP	1	S/Comprovação	quinta-feira
+Roubo/Furto	Manhã	Bebidas	PE	RJ	3	S/Comprovação	domingo
+Roubo/Furto	Noite	Específicas	SP	SC	1	S/Comprovação	segunda-feira
+Roubo/Furto	Madrugada	Alimentício	SP	RJ	2	S/Comprovação	terça-feira
+Roubo/Furto	Manhã	Autopeças	SP	RJ	1	S/Comprovação	terça-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	PE	BA	1	S/Comprovação	sábado
+Roubo/Furto	Madrugada	Específicas	SP	RJ	2	S/Comprovação	sexta-feira
+Roubo/Furto	Manhã	Específicas	RJ	RJ	1	S/Comprovação	sexta-feira
+Roubo/Furto	Manhã	Celulares	SP	SP	3	S/Comprovação	sexta-feira
+Roubo/Furto	Tarde	Veículo	PR	ES	2	S/Comprovação	sábado
+Roubo/Furto	Noite	Hig/Limp/Cosm	SP	PE	4	S/Comprovação	quarta-feira
+Roubo/Furto	Tarde	Confecção/Tecido/Fios	SP	SP	3	S/Comprovação	quinta-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	SP	SP	3	S/Comprovação	terça-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	SP	SP	3	S/Comprovação	segunda-feira
+Roubo/Furto	Manhã	Tratores/Empilhadeiras	SP	MT	3	S/Comprovação	terça-feira
+Roubo/Furto	Manhã	Medicamento	SP	SP	3	S/Comprovação	segunda-feira
+Roubo/Furto	Noite	Polímeros	RJ	PR	1	S/Comprovação	sexta-feira
+Roubo/Furto	Manhã	Veículo	SP	PR	3	S/Comprovação	quinta-feira
+Roubo/Furto	Noite	Confecção/Tecido/Fios	RJ	AL	4	S/Comprovação	segunda-feira
+Roubo/Furto	Manhã	Confecção/Tecido/Fios	SP	SP	1	S/Comprovação	sexta-feira
+Roubo/Furto	Noite	Combustível	SP	SP	1	S/Comprovação	quinta-feira
+Roubo/Furto	Noite	Polímeros	SP	MG	1	S/Comprovação	quarta-feira
+Roubo/Furto	Madrugada	Medicamento	GO	GO	4	S/Comprovação	quinta-feira
+Roubo/Furto	Madrugada	Polímeros	AL	SP	1	S/Comprovação	terça-feira
+Roubo/Furto	Noite	Específicas	SP	SP	1	S/Comprovação	segunda-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	PE	RN	1	S/Comprovação	quarta-feira
+Roubo/Furto	Madrugada	Aço/Ferro	MG	SC	1	S/Comprovação	terça-feira
+Roubo/Furto	Tarde	Eletrônicos	SP	MG	2	S/Comprovação	quarta-feira
+Roubo/Furto	Madrugada	Combustível	SP	SP	1	S/Comprovação	quarta-feira
+Roubo/Furto	Manhã	Polímeros	SP	SP	1	S/Comprovação	quinta-feira
+Roubo/Furto	Tarde	Alimentício	SP	CE	1	S/Comprovação	terça-feira
+Roubo/Furto	Madrugada	Confecção/Tecido/Fios	SC	SC	3	S/Comprovação	segunda-feira
+Roubo/Furto	Madrugada	Medicamento	GO	GO	1	S/Comprovação	quinta-feira
+Roubo/Furto	Madrugada	Cobre	SC	SP	5	S/Comprovação	quinta-feira
+Roubo/Furto	Manhã	Frigorífico	MS	SP	1	S/Comprovação	segunda-feira
+Roubo/Furto	Tarde	Químico	SP	SP	5	S/Comprovação	terça-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	PE	PB	1	S/Comprovação	segunda-feira
+Roubo/Furto	Tarde	Alimentício	MG	RJ	2	S/Comprovação	segunda-feira
+Roubo/Furto	Manhã	Alimentício	PE	PE	1	S/Comprovação	quinta-feira
+Roubo/Furto	Noite	Laticínios	SC	SP	1	S/Comprovação	quinta-feira
+Roubo/Furto	Tarde	Óleo Lubrificante	RJ	RJ	1	S/Comprovação	terça-feira
+Roubo/Furto	Tarde	Frigorífico	SP	EX	3	S/Comprovação	quarta-feira
+Roubo/Furto	Manhã	Veículo	SP	MG	2	S/Comprovação	terça-feira
+Roubo/Furto	Noite	Específicas	SC	SP	2	S/Comprovação	quinta-feira
+Roubo/Furto	Madrugada	Calçados	EX	BA	1	S/Comprovação	sexta-feira
+Roubo/Furto	Madrugada	E-Commerce	RJ	RJ	3	S/Comprovação	sábado
+Roubo/Furto	Noite	Específicas	SP	RJ	4	S/Comprovação	quinta-feira
+Roubo/Furto	Madrugada	Eletrônicos	ES	RJ	2	S/Comprovação	sábado
+Roubo/Furto	Tarde	Hig/Limp/Cosm	PE	SE	3	S/Comprovação	quinta-feira
+Roubo/Furto	Tarde	Pescado	SC	RJ	3	S/Comprovação	domingo
+Roubo/Furto	Manhã	Frigorífico	RO	EX	3	S/Comprovação	sábado
+Roubo/Furto	Manhã	Frigorífico	GO	EX	3	S/Comprovação	terça-feira
+Roubo/Furto	Tarde	Confecção/Tecido/Fios	SP	SP	3	S/Comprovação	terça-feira
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	EX	SP	4	S/Comprovação	segunda-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	PE	BA	1	S/Comprovação	segunda-feira
+Roubo/Furto	Madrugada	Medicamento	SP	SP	3	S/Comprovação	segunda-feira
+Roubo/Furto	Manhã	Tratores/Empilhadeiras	MG	AM	4	S/Comprovação	sábado
+Roubo/Furto	Madrugada	Eletrônicos	AM	MG	5	S/Comprovação	quinta-feira
+Roubo/Furto	Madrugada	Eletrônicos	SP	SP	5	S/Comprovação	terça-feira
+Roubo/Furto	Noite	Químico	MG	SP	1	S/Comprovação	segunda-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	MG	PR	3	S/Comprovação	quarta-feira
+Roubo/Furto	Madrugada	Polímeros	SP	MG	1	S/Comprovação	quarta-feira
+Roubo/Furto	Manhã	Celulares	SP	SP	1	S/Comprovação	quinta-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	PE	PE	1	S/Comprovação	sexta-feira
+Roubo/Furto	Tarde	Maquinário	SP	ES	1	S/Comprovação	quarta-feira
+Roubo/Furto	Noite	Óleo Comestível	GO	PI	1	S/Comprovação	quarta-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	PE	CE	2	S/Comprovação	segunda-feira
+Roubo/Furto	Manhã	Específicas	MG	MG	3	S/Comprovação	segunda-feira
+Roubo/Furto	Manhã	Combustível	SP	SP	1	S/Comprovação	sexta-feira
+Roubo/Furto	Tarde	Hig/Limp/Cosm	MG	RJ	2	S/Comprovação	quarta-feira
+Roubo/Furto	Tarde	Eletrônicos	SP	MG	3	S/Comprovação	segunda-feira
+Roubo/Furto	Noite	E-Commerce	SP	SP	2	S/Comprovação	segunda-feira
+Roubo/Furto	Manhã	E-Commerce	MG	MG	2	S/Comprovação	sexta-feira
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	MG	SC	1	S/Comprovação	terça-feira
+Roubo/Furto	Manhã	Específicas	SP	RJ	4	S/Comprovação	domingo
+Roubo/Furto	Noite	Material Elétrico	SP	RJ	1	S/Comprovação	quinta-feira
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	MG	PR	1	S/Comprovação	terça-feira
+Roubo/Furto	Manhã	Hig/Limp/Cosm	SP	RN	4	S/Comprovação	quinta-feira
+Roubo/Furto	Noite	Confecção/Tecido/Fios	RJ	SP	3	S/Comprovação	quarta-feira
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	SP	MG	1	S/Comprovação	terça-feira
+Roubo/Furto	Tarde	Frigorífico	TO	SP	1	S/Comprovação	terça-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	GO	PA	4	S/Comprovação	quarta-feira
+Roubo/Furto	Manhã	E-Commerce	PE	BA	3	S/Comprovação	quarta-feira
+Roubo/Furto	Manhã	Hig/Limp/Cosm	SP	RN	3	S/Comprovação	quinta-feira
+Roubo/Furto	Madrugada	E-Commerce	SP	RS	4	S/Comprovação	sábado
+Roubo/Furto	Madrugada	Bebidas	ES	RJ	1	S/Comprovação	quarta-feira
+Roubo/Furto	Noite	Hig/Limp/Cosm	PE	SE	3	S/Comprovação	domingo
+Roubo/Furto	Noite	Eletrônicos	SC	RJ	4	S/Comprovação	domingo
+Roubo/Furto	Noite	Autopeças	SP	PR	5	S/Comprovação	quinta-feira
+Roubo/Furto	Tarde	Fios/Cabos	SC	MS	1	S/Comprovação	terça-feira
+Roubo/Furto	Manhã	Celulares	RJ	RJ	1	S/Comprovação	terça-feira
+Roubo/Furto	Madrugada	Polímeros	RJ	SP	1	S/Comprovação	segunda-feira
+Roubo/Furto	Manhã	Frigorífico	SP	RJ	3	S/Comprovação	sábado
+Roubo/Furto	Manhã	Veículo	MG	SC	3	S/Comprovação	sexta-feira
+Roubo/Furto	Noite	Polímeros	SP	MG	1	S/Comprovação	quinta-feira
+Roubo/Furto	Noite	Eletrônicos	SP	PE	4	S/Comprovação	quinta-feira
+Roubo/Furto	Madrugada	Autopeças	SP	SP	3	S/Comprovação	terça-feira
+Roubo/Furto	Noite	Café	ES	SP	2	S/Comprovação	quarta-feira
+Roubo/Furto	Noite	Polímeros	SP	BA	1	S/Comprovação	quinta-feira
+Roubo/Furto	Manhã	Combustível	SP	GO	1	S/Comprovação	quarta-feira
+Roubo/Furto	Madrugada	Aço/Ferro	MG	MG	1	S/Comprovação	quinta-feira
+Roubo/Furto	Madrugada	Combustível	PR	ES	1	S/Comprovação	sexta-feira
+Roubo/Furto	Tarde	Geral	SP	SP	1	S/Comprovação	quarta-feira
+Roubo/Furto	Madrugada	Aço/Ferro	RJ	SP	1	S/Comprovação	quarta-feira
+Roubo/Furto	Madrugada	Pescado	SC	CE	2	S/Comprovação	sexta-feira
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	PE	CE	1	S/Comprovação	sexta-feira
+Roubo/Furto	Noite	Combustível	PE	MG	1	S/Comprovação	quinta-feira
+Roubo/Furto	Noite	Específicas	RJ	RJ	1	S/Comprovação	sexta-feira
+Roubo/Furto	Manhã	Hig/Limp/Cosm	PE	RN	1	S/Comprovação	domingo
+Roubo/Furto	Madrugada	Aço/Ferro	SC	MG	3	S/Comprovação	quinta-feira
+Roubo/Furto	Manhã	Polímeros	SC	SP	1	S/Comprovação	terça-feira
+Roubo/Furto	Madrugada	Hig/Limp/Cosm	SP	PE	3	S/Comprovação	segunda-feira
+Roubo/Furto	Tarde	Laticínios	PR	RJ	2	S/Comprovação	terça-feira
+Roubo/Furto	Madrugada	Confecção/Tecido/Fios	RJ	RJ	1	S/Comprovação	quarta-feira
