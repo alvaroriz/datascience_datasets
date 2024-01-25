@@ -1,0 +1,368 @@
+id	sexo	casado	n_dependentes	educacao	autonomo	renda_mensal	renda_conjuge	montante_emprestimo	prazo_emprestimo_meses	emprestimo_positivo	tipo_propriedade
+LP001015	M	Sim	0	Graduado	Não	5720	0	110	360	1	Urbano
+LP001022	M	Sim	1	Graduado	Não	3076	1500	126	360	1	Urbano
+LP001031	M	Sim	2	Graduado	Não	5000	1800	208	360	1	Urbano
+LP001035	M	Sim	2	Graduado	Não	2340	2546	100	360		Urbano
+LP001051	M	Não	0	Não Graduado	Não	3276	0	78	360	1	Urbano
+LP001054	M	Sim	0	Não Graduado	Sim	2165	3422	152	360	1	Urbano
+LP001055	F	Não	1	Não Graduado	Não	2226	0	59	360	1	SemiUrbano
+LP001056	M	Sim	2	Não Graduado	Não	3881	0	147	360	0	Rural
+LP001059	M	Sim	2	Graduado		13633	0	280	240	1	Urbano
+LP001067	M	Não	0	Não Graduado	Não	2400	2400	123	360	1	SemiUrbano
+LP001078	M	Não	0	Não Graduado	Não	3091	0	90	360	1	Urbano
+LP001082	M	Sim	1	Graduado		2185	1516	162	360	1	SemiUrbano
+LP001083	M	Não	3	Graduado	Não	4166	0	40	180		Urbano
+LP001094	M	Sim	2	Graduado		12173	0	166	360	0	SemiUrbano
+LP001096	F	Não	0	Graduado	Não	4666	0	124	360	1	SemiUrbano
+LP001099	M	Não	1	Graduado	Não	5667	0	131	360	1	Urbano
+LP001105	M	Sim	2	Graduado	Não	4583	2916	200	360	1	Urbano
+LP001107	M	Sim	4	Graduado	Não	3786	333	126	360	1	SemiUrbano
+LP001108	M	Sim	0	Graduado	Não	9226	7916	300	360	1	Urbano
+LP001115	M	Não	0	Graduado	Não	1300	3470	100	180	1	SemiUrbano
+LP001121	M	Sim	1	Não Graduado	Não	1888	1620	48	360	1	Urbano
+LP001124	F	Não	3	Não Graduado	Não	2083	0	28	180	1	Urbano
+LP001128		Não	0	Graduado	Não	3909	0	101	360	1	Urbano
+LP001135	F	Não	0	Não Graduado	Não	3765	0	125	360	1	Urbano
+LP001149	M	Sim	0	Graduado	Não	5400	4380	290	360	1	Urbano
+LP001153	M	Não	0	Graduado	Não	0	24000	148	360	0	Rural
+LP001163	M	Sim	2	Graduado	Não	4363	1250	140	360		Urbano
+LP001169	M	Sim	0	Graduado	Não	7500	3750	275	360	1	Urbano
+LP001174	M	Sim	0	Graduado	Não	3772	833	57	360		SemiUrbano
+LP001176	M	Não	0	Graduado	Não	2942	2382	125	180	1	Urbano
+LP001177	F	Não	0	Não Graduado	Não	2478	0	75	360	1	SemiUrbano
+LP001183	M	Sim	2	Graduado	Não	6250	820	192	360	1	Urbano
+LP001185	M	Não	0	Graduado	Não	3268	1683	152	360	1	SemiUrbano
+LP001187	M	Sim	0	Graduado	Não	2783	2708	158	360	1	Urbano
+LP001190	M	Sim	0	Graduado	Não	2740	1541	101	360	1	Urbano
+LP001203	M	Não	0	Graduado	Não	3150	0	176	360	0	SemiUrbano
+LP001208	M	Sim	2	Graduado		7350	4029	185	180	1	Urbano
+LP001210	M	Sim	0	Graduado	Sim	2267	2792	90	360	1	Urbano
+LP001211	M	Não	0	Graduado	Sim	5833	0	116	360	1	Urbano
+LP001219	M	Não	0	Graduado	Não	3643	1963	138	360	1	Urbano
+LP001220	M	Sim	0	Graduado	Não	5629	818	100	360	1	Urbano
+LP001221	F	Não	0	Graduado	Não	3644	0	110	360	1	Urbano
+LP001226	M	Sim	0	Não Graduado	Não	1750	2024	90	360	1	SemiUrbano
+LP001230	M	Não	0	Graduado	Não	6500	2600	200	360	1	SemiUrbano
+LP001231	F	Não	0	Graduado	Não	3666	0	84	360	1	Urbano
+LP001232	M	Sim	0	Graduado	Não	4260	3900	185			Urbano
+LP001237	M	Sim		Não Graduado	Não	4163	1475	162	360	1	Urbano
+LP001242	M	Não	0	Não Graduado	Não	2356	1902	108	360	1	SemiUrbano
+LP001268	M	Não	0	Graduado	Não	6792	3338	187		1	Urbano
+LP001270	M	Sim	4	Não Graduado	Sim	8000	250	187	360	1	SemiUrbano
+LP001284	M	Sim	1	Graduado	Não	2419	1707	124	360	1	Urbano
+LP001287		Sim	5	Não Graduado	Não	3500	833	120	360	1	SemiUrbano
+LP001291	M	Sim	1	Graduado	Não	3500	3077	160	360	1	SemiUrbano
+LP001298	M	Sim	2	Graduado	Não	4116	1000	30	180	1	Urbano
+LP001312	M	Sim	0	Não Graduado	Sim	5293	0	92	360	1	Urbano
+LP001313	M	Não	0	Graduado	Não	2750	0	130	360	0	Urbano
+LP001317	F	Não	0	Não Graduado	Não	4402	0	130	360	1	Rural
+LP001321	M	Sim	2	Graduado	Não	3613	3539	134	180	1	SemiUrbano
+LP001323	F	Sim	2	Graduado	Não	2779	3664	176	360	0	SemiUrbano
+LP001324	M	Sim	3	Graduado	Não	4720	0	90	180	1	SemiUrbano
+LP001332	M	Sim	0	Não Graduado	Não	2415	1721	110	360	1	SemiUrbano
+LP001335	M	Sim	0	Graduado	Sim	7016	292	125	360	1	Urbano
+LP001338	F	Não	2	Graduado	Não	4968	0	189	360	1	SemiUrbano
+LP001347	F	Não	0	Graduado	Não	2101	1500	108	360	0	Rural
+LP001348	M	Sim	4	Não Graduado	Não	4490	0	125	360	1	Urbano
+LP001351	M	Sim	0	Graduado	Não	2917	3583	138	360	1	SemiUrbano
+LP001352	M	Sim	0	Não Graduado	Não	4700	0	135	360	0	SemiUrbano
+LP001358	M	Sim	0	Graduado	Não	3445	0	130	360	0	SemiUrbano
+LP001359	M	Sim	0	Graduado	Não	7666	0	187	360	1	SemiUrbano
+LP001361	M	Sim	0	Graduado	Não	2458	5105	188	360	0	Rural
+LP001366	F	Não		Graduado	Não	3250	0	95	360	1	SemiUrbano
+LP001368	M	Não	0	Graduado	Não	4463	0	65	360	1	SemiUrbano
+LP001375	M	Sim	1	Graduado		4083	1775	139	60	1	Urbano
+LP001380	M	Sim	0	Graduado	Sim	3900	2094	232	360	1	Rural
+LP001386	M	Sim	0	Não Graduado	Não	4750	3583	144	360	1	SemiUrbano
+LP001400	M	Não	0	Graduado	Não	3583	3435	155	360	1	Urbano
+LP001407	M	Sim	0	Graduado	Não	3189	2367	186	360	1	Urbano
+LP001413	M	Não	0	Graduado	Sim	6356	0	50	360	1	Rural
+LP001415	M	Sim	1	Graduado	Não	3413	4053		360	1	SemiUrbano
+LP001419	F	Sim	0	Graduado	Não	7950	0	185	360	1	Urbano
+LP001420	M	Sim	3	Graduado	Não	3829	1103	163	360	0	Urbano
+LP001428	M	Sim	4	Graduado	Não	72529	0	360	360	1	Urbano
+LP001445	M	Sim	2	Não Graduado	Não	4136	0	149	480	0	Rural
+LP001446	M	Sim	0	Graduado	Não	8449	0	257	360	1	Rural
+LP001450	M	Sim	0	Graduado	Não	4456	0	131	180	0	SemiUrbano
+LP001452	M	Sim	2	Graduado	Não	4635	8000	102	180	1	Rural
+LP001455	M	Sim	0	Graduado	Não	3571	1917	135	360	1	Urbano
+LP001466	M	Não	0	Graduado	Não	3066	0	95	360	1	SemiUrbano
+LP001471	M	Não	2	Não Graduado	Não	3235	2015	77	360	1	SemiUrbano
+LP001472	F	Não	0	Graduado		5058	0	200	360	1	Rural
+LP001475	M	Sim	0	Graduado	Sim	3188	2286	130	360		Rural
+LP001483	M	Sim	5	Graduado	Não	13518	0	390	360	1	Rural
+LP001486	M	Sim	1	Graduado	Não	4364	2500	185	360	1	SemiUrbano
+LP001490	M	Sim	2	Não Graduado	Não	4766	1646	100	360	1	SemiUrbano
+LP001496	M	Sim	1	Graduado	Não	4609	2333	123	360	0	SemiUrbano
+LP001499	F	Sim	3	Graduado	Não	6260	0	110	360	1	SemiUrbano
+LP001500	M	Sim	1	Graduado	Não	3333	4200	256	360	1	Urbano
+LP001501	M	Sim	0	Graduado	Não	3500	3250	140	360	1	SemiUrbano
+LP001517	M	Sim	3	Graduado	Não	9719	0	61	360	1	Urbano
+LP001527	M	Sim	3	Graduado	Não	6835	0	188	360		SemiUrbano
+LP001534	M	Não	0	Graduado	Não	4452	0	131	360	1	Rural
+LP001542	F	Sim	0	Graduado	Não	2262	0		480	0	SemiUrbano
+LP001547	M	Sim	1	Graduado	Não	3901	0	116	360	1	Urbano
+LP001548	M	Sim	2	Não Graduado	Não	2687	0	50	180	1	Rural
+LP001558	M	Não	0	Graduado	Não	2243	2233	107	360		SemiUrbano
+LP001561	F	Sim	0	Graduado	Não	3417	1287	200	360	1	SemiUrbano
+LP001563		Não	0	Graduado	Não	1596	1760	119	360	0	Urbano
+LP001567	M	Sim	4	Graduado	Não	4513	0	120	360	1	Rural
+LP001568	M	Sim	0	Graduado	Não	4500	0	140	360	1	SemiUrbano
+LP001573	M	Sim	0	Não Graduado	Não	4523	1350	165	360	1	Urbano
+LP001584	F	Não	0	Graduado	Sim	4742	0	108	360	1	SemiUrbano
+LP001587	M	Sim		Graduado	Não	4082	0	93	360	1	SemiUrbano
+LP001589	F	Não	0	Graduado	Não	3417	0	102	360	1	Urbano
+LP001591	F	Sim	2	Graduado	Não	2922	3396	122	360	1	SemiUrbano
+LP001599	M	Sim	0	Graduado	Não	4167	4754	160	360	1	Rural
+LP001601	M	Não	4	Graduado	Não	4243	4123	157	360		SemiUrbano
+LP001607	F	Não	0	Não Graduado	Não	0	1760	180	360	1	SemiUrbano
+LP001611	M	Sim	1	Graduado	Não	1516	2900	80		0	Rural
+LP001613	F	Não	0	Graduado	Não	1762	2666	104	360	0	Urbano
+LP001622	M	Sim	2	Graduado	Não	724	3510	213	360	0	Rural
+LP001627	M	Não	0	Graduado	Não	3125	0	65	360	1	Urbano
+LP001650	M	Sim	0	Graduado	Não	2333	3803	146	360	1	Rural
+LP001651	M	Sim	4	Graduado	Não	3350	1560	135	360	1	Urbano
+LP001652	M	Não	0	Graduado	Não	2500	6414	187	360	0	Rural
+LP001655	F	Não	0	Graduado	Não	12500	0	300	360	0	Urbano
+LP001660	M	Não	0	Graduado	Não	4667	0	120	360	1	SemiUrbano
+LP001662	M	Não	0	Graduado	Não	6500	0	71	360	0	Urbano
+LP001663	M	Sim	2	Graduado	Não	7500	0	225	360	1	Urbano
+LP001667	M	Não	0	Graduado	Não	3073	0	70	180	1	Urbano
+LP001695	M	Sim	1	Não Graduado	Não	3321	2088	70		1	SemiUrbano
+LP001703	M	Sim	0	Graduado	Não	3333	1270	124	360	1	Urbano
+LP001718	M	Não	0	Graduado	Não	3391	0	132	360	1	Rural
+LP001728	M	Sim	1	Graduado	Sim	3343	1517	105	360	1	Rural
+LP001735	F	Não	1	Graduado	Não	3620	0	90	360	1	Urbano
+LP001737	M	Não	0	Graduado	Não	4000	0	83	84	1	Urbano
+LP001739	M	Sim	0	Graduado	Não	4258	0	125	360	1	Urbano
+LP001742	M	Sim	2	Graduado	Não	4500	0	147	360	1	Rural
+LP001757	M	Sim	1	Graduado	Não	2014	2925	120	360	1	Rural
+LP001769		Não		Graduado	Não	3333	1250	110	360	1	SemiUrbano
+LP001771	F	Não	5	Graduado	Não	4083	0	103	360		SemiUrbano
+LP001785	M	Não	0	Graduado	Não	4727	0	150	360	0	Rural
+LP001787	M	Sim	6	Graduado	Não	3089	2999	100	240	1	Rural
+LP001789	M	Sim	4	Não Graduado		6794	528	139	360	0	Urbano
+LP001791	M	Sim	0	Graduado	Sim	32000	0	550	360		SemiUrbano
+LP001794	M	Sim	2	Graduado	Sim	10890	0	260	12	1	Rural
+LP001797	F	Não	0	Graduado	Não	12941	0	150	300	1	Urbano
+LP001815	M	Não	0	Não Graduado	Não	3276	0	90	360	1	SemiUrbano
+LP001817	M	Não	0	Não Graduado	Sim	8703	0	199	360	0	Rural
+LP001818	M	Sim	1	Graduado	Não	4742	717	139	360	1	SemiUrbano
+LP001822	M	Não	0	Graduado	Não	5900	0	150	360	1	Urbano
+LP001827	M	Não	0	Graduado	Não	3071	4309	180	360	1	Urbano
+LP001831	M	Sim	0	Graduado	Não	2783	1456	113	360	1	Urbano
+LP001842	M	Não	0	Graduado	Não	5000	0	148	360	1	Rural
+LP001853	M	Sim	1	Não Graduado	Não	2463	2360	117	360	0	Urbano
+LP001855	M	Sim	2	Graduado	Não	4855	0	72	360	1	Rural
+LP001857	M	Não	0	Não Graduado	Sim	1599	2474	125	300	1	SemiUrbano
+LP001862	M	Sim	2	Graduado	Sim	4246	4246	214	360	1	Urbano
+LP001867	M	Sim	0	Graduado	Não	4333	2291	133	350	1	Rural
+LP001878	M	Não	1	Graduado	Não	5823	2529	187	360	1	SemiUrbano
+LP001881	M	Sim	0	Não Graduado	Não	7895	0	143	360	1	Rural
+LP001886	M	Não	0	Graduado	Não	4150	4256	209	360	1	Rural
+LP001906	M	Não	0	Graduado		2964	0	84	360	0	SemiUrbano
+LP001909	M	Não	0	Graduado	Não	5583	0	116	360	1	Urbano
+LP001911	F	Não	0	Graduado	Não	2708	0	65	360	1	Rural
+LP001921	M	Não	1	Graduado	Não	3180	2370	80	240		Rural
+LP001923	M	Não	0	Não Graduado	Não	2268	0	170	360	0	SemiUrbano
+LP001933	M	Não	2	Não Graduado	Não	1141	2017	120	360	0	Urbano
+LP001943	M	Sim	0	Graduado	Não	3042	3167	135	360	1	Urbano
+LP001950	F	Sim	3	Graduado		1750	2935	94	360	0	SemiUrbano
+LP001959	F	Sim	1	Graduado	Não	3564	0	79	360	1	Rural
+LP001961	F	Não	0	Graduado	Não	3958	0	110	360	1	Rural
+LP001973	M	Sim	2	Não Graduado	Não	4483	0	130	360	1	Rural
+LP001975	M	Sim	0	Graduado	Não	5225	0	143	360	1	Rural
+LP001979	M	Não	0	Graduado	Não	3017	2845	159	180	0	Urbano
+LP001995	M	Sim	0	Não Graduado	Não	2431	1820	110	360	0	Rural
+LP001999	M	Sim	2	Graduado		4912	4614	160	360	1	Rural
+LP002007	M	Sim	2	Não Graduado	Não	2500	3333	131	360	1	Urbano
+LP002009	F	Não	0	Graduado	Não	2918	0	65	360		Rural
+LP002016	M	Sim	2	Graduado	Não	5128	0	143	360	1	Rural
+LP002017	M	Sim	3	Graduado	Não	15312	0	187	360		Urbano
+LP002018	M	Sim	2	Graduado	Não	3958	2632	160	360	1	SemiUrbano
+LP002027	M	Sim	0	Graduado	Não	4334	2945	165	360	1	SemiUrbano
+LP002028	M	Sim	2	Graduado	Não	4358	0	110	360	1	Urbano
+LP002042	F	Sim	1	Graduado	Não	4000	3917	173	360	1	Rural
+LP002045	M	Sim	4	Graduado	Não	10166	750	150		1	Urbano
+LP002046	M	Sim	0	Não Graduado	Não	4483	0	135	360		SemiUrbano
+LP002047	M	Sim	2	Não Graduado	Não	4521	1184	150	360	1	SemiUrbano
+LP002056	M	Sim	2	Graduado	Não	9167	0	235	360	1	SemiUrbano
+LP002057	M	Sim	0	Não Graduado	Não	13083	0		360	1	Rural
+LP002059	M	Sim	2	Graduado	Não	7874	3967	336	360	1	Rural
+LP002062	F	Sim	1	Graduado	Não	4333	0	132	84	1	Rural
+LP002064	M	Não	0	Graduado	Não	4083	0	96	360	1	Urbano
+LP002069	M	Sim	2	Não Graduado		3785	2912	180	360	0	Rural
+LP002070	M	Sim	5	Não Graduado	Não	2654	1998	128	360	0	Rural
+LP002077	M	Sim	1	Graduado	Não	10000	2690	412	360	1	SemiUrbano
+LP002083	M	Não	0	Graduado	Sim	5833	0	116	360	1	Urbano
+LP002090	M	Sim	1	Graduado	Não	4796	0	114	360	0	SemiUrbano
+LP002096	M	Sim	0	Não Graduado	Não	2000	1600	115	360	1	Rural
+LP002099	M	Sim	2	Graduado	Não	2540	700	104	360	0	Urbano
+LP002102	M	Sim	0	Graduado	Sim	1900	1442	88	360	1	Rural
+LP002105	M	Sim	0	Graduado	Sim	8706	0	108	480	1	Rural
+LP002107	M	Sim	5	Não Graduado	Não	2855	542	90	360	1	Urbano
+LP002111	M	Sim		Graduado	Não	3016	1300	100	360		Urbano
+LP002117	F	Sim	0	Graduado	Não	3159	2374	108	360	1	SemiUrbano
+LP002118	F	Não	0	Graduado	Não	1937	1152	78	360	1	SemiUrbano
+LP002123	M	Sim	0	Graduado	Não	2613	2417	123	360	1	SemiUrbano
+LP002125	M	Sim	1	Graduado	Não	4960	2600	187	360	1	SemiUrbano
+LP002148	M	Sim	1	Graduado	Não	3074	1083	146	360	1	SemiUrbano
+LP002152	F	Não	0	Graduado	Não	4213	0	80	360	1	Urbano
+LP002165		Não	1	Não Graduado	Não	2038	4027	100	360	1	Rural
+LP002167	F	Não	0	Graduado	Não	2362	0	55	360	1	Urbano
+LP002168	M	Não	0	Graduado	Não	5333	2400	200	360	0	Rural
+LP002172	M	Sim	4	Graduado	Sim	5384	0	150	360	1	SemiUrbano
+LP002176	M	Não	0	Graduado	Não	5708	0	150	360	1	Rural
+LP002183	M	Sim	0	Não Graduado	Não	3754	3719	118		1	Rural
+LP002184	M	Sim	0	Não Graduado	Não	2914	2130	150	300	1	Urbano
+LP002186	M	Sim	0	Não Graduado	Não	2747	2458	118	36	1	SemiUrbano
+LP002192	M	Sim	0	Graduado	Não	7830	2183	212	360	1	Rural
+LP002195	M	Sim	1	Graduado	Sim	3507	3148	212	360	1	Rural
+LP002208	M	Sim	1	Graduado	Não	3747	2139	125	360	1	Urbano
+LP002212	M	Sim	0	Graduado	Não	2166	2166	108	360		Urbano
+LP002240	M	Sim	0	Não Graduado	Não	3500	2168	149	360	1	Rural
+LP002245	M	Sim	2	Não Graduado	Não	2896	0	80	480	1	Urbano
+LP002253	F	Não	1	Graduado	Não	5062	0	152	300	1	Rural
+LP002256	F	Não	2	Graduado	Sim	5184	0	187	360	0	SemiUrbano
+LP002257	F	Não	0	Graduado	Não	2545	0	74	360	1	Urbano
+LP002264	M	Sim	0	Graduado	Não	2553	1768	102	360	1	Urbano
+LP002270	M	Sim	1	Graduado	Não	3436	3809	100	360	1	Rural
+LP002279	M	Não	0	Graduado	Não	2412	2755	130	360	1	Rural
+LP002286	M	Sim	3	Não Graduado	Não	5180	0	125	360	0	Urbano
+LP002294	M	Não	0	Graduado	Não	14911	14507	130	360	1	SemiUrbano
+LP002298		Não	0	Graduado	Sim	2860	2988	138	360	1	Urbano
+LP002306	M	Sim	0	Graduado	Não	1173	1594	28	180	1	Rural
+LP002310	F	Não	1	Graduado	Não	7600	0	92	360	1	SemiUrbano
+LP002311	F	Sim	0	Graduado	Não	2157	1788	104	360	1	Urbano
+LP002316	M	Não	0	Graduado	Não	2231	2774	176	360	0	Urbano
+LP002321	F	Não	0	Graduado	Não	2274	5211	117	360	0	SemiUrbano
+LP002325	M	Sim	2	Não Graduado	Não	6166	13983	102	360	1	Rural
+LP002326	M	Sim	2	Não Graduado	Não	2513	1110	107	360	1	SemiUrbano
+LP002329	M	Não	0	Graduado	Não	4333	0	66	480	1	Urbano
+LP002333	M	Não	0	Não Graduado	Não	3844	0	105	360	1	Urbano
+LP002339	M	Sim	0	Graduado	Não	3887	1517	105	360	0	SemiUrbano
+LP002344	M	Sim	0	Graduado	Não	3510	828	105	360	1	SemiUrbano
+LP002346	M	Sim	0	Graduado		2539	1704	125	360	0	Rural
+LP002354	F	Não	0	Não Graduado	Não	2107	0	64	360	1	SemiUrbano
+LP002355		Sim	0	Graduado	Não	3186	3145	150	180	0	SemiUrbano
+LP002358	M	Sim	2	Graduado	Sim	5000	2166	150	360	1	Urbano
+LP002360	M	Sim		Graduado	Não	10000	0		360	1	Urbano
+LP002375	M	Sim	0	Não Graduado	Sim	3943	0	64	360	1	SemiUrbano
+LP002376	M	Não	0	Graduado	Não	2925	0	40	180	1	Rural
+LP002383	M	Sim	3	Graduado	Não	3242	437	142	480	0	Urbano
+LP002385	M	Sim		Graduado	Não	3863	0	70	300	1	SemiUrbano
+LP002389	F	Não	1	Graduado	Não	4028	0	131	360	1	SemiUrbano
+LP002394	M	Sim	2	Graduado	Não	4010	1025	120	360	1	Urbano
+LP002397	F	Sim	1	Graduado	Não	3719	1585	114	360	1	Urbano
+LP002399	M	Não	0	Graduado		2858	0	123	360	0	Rural
+LP002400	F	Sim	0	Graduado	Não	3833	0	92	360	1	Rural
+LP002402	M	Sim	0	Graduado	Não	3333	4288	160	360	1	Urbano
+LP002412	M	Sim	0	Graduado	Não	3007	3725	151	360	1	Rural
+LP002415	F	Não	1	Graduado		1850	4583	81	360		Rural
+LP002417	M	Sim	4	Não Graduado	Não	2792	2619	171	360	1	SemiUrbano
+LP002420	M	Sim	0	Graduado	Não	2982	1550	110	360	1	SemiUrbano
+LP002425	M	Não	0	Graduado	Não	3417	738	100	360		Rural
+LP002433	M	Sim	1	Graduado	Não	18840	0	234	360	1	Rural
+LP002440	M	Sim	2	Graduado	Não	2995	1120	184	360	1	Rural
+LP002441	M	Não		Graduado	Não	3579	3308	138	360		SemiUrbano
+LP002442	F	Sim	1	Não Graduado	Não	3835	1400	112	480	0	Urbano
+LP002445	F	Não	1	Não Graduado	Não	3854	3575	117	360	1	Rural
+LP002450	M	Sim	2	Graduado	Não	5833	750	49	360	0	Rural
+LP002471	M	Não	0	Graduado	Não	3508	0	99	360	1	Rural
+LP002476	F	Sim	3	Não Graduado	Não	1635	2444	99	360	1	Urbano
+LP002482	F	Não	0	Graduado	Sim	3333	3916	212	360	1	Rural
+LP002485	M	Não	1	Graduado	Não	24797	0	240	360	1	SemiUrbano
+LP002495	M	Sim	2	Graduado	Não	5667	440	130	360	0	SemiUrbano
+LP002496	F	Não	0	Graduado	Não	3500	0	94	360	0	SemiUrbano
+LP002523	M	Sim	4	Graduado	Não	2773	1497	108	360	1	SemiUrbano
+LP002542	M	Sim	0	Graduado		6500	0	144	360	1	Urbano
+LP002550	F	Não	0	Graduado	Não	5769	0	110	180	1	SemiUrbano
+LP002551	M	Sim	5	Não Graduado		3634	910	176	360	0	SemiUrbano
+LP002553		Não	0	Graduado	Não	29167	0	185	360	1	SemiUrbano
+LP002554	M	Não	0	Graduado	Não	2166	2057	122	360	1	SemiUrbano
+LP002561	M	Sim	0	Graduado	Não	5000	0	126	360	1	Rural
+LP002566	F	Não	0	Graduado	Não	5530	0	135	360		Urbano
+LP002568	M	Não	0	Não Graduado	Não	9000	0	122	360	1	Rural
+LP002570	F	Sim	2	Graduado	Não	10000	11666	460	360	1	Urbano
+LP002572	M	Sim	1	Graduado		8750	0	297	360	1	Urbano
+LP002581	M	Sim	0	Não Graduado	Não	2157	2730	140	360		Rural
+LP002584	M	Não	0	Graduado		1972	4347	106	360	1	Rural
+LP002592	M	Não	0	Graduado	Não	4983	0	141	360	1	Urbano
+LP002593	M	Sim	1	Graduado	Não	8333	4000		360	1	Urbano
+LP002599	M	Sim	0	Graduado	Não	3667	2000	170	360	1	SemiUrbano
+LP002604	M	Sim	2	Graduado	Não	3166	2833	145	360	1	Urbano
+LP002605	M	Não	0	Não Graduado	Não	3271	0	90	360	1	Rural
+LP002609	F	Sim	0	Graduado	Não	2241	2000	88	360	0	Urbano
+LP002610	M	Sim	1	Não Graduado		1792	2565	128	360	1	Urbano
+LP002612	F	Sim	0	Graduado	Não	2666	0	84	480	1	SemiUrbano
+LP002614		Não	0	Graduado	Não	6478	0	108	360	1	SemiUrbano
+LP002630	M	Não	0	Não Graduado		3808	0	83	360	1	Rural
+LP002635	F	Sim	2	Não Graduado	Não	3729	0	117	360	1	SemiUrbano
+LP002639	M	Sim	2	Graduado	Não	4120	0	128	360	1	Rural
+LP002644	M	Sim	1	Graduado	Sim	7500	0	75	360	1	Urbano
+LP002651	M	Sim	1	Graduado		6300	0	125	360	0	Urbano
+LP002654	F	Não		Graduado	Sim	14987	0	177	360	1	Rural
+LP002657		Sim	1	Não Graduado	Sim	570	2125	68	360	1	Rural
+LP002711	M	Sim	0	Graduado	Não	2600	700	96	360	1	SemiUrbano
+LP002712	M	Não	2	Não Graduado	Não	2733	1083	180	360		SemiUrbano
+LP002721	M	Sim	2	Graduado	Sim	7500	0	183	360	1	Rural
+LP002735	M	Sim	2	Não Graduado	Não	3859	0	121	360	1	Rural
+LP002744	M	Sim	1	Graduado	Não	6825	0	162	360	1	Rural
+LP002745	M	Sim	0	Graduado	Não	3708	4700	132	360	1	SemiUrbano
+LP002746	M	Não	0	Graduado	Não	5314	0	147	360	1	Urbano
+LP002747	F	Não	5	Graduado	Não	2366	5272	153	360	0	Rural
+LP002754	M	Não		Graduado	Não	2066	2108	104	84	1	Urbano
+LP002759	M	Sim	2	Graduado	Não	5000	0	149	360	1	Rural
+LP002760	F	Não	0	Graduado	Não	3767	0	134	300	1	Urbano
+LP002766	F	Sim	0	Graduado	Não	7859	879	165	180	1	SemiUrbano
+LP002769	F	Sim	0	Graduado	Não	4283	0	120	360	1	Rural
+LP002774	M	Sim	0	Não Graduado	Não	1700	2900	67	360	0	Urbano
+LP002775		Não	0	Não Graduado	Não	4768	0	125	360	1	Rural
+LP002781	M	Não	0	Graduado	Não	3083	2738	120	360	1	Urbano
+LP002782	M	Sim	1	Graduado	Não	2667	1542	148	360	1	Rural
+LP002786	F	Sim	0	Não Graduado	Não	1647	1762	181	360	1	Urbano
+LP002790	M	Sim	4	Graduado	Não	3400	0	80	120	1	Urbano
+LP002791	M	Não	1	Graduado		16000	5000	40	360	1	SemiUrbano
+LP002793	M	Sim	0	Graduado	Não	5333	0	90	360	1	Rural
+LP002802	M	Não	0	Graduado	Não	2875	2416	95	6	0	SemiUrbano
+LP002803	M	Sim	1	Não Graduado		2600	618	122	360	1	SemiUrbano
+LP002805	M	Sim	2	Graduado	Não	5041	700	150	360	1	Urbano
+LP002806	M	Sim	3	Graduado	Sim	6958	1411	150	360	1	Rural
+LP002816	M	Sim	1	Graduado	Não	3500	1658	104	360		SemiUrbano
+LP002823	M	Sim	0	Graduado	Não	5509	0	143	360	1	Rural
+LP002825	M	Sim	3	Graduado	Não	9699	0	300	360	1	Urbano
+LP002826	F	Sim	1	Não Graduado	Não	3621	2717	171	360	1	Urbano
+LP002843	F	Sim	0	Graduado	Não	4709	0	113	360	1	SemiUrbano
+LP002849	M	Sim	0	Graduado	Não	1516	1951	35	360	1	SemiUrbano
+LP002850	M	Não	2	Graduado	Não	2400	0	46	360	1	Urbano
+LP002853	F	Não	0	Não Graduado	Não	3015	2000	145	360		Urbano
+LP002856	M	Sim	0	Graduado	Não	2292	1558	119	360	1	Urbano
+LP002857	M	Sim	1	Graduado	Sim	2360	3355	87	240	1	Rural
+LP002858	F	Não	0	Graduado	Não	4333	2333	162	360	0	Rural
+LP002860	M	Sim	0	Graduado	Sim	2623	4831	122	180	1	SemiUrbano
+LP002867	M	Não	0	Graduado	Sim	3972	4275	187	360	1	Rural
+LP002869	M	Sim	4	Não Graduado	Não	3522	0	81	180	1	Rural
+LP002870	M	Sim	1	Graduado	Não	4700	0	80	360	1	Urbano
+LP002876	M	Não	0	Graduado	Não	6858	0	176	360	1	Rural
+LP002878	M	Sim	5	Graduado	Não	8334	0	260	360	1	Urbano
+LP002879	M	Sim	0	Graduado	Não	3391	1966	133	360	0	Rural
+LP002885	M	Não	0	Não Graduado	Não	2868	0	70	360	1	Urbano
+LP002890	M	Sim	2	Não Graduado	Não	3418	1380	135	360	1	Urbano
+LP002891	M	Sim	0	Graduado	Sim	2500	296	137	300	1	Rural
+LP002899	M	Sim	2	Graduado	Não	8667	0	254	360	1	Rural
+LP002901	M	Não	0	Graduado	Não	2283	15000	106	360		Rural
+LP002907	M	Sim	0	Graduado	Não	5817	910	109	360	1	Urbano
+LP002920	M	Sim	0	Graduado	Não	5119	3769	120	360	1	Rural
+LP002921	M	Sim	4	Não Graduado	Não	5316	187	158	180	0	SemiUrbano
+LP002932	M	Sim	3	Graduado	Não	7603	1213	197	360	1	Urbano
+LP002935	M	Sim	1	Graduado	Não	3791	1936	85	360	1	Urbano
+LP002952	M	Não	0	Graduado	Não	2500	0	60	360	1	Urbano
+LP002954	M	Sim	2	Não Graduado	Não	3132	0	76	360		Rural
+LP002962	M	Não	0	Graduado	Não	4000	2667	152	360	1	SemiUrbano
+LP002965	F	Sim	0	Graduado	Não	8550	4255	96	360		Urbano
+LP002969	M	Sim	1	Graduado	Não	2269	2167	99	360	1	SemiUrbano
+LP002971	M	Sim	3	Não Graduado	Sim	4009	1777	113	360	1	Urbano
+LP002975	M	Sim	0	Graduado	Não	4158	709	115	360	1	Urbano
+LP002980	M	Não	0	Graduado	Não	3250	1993	126	360		SemiUrbano
+LP002986	M	Sim	0	Graduado	Não	5000	2393	158	360	1	Rural
+LP002989	M	Não	0	Graduado	Sim	9200	0	98	180	1	Rural
