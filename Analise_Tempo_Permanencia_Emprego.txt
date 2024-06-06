@@ -1,0 +1,262 @@
+Sexo;UF;Bairro;CargoAtual;Idade;Avaliacao_de_Desempenho;Salario;FaixaDeRenda;Distanciadotrabaho;tempoPermanencia
+Masculino;RJ;BARRA DA TIJUCA;Gerente;31;71;9122;Superior;20;Mais de 3 anos
+Masculino;RJ;Santa Rosa;Assistente;27;60;1401;Fundamental;20;Até 1 ano
+Masculino;RJ;IPANEMA;Assistente;47;73;1914;Médio;8;Entre 1 e 2 anos
+Masculino;RJ;Pechincha;Assistente;47;73;1914;Médio;25;Entre 1 e 2 anos
+Masculino;RJ;IPANEMA;Analista;28;64;2297;Médio;8;Até 1 ano
+Masculino;RJ;Barra da Tijuca;Assistente;31;75;1988;Médio;20;Até 1 ano
+Masculino;RJ;BARRA DA TIJUCA;Assistente;22;72;1386;Médio;20;Até 1 ano
+Masculino;RJ;ENGENHO NOVO;Assistente;26;62;1760;Médio;8;Até 1 ano
+Masculino;RJ;BENTO RIBEIRO;Assistente;36;72;1434;Fundamental;25;Até 1 ano
+Masculino;RJ;IRAJÁ;Analista;23;73;3893;Médio;15;Mais de 3 anos
+Masculino;RJ;BARRA DA TIJUCA;Analista;28;68;2010;Médio;20;Até 1 ano
+Masculino;RJ;Centro;Assistente;40;58;1397;Fundamental;0;Até 1 ano
+Masculino;RJ;VISTA ALEGRE;Assistente;40;66;1735;Fundamental;20;Entre 1 e 2 anos
+Masculino;RJ;Barra da Tijuca;Analista;30;75;2059;Médio;20;Entre 1 e 2 anos
+Masculino;RJ;Recreio dos Bandeirantes;Analista;30;75;2059;Médio;20;Entre 1 e 2 anos
+Masculino;RJ;COPACABANA;Analista;46;76;2143;Médio;8;Entre 1 e 2 anos
+Masculino;RJ;Jacarepaguá;Analista;30;63;2595;Médio;25;Até 1 ano
+Masculino;RJ;Barra da Tijuca;Analista;30;63;2595;Médio;20;Até 1 ano
+Masculino;RJ;AGOSTINHO PORTO;Assistente;35;60;1589;Fundamental;10;Até 1 ano
+Masculino;RJ;Centro;Gerente;65;2;5211;Médio;0;Entre 1 e 2 anos
+Masculino;RJ;SÃO CRISTÓVÃO;Assistente;28;45;1539;Médio;5;Até 1 ano
+Masculino;RJ;COPACABANA;Gerente;28;50;4942;Médio;8;Até 1 ano
+Feminino;RJ;TIJUCA;Assistente;27;8;1399;Fundamental;6;Até 1 ano
+Feminino;RJ;GRAJAÚ;Analista;43;69;2137;Médio;15;Até 1 ano
+Feminino;RJ;Tijuca;Analista;28;78;3425;Médio;5;Entre 1 e 2 anos
+Masculino;RJ;Barra da Tijuca;Gerente;33;67;6363;Superior;20;Mais de 3 anos
+Masculino;RJ;Recreio dos Bandeirantes;Analista;33;67;2121;Médio;20;Até 1 ano
+Feminino;RJ;Flamengo;Analista;53;73;2947;Médio;5;Até 1 ano
+Feminino;RJ;Barra da Tijuca;Analista;32;64;2537;Médio;20;Até 1 ano
+Feminino;RJ;Barra da Tijuca;Assistente;33;68;1801;Médio;20;Até 1 ano
+Feminino;RJ;Vila da Penha;Analista;23;49;2980;Médio;20;Até 1 ano
+Feminino;RJ;COPACABANA;Assistente;56;58;1492;Fundamental;8;Até 1 ano
+Feminino;RJ;JARDIM BOTÂNICO;Assistente;44;15;1506;Médio;6;Até 1 ano
+Feminino;RJ;Lagoa;Analista;37;47;2375;Médio;8;Entre 1 e 2 anos
+Feminino;RJ;Barra da Tijuca;Analista;53;17;2543;Médio;20;Até 1 ano
+Feminino;RJ;Copacabana;Analista;38;66;3179;Médio;8;Até 1 ano
+Feminino;RJ;BARRA DA TIJUCA;Gerente;26;62;9428;Superior;20;Entre 1 e 2 anos
+Feminino;RJ;BARRA DA TIJUCA;Gerente;30;64;4729;Médio;20;Entre 1 e 2 anos
+Feminino;RJ;TIJUCA;Assistente;27;46;1398;Médio;6;Até 1 ano
+Feminino;RJ;Freguesia (Jacarepaguá);Gerente;62;78;5805;Superior;25;Mais de 3 anos
+Feminino;RJ;Icaraí;Assistente;36;29;1970;Médio;10;Até 1 ano
+Feminino;RJ;Joá;Gerente;59;27;4165;Médio;25;Até 1 ano
+Feminino;RJ;São Conrado;Diretor;25;8;17910;Superior;14;Até 1 ano
+Feminino;RJ;Jacarepaguá;Analista;38;35;2979;Médio;25;Entre 1 e 2 anos
+Masculino;RJ;Recreio dos Bandeirantes;Gerente;24;79;9689;Superior;20;Mais de 3 anos
+Masculino;RJ;Vila da Penha;Assistente;45;65;1350;Fundamental;20;Até 1 ano
+Feminino;RJ;Vila Sarapuí;Gerente;23;75;5138;Médio;40;Entre 1 e 2 anos
+Masculino;RJ;Colubande;Gerente;38;64;4275;Médio;30;Até 1 ano
+Masculino;RJ;Inga;Gerente;38;64;4275;Médio;12;Até 1 ano
+Feminino;RJ;Flamengo;Assistente;44;55;1776;Médio;5;Até 1 ano
+Feminino;RJ;Praça Tiradentes;Analista;68;49;2019;Médio;1.5;Até 1 ano
+Masculino;RJ;JARDIM GUANABARA;Assistente;35;67;1847;Médio;20;Até 1 ano
+Feminino;RJ;FREGUESIA (JACAREPAGUÁ);Analista;43;71;2784;Médio;25;Até 1 ano
+Feminino;RJ;Barra da Tijuca;Assistente;26;19;1681;Médio;20;Até 1 ano
+Masculino;RJ;Jardim Guanabara;Assistente;45;79;1849;Médio;20;Entre 1 e 2 anos
+Masculino;RJ;Recreio dos Bandeirantes;Analista;54;65;2070;Médio;20;Entre 1 e 2 anos
+Feminino;RJ;Centro;Analista;50;47;2770;Médio;0;Até 1 ano
+Masculino;RJ;Botafogo;Analista;37;80;2164;Médio;5;Até 1 ano
+Feminino;RJ;Leme;Analista;50;64;3123;Médio;8;Até 1 ano
+Feminino;RJ;COPACABANA;Assistente;50;64;1562;Fundamental;8;Até 1 ano
+Feminino;RJ;ICARAÍ;Assistente;42;7;1924;Médio;10;Até 1 ano
+Feminino;RJ;LAGOA;Gerente;44;59;4510;Médio;8;Até 1 ano
+Masculino;RJ;PECHINCHA;Analista;61;67;2104;Médio;20;Até 1 ano
+Masculino;RJ;Jardim Tiradentes;Gerente;29;64;5510;Médio;25;Entre 1 e 2 anos
+Feminino;RJ;Tijuca;Assistente;24;52;1369;Fundamental;5;Até 1 ano
+Feminino;RJ;Ingá;Gerente;36;51;5299;Médio;10;Entre 1 e 2 anos
+Masculino;RJ;BRÁS DE PINA;Analista;34;0;2334;Médio;15;Até 1 ano
+Masculino;RJ;Tomás Coelho;Analista;34;0;2334;Médio;15;Até 1 ano
+Masculino;RJ;Centro;Analista;37;14;2348;Médio;0;Entre 1 e 2 anos
+Feminino;RJ;CENTRO;Gerente;42;45;4113;Médio;0;Até 1 ano
+Feminino;RJ;COPACABANA;Assistente;109;70;1397;Médio;8;Até 1 ano
+Feminino;RJ;ICARAÍ;Assistente;36;70;1411;Médio;10;Até 1 ano
+Masculino;RJ;ICARAÍ;Assistente;65;76;1357;Médio;10;Até 1 ano
+Masculino;RJ;BANGU;Assistente;28;56;1542;Fundamental;35;Até 1 ano
+Feminino;RJ;RIO COMPRIDO;Analista;39;72;3427;Médio;3;Até 1 ano
+Masculino;RJ;VILA ANITA;Assistente;26;70;1582;Fundamental;15;Entre 1 e 2 anos
+Feminino;RJ;BARRA DA TIJUCA;Assistente;33;73;1856;Médio;20;Até 1 ano
+Feminino;RJ;MARACANÃ;Assistente;24;60;1584;Médio;5;Até 1 ano
+Feminino;RJ;CENTRO;Analista;31;16;2407;Médio;0;Até 1 ano
+Feminino;RJ;LAVAPÉS;Analista;31;16;2407;Médio;5;Até 1 ano
+Masculino;RJ;Recreio dos Bandeirantes;Assistente;40;75;1906;Médio;20;Até 1 ano
+Masculino;RJ;Centro;Assistente;109;42;1685;Fundamental;0;Até 1 ano
+Masculino;RJ;Barra da Tijuca;Assistente;109;42;1685;Médio;20;Até 1 ano
+Feminino;RJ;CENTRO;Assistente;49;39;1700;Fundamental;0;Até 1 ano
+Feminino;RJ;BARRA DA TIJUCA;Gerente;62;33;6796;Superior;20;Até 1 ano
+Masculino;RJ;Palmeiras;Assistente;38;0;1680;Fundamental;25;Até 1 ano
+Masculino;RJ;Barra da Tijuca;Assistente;33;52;1329;Fundamental;20;Até 1 ano
+Feminino;RJ;ENGENHO DE DENTRO;Assistente;53;30;1340;Fundamental;10;Até 1 ano
+Feminino;RJ;CENTRO;Analista;39;45;3780;Médio;0;Até 1 ano
+Feminino;RJ;CAJU;Assistente;42;15;1733;Fundamental;5;Até 1 ano
+Feminino;RJ;Recreio dos Bandeirantes;Analista;35;70;2142;Médio;20;Até 1 ano
+Feminino;RJ;Flamengo;Analista;32;71;2866;Médio;5;Até 1 ano
+Feminino;RJ;Barra da Tijuca;Assistente;21;75;1933;Médio;20;Entre 1 e 2 anos
+Masculino;RJ;Copacabana;Assistente;39;64;1581;Médio;8;Até 1 ano
+Masculino;RJ;Vila da Penha;Analista;51;44;2229;Médio;20;Até 1 ano
+Masculino;RJ;HIGIENÓPOLIS;Analista;44;60;2620;Médio;10;Entre 1 e 2 anos
+Feminino;RJ;Luz;Analista;37;61;3762;Médio;3;Entre 1 e 2 anos
+Feminino;RJ;DOM RODRIGO;Analista;37;61;3762;Médio;10;Entre 1 e 2 anos
+Masculino;RJ;JACAREPAGUÁ;Analista;-2;52;2104;Médio;25;Até 1 ano
+Masculino;RJ;CENTRO;Analista;21;60;2158;Médio;0;Até 1 ano
+Feminino;RJ;CACUIA;Assistente;8;74;1942;Médio;20;Até 1 ano
+Feminino;RJ;COPACABANA;Assistente;64;63;1348;Fundamental;8;Até 1 ano
+Feminino;RJ;CACHAMBI;Assistente;31;69;1350;Fundamental;10;Até 1 ano
+Feminino;RJ;Centro;Gerente;28;46;5749;Médio;0;Entre 1 e 2 anos
+Feminino;RJ;Realengo;Assistente;21;73;1451;Fundamental;35;Até 1 ano
+Feminino;RJ;VILA ISABEL;Assistente;21;73;1451;Fundamental;7;Até 1 ano
+Masculino;RJ;VILA VALQUEIRE;Assistente;29;70;1314;Superior;25;Até 1 ano
+Masculino;RJ;Centro;Analista;29;74;3515;Médio;0;Entre 1 e 2 anos
+Masculino;RJ;Leblon;Assistente;30;45;1356;Médio;8;Até 1 ano
+Masculino;RJ;Jardim Guanabara;Assistente;64;72;1621;Médio;20;Até 1 ano
+Feminino;RJ;CAMPO GRANDE;Assistente;28;42;1916;Médio;50;Até 1 ano
+Masculino;RJ;NITEROI;Analista;35;5;2648;Médio;13;Até 1 ano
+Feminino;RJ;Barra da Tijuca;Assistente;24;78;1632;Médio;20;Entre 1 e 2 anos
+Feminino;RJ;Pechincha;Assistente;24;78;1632;Fundamental;25;Entre 1 e 2 anos
+Feminino;RJ;Itaipava;Analista;25;67;2914;Médio;100;Até 1 ano
+Masculino;RJ;MÉIER;Assistente;30;73;1736;Médio;10;Até 1 ano
+Masculino;RJ;Centro;Gerente;49;73;4389;Médio;0;Mais de 3 anos
+Masculino;RJ;JARDIM SÃO JOÃO;Assistente;49;73;1463;Fundamental;25;Até 1 ano
+Masculino;RJ;Vila da Penha;Assistente;18;74;1786;Médio;20;Até 1 ano
+Masculino;RJ;Recreio dos Bandeirantes;Assistente;33;70;1902;Médio;20;Até 1 ano
+Masculino;RJ;Rio de Janeiro;Analista;22;56;3127;Médio;5;Até 1 ano
+Masculino;RJ;Humaitá;Assistente;28;50;1979;Médio;6;Até 1 ano
+Masculino;RJ;Botafogo;Assistente;55;49;1683;Médio;5;Até 1 ano
+Masculino;RJ;Vila da Penha;Assistente;45;51;1506;Fundamental;20;Até 1 ano
+Masculino;RJ;Barra da Tijuca;Analista;29;34;2320;Médio;20;Até 1 ano
+Masculino;RJ;Freguesia (Jacarepaguá);Analista;39;73;2331;Médio;25;Até 1 ano
+Masculino;RJ;Santa Cecília;Assistente;29;46;1811;Médio;5;Até 1 ano
+Masculino;RJ;Inga;Assistente;27;73;1528;Médio;12;Até 1 ano
+Masculino;RJ;Campo Grande;Analista;35;63;3954;Médio;50;Entre 1 e 2 anos
+Masculino;RJ;Brás de Pina;Diretor;29;0;16435;Superior;15;Entre 1 e 2 anos
+Masculino;RJ;Tomás Coelho;Gerente;29;0;5478;Médio;15;Até 1 ano
+Masculino;RJ;Centro;Assistente;25;10;1346;Fundamental;0;Até 1 ano
+Masculino;RJ;Guadalupe;Analista;27;27;2982;Médio;25;Entre 1 e 2 anos
+Feminino;RJ;Centro;Gerente;28;68;4779;Médio;0;Mais de 3 anos
+Masculino;RJ;PIRATININGA;Assistente;26;0;1335;Fundamental;20;Até 1 ano
+Feminino;RJ;Riachuelo;Analista;29;2;3043;Médio;8;Até 1 ano
+Masculino;RJ;Santa Cruz;Analista;20;73;2691;Médio;50;Entre 1 e 2 anos
+Feminino;RJ;Centro;Assistente;33;64;1688;Fundamental;0;Até 1 ano
+Feminino;RJ;Centro;Assistente;52;59;1427;Médio;0;Até 1 ano
+Masculino;RJ;Barra da Tijuca;Analista;27;76;2739;Médio;20;Entre 1 e 2 anos
+Masculino;RJ;Parque Turf Club;Assistente;50;68;1693;Fundamental;15;Até 1 ano
+Feminino;RJ;Botafogo;Analista;26;2;3971;Médio;5;Até 1 ano
+Feminino;RJ;Gávea;Analista;26;2;3971;Médio;10;Até 1 ano
+Masculino;RJ;Andaraí;Gerente;35;66;4713;Médio;7;Entre 1 e 2 anos
+Masculino;RJ;Centro;Analista;43;44;2948;Médio;0;Entre 1 e 2 anos
+Masculino;RJ;Fonseca;Assistente;43;44;1474;Fundamental;10;Até 1 ano
+Masculino;RJ;Parque Turf Club;Analista;27;67;2216;Médio;15;Até 1 ano
+Masculino;RJ;Irajá;Analista;30;30;3367;Médio;20;Até 1 ano
+Masculino;RJ;Brás de Pina;Analista;30;30;3367;Médio;15;Até 1 ano
+Feminino;RJ;Engenho da Rainha;Gerente;31;32;6004;Médio;15;Até 1 ano
+Masculino;RJ;Trindade;Diretor;36;57;12244;Superior;15;Mais de 3 anos
+Masculino;RJ;Centro;Diretor;36;57;12244;Superior;0;Mais de 3 anos
+Feminino;RJ;Lagoa;Gerente;26;48;6603;Superior;8;Entre 1 e 2 anos
+Masculino;RJ;Pavuna;Analista;26;58;2034;Fundamental;30;Até 1 ano
+Masculino;RJ;RIO COMPRIDO;Analista;57;66;2492;Médio;3;Entre 1 e 2 anos
+Masculino;RJ;Maracanã;Assistente;53;62;1473;Médio;5;Até 1 ano
+Masculino;RJ;Barra da Tijuca;Analista;44;6;2446;Médio;20;Até 1 ano
+Masculino;RJ;Centro;Analista;44;6;2446;Médio;0;Até 1 ano
+Masculino;RJ;Taquara;Assistente;22;72;1580;Fundamental;30;Até 1 ano
+Masculino;RJ;Vila da Penha;Assistente;22;72;1580;Fundamental;20;Até 1 ano
+Masculino;RJ;Penha Circular;Analista;38;71;2295;Médio;15;Entre 1 e 2 anos
+Masculino;RJ;Pavuna;Analista;59;0;2878;Fundamental;30;Até 1 ano
+Masculino;RJ;Pendotiba;Assistente;28;76;1975;Médio;20;Até 1 ano
+Masculino;RJ;Fonseca;Analista;19;37;3221;Médio;10;Entre 1 e 2 anos
+Masculino;RJ;Centro;Analista;27;43;2012;Médio;0;Até 1 ano
+Feminino;RJ;Barra da Tijuca;Assistente;55;2;1962;Médio;20;Até 1 ano
+Feminino;RJ;Rocha;Assistente;55;2;1962;Médio;5;Até 1 ano
+Feminino;RJ;Lagoa;Assistente;58;72;1483;Médio;8;Até 1 ano
+Feminino;RJ;Jardim Guanabara;Assistente;59;66;1432;Médio;20;Até 1 ano
+Feminino;RJ;Pechincha;Assistente;34;51;1788;Médio;25;Até 1 ano
+Masculino;RJ;Taquara;Assistente;37;21;1943;Médio;30;Até 1 ano
+Masculino;RJ;Barra da Tijuca;Analista;38;58;2097;Médio;20;Até 1 ano
+Masculino;RJ;Centro;Assistente;58;57;1577;Fundamental;0;Até 1 ano
+Masculino;RJ;Vila São Luis;Analista;52;53;2679;Médio;25;Até 1 ano
+Masculino;RJ;Laranjeiras;Assistente;23;77;1408;Médio;5;Até 1 ano
+Masculino;RJ;Anchieta;Analista;21;4;2994;Médio;25;Entre 1 e 2 anos
+Masculino;RJ;São Francisco;Analista;34;66;2138;Médio;10;Até 1 ano
+Masculino;RJ;Irajá;Analista;27;1;2032;Médio;20;Até 1 ano
+Masculino;RJ;Vicente de Carvalho;Analista;27;1;2032;Médio;25;Até 1 ano
+Masculino;RJ;Leblon;Assistente;58;60;1586;Médio;8;Até 1 ano
+Masculino;RJ;Madureira;Gerente;81;0;6598;Médio;15;Até 1 ano
+Feminino;RJ;Barra da Tijuca;Assistente;60;46;1722;Médio;20;Até 1 ano
+Masculino;RJ;Centro;Assistente;29;21;1479;Fundamental;0;Até 1 ano
+Feminino;RJ;Leblon;Analista;44;3;3744;Superior;8;Até 1 ano
+Feminino;RJ;Barra da Tijuca;Analista;59;33;2294;Médio;20;Até 1 ano
+Masculino;RJ;barra da tijuca;Gerente;43;63;4644;Superior;20;Até 1 ano
+Feminino;RJ;São Francisco;Gerente;38;66;7223;Superior;10;Mais de 3 anos
+Feminino;RJ;Ingá;Assistente;82;0;1723;Médio;10;Até 1 ano
+Feminino;RJ;Quintino Bocaiúva;Assistente;82;0;1723;Médio;20;Até 1 ano
+Masculino;RJ;Centro;Gerente;26;27;4161;Médio;0;Entre 1 e 2 anos
+Feminino;RJ;Prata;Analista;33;54;2323;Médio;30;Até 1 ano
+Masculino;RJ;Tijuca;Analista;31;9;3212;Médio;5;Entre 1 e 2 anos
+Masculino;RJ;Camorim;Assistente;27;56;1463;Fundamental;35;Até 1 ano
+Masculino;RJ;Guadalupe;Assistente;27;58;1505;Médio;25;Até 1 ano
+Masculino;RJ;Centro;Analista;54;57;2894;Médio;0;Entre 1 e 2 anos
+Masculino;RJ;Anil;Analista;54;57;2894;Médio;20;Entre 1 e 2 anos
+Feminino;RJ;Braz de Pina;Analista;34;0;3337;Médio;15;Até 1 ano
+Masculino;RJ;Copacabana;Gerente;47;77;6226;Médio;8;Mais de 3 anos
+Masculino;RJ;Da Viga;Analista;23;23;2877;Médio;5;Entre 1 e 2 anos
+Masculino;RJ;Centro;Assistente;35;51;1301;Fundamental;0;Até 1 ano
+Masculino;RJ;Bangu;Assistente;29;1;1656;Fundamental;35;Até 1 ano
+Feminino;RJ;Lins de Vasconcelos;Assistente;20;7;1308;Fundamental;10;Até 1 ano
+Feminino;RJ;Gávea;Assistente;39;18;1448;Médio;10;Até 1 ano
+Masculino;RJ;Centro;Analista;24;3;2590;Médio;0;Até 1 ano
+Feminino;RJ;Botafogo;Analista;48;71;2341;Médio;5;Até 1 ano
+Masculino;RJ;Guarani;Assistente;57;51;1777;Médio;30;Até 1 ano
+Masculino;RJ;Ricardo de Albuquerque;Analista;24;59;2303;Fundamental;30;Até 1 ano
+Feminino;RJ;Barra da Tijuca;Assistente;56;47;1308;Fundamental;20;Até 1 ano
+Masculino;RJ;Praça Seca;Analista;26;59;2553;Médio;12;Até 1 ano
+Masculino;RJ;Jardim Botânico;Assistente;29;59;1419;Médio;6;Até 1 ano
+Masculino;RJ;Centro;Analista;40;38;3678;Médio;0;Até 1 ano
+Masculino;RJ;Pendotiba;Assistente;40;38;1839;Médio;20;Até 1 ano
+Feminino;RJ;Barra da Tijuca;Assistente;35;50;1739;Médio;20;Até 1 ano
+Masculino;RJ;Alto da Boa Vista;Analista;55;77;2563;Médio;15;Até 1 ano
+Feminino;RJ;Parque São Bernardo;Analista;32;1;2094;Médio;35;Até 1 ano
+Feminino;RJ;centro;Assistente;52;68;1514;Fundamental;0;Até 1 ano
+Masculino;RJ;Méier;Assistente;30;65;1432;Fundamental;10;Até 1 ano
+Masculino;RJ;Frade (Cunhambebe);Assistente;57;16;1967;Médio;160;Até 1 ano
+Feminino;RJ;Ipanema;Assistente;62;1;1550;Médio;8;Até 1 ano
+Feminino;RJ;Jardim Botânico;Analista;56;70;2048;Médio;6;Até 1 ano
+Feminino;RJ;Magalhães Bastos;Assistente;31;66;1880;Médio;35;Até 1 ano
+Masculino;RJ;Centro;Analista;28;0;2069;Médio;0;Até 1 ano
+Masculino;RJ;Ipanema;Assistente;23;76;1459;Médio;8;Até 1 ano
+Feminino;RJ;Centro;Analista;30;62;2755;Médio;0;Até 1 ano
+Feminino;RJ;Copacabana;Analista;56;67;2118;Médio;8;Até 1 ano
+Masculino;RJ;Botafogo;Analista;35;75;3116;Médio;5;Entre 1 e 2 anos
+Masculino;RJ;Copacabana;Analista;35;75;3116;Médio;8;Entre 1 e 2 anos
+Feminino;RJ;Flamengo;Assistente;31;66;1895;Médio;5;Até 1 ano
+Feminino;RJ;Flamengo;Analista;27;78;2162;Médio;5;Até 1 ano
+Masculino;RJ;Centro;Assistente;23;48;1344;Fundamental;0;Até 1 ano
+Feminino;RJ;Campo Grande;Assistente;61;10;1476;Fundamental;50;Até 1 ano
+Masculino;RJ;Centro;Assistente;28;39;1315;Fundamental;0;Até 1 ano
+Feminino;RJ;Fonseca;Gerente;36;28;4700;Médio;10;Entre 1 e 2 anos
+Masculino;RJ;Praça Seca;Assistente;23;69;1611;Fundamental;12;Até 1 ano
+Masculino;RJ;Centro;Assistente;67;56;1434;Fundamental;0;Até 1 ano
+Masculino;RJ;Del Castilho;Analista;28;37;2301;Médio;10;Até 1 ano
+Feminino;RJ;Braz de Pina;Analista;55;0;2925;Médio;15;Até 1 ano
+Feminino;RJ;São Cristóvão;Assistente;30;77;1341;Fundamental;5;Até 1 ano
+Feminino;RJ;Recreio dos Bandeirantes;Gerente;30;32;6180;Médio;20;Mais de 3 anos
+Feminino;RJ;Barra da Tijuca;Analista;30;32;3090;Médio;20;Entre 1 e 2 anos
+Feminino;RJ;Barra da Tijuca;Analista;33;1;3928;Médio;20;Até 1 ano
+Feminino;RJ;Realengo;Assistente;30;69;1921;Fundamental;35;Até 1 ano
+Masculino;RJ;VINHOSA;Analista;28;48;2635;Médio;10;Até 1 ano
+Masculino;RJ;Ibicui;Analista;33;62;2344;Médio;120;Até 1 ano
+Feminino;RJ;Jardim Vila Nova;Assistente;30;34;1601;Médio;25;Até 1 ano
+Masculino;RJ;Centro;Analista;61;0;2393;Médio;0;Até 1 ano
+Masculino;RJ;Porto Da Aldeia;Analista;61;0;2393;Médio;160;Até 1 ano
+Feminino;RJ;Braz de Pina;Analista;23;0;2296;Médio;15;Até 1 ano
+Feminino;RJ;MURIQUI;Analista;32;35;2459;Médio;60;Até 1 ano
+Masculino;RJ;Cancela Preta;Assistente;47;58;1394;Fundamental;30;Até 1 ano
+Masculino;RJ;Copacabana;Analista;27;0;3592;Médio;8;Até 1 ano
+Masculino;RJ;Guadalupe;Gerente;38;14;4250;Médio;25;Até 1 ano
+Masculino;RJ;Itanhangá;Analista;38;14;2125;Médio;25;Até 1 ano
+Masculino;RJ;Conselheiro Paulino;Analista;33;26;2660;Médio;140;Até 1 ano
+Masculino;RJ;Centro;Assistente;22;0;1540;Fundamental;0;Até 1 ano
+Masculino;RJ;vilatur;Assistente;32;0;1313;Médio;100;Até 1 ano
+Feminino;RJ;Centro;Assistente;35;44;1348;Fundamental;0;Até 1 ano
+Feminino;RJ;Barro Vermelho;Assistente;36;16;1336;Fundamental;25;Até 1 ano
+Masculino;RJ;boqueirao;Assistente;34;4;1751;Médio;40;Até 1 ano
+Masculino;RJ;Ramos;Analista;30;20;2432;Médio;10;Até 1 ano
+Feminino;RJ;Campo Grande;Assistente;53;0;1414;Médio;50;Até 1 ano
