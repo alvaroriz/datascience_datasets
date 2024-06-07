@@ -1,0 +1,389 @@
+Data	Codigo_Atendimento	Código Marca	Marca	Código Modelo	Modelo	Código Defeito	Defeito	Código Grupo Defeito	Grupo Defeito
+30/01/2019	TC123376	1	Apple	1	Iphone 5s	1	Display Quebrado	1	Display
+09/02/2019	TC123376	1	Apple	1	Iphone 5s	1	Display Quebrado	1	Display
+16/04/2019	TC123397	2	Motorola	2	Moto G8 Play	1	Display Quebrado	1	Display
+08/05/2019	TC123484	2	Motorola	2	Moto G8 Play	1	Display Quebrado	1	Display
+21/09/2019	TC123653	3	Samsung	3	Galaxy S9	2	Microfone	2	Microfone
+09/06/2019	TC123655	3	Samsung	4	Galaxy A70	1	Display Quebrado	1	Display
+22/03/2019	TC123655	3	Samsung	4	Galaxy A70	3	Sem Sinal de Celular	3	Sem sinal
+29/05/2019	TC123680	2	Motorola	5	One Hyper	4	Auto Falante Viva-Voz	4	Auto Falante
+09/01/2019	TC123680	2	Motorola	5	One Hyper	4	Auto Falante Viva-Voz	4	Auto Falante
+29/06/2019	TC123680	2	Motorola	5	One Hyper	5	Não Liga	5	Não Liga
+01/07/2019	TC123695	3	Samsung	4	Galaxy A70	6	Auto Falante Dianteiro	4	Auto Falante
+14/10/2019	TC123695	3	Samsung	4	Galaxy A70	1	Display Quebrado	1	Display
+26/05/2019	TC123738	4	Xiaomi	6	Mi 9T	3	Sem Sinal de Celular	3	Sem sinal
+31/10/2019	TC123782	2	Motorola	7	Moto E6 PLUS	1	Display Quebrado	1	Display
+28/08/2019	TC123782	2	Motorola	7	Moto E6 PLUS	1	Display Quebrado	1	Display
+17/05/2019	TC123782	2	Motorola	7	Moto E6 PLUS	5	Não Liga	5	Não Liga
+15/05/2019	TC123786	4	Xiaomi	6	Mi 9T	6	Auto Falante Dianteiro	4	Auto Falante
+11/05/2019	TC123786	4	Xiaomi	6	Mi 9T	2	Microfone	2	Microfone
+26/07/2019	TC123786	4	Xiaomi	6	Mi 9T	5	Não Liga	5	Não Liga
+12/05/2019	TC123786	4	Xiaomi	6	Mi 9T	3	Sem Sinal de Celular	3	Sem sinal
+31/05/2019	TC123786	4	Xiaomi	6	Mi 9T	3	Sem Sinal de Celular	3	Sem sinal
+06/09/2019	TC123832	3	Samsung	3	Galaxy S9	4	Auto Falante Viva-Voz	4	Auto Falante
+22/07/2019	TC123833	4	Xiaomi	8	Redmi Note 8	5	Não Liga	5	Não Liga
+20/08/2019	TC123895	3	Samsung	4	Galaxy A70	1	Display Quebrado	1	Display
+29/04/2019	TC123895	3	Samsung	4	Galaxy A70	5	Não Liga	5	Não Liga
+02/02/2019	TC124044	2	Motorola	5	One Hyper	1	Display Quebrado	1	Display
+16/10/2019	TC124091	2	Motorola	2	Moto G8 Play	4	Auto Falante Viva-Voz	4	Auto Falante
+19/02/2019	TC124162	1	Apple	9	Iphone 7	1	Display Quebrado	1	Display
+07/01/2019	TC124162	1	Apple	9	Iphone 7	7	Lente Camera Traseira	6	Câmera
+12/08/2019	TC124188	3	Samsung	4	Galaxy A70	4	Auto Falante Viva-Voz	4	Auto Falante
+28/10/2019	TC124188	3	Samsung	4	Galaxy A70	8	Botão De Power	7	Botões
+01/01/2019	TC124205	4	Xiaomi	6	Mi 9T	2	Microfone	2	Microfone
+15/09/2019	TC124207	2	Motorola	2	Moto G8 Play	4	Auto Falante Viva-Voz	4	Auto Falante
+25/02/2019	TC124207	2	Motorola	2	Moto G8 Play	9	Carcaça Quebrada	8	Carcaça
+09/04/2019	TC124207	2	Motorola	2	Moto G8 Play	1	Display Quebrado	1	Display
+16/08/2019	TC124221	2	Motorola	2	Moto G8 Play	10	Capa dianteira	8	Carcaça
+22/07/2019	TC124221	2	Motorola	2	Moto G8 Play	5	Não Liga	5	Não Liga
+06/10/2019	TC124221	2	Motorola	2	Moto G8 Play	3	Sem Sinal de Celular	3	Sem sinal
+29/10/2019	TC124221	2	Motorola	2	Moto G8 Play	3	Sem Sinal de Celular	3	Sem sinal
+16/10/2019	TC124350	4	Xiaomi	6	Mi 9T	9	Carcaça Quebrada	8	Carcaça
+12/08/2019	TC124350	4	Xiaomi	6	Mi 9T	2	Microfone	2	Microfone
+02/06/2019	TC124416	3	Samsung	4	Galaxy A70	9	Carcaça Quebrada	8	Carcaça
+15/06/2019	TC124507	2	Motorola	2	Moto G8 Play	1	Display Quebrado	1	Display
+07/08/2019	TC124548	4	Xiaomi	8	Redmi Note 8	2	Microfone	2	Microfone
+25/06/2019	TC124558	2	Motorola	7	Moto E6 PLUS	6	Auto Falante Dianteiro	4	Auto Falante
+19/05/2019	TC124597	2	Motorola	7	Moto E6 PLUS	1	Display Quebrado	1	Display
+09/09/2019	TC124597	2	Motorola	7	Moto E6 PLUS	3	Sem Sinal de Celular	3	Sem sinal
+04/01/2019	TC124673	1	Apple	9	Iphone 7	11	Botão de Diminuir Volume	7	Botões
+05/01/2019	TC124676	4	Xiaomi	6	Mi 9T	6	Auto Falante Dianteiro	4	Auto Falante
+28/05/2019	TC124704	1	Apple	1	Iphone 5s	6	Auto Falante Dianteiro	4	Auto Falante
+08/02/2019	TC124704	1	Apple	1	Iphone 5s	3	Sem Sinal de Celular	3	Sem sinal
+23/02/2019	TC124719	1	Apple	9	Iphone 7	3	Sem Sinal de Celular	3	Sem sinal
+29/03/2019	TC124744	3	Samsung	4	Galaxy A70	1	Display Quebrado	1	Display
+19/03/2019	TC124747	2	Motorola	7	Moto E6 PLUS	1	Display Quebrado	1	Display
+12/02/2019	TC124748	3	Samsung	4	Galaxy A70	12	Lente Câmera Dianteira	6	Câmera
+11/10/2019	TC125051	4	Xiaomi	8	Redmi Note 8	1	Display Quebrado	1	Display
+27/08/2019	TC125085	2	Motorola	5	One Hyper	10	Capa dianteira	8	Carcaça
+22/10/2019	TC125085	2	Motorola	5	One Hyper	1	Display Quebrado	1	Display
+05/03/2019	TC125085	2	Motorola	5	One Hyper	5	Não Liga	5	Não Liga
+08/07/2019	TC125085	2	Motorola	5	One Hyper	3	Sem Sinal de Celular	3	Sem sinal
+05/07/2019	TC125161	1	Apple	9	Iphone 7	4	Auto Falante Viva-Voz	4	Auto Falante
+02/08/2019	TC125161	1	Apple	9	Iphone 7	1	Display Quebrado	1	Display
+25/06/2019	TC125161	1	Apple	9	Iphone 7	2	Microfone	2	Microfone
+31/10/2019	TC125184	4	Xiaomi	8	Redmi Note 8	6	Auto Falante Dianteiro	4	Auto Falante
+15/06/2019	TC125184	4	Xiaomi	8	Redmi Note 8	3	Sem Sinal de Celular	3	Sem sinal
+15/05/2019	TC125184	4	Xiaomi	8	Redmi Note 8	3	Sem Sinal de Celular	3	Sem sinal
+21/05/2019	TC125184	4	Xiaomi	8	Redmi Note 8	3	Sem Sinal de Celular	3	Sem sinal
+04/04/2019	TC125200	4	Xiaomi	6	Mi 9T	13	Capa Traseira	8	Carcaça
+25/04/2019	TC125221	2	Motorola	7	Moto E6 PLUS	13	Capa Traseira	8	Carcaça
+24/09/2019	TC125221	2	Motorola	7	Moto E6 PLUS	1	Display Quebrado	1	Display
+05/03/2019	TC125221	2	Motorola	7	Moto E6 PLUS	5	Não Liga	5	Não Liga
+28/07/2019	TC125221	2	Motorola	7	Moto E6 PLUS	3	Sem Sinal de Celular	3	Sem sinal
+21/02/2019	TC125242	4	Xiaomi	8	Redmi Note 8	1	Display Quebrado	1	Display
+22/05/2019	TC125242	4	Xiaomi	8	Redmi Note 8	1	Display Quebrado	1	Display
+07/09/2019	TC125284	4	Xiaomi	6	Mi 9T	1	Display Quebrado	1	Display
+05/03/2019	TC125284	4	Xiaomi	6	Mi 9T	1	Display Quebrado	1	Display
+29/09/2019	TC125312	4	Xiaomi	8	Redmi Note 8	6	Auto Falante Dianteiro	4	Auto Falante
+24/09/2019	TC125361	2	Motorola	7	Moto E6 PLUS	6	Auto Falante Dianteiro	4	Auto Falante
+14/02/2019	TC125361	2	Motorola	7	Moto E6 PLUS	4	Auto Falante Viva-Voz	4	Auto Falante
+05/03/2019	TC125361	2	Motorola	7	Moto E6 PLUS	8	Botão De Power	7	Botões
+05/08/2019	TC125361	2	Motorola	7	Moto E6 PLUS	1	Display Quebrado	1	Display
+09/09/2019	TC125381	2	Motorola	2	Moto G8 Play	1	Display Quebrado	1	Display
+13/04/2019	TC125462	2	Motorola	2	Moto G8 Play	5	Não Liga	5	Não Liga
+17/06/2019	TC125505	3	Samsung	4	Galaxy A70	1	Display Quebrado	1	Display
+20/02/2019	TC125505	3	Samsung	4	Galaxy A70	3	Sem Sinal de Celular	3	Sem sinal
+23/04/2019	TC125507	2	Motorola	2	Moto G8 Play	4	Auto Falante Viva-Voz	4	Auto Falante
+20/08/2019	TC125507	2	Motorola	2	Moto G8 Play	2	Microfone	2	Microfone
+26/03/2019	TC125599	3	Samsung	4	Galaxy A70	4	Auto Falante Viva-Voz	4	Auto Falante
+18/08/2019	TC125599	3	Samsung	4	Galaxy A70	1	Display Quebrado	1	Display
+09/01/2019	TC125733	1	Apple	9	Iphone 7	3	Sem Sinal de Celular	3	Sem sinal
+12/08/2019	TC125733	1	Apple	9	Iphone 7	3	Sem Sinal de Celular	3	Sem sinal
+19/06/2019	TC125778	2	Motorola	5	One Hyper	1	Display Quebrado	1	Display
+13/09/2019	TC125778	2	Motorola	5	One Hyper	3	Sem Sinal de Celular	3	Sem sinal
+21/08/2019	TC125799	2	Motorola	7	Moto E6 PLUS	8	Botão De Power	7	Botões
+13/01/2019	TC125799	2	Motorola	7	Moto E6 PLUS	9	Carcaça Quebrada	8	Carcaça
+02/08/2019	TC125799	2	Motorola	7	Moto E6 PLUS	3	Sem Sinal de Celular	3	Sem sinal
+08/07/2019	TC125870	3	Samsung	4	Galaxy A70	5	Não Liga	5	Não Liga
+03/03/2019	TC125925	1	Apple	9	Iphone 7	10	Capa dianteira	8	Carcaça
+28/01/2019	TC125925	1	Apple	9	Iphone 7	5	Não Liga	5	Não Liga
+25/03/2019	TC125946	3	Samsung	4	Galaxy A70	1	Display Quebrado	1	Display
+05/06/2019	TC125946	3	Samsung	4	Galaxy A70	2	Microfone	2	Microfone
+18/06/2019	TC126028	3	Samsung	4	Galaxy A70	2	Microfone	2	Microfone
+11/10/2019	TC126124	2	Motorola	2	Moto G8 Play	1	Display Quebrado	1	Display
+31/05/2019	TC126183	2	Motorola	7	Moto E6 PLUS	14	Botão De Aumentar Volume	7	Botões
+24/10/2019	TC126183	2	Motorola	7	Moto E6 PLUS	5	Não Liga	5	Não Liga
+31/05/2019	TC126183	2	Motorola	7	Moto E6 PLUS	3	Sem Sinal de Celular	3	Sem sinal
+17/09/2019	TC126228	2	Motorola	2	Moto G8 Play	3	Sem Sinal de Celular	3	Sem sinal
+25/09/2019	TC126274	4	Xiaomi	8	Redmi Note 8	6	Auto Falante Dianteiro	4	Auto Falante
+20/05/2019	TC126328	3	Samsung	4	Galaxy A70	6	Auto Falante Dianteiro	4	Auto Falante
+24/02/2019	TC126328	3	Samsung	4	Galaxy A70	4	Auto Falante Viva-Voz	4	Auto Falante
+31/08/2019	TC126328	3	Samsung	4	Galaxy A70	1	Display Quebrado	1	Display
+23/05/2019	TC126328	3	Samsung	4	Galaxy A70	2	Microfone	2	Microfone
+11/08/2019	TC126400	1	Apple	1	Iphone 5s	1	Display Quebrado	1	Display
+11/10/2019	TC126400	1	Apple	1	Iphone 5s	1	Display Quebrado	1	Display
+01/06/2019	TC126465	2	Motorola	2	Moto G8 Play	6	Auto Falante Dianteiro	4	Auto Falante
+07/10/2019	TC126465	2	Motorola	2	Moto G8 Play	5	Não Liga	5	Não Liga
+27/10/2019	TC126465	2	Motorola	2	Moto G8 Play	5	Não Liga	5	Não Liga
+01/05/2019	TC126582	1	Apple	1	Iphone 5s	1	Display Quebrado	1	Display
+17/02/2019	TC126582	1	Apple	1	Iphone 5s	3	Sem Sinal de Celular	3	Sem sinal
+14/04/2019	TC126620	3	Samsung	4	Galaxy A70	3	Sem Sinal de Celular	3	Sem sinal
+20/04/2019	TC126704	3	Samsung	3	Galaxy S9	3	Sem Sinal de Celular	3	Sem sinal
+05/08/2019	TC126796	2	Motorola	7	Moto E6 PLUS	4	Auto Falante Viva-Voz	4	Auto Falante
+19/09/2019	TC126796	2	Motorola	7	Moto E6 PLUS	4	Auto Falante Viva-Voz	4	Auto Falante
+03/01/2019	TC126796	2	Motorola	7	Moto E6 PLUS	5	Não Liga	5	Não Liga
+01/04/2019	TC126863	4	Xiaomi	6	Mi 9T	6	Auto Falante Dianteiro	4	Auto Falante
+02/04/2019	TC126863	4	Xiaomi	6	Mi 9T	5	Não Liga	5	Não Liga
+20/02/2019	TC126921	3	Samsung	4	Galaxy A70	6	Auto Falante Dianteiro	4	Auto Falante
+14/01/2019	TC126952	3	Samsung	3	Galaxy S9	1	Display Quebrado	1	Display
+08/05/2019	TC126952	3	Samsung	3	Galaxy S9	3	Sem Sinal de Celular	3	Sem sinal
+27/07/2019	TC127011	3	Samsung	4	Galaxy A70	4	Auto Falante Viva-Voz	4	Auto Falante
+27/05/2019	TC127011	3	Samsung	4	Galaxy A70	9	Carcaça Quebrada	8	Carcaça
+07/02/2019	TC127011	3	Samsung	4	Galaxy A70	2	Microfone	2	Microfone
+12/06/2019	TC127040	3	Samsung	4	Galaxy A70	5	Não Liga	5	Não Liga
+11/03/2019	TC127063	3	Samsung	4	Galaxy A70	4	Auto Falante Viva-Voz	4	Auto Falante
+26/07/2019	TC127063	3	Samsung	4	Galaxy A70	1	Display Quebrado	1	Display
+17/07/2019	TC127072	3	Samsung	4	Galaxy A70	7	Lente Camera Traseira	6	Câmera
+25/01/2019	TC127072	3	Samsung	4	Galaxy A70	5	Não Liga	5	Não Liga
+25/08/2019	TC127092	1	Apple	9	Iphone 7	13	Capa Traseira	8	Carcaça
+04/08/2019	TC127092	1	Apple	9	Iphone 7	1	Display Quebrado	1	Display
+08/02/2019	TC127092	1	Apple	9	Iphone 7	5	Não Liga	5	Não Liga
+03/09/2019	TC127144	4	Xiaomi	8	Redmi Note 8	12	Lente Câmera Dianteira	6	Câmera
+09/04/2019	TC127144	4	Xiaomi	8	Redmi Note 8	3	Sem Sinal de Celular	3	Sem sinal
+20/01/2019	TC127151	4	Xiaomi	8	Redmi Note 8	5	Não Liga	5	Não Liga
+05/09/2019	TC127159	1	Apple	9	Iphone 7	1	Display Quebrado	1	Display
+14/03/2019	TC127324	2	Motorola	2	Moto G8 Play	9	Carcaça Quebrada	8	Carcaça
+02/05/2019	TC127386	4	Xiaomi	8	Redmi Note 8	1	Display Quebrado	1	Display
+01/05/2019	TC127386	4	Xiaomi	8	Redmi Note 8	5	Não Liga	5	Não Liga
+26/04/2019	TC127400	1	Apple	9	Iphone 7	6	Auto Falante Dianteiro	4	Auto Falante
+13/06/2019	TC127485	4	Xiaomi	6	Mi 9T	4	Auto Falante Viva-Voz	4	Auto Falante
+26/01/2019	TC127485	4	Xiaomi	6	Mi 9T	5	Não Liga	5	Não Liga
+11/01/2019	TC127509	2	Motorola	2	Moto G8 Play	1	Display Quebrado	1	Display
+15/01/2019	TC127548	1	Apple	9	Iphone 7	9	Carcaça Quebrada	8	Carcaça
+26/03/2019	TC127640	3	Samsung	3	Galaxy S9	4	Auto Falante Viva-Voz	4	Auto Falante
+07/06/2019	TC127640	3	Samsung	3	Galaxy S9	1	Display Quebrado	1	Display
+17/01/2019	TC127640	3	Samsung	3	Galaxy S9	2	Microfone	2	Microfone
+24/08/2019	TC127665	1	Apple	1	Iphone 5s	5	Não Liga	5	Não Liga
+25/01/2019	TC127722	2	Motorola	2	Moto G8 Play	1	Display Quebrado	1	Display
+08/02/2019	TC127722	2	Motorola	2	Moto G8 Play	5	Não Liga	5	Não Liga
+22/05/2019	TC127722	2	Motorola	2	Moto G8 Play	3	Sem Sinal de Celular	3	Sem sinal
+03/08/2019	TC127722	2	Motorola	2	Moto G8 Play	3	Sem Sinal de Celular	3	Sem sinal
+10/09/2019	TC127807	3	Samsung	4	Galaxy A70	4	Auto Falante Viva-Voz	4	Auto Falante
+22/10/2019	TC127807	3	Samsung	4	Galaxy A70	1	Display Quebrado	1	Display
+18/02/2019	TC127807	3	Samsung	4	Galaxy A70	1	Display Quebrado	1	Display
+16/07/2019	TC127807	3	Samsung	4	Galaxy A70	2	Microfone	2	Microfone
+03/10/2019	TC127807	3	Samsung	4	Galaxy A70	5	Não Liga	5	Não Liga
+28/02/2019	TC127815	2	Motorola	2	Moto G8 Play	4	Auto Falante Viva-Voz	4	Auto Falante
+14/07/2019	TC127815	2	Motorola	2	Moto G8 Play	4	Auto Falante Viva-Voz	4	Auto Falante
+04/10/2019	TC127876	2	Motorola	2	Moto G8 Play	1	Display Quebrado	1	Display
+06/04/2019	TC127876	2	Motorola	2	Moto G8 Play	5	Não Liga	5	Não Liga
+07/07/2019	TC127876	2	Motorola	2	Moto G8 Play	5	Não Liga	5	Não Liga
+18/01/2019	TC127884	2	Motorola	2	Moto G8 Play	1	Display Quebrado	1	Display
+20/08/2019	TC127896	4	Xiaomi	6	Mi 9T	4	Auto Falante Viva-Voz	4	Auto Falante
+16/01/2019	TC127896	4	Xiaomi	6	Mi 9T	1	Display Quebrado	1	Display
+25/04/2019	TC127907	3	Samsung	3	Galaxy S9	1	Display Quebrado	1	Display
+09/07/2019	TC127924	3	Samsung	3	Galaxy S9	1	Display Quebrado	1	Display
+28/09/2019	TC127931	3	Samsung	4	Galaxy A70	4	Auto Falante Viva-Voz	4	Auto Falante
+31/03/2019	TC127931	3	Samsung	4	Galaxy A70	1	Display Quebrado	1	Display
+10/06/2019	TC127931	3	Samsung	4	Galaxy A70	3	Sem Sinal de Celular	3	Sem sinal
+02/10/2019	TC128329	4	Xiaomi	6	Mi 9T	3	Sem Sinal de Celular	3	Sem sinal
+28/06/2019	TC128694	2	Motorola	5	One Hyper	6	Auto Falante Dianteiro	4	Auto Falante
+30/07/2019	TC128694	2	Motorola	5	One Hyper	14	Botão De Aumentar Volume	7	Botões
+27/04/2019	TC128694	2	Motorola	5	One Hyper	12	Lente Câmera Dianteira	6	Câmera
+26/04/2019	TC128694	2	Motorola	5	One Hyper	3	Sem Sinal de Celular	3	Sem sinal
+13/05/2019	TC128732	3	Samsung	3	Galaxy S9	3	Sem Sinal de Celular	3	Sem sinal
+16/04/2019	TC128732	3	Samsung	3	Galaxy S9	3	Sem Sinal de Celular	3	Sem sinal
+28/08/2019	TC128736	4	Xiaomi	8	Redmi Note 8	5	Não Liga	5	Não Liga
+20/07/2019	TC128737	2	Motorola	5	One Hyper	10	Capa dianteira	8	Carcaça
+24/09/2019	TC128737	2	Motorola	5	One Hyper	3	Sem Sinal de Celular	3	Sem sinal
+04/10/2019	TC128793	2	Motorola	5	One Hyper	5	Não Liga	5	Não Liga
+23/07/2019	TC128830	2	Motorola	7	Moto E6 PLUS	6	Auto Falante Dianteiro	4	Auto Falante
+11/09/2019	TC128958	3	Samsung	3	Galaxy S9	11	Botão de Diminuir Volume	7	Botões
+10/09/2019	TC128958	3	Samsung	3	Galaxy S9	2	Microfone	2	Microfone
+21/02/2019	TC128958	3	Samsung	3	Galaxy S9	3	Sem Sinal de Celular	3	Sem sinal
+23/06/2019	TC129152	4	Xiaomi	6	Mi 9T	6	Auto Falante Dianteiro	4	Auto Falante
+21/06/2019	TC129152	4	Xiaomi	6	Mi 9T	4	Auto Falante Viva-Voz	4	Auto Falante
+11/04/2019	TC129210	1	Apple	9	Iphone 7	2	Microfone	2	Microfone
+30/03/2019	TC129219	2	Motorola	2	Moto G8 Play	5	Não Liga	5	Não Liga
+24/03/2019	TC129219	2	Motorola	2	Moto G8 Play	3	Sem Sinal de Celular	3	Sem sinal
+04/05/2019	TC129219	2	Motorola	2	Moto G8 Play	3	Sem Sinal de Celular	3	Sem sinal
+13/05/2019	TC129226	2	Motorola	2	Moto G8 Play	13	Capa Traseira	8	Carcaça
+06/10/2019	TC129344	3	Samsung	3	Galaxy S9	6	Auto Falante Dianteiro	4	Auto Falante
+14/07/2019	TC129344	3	Samsung	3	Galaxy S9	3	Sem Sinal de Celular	3	Sem sinal
+21/01/2019	TC129368	1	Apple	9	Iphone 7	1	Display Quebrado	1	Display
+26/06/2019	TC129368	1	Apple	9	Iphone 7	5	Não Liga	5	Não Liga
+14/05/2019	TC129368	1	Apple	9	Iphone 7	3	Sem Sinal de Celular	3	Sem sinal
+30/10/2019	TC129373	2	Motorola	7	Moto E6 PLUS	5	Não Liga	5	Não Liga
+25/10/2019	TC129406	4	Xiaomi	8	Redmi Note 8	3	Sem Sinal de Celular	3	Sem sinal
+14/03/2019	TC129467	4	Xiaomi	8	Redmi Note 8	2	Microfone	2	Microfone
+30/10/2019	TC129467	4	Xiaomi	8	Redmi Note 8	3	Sem Sinal de Celular	3	Sem sinal
+18/09/2019	TC129589	4	Xiaomi	8	Redmi Note 8	5	Não Liga	5	Não Liga
+26/02/2019	TC129602	4	Xiaomi	8	Redmi Note 8	6	Auto Falante Dianteiro	4	Auto Falante
+23/03/2019	TC129602	4	Xiaomi	8	Redmi Note 8	13	Capa Traseira	8	Carcaça
+23/05/2019	TC129602	4	Xiaomi	8	Redmi Note 8	2	Microfone	2	Microfone
+12/03/2019	TC129668	1	Apple	9	Iphone 7	13	Capa Traseira	8	Carcaça
+02/02/2019	TC129668	1	Apple	9	Iphone 7	5	Não Liga	5	Não Liga
+21/02/2019	TC129705	3	Samsung	3	Galaxy S9	1	Display Quebrado	1	Display
+02/01/2019	TC129725	3	Samsung	4	Galaxy A70	4	Auto Falante Viva-Voz	4	Auto Falante
+01/06/2019	TC129725	3	Samsung	4	Galaxy A70	2	Microfone	2	Microfone
+05/06/2019	TC129775	3	Samsung	4	Galaxy A70	4	Auto Falante Viva-Voz	4	Auto Falante
+16/03/2019	TC129834	3	Samsung	3	Galaxy S9	4	Auto Falante Viva-Voz	4	Auto Falante
+13/04/2019	TC129850	4	Xiaomi	6	Mi 9T	7	Lente Camera Traseira	6	Câmera
+06/06/2019	TC129850	4	Xiaomi	6	Mi 9T	5	Não Liga	5	Não Liga
+22/07/2019	TC129870	2	Motorola	5	One Hyper	6	Auto Falante Dianteiro	4	Auto Falante
+28/01/2019	TC129870	2	Motorola	5	One Hyper	4	Auto Falante Viva-Voz	4	Auto Falante
+04/06/2019	TC129870	2	Motorola	5	One Hyper	5	Não Liga	5	Não Liga
+04/10/2019	TC129902	1	Apple	1	Iphone 5s	5	Não Liga	5	Não Liga
+17/04/2019	TC129902	1	Apple	1	Iphone 5s	3	Sem Sinal de Celular	3	Sem sinal
+04/03/2019	TC129956	2	Motorola	5	One Hyper	4	Auto Falante Viva-Voz	4	Auto Falante
+02/01/2019	TC130256	4	Xiaomi	6	Mi 9T	1	Display Quebrado	1	Display
+07/03/2019	TC130428	1	Apple	1	Iphone 5s	1	Display Quebrado	1	Display
+24/07/2019	TC130428	1	Apple	1	Iphone 5s	3	Sem Sinal de Celular	3	Sem sinal
+21/01/2019	TC130432	4	Xiaomi	6	Mi 9T	6	Auto Falante Dianteiro	4	Auto Falante
+05/03/2019	TC130432	4	Xiaomi	6	Mi 9T	6	Auto Falante Dianteiro	4	Auto Falante
+29/04/2019	TC130432	4	Xiaomi	6	Mi 9T	11	Botão de Diminuir Volume	7	Botões
+16/01/2019	TC130432	4	Xiaomi	6	Mi 9T	8	Botão De Power	7	Botões
+24/04/2019	TC130432	4	Xiaomi	6	Mi 9T	1	Display Quebrado	1	Display
+16/03/2019	TC130432	4	Xiaomi	6	Mi 9T	5	Não Liga	5	Não Liga
+28/04/2019	TC130432	4	Xiaomi	6	Mi 9T	5	Não Liga	5	Não Liga
+17/05/2019	TC130444	1	Apple	9	Iphone 7	9	Carcaça Quebrada	8	Carcaça
+23/06/2019	TC130644	4	Xiaomi	6	Mi 9T	4	Auto Falante Viva-Voz	4	Auto Falante
+10/05/2019	TC130644	4	Xiaomi	6	Mi 9T	1	Display Quebrado	1	Display
+27/04/2019	TC130651	3	Samsung	4	Galaxy A70	10	Capa dianteira	8	Carcaça
+10/06/2019	TC130651	3	Samsung	4	Galaxy A70	1	Display Quebrado	1	Display
+21/01/2019	TC130668	4	Xiaomi	8	Redmi Note 8	13	Capa Traseira	8	Carcaça
+03/05/2019	TC130746	3	Samsung	3	Galaxy S9	9	Carcaça Quebrada	8	Carcaça
+15/05/2019	TC130770	1	Apple	9	Iphone 7	10	Capa dianteira	8	Carcaça
+12/10/2019	TC130828	1	Apple	9	Iphone 7	1	Display Quebrado	1	Display
+21/10/2019	TC130828	1	Apple	9	Iphone 7	3	Sem Sinal de Celular	3	Sem sinal
+12/08/2019	TC130848	2	Motorola	2	Moto G8 Play	6	Auto Falante Dianteiro	4	Auto Falante
+05/09/2019	TC130848	2	Motorola	2	Moto G8 Play	6	Auto Falante Dianteiro	4	Auto Falante
+06/09/2019	TC130848	2	Motorola	2	Moto G8 Play	9	Carcaça Quebrada	8	Carcaça
+05/01/2019	TC130875	2	Motorola	7	Moto E6 PLUS	1	Display Quebrado	1	Display
+06/07/2019	TC130951	4	Xiaomi	8	Redmi Note 8	1	Display Quebrado	1	Display
+22/05/2019	TC130973	4	Xiaomi	6	Mi 9T	1	Display Quebrado	1	Display
+19/07/2019	TC131097	3	Samsung	4	Galaxy A70	6	Auto Falante Dianteiro	4	Auto Falante
+26/03/2019	TC131097	3	Samsung	4	Galaxy A70	1	Display Quebrado	1	Display
+02/06/2019	TC131128	2	Motorola	2	Moto G8 Play	6	Auto Falante Dianteiro	4	Auto Falante
+01/09/2019	TC131128	2	Motorola	2	Moto G8 Play	1	Display Quebrado	1	Display
+21/04/2019	TC131293	1	Apple	9	Iphone 7	4	Auto Falante Viva-Voz	4	Auto Falante
+13/07/2019	TC131341	2	Motorola	5	One Hyper	5	Não Liga	5	Não Liga
+24/08/2019	TC131341	2	Motorola	5	One Hyper	5	Não Liga	5	Não Liga
+18/07/2019	TC131341	2	Motorola	5	One Hyper	3	Sem Sinal de Celular	3	Sem sinal
+27/10/2019	TC131371	3	Samsung	3	Galaxy S9	5	Não Liga	5	Não Liga
+28/02/2019	TC131389	3	Samsung	3	Galaxy S9	4	Auto Falante Viva-Voz	4	Auto Falante
+29/07/2019	TC131389	3	Samsung	3	Galaxy S9	5	Não Liga	5	Não Liga
+09/03/2019	TC131389	3	Samsung	3	Galaxy S9	3	Sem Sinal de Celular	3	Sem sinal
+13/06/2019	TC131389	3	Samsung	3	Galaxy S9	3	Sem Sinal de Celular	3	Sem sinal
+23/02/2019	TC131432	2	Motorola	5	One Hyper	6	Auto Falante Dianteiro	4	Auto Falante
+14/01/2019	TC131432	2	Motorola	5	One Hyper	9	Carcaça Quebrada	8	Carcaça
+15/09/2019	TC131496	4	Xiaomi	6	Mi 9T	1	Display Quebrado	1	Display
+27/04/2019	TC131496	4	Xiaomi	6	Mi 9T	5	Não Liga	5	Não Liga
+01/04/2019	TC131572	2	Motorola	2	Moto G8 Play	1	Display Quebrado	1	Display
+30/06/2019	TC131572	2	Motorola	2	Moto G8 Play	3	Sem Sinal de Celular	3	Sem sinal
+11/10/2019	TC131646	2	Motorola	7	Moto E6 PLUS	1	Display Quebrado	1	Display
+05/07/2019	TC131707	4	Xiaomi	8	Redmi Note 8	3	Sem Sinal de Celular	3	Sem sinal
+06/02/2019	TC131708	2	Motorola	2	Moto G8 Play	5	Não Liga	5	Não Liga
+06/06/2019	TC131708	2	Motorola	2	Moto G8 Play	3	Sem Sinal de Celular	3	Sem sinal
+20/04/2019	TC131852	3	Samsung	4	Galaxy A70	3	Sem Sinal de Celular	3	Sem sinal
+23/06/2019	TC132023	2	Motorola	2	Moto G8 Play	9	Carcaça Quebrada	8	Carcaça
+15/08/2019	TC132023	2	Motorola	2	Moto G8 Play	5	Não Liga	5	Não Liga
+20/01/2019	TC132092	2	Motorola	7	Moto E6 PLUS	4	Auto Falante Viva-Voz	4	Auto Falante
+28/06/2019	TC132210	3	Samsung	4	Galaxy A70	4	Auto Falante Viva-Voz	4	Auto Falante
+17/09/2019	TC132210	3	Samsung	4	Galaxy A70	2	Microfone	2	Microfone
+13/02/2019	TC132311	3	Samsung	3	Galaxy S9	2	Microfone	2	Microfone
+31/10/2019	TC132334	4	Xiaomi	6	Mi 9T	13	Capa Traseira	8	Carcaça
+08/04/2019	TC132334	4	Xiaomi	6	Mi 9T	1	Display Quebrado	1	Display
+09/03/2019	TC132334	4	Xiaomi	6	Mi 9T	3	Sem Sinal de Celular	3	Sem sinal
+03/01/2019	TC132342	2	Motorola	5	One Hyper	1	Display Quebrado	1	Display
+29/10/2019	TC132342	2	Motorola	5	One Hyper	1	Display Quebrado	1	Display
+27/06/2019	TC132348	2	Motorola	2	Moto G8 Play	1	Display Quebrado	1	Display
+17/08/2019	TC132376	3	Samsung	4	Galaxy A70	7	Lente Camera Traseira	6	Câmera
+06/04/2019	TC132376	3	Samsung	4	Galaxy A70	5	Não Liga	5	Não Liga
+11/03/2019	TC132424	2	Motorola	7	Moto E6 PLUS	1	Display Quebrado	1	Display
+28/04/2019	TC132424	2	Motorola	7	Moto E6 PLUS	3	Sem Sinal de Celular	3	Sem sinal
+26/02/2019	TC132455	2	Motorola	7	Moto E6 PLUS	4	Auto Falante Viva-Voz	4	Auto Falante
+07/09/2019	TC132485	2	Motorola	7	Moto E6 PLUS	1	Display Quebrado	1	Display
+01/03/2019	TC132485	2	Motorola	7	Moto E6 PLUS	5	Não Liga	5	Não Liga
+13/10/2019	TC132485	2	Motorola	7	Moto E6 PLUS	5	Não Liga	5	Não Liga
+04/05/2019	TC132538	1	Apple	9	Iphone 7	1	Display Quebrado	1	Display
+07/01/2019	TC132632	4	Xiaomi	6	Mi 9T	4	Auto Falante Viva-Voz	4	Auto Falante
+28/08/2019	TC132632	4	Xiaomi	6	Mi 9T	9	Carcaça Quebrada	8	Carcaça
+26/01/2019	TC132633	2	Motorola	2	Moto G8 Play	5	Não Liga	5	Não Liga
+01/10/2019	TC132642	4	Xiaomi	8	Redmi Note 8	12	Lente Câmera Dianteira	6	Câmera
+13/08/2019	TC132720	2	Motorola	7	Moto E6 PLUS	1	Display Quebrado	1	Display
+05/06/2019	TC132720	2	Motorola	7	Moto E6 PLUS	1	Display Quebrado	1	Display
+11/08/2019	TC132781	4	Xiaomi	8	Redmi Note 8	3	Sem Sinal de Celular	3	Sem sinal
+25/06/2019	TC132832	4	Xiaomi	6	Mi 9T	3	Sem Sinal de Celular	3	Sem sinal
+30/01/2019	TC132872	4	Xiaomi	6	Mi 9T	2	Microfone	2	Microfone
+04/08/2019	TC132896	1	Apple	1	Iphone 5s	1	Display Quebrado	1	Display
+18/03/2019	TC132900	3	Samsung	4	Galaxy A70	1	Display Quebrado	1	Display
+08/01/2019	TC132900	3	Samsung	4	Galaxy A70	2	Microfone	2	Microfone
+22/09/2019	TC132900	3	Samsung	4	Galaxy A70	3	Sem Sinal de Celular	3	Sem sinal
+01/03/2019	TC132900	3	Samsung	4	Galaxy A70	3	Sem Sinal de Celular	3	Sem sinal
+09/09/2019	TC132908	1	Apple	9	Iphone 7	13	Capa Traseira	8	Carcaça
+16/06/2019	TC132920	2	Motorola	2	Moto G8 Play	1	Display Quebrado	1	Display
+24/08/2019	TC132920	2	Motorola	2	Moto G8 Play	12	Lente Câmera Dianteira	6	Câmera
+26/08/2019	TC133061	4	Xiaomi	6	Mi 9T	3	Sem Sinal de Celular	3	Sem sinal
+30/01/2019	TC133068	3	Samsung	3	Galaxy S9	4	Auto Falante Viva-Voz	4	Auto Falante
+09/09/2019	TC133068	3	Samsung	3	Galaxy S9	4	Auto Falante Viva-Voz	4	Auto Falante
+11/08/2019	TC133068	3	Samsung	3	Galaxy S9	2	Microfone	2	Microfone
+05/06/2019	TC133068	3	Samsung	3	Galaxy S9	3	Sem Sinal de Celular	3	Sem sinal
+19/04/2019	TC133138	2	Motorola	5	One Hyper	6	Auto Falante Dianteiro	4	Auto Falante
+02/10/2019	TC133138	2	Motorola	5	One Hyper	1	Display Quebrado	1	Display
+02/04/2019	TC133164	2	Motorola	7	Moto E6 PLUS	1	Display Quebrado	1	Display
+18/07/2019	TC133246	3	Samsung	4	Galaxy A70	1	Display Quebrado	1	Display
+01/10/2019	TC133246	3	Samsung	4	Galaxy A70	5	Não Liga	5	Não Liga
+20/04/2019	TC133246	3	Samsung	4	Galaxy A70	3	Sem Sinal de Celular	3	Sem sinal
+20/06/2019	TC133247	3	Samsung	3	Galaxy S9	9	Carcaça Quebrada	8	Carcaça
+24/01/2019	TC133247	3	Samsung	3	Galaxy S9	1	Display Quebrado	1	Display
+02/10/2019	TC133247	3	Samsung	3	Galaxy S9	1	Display Quebrado	1	Display
+22/01/2019	TC133250	1	Apple	9	Iphone 7	3	Sem Sinal de Celular	3	Sem sinal
+22/06/2019	TC133250	1	Apple	9	Iphone 7	3	Sem Sinal de Celular	3	Sem sinal
+11/02/2019	TC133277	3	Samsung	4	Galaxy A70	5	Não Liga	5	Não Liga
+19/06/2019	TC133302	3	Samsung	3	Galaxy S9	9	Carcaça Quebrada	8	Carcaça
+20/10/2019	TC133302	3	Samsung	3	Galaxy S9	1	Display Quebrado	1	Display
+17/10/2019	TC133359	2	Motorola	2	Moto G8 Play	9	Carcaça Quebrada	8	Carcaça
+17/07/2019	TC133359	2	Motorola	2	Moto G8 Play	3	Sem Sinal de Celular	3	Sem sinal
+27/07/2019	TC133389	4	Xiaomi	6	Mi 9T	1	Display Quebrado	1	Display
+25/01/2019	TC133389	4	Xiaomi	6	Mi 9T	2	Microfone	2	Microfone
+19/01/2019	TC133418	4	Xiaomi	6	Mi 9T	6	Auto Falante Dianteiro	4	Auto Falante
+20/03/2019	TC133418	4	Xiaomi	6	Mi 9T	3	Sem Sinal de Celular	3	Sem sinal
+07/07/2019	TC133444	2	Motorola	2	Moto G8 Play	4	Auto Falante Viva-Voz	4	Auto Falante
+25/02/2019	TC133444	2	Motorola	2	Moto G8 Play	2	Microfone	2	Microfone
+07/05/2019	TC133444	2	Motorola	2	Moto G8 Play	5	Não Liga	5	Não Liga
+25/06/2019	TC133444	2	Motorola	2	Moto G8 Play	5	Não Liga	5	Não Liga
+06/10/2019	TC133444	2	Motorola	2	Moto G8 Play	3	Sem Sinal de Celular	3	Sem sinal
+18/04/2019	TC133471	3	Samsung	3	Galaxy S9	9	Carcaça Quebrada	8	Carcaça
+15/10/2019	TC133471	3	Samsung	3	Galaxy S9	1	Display Quebrado	1	Display
+18/04/2019	TC133471	3	Samsung	3	Galaxy S9	3	Sem Sinal de Celular	3	Sem sinal
+27/03/2019	TC133475	4	Xiaomi	8	Redmi Note 8	6	Auto Falante Dianteiro	4	Auto Falante
+08/08/2019	TC133475	4	Xiaomi	8	Redmi Note 8	5	Não Liga	5	Não Liga
+10/06/2019	TC133600	3	Samsung	4	Galaxy A70	10	Capa dianteira	8	Carcaça
+17/08/2019	TC133600	3	Samsung	4	Galaxy A70	7	Lente Camera Traseira	6	Câmera
+09/10/2019	TC133600	3	Samsung	4	Galaxy A70	3	Sem Sinal de Celular	3	Sem sinal
+13/09/2019	TC133600	3	Samsung	4	Galaxy A70	3	Sem Sinal de Celular	3	Sem sinal
+04/05/2019	TC133600	3	Samsung	4	Galaxy A70	3	Sem Sinal de Celular	3	Sem sinal
+20/09/2019	TC133636	4	Xiaomi	6	Mi 9T	9	Carcaça Quebrada	8	Carcaça
+03/05/2019	TC133636	4	Xiaomi	6	Mi 9T	5	Não Liga	5	Não Liga
+24/08/2019	TC133651	2	Motorola	5	One Hyper	8	Botão De Power	7	Botões
+10/02/2019	TC133651	2	Motorola	5	One Hyper	1	Display Quebrado	1	Display
+17/04/2019	TC133651	2	Motorola	5	One Hyper	1	Display Quebrado	1	Display
+21/03/2019	TC133651	2	Motorola	5	One Hyper	5	Não Liga	5	Não Liga
+19/09/2019	TC133724	3	Samsung	4	Galaxy A70	5	Não Liga	5	Não Liga
+22/01/2019	TC133762	3	Samsung	3	Galaxy S9	5	Não Liga	5	Não Liga
+24/04/2019	TC133762	3	Samsung	3	Galaxy S9	5	Não Liga	5	Não Liga
+01/09/2019	TC133762	3	Samsung	3	Galaxy S9	5	Não Liga	5	Não Liga
+13/10/2019	TC133804	3	Samsung	3	Galaxy S9	5	Não Liga	5	Não Liga
+18/09/2019	TC133804	3	Samsung	3	Galaxy S9	3	Sem Sinal de Celular	3	Sem sinal
+30/06/2019	TC134047	2	Motorola	2	Moto G8 Play	8	Botão De Power	7	Botões
+29/08/2019	TC134047	2	Motorola	2	Moto G8 Play	1	Display Quebrado	1	Display
+12/05/2019	TC134047	2	Motorola	2	Moto G8 Play	1	Display Quebrado	1	Display
+21/08/2019	TC134065	4	Xiaomi	8	Redmi Note 8	5	Não Liga	5	Não Liga
+10/10/2019	TC134100	3	Samsung	3	Galaxy S9	3	Sem Sinal de Celular	3	Sem sinal
+31/10/2019	TC134119	2	Motorola	7	Moto E6 PLUS	7	Lente Camera Traseira	6	Câmera
+01/05/2019	TC134148	1	Apple	9	Iphone 7	5	Não Liga	5	Não Liga
+22/05/2019	TC134182	4	Xiaomi	8	Redmi Note 8	13	Capa Traseira	8	Carcaça
+15/04/2019	TC134182	4	Xiaomi	8	Redmi Note 8	5	Não Liga	5	Não Liga
+03/08/2019	TC134182	4	Xiaomi	8	Redmi Note 8	3	Sem Sinal de Celular	3	Sem sinal
+25/04/2019	TC134229	1	Apple	1	Iphone 5s	6	Auto Falante Dianteiro	4	Auto Falante
+24/10/2019	TC134229	1	Apple	1	Iphone 5s	2	Microfone	2	Microfone
+02/07/2019	TC134260	3	Samsung	3	Galaxy S9	8	Botão De Power	7	Botões
+05/05/2019	TC134291	1	Apple	1	Iphone 5s	1	Display Quebrado	1	Display
+31/03/2019	TC134299	3	Samsung	4	Galaxy A70	13	Capa Traseira	8	Carcaça
+23/01/2019	TC134299	3	Samsung	4	Galaxy A70	1	Display Quebrado	1	Display
+12/05/2019	TC134299	3	Samsung	4	Galaxy A70	1	Display Quebrado	1	Display
+21/05/2019	TC134309	4	Xiaomi	8	Redmi Note 8	4	Auto Falante Viva-Voz	4	Auto Falante
+30/07/2019	TC134309	4	Xiaomi	8	Redmi Note 8	3	Sem Sinal de Celular	3	Sem sinal
+03/10/2019	TC134310	3	Samsung	4	Galaxy A70	1	Display Quebrado	1	Display
